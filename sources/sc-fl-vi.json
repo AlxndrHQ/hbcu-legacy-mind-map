@@ -1,0 +1,5024 @@
+[
+ {
+  "id": "south-carolina-state-university",
+  "name": "South Carolina State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1896,
+  "closed": null,
+  "location": "Orangeburg, SC",
+  "state": "SC",
+  "affiliation": "State of South Carolina; 1890 land-grant",
+  "formerNames": [
+   "Colored Normal Industrial Agricultural and Mechanical College of South Carolina",
+   "South Carolina State College"
+  ],
+  "fate": "",
+  "description": "Created by the South Carolina General Assembly in 1896, separating the state's Black land-grant program from Claflin, where it had operated since 1872. SC State is the state's only public 4-year HBCU and the alma mater of Congressman Jim Clyburn and media owner Armstrong Williams. In 1968 it was the site of the Orangeburg massacre.",
+  "facts": [
+   {
+    "t": "Born inside Claflin.",
+    "d": "The South Carolina Agricultural and Mechanical Institute began within Claflin College in 1872 before the 1896 act of separation.",
+    "basis": "documented"
+   },
+   {
+    "t": "Orangeburg massacre.",
+    "d": "On February 8, 1968, state police killed three students and wounded 27 during a protest against a segregated bowling alley.",
+    "basis": "documented"
+   },
+   {
+    "t": "Pipeline to the NFL.",
+    "d": "Hall of Famers Deacon Jones, Harry Carson and Donnie Shell played at SC State.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — South Carolina State University",
+    "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   },
+   {
+    "id": "claflin-university",
+    "type": "origin",
+    "label": "land-grant program began within Claflin, 1872"
+   }
+  ]
+ },
+ {
+  "id": "claflin-university",
+  "name": "Claflin University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Methodist liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1869,
+  "closed": null,
+  "location": "Orangeburg, SC",
+  "state": "SC",
+  "affiliation": "Methodist Episcopal Church (now United Methodist Church); UNCF",
+  "formerNames": [
+   "Claflin College"
+  ],
+  "fate": "",
+  "description": "Founded in 1869 by Methodist Episcopal minister Alonzo Webster to educate freedmen, and named for Massachusetts governor William Claflin and his father Lee Claflin, a Boston philanthropist. South Carolina's oldest HBCU; its alumni include realtor-legislator Earl M. Middleton and photographer Cecil J. Williams.",
+  "facts": [
+   {
+    "t": "Oldest in South Carolina.",
+    "d": "Opened October 27, 1869, as a school for freedmen and their children.",
+    "basis": "documented"
+   },
+   {
+    "t": "Record gift.",
+    "d": "A 2020 gift of $20 million from MacKenzie Scott was the largest single gift in its history.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Claflin University",
+    "url": "https://en.wikipedia.org/wiki/Claflin_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded by Methodist Episcopal minister Alonzo Webster"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "benedict-college",
+  "name": "Benedict College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1870,
+  "closed": null,
+  "location": "Columbia, SC",
+  "state": "SC",
+  "affiliation": "American Baptist Home Mission Society; American Baptist Churches USA; UNCF",
+  "formerNames": [
+   "Benedict Institute"
+  ],
+  "fate": "",
+  "description": "Opened in 1870 as Benedict Institute after Bathsheba A. Benedict of Rhode Island, representing the American Baptist Home Mission Society, gave $13,000 for land. Chartered as a college in 1894. Alumni include civil rights leaders Modjeska Monteith Simkins and Septima Clark, funeral-home owner I. S. Leevy Johnson and KFC executive Walt Simon.",
+  "facts": [
+   {
+    "t": "Northern Baptist roots.",
+    "d": "Bathsheba Benedict's $13,000 bought the land; Rev. Timothy Dodge was the first teacher and president.",
+    "basis": "documented"
+   },
+   {
+    "t": "Renamed 1894.",
+    "d": "Benedict Institute became Benedict College on November 2, 1894.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Benedict College",
+    "url": "https://en.wikipedia.org/wiki/Benedict_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "founded by"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "allen-university",
+  "name": "Allen University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AME liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1870,
+  "closed": null,
+  "location": "Columbia, SC",
+  "state": "SC",
+  "affiliation": "African Methodist Episcopal Church; UNCF",
+  "formerNames": [
+   "Payne Institute"
+  ],
+  "fate": "",
+  "description": "Founded in 1870 in Cokesbury, South Carolina, as Payne Institute by AME ministers including John M. Brown; moved to Columbia and renamed for AME founder Richard Allen in 1880. Alumni include Rev. Clementa C. Pinckney and Briggs v. Elliott organizer Rev. Joseph A. DeLaine.",
+  "facts": [
+   {
+    "t": "Moved to Columbia.",
+    "d": "Payne Institute relocated in 1880 and took Richard Allen's name.",
+    "basis": "documented"
+   },
+   {
+    "t": "Historic campus.",
+    "d": "The Allen University Historic District was listed on the National Register in 1975.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Allen University",
+    "url": "https://en.wikipedia.org/wiki/Allen_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "founded by AME ministers"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "morris-college",
+  "name": "Morris College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1908,
+  "closed": null,
+  "location": "Sumter, SC",
+  "state": "SC",
+  "affiliation": "Baptist Educational and Missionary Convention of South Carolina; UNCF",
+  "formerNames": [],
+  "fate": "",
+  "description": "Founded in 1908 by the Baptist Educational and Missionary Convention of South Carolina (organized by Jacob J. Durham), which still owns and operates it. Named for Black community leader Frank Morris; it began as a grade school, high school and college and awarded its first bachelor's degree in 1915.",
+  "facts": [
+   {
+    "t": "Convention-owned.",
+    "d": "Founded and operated by South Carolina's Black Baptist convention.",
+    "basis": "documented"
+   },
+   {
+    "t": "Long presidency.",
+    "d": "Luns C. Richardson led the college from 1974 to 2017.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Morris College",
+    "url": "https://en.wikipedia.org/wiki/Morris_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "national-baptist-convention",
+    "type": "origin",
+    "label": "founded by the Baptist Educational and Missionary Convention of SC"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "voorhees-university",
+  "name": "Voorhees University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Episcopal liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1897,
+  "closed": null,
+  "location": "Denmark, SC",
+  "state": "SC",
+  "affiliation": "Episcopal Church (since 1924); UNCF",
+  "formerNames": [
+   "Denmark Industrial School",
+   "Voorhees Industrial Institute for Colored Youths",
+   "Voorhees School and Junior College",
+   "Voorhees College"
+  ],
+  "fate": "",
+  "description": "Founded in 1897 by Tuskegee-trained educator Elizabeth Evelyn Wright as the Denmark Industrial School; New Jersey philanthropist Ralph Voorhees gave $5,000 in 1902 for land and buildings. Affiliated with the Episcopal Church since 1924 and renamed a university in 2022.",
+  "facts": [
+   {
+    "t": "Founded by a young woman.",
+    "d": "Elizabeth Evelyn Wright opened the school on April 14, 1897, modeled on Tuskegee.",
+    "basis": "documented"
+   },
+   {
+    "t": "University status.",
+    "d": "Became Voorhees University in 2022, its 125th anniversary year.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Voorhees University",
+    "url": "https://en.wikipedia.org/wiki/Voorhees_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "episcopal-church",
+    "type": "origin",
+    "label": "Episcopal affiliation since 1924"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "clinton-college",
+  "name": "Clinton College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AME Zion Christian college",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1894,
+  "closed": null,
+  "location": "Rock Hill, SC",
+  "state": "SC",
+  "affiliation": "African Methodist Episcopal Zion Church",
+  "formerNames": [
+   "Clinton Institute",
+   "Clinton Normal and Industrial Institute",
+   "Clinton Junior College"
+  ],
+  "fate": "",
+  "description": "Founded in 1894 as Clinton Institute and named for AME Zion Bishop Caleb Isom Clinton of the Palmetto Conference. It became a junior college in 1965 and a four-year college in 2013; it is a very small institution that reported severe cash-flow problems in 2026.",
+  "facts": [
+   {
+    "t": "Four-year since 2013.",
+    "d": "Gained accreditation as a four-year institution in 2013 (TRACS).",
+    "basis": "documented"
+   },
+   {
+    "t": "Financial strain.",
+    "d": "Reportedly missed employee paychecks and insurance payments in April 2026.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Clinton College (South Carolina)",
+    "url": "https://en.wikipedia.org/wiki/Clinton_College_(South_Carolina)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-zion-church",
+    "type": "origin",
+    "label": "AME Zion affiliated"
+   }
+  ]
+ },
+ {
+  "id": "denmark-technical-college",
+  "name": "Denmark Technical College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Technical/community college",
+  "status": "Operating",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1947,
+  "closed": null,
+  "location": "Denmark, SC",
+  "state": "SC",
+  "affiliation": "South Carolina Technical College System",
+  "formerNames": [
+   "Denmark Branch of the South Carolina Trade School System",
+   "Denmark Area Trade School",
+   "Denmark Technical Education Center"
+  ],
+  "fate": "",
+  "description": "Authorized by the South Carolina General Assembly in 1947 and opened in 1948 as a trade school for Black students, teaching tailoring, cosmetology, building trades and auto mechanics. Its motto was \"He Who Hath a Trade Hath an Estate.\" Comedian J. Anthony Brown trained there as a tailor.",
+  "facts": [
+   {
+    "t": "Trade-school origins.",
+    "d": "Opened March 1, 1948, under founding principal Lorry H. Dawkins.",
+    "basis": "documented"
+   },
+   {
+    "t": "Renamed 1979.",
+    "d": "Became Denmark Technical College on gaining SACS accreditation.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Denmark Technical College",
+    "url": "https://en.wikipedia.org/wiki/Denmark_Technical_College"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "friendship-college",
+  "name": "Friendship College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist junior college (defunct)",
+  "status": "Closed",
+  "control": "Private",
+  "level": "2-year",
+  "founded": 1891,
+  "closed": 1981,
+  "location": "Rock Hill, SC",
+  "state": "SC",
+  "affiliation": "Baptist",
+  "formerNames": [
+   "Friendship Junior College"
+  ],
+  "fate": "Closed permanently in 1981 and its buildings were later demolished after a fire.",
+  "description": "A Baptist school founded in 1891 by Masel Phillip Hall in Rock Hill. Its students formed the Friendship Nine, who in 1961 chose jail over bail after a lunch-counter sit-in, inspiring the \"jail, no bail\" strategy. NBA champion Harthorne Wingo attended.",
+  "facts": [
+   {
+    "t": "Friendship Nine.",
+    "d": "The 1961 Rock Hill sit-in by Friendship students is commemorated as the Friendship Nine.",
+    "basis": "documented"
+   },
+   {
+    "t": "Closed 1981.",
+    "d": "The college closed permanently in December 1981.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Friendship College",
+    "url": "https://en.wikipedia.org/wiki/Friendship_College"
+   },
+   {
+    "label": "Wikipedia — List of HBCUs",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": [
+   {
+    "id": "national-baptist-convention",
+    "type": "origin",
+    "label": "Black Baptist institution"
+   }
+  ]
+ },
+ {
+  "id": "avery-normal-institute",
+  "name": "Avery Normal Institute",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private · AMA normal school (defunct)",
+  "status": "Closed",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1865,
+  "closed": 1954,
+  "location": "Charleston, SC",
+  "state": "SC",
+  "affiliation": "American Missionary Association",
+  "formerNames": [
+   "Tappan School",
+   "Saxton School"
+  ],
+  "fate": "Closed by the Charleston County school board in 1954 after Brown v. Board; students merged into Burke High School. The Avery Research Center (College of Charleston) now occupies the building.",
+  "description": "Founded in Charleston in 1865 by the American Missionary Association, Avery trained generations of Black teachers and leaders, among them Septima Clark and NAACP pioneer Edwin Harleston. After it closed, alumni founded the Avery Institute of Afro-American History and Culture, which led to today's Avery Research Center.",
+  "facts": [
+   {
+    "t": "Teacher-training school.",
+    "d": "Avery's normal course prepared Black teachers for South Carolina schools.",
+    "basis": "documented"
+   },
+   {
+    "t": "Living archive.",
+    "d": "The Avery Research Center opened in the building in 1990.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Avery Normal Institute",
+    "url": "https://en.wikipedia.org/wiki/Avery_Normal_Institute"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-missionary-association",
+    "type": "origin",
+    "label": "founded by, 1865"
+   }
+  ]
+ },
+ {
+  "id": "florida-a-and-m-university",
+  "name": "Florida A&M University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant research university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1887,
+  "closed": null,
+  "location": "Tallahassee, FL",
+  "state": "FL",
+  "affiliation": "State University System of Florida; 1890 land-grant",
+  "formerNames": [
+   "State Normal College for Colored Students",
+   "State Normal and Industrial College for Colored Students",
+   "Florida Agricultural and Mechanical College for Negroes"
+  ],
+  "fate": "",
+  "description": "Founded October 3, 1887, as the State Normal College for Colored Students. FAMU's School of Business and Industry, built by founding dean Sybil Collins Mobley, is a major pipeline of corporate executives, among them Microsoft chairman John W. Thompson, Helen of Troy CEO Scott Uzzell, Independence Blue Cross CEO Gregory Deavens and Northern Trust leaders Shundrawn Thomas and Lyle Logan.",
+  "facts": [
+   {
+    "t": "SBI corporate pipeline.",
+    "d": "Founding dean Sybil Mobley sat on the boards of Anheuser-Busch, Sears, Hershey and others and built an executive-style business school.",
+    "basis": "documented"
+   },
+   {
+    "t": "The Big Board.",
+    "d": "SBI's Big Board, begun in 1983, honors donors of at least $100,000 each in endowed scholarships.",
+    "basis": "documented"
+   },
+   {
+    "t": "Renamed 1953.",
+    "d": "Florida A&M College for Negroes became Florida Agricultural and Mechanical University in 1953.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Florida A&M University",
+    "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   },
+   {
+    "label": "FAMU SBI Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "bethune-cookman-university",
+  "name": "Bethune-Cookman University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Methodist university",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1904,
+  "closed": null,
+  "location": "Daytona Beach, FL",
+  "state": "FL",
+  "affiliation": "United Methodist Church; UNCF",
+  "formerNames": [
+   "Daytona Educational and Industrial Training School for Negro Girls",
+   "Daytona Normal and Industrial Institute for Girls",
+   "Daytona Cookman Collegiate Institute",
+   "Bethune-Cookman College"
+  ],
+  "fate": "",
+  "description": "Founded in 1904 by Mary McLeod Bethune as a school for Black girls in a rented house in Daytona; it merged with Jacksonville's Cookman Institute for boys (1872) in 1923. Bethune was also an insurance founder and investor, and the school's alumni include Harry T. Moore and Madam C. J. Walker executive Marjorie Joyner.",
+  "facts": [
+   {
+    "t": "Six students.",
+    "d": "Bethune opened the school in 1904 with six students and 50-cent tuition.",
+    "basis": "documented"
+   },
+   {
+    "t": "Merger with Cookman.",
+    "d": "Joined with Cookman Institute in 1923 (name Daytona Cookman Collegiate Institute by 1927); Bethune-Cookman College from 1941, university from 2007.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Bethune–Cookman University",
+    "url": "https://en.wikipedia.org/wiki/Bethune%E2%80%93Cookman_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "Methodist Board of Education affiliation"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "cookman-institute",
+  "name": "Cookman Institute",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private · Methodist institute for boys (merged)",
+  "status": "Merged",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1872,
+  "closed": 1923,
+  "location": "Jacksonville, FL",
+  "state": "FL",
+  "affiliation": "Methodist Episcopal Church (Freedmen's Aid Society)",
+  "formerNames": [
+   "Cookman Institute for Boys"
+  ],
+  "fate": "Merged with Mary McLeod Bethune's Daytona school in 1923 to form what became Bethune-Cookman University.",
+  "description": "Founded in Jacksonville in 1872 by Rev. D. S. Darnell under Methodist sponsorship, Cookman was one of Florida's first institutions of higher learning for Black students. A. Philip Randolph graduated as valedictorian in 1907; Florida's first Black judge, James Dean, also attended.",
+  "facts": [
+   {
+    "t": "Randolph's school.",
+    "d": "A. Philip Randolph was valedictorian of Cookman's 1907 class.",
+    "basis": "documented"
+   },
+   {
+    "t": "Merged 1923.",
+    "d": "Combined with the Daytona Normal and Industrial Institute.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Bethune–Cookman University (history)",
+    "url": "https://en.wikipedia.org/wiki/Bethune%E2%80%93Cookman_University"
+   },
+   {
+    "label": "Wikipedia — A. Philip Randolph",
+    "url": "https://en.wikipedia.org/wiki/A._Philip_Randolph"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded under Methodist sponsorship"
+   },
+   {
+    "id": "bethune-cookman-university",
+    "type": "lineage",
+    "label": "merged into, 1923"
+   }
+  ]
+ },
+ {
+  "id": "edward-waters-university",
+  "name": "Edward Waters University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AME university",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1866,
+  "closed": null,
+  "location": "Jacksonville, FL",
+  "state": "FL",
+  "affiliation": "African Methodist Episcopal Church; UNCF",
+  "formerNames": [
+   "Brown Theological Institute",
+   "East Florida Conference High School",
+   "East Florida Scientific and Divinity High School",
+   "Edward Waters College",
+   "Edward Waters Junior College"
+  ],
+  "fate": "",
+  "description": "Florida's first independent institution of higher education and first HBCU, founded in 1866 by members of the AME Church in Jacksonville. Renamed for AME bishop Edward Waters in 1892, it became a university in 2021. Negro leagues great Buck O'Neil finished high school and two years of college there.",
+  "facts": [
+   {
+    "t": "Florida's first HBCU.",
+    "d": "Founded 1866, the year after the Civil War ended.",
+    "basis": "documented"
+   },
+   {
+    "t": "Historic hall.",
+    "d": "Centennial Hall (1916) is on the National Register of Historic Places.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Edward Waters University",
+    "url": "https://en.wikipedia.org/wiki/Edward_Waters_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "founded by AME Church members"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "florida-memorial-university",
+  "name": "Florida Memorial University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist university",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1879,
+  "closed": null,
+  "location": "Miami Gardens, FL",
+  "state": "FL",
+  "affiliation": "American Baptist Churches USA; UNCF",
+  "formerNames": [
+   "Florida Baptist Institute",
+   "Florida Baptist Academy",
+   "Florida Normal and Industrial Institute",
+   "Florida Normal and Industrial Memorial College",
+   "Florida Memorial College"
+  ],
+  "fate": "",
+  "description": "Traces to the Florida Baptist Institute (Live Oak, 1879) and the Florida Baptist Academy (Jacksonville, later St. Augustine), which combined and moved to Miami Gardens. James Weldon and J. Rosamond Johnson wrote \"Lift Ev'ry Voice and Sing\" there in 1900. Alumni include aviator Barrington Irving and civil rights martyr Harry T. Moore.",
+  "facts": [
+   {
+    "t": "Birthplace of an anthem.",
+    "d": "\"Lift Ev'ry Voice and Sing\" was written in 1900 by the Johnson brothers; Rosamond taught at the school.",
+    "basis": "documented"
+   },
+   {
+    "t": "Mergers.",
+    "d": "The Live Oak and St. Augustine institutions merged in 1941; university status in 2006.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Florida Memorial University",
+    "url": "https://en.wikipedia.org/wiki/Florida_Memorial_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "Baptist-founded"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "university-of-the-virgin-islands",
+  "name": "University of the Virgin Islands",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Land-grant university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1962,
+  "closed": null,
+  "location": "St. Thomas & St. Croix, USVI",
+  "state": "VI",
+  "affiliation": "Government of the U.S. Virgin Islands; land-grant",
+  "formerNames": [
+   "College of the Virgin Islands"
+  ],
+  "fate": "",
+  "description": "Founded in 1962 as the College of the Virgin Islands and designated an HBCU in 1986, when it took its current name. UVI has educated much of the Caribbean's political leadership, including USVI Governor Albert Bryan Jr. (MBA) and Sint Maarten Prime Minister Silveria Jacobs.",
+  "facts": [
+   {
+    "t": "HBCU since 1986.",
+    "d": "The only HBCU outside the continental U.S.; designated in 1986.",
+    "basis": "documented"
+   },
+   {
+    "t": "Caribbean leaders.",
+    "d": "Alumni include heads of government and ministers across the Eastern Caribbean.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — University of the Virgin Islands",
+    "url": "https://en.wikipedia.org/wiki/University_of_the_Virgin_Islands"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "booker-t-washington-junior-college",
+  "name": "Booker T. Washington Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Merged",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1949,
+  "closed": 1965,
+  "location": "Pensacola, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Nominally merged with Pensacola Junior College in 1965.",
+  "description": "The first of Florida's twelve public Black junior colleges, opened in Pensacola in 1949. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1949–1965.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "carver-junior-college",
+  "name": "Carver Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1960,
+  "closed": 1963,
+  "location": "Cocoa, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1963, among the first of the Black junior colleges to shut as Florida desegregated.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education to sustain \"separate but equal.\" Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1960–1963.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "collier-blocker-junior-college",
+  "name": "Collier-Blocker Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1960,
+  "closed": 1964,
+  "location": "Palatka, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1964 as Florida desegregated its junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1960–1964.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "gibbs-junior-college",
+  "name": "Gibbs Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Merged",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1957,
+  "closed": 1965,
+  "location": "St. Petersburg, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Placed under St. Petersburg Junior College midway through 1964–65 and run as its Gibbs campus until the county closed it in 1967.",
+  "description": "Opened in 1957 by the Pinellas County Board of Public Instruction for Black students, first in Gibbs High School's building; it was regionally accredited. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1957–1965.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   },
+   {
+    "label": "Wikipedia — Gibbs Junior College",
+    "url": "https://en.wikipedia.org/wiki/Gibbs_Junior_College"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "hampton-junior-college",
+  "name": "Hampton Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1958,
+  "closed": 1966,
+  "location": "Ocala, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1966 after the Civil Rights Act of 1964 led Florida to end its separate Black junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1958–1966.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "jackson-junior-college",
+  "name": "Jackson Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1961,
+  "closed": 1966,
+  "location": "Marianna, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1966 as Florida desegregated its junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1961–1966.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "johnson-junior-college",
+  "name": "Johnson Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1960,
+  "closed": 1966,
+  "location": "Leesburg, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1966 as Florida desegregated its junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1960–1966.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "lincoln-junior-college",
+  "name": "Lincoln Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1960,
+  "closed": 1966,
+  "location": "Fort Pierce, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1966 as Florida desegregated its junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1960–1966.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "rosenwald-junior-college",
+  "name": "Rosenwald Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1958,
+  "closed": 1966,
+  "location": "Panama City, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1966 as Florida desegregated its junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1958–1966.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "roosevelt-junior-college",
+  "name": "Roosevelt Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1958,
+  "closed": 1965,
+  "location": "West Palm Beach, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1965 as Florida desegregated its junior colleges.",
+  "description": "A regionally accredited Black junior college, one of the eleven Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1958–1965.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "suwannee-river-junior-college",
+  "name": "Suwannee River Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1959,
+  "closed": 1966,
+  "location": "Madison, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1966 as Florida desegregated its junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1959–1966.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "volusia-county-junior-college",
+  "name": "Volusia County Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Florida Black junior college (defunct)",
+  "status": "Closed",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1958,
+  "closed": 1965,
+  "location": "Daytona Beach, FL",
+  "state": "FL",
+  "affiliation": "Florida public junior college system (segregated)",
+  "formerNames": [],
+  "fate": "Closed in 1965 as Florida desegregated its junior colleges.",
+  "description": "One of the eleven Black junior colleges Florida opened after Brown v. Board of Education. Like the rest of the system, it was shut down once desegregation followed the Civil Rights Act of 1964.",
+  "facts": [
+   {
+    "t": "Separate-but-equal system.",
+    "d": "Florida built twelve Black public junior colleges between 1949 and 1961 to forestall integration.",
+    "basis": "documented"
+   },
+   {
+    "t": "Short life.",
+    "d": "Operated 1958–1965.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of HBCUs (defunct institutions)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "john-w-thompson",
+  "name": "John W. Thompson",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "$100M-$500M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation. Includes a decade as Symantec CEO and a minority Warriors stake.",
+  "lifespan": "b. 1949",
+  "base": "Silicon Valley, CA",
+  "industry": "Enterprise Software",
+  "originBadge": "Riviera Beach Kid",
+  "engineBadge": "Enterprise Software Leadership",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a BBA from Florida A&M in 1971 (later an MIT Sloan MBA, 1983). FAMU's School of Business and Industry inducted him into its Hall of Fame in 2010.",
+  "humbleBeginnings": "Born at Fort Dix, New Jersey, and raised in Florida, he attended John F. Kennedy High School in Riviera Beach before FAMU.",
+  "breakthrough": "Spent 28 years at IBM (1971–1999), rising to general manager of IBM Americas, then became CEO of Symantec in 1999 and ran it for a decade.",
+  "legacy": "Became the first Black chairman of Microsoft (2014–2021), presiding over the board that picked Satya Nadella as CEO, and joined the investor group behind the Golden State Warriors.",
+  "breakthroughDetail": [
+   {
+    "t": "IBM to Symantec.",
+    "d": "Left IBM as GM of IBM Americas to take Symantec's CEO job in 1999; retired April 2009.",
+    "basis": "documented"
+   },
+   {
+    "t": "Microsoft chairman.",
+    "d": "Joined Microsoft's board in 2012 and chaired it from February 2014 to June 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "Virtual Instruments.",
+    "d": "Later served as CEO of Virtual Instruments, leaving after its 2016 merger with Load DynamiX.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Sports ownership.",
+    "d": "Listed as a part owner of the Golden State Warriors.",
+    "basis": "documented"
+   },
+   {
+    "t": "HBCU executive role model.",
+    "d": "Black Enterprise lists him among top HBCU-educated executives.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — John W. Thompson",
+    "url": "https://en.wikipedia.org/wiki/John_W._Thompson"
+   },
+   {
+    "label": "Black Enterprise — Black executives who attended HBCUs",
+    "url": "https://www.blackenterprise.com/black-executives-who-attended-hbcus/amp/"
+   },
+   {
+    "label": "FAMU SBI Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "BBA 1971"
+   },
+   {
+    "id": "ibm",
+    "type": "executive",
+    "label": "sales to GM of IBM Americas, 1971–1999"
+   },
+   {
+    "id": "symantec",
+    "type": "executive",
+    "label": "CEO 1999–2009; chairman"
+   },
+   {
+    "id": "microsoft",
+    "type": "board",
+    "label": "chairman 2014–2021"
+   },
+   {
+    "id": "virtual-instruments",
+    "type": "executive",
+    "label": "CEO to 2016"
+   },
+   {
+    "id": "golden-state-warriors",
+    "type": "ownership",
+    "label": "minority owner"
+   }
+  ]
+ },
+ {
+  "id": "g-scott-uzzell",
+  "name": "G. Scott Uzzell",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation.",
+  "lifespan": "living",
+  "base": "El Paso, TX (Helen of Troy HQ)",
+  "industry": "Consumer Brands",
+  "originBadge": "Business School Grad",
+  "engineBadge": "Consumer Brand Turnarounds",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Holds a bachelor's degree in business from Florida A&M's School of Business and Industry (MBA, University of Chicago); he serves on the FAMU Foundation board.",
+  "humbleBeginnings": "Built his career in beverage brand management at The Coca-Cola Company, rising to president of its Venturing & Emerging Brands group.",
+  "breakthrough": "Nike named him president and CEO of Converse in January 2019; he later ran Nike's North America operating unit (2023–2024).",
+  "legacy": "In September 2025 he became CEO of Helen of Troy, the Nasdaq-listed maker of OXO, Hydro Flask and Revlon-licensed appliances.",
+  "breakthroughDetail": [
+   {
+    "t": "Coca-Cola VEB.",
+    "d": "Led Coca-Cola's Venturing & Emerging Brands unit, which invested in new beverage brands.",
+    "basis": "documented"
+   },
+   {
+    "t": "Converse CEO.",
+    "d": "Ran Converse for Nike from 2019 to 2023.",
+    "basis": "documented"
+   },
+   {
+    "t": "Helen of Troy CEO.",
+    "d": "Appointed CEO effective September 1, 2025.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "FAMU Foundation board.",
+    "d": "Serves on the FAMU Foundation board; named to Savoy's list of influential Black executives.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Business Wire — Nike names Uzzell Converse CEO (2018)",
+    "url": "https://www.businesswire.com/news/home/20181221005076/en"
+   },
+   {
+    "label": "Business Wire — Helen of Troy appoints Uzzell CEO (2025)",
+    "url": "https://www.businesswire.com/news/home/20250813037752/en/Helen-of-Troy-Limited-Announces-G.-Scott-Uzzell-Appointed-to-Become-Chief-Executive-Officer"
+   },
+   {
+    "label": "SEC 8-K exhibit — Helen of Troy press release",
+    "url": "https://www.sec.gov/Archives/edgar/data/916789/000091678925000051/exhibit991_pressreleasei.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. business"
+   },
+   {
+    "id": "coca-cola-company",
+    "type": "executive",
+    "label": "President, Venturing & Emerging Brands"
+   },
+   {
+    "id": "converse",
+    "type": "executive",
+    "label": "President & CEO 2019–2023"
+   },
+   {
+    "id": "nike",
+    "type": "executive",
+    "label": "EVP & GM North America 2023–2024"
+   },
+   {
+    "id": "helen-of-troy",
+    "type": "executive",
+    "label": "CEO 2025–"
+   }
+  ]
+ },
+ {
+  "id": "gregory-e-deavens",
+  "name": "Gregory E. Deavens",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation.",
+  "lifespan": "living",
+  "base": "Philadelphia, PA",
+  "industry": "Health Insurance",
+  "originBadge": "Accountant's Path",
+  "engineBadge": "Health Insurance Leadership",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.S. in accounting from Florida A&M's School of Business and Industry and became a CPA.",
+  "humbleBeginnings": "Began his career in public accounting at Price Waterhouse, then held finance roles at GE Capital, Cigna, New York Life and MassMutual.",
+  "breakthrough": "Joined Independence Blue Cross in 2017 as EVP, CFO and treasurer and became president and CEO in January 2021.",
+  "legacy": "The first African American to lead Independence, one of the largest health insurers in the Philadelphia region.",
+  "breakthroughDetail": [
+   {
+    "t": "Finance track.",
+    "d": "CFO and treasurer of Independence Blue Cross from 2017.",
+    "basis": "documented"
+   },
+   {
+    "t": "CEO 2021.",
+    "d": "Named president and CEO of Independence Health Group in 2021, a first for an African American.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Industry voice.",
+    "d": "Profiled by AHIP, the national health-insurance trade association, among industry leaders.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "AHIP — Gregory E. Deavens",
+    "url": "https://www.ahip.org/people/greg-deavens"
+   },
+   {
+    "label": "Philadelphia Tribune — Deavens named first African American leader of IBX",
+    "url": "https://www.phillytrib.com/news/business/gregory-e-deavens-named-first-african-american-leader-of-independence-blue-cross/article_9896fc00-068c-555e-ba8e-e313431f547e.html"
+   },
+   {
+    "label": "Health Evolution — Greg Deavens",
+    "url": "https://www.healthevolution.com/leaders/greg-e-deavens"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. accounting"
+   },
+   {
+    "id": "independence-blue-cross",
+    "type": "executive",
+    "label": "EVP/CFO 2017; President & CEO 2021–"
+   }
+  ]
+ },
+ {
+  "id": "shundrawn-thomas",
+  "name": "Shundrawn Thomas",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation.",
+  "lifespan": "living",
+  "base": "Chicago, IL",
+  "industry": "Asset Management & Private Investment",
+  "originBadge": "Accountant's Path",
+  "engineBadge": "Asset Management",
+  "capitalBadge": "Institutional Capital",
+  "hbcuStory": "Earned a B.S. in accounting from Florida A&M (MBA, University of Chicago Booth); inducted into the FAMU SBI Hall of Fame in 2014.",
+  "humbleBeginnings": "Rose through Northern Trust's investment business after starting in finance out of FAMU.",
+  "breakthrough": "Became president of Northern Trust Asset Management, a member of the firm's executive group overseeing roughly $1.3 trillion in assets.",
+  "legacy": "Left to found The Copia Group, a private investment firm providing capital to lower-middle-market companies; he sits on the board of Reinsurance Group of America.",
+  "breakthroughDetail": [
+   {
+    "t": "NTAM president.",
+    "d": "Led Northern Trust Asset Management and sat on Northern Trust's executive management group.",
+    "basis": "documented"
+   },
+   {
+    "t": "Founder of Copia.",
+    "d": "Founded and is managing partner of The Copia Group.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Corporate boards.",
+    "d": "Director of Reinsurance Group of America; also on the FAMU Foundation board.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "RGA — Shundrawn Thomas",
+    "url": "https://www.rgare.com/our-company/people/detail/shundrawn-thomas"
+   },
+   {
+    "label": "Milken Institute — Shundrawn Thomas",
+    "url": "https://milkeninstitute.org/experts/shundrawn-thomas"
+   },
+   {
+    "label": "Business Wire — Savoy honoree release (2020)",
+    "url": "https://www.businesswire.com/news/home/20200414005024/en/Shundrawn-Thomas-Northern-Trust-Asset-Management-President-Named-One-of-the-Most-Influential-Black-Executives-in-Corporate-America-by-Savoy-Magazine"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. accounting"
+   },
+   {
+    "id": "northern-trust",
+    "type": "executive",
+    "label": "President, Northern Trust Asset Management"
+   },
+   {
+    "id": "the-copia-group",
+    "type": "ownership",
+    "label": "founder & managing partner"
+   },
+   {
+    "id": "reinsurance-group-of-america",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "lyle-logan",
+    "type": "parallel",
+    "label": "fellow FAMU accounting grad and Northern Trust executive"
+   }
+  ]
+ },
+ {
+  "id": "lyle-logan",
+  "name": "Lyle Logan",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation.",
+  "lifespan": "living",
+  "base": "Chicago, IL",
+  "industry": "Banking & Wealth Management",
+  "originBadge": "Accountant's Path",
+  "engineBadge": "Institutional Banking",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.A. in accounting and economics from Florida A&M (MBA in finance, University of Chicago); in the inaugural FAMU SBI Hall of Fame class.",
+  "humbleBeginnings": "Started in Chicago banking at Continental Bank (later Bank of America).",
+  "breakthrough": "Joined Northern Trust in 2000, leading Chicago private banking, institutional sales, and the global financial institutions group, and rose to vice chairman.",
+  "legacy": "Serves on boards including Heidrick & Struggles, Impax Asset Management Group plc (from 2024) and the National Geographic Society.",
+  "breakthroughDetail": [
+   {
+    "t": "Northern Trust vice chairman.",
+    "d": "Rose from EVP and managing director to vice chairman of Northern Trust.",
+    "basis": "documented"
+   },
+   {
+    "t": "Boardrooms.",
+    "d": "Non-executive director of Impax Asset Management Group plc from May 2024.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Civic boards.",
+    "d": "Lurie Children's Hospital, The Field Foundation and Chamberlain University boards.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Impax — Lyle Logan appointed to board",
+    "url": "https://impaxam.com/insights-and-news/press-releases/lyle-logan-appointed-to-board-of-impax-asset-management-group-plc/"
+   },
+   {
+    "label": "SIFMA — Lyle Logan",
+    "url": "https://www.sifma.org/people/lyle-logan"
+   },
+   {
+    "label": "FAMU SBI Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.A. accounting & economics"
+   },
+   {
+    "id": "northern-trust",
+    "type": "executive",
+    "label": "EVP to Vice Chairman, 2000–"
+   },
+   {
+    "id": "impax-asset-management",
+    "type": "board",
+    "label": "non-executive director 2024–"
+   },
+   {
+    "id": "heidrick-and-struggles",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "bernard-kinsey",
+  "name": "Bernard Kinsey",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1943",
+  "base": "Los Angeles, CA",
+  "industry": "Office Technology / Collecting",
+  "originBadge": "West Palm Beach Roots",
+  "engineBadge": "Corporate Sales Leadership",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from Florida A&M in 1967, where he met his wife Shirley (FAMU English, 1967); later earned a Pepperdine MBA and received an honorary doctorate from FAMU.",
+  "humbleBeginnings": "Born in West Palm Beach; after FAMU he was hired as the first Black sales representative at Humble Oil.",
+  "breakthrough": "Spent about two decades at Xerox, becoming a vice president, then co-chaired and served as COO of Rebuild L.A. after the 1992 uprising.",
+  "legacy": "With Shirley he built the Kinsey Collection, one of the largest private collections of African American art and history, which has toured nationally.",
+  "breakthroughDetail": [
+   {
+    "t": "Xerox VP.",
+    "d": "Rose to vice president during a roughly 20-year Xerox career.",
+    "basis": "documented"
+   },
+   {
+    "t": "Rebuild L.A.",
+    "d": "Co-chairman and COO of Rebuild L.A. under Peter Ueberroth, recruiting private investment after the 1992 unrest.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Kinsey Collection.",
+    "d": "Family-owned collection spanning 1632 to the present, now run by son Khalil.",
+    "basis": "documented"
+   },
+   {
+    "t": "FAMU speaker.",
+    "d": "Returned as a 2025 FAMU commencement speaker.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Bernard Kinsey",
+    "url": "https://en.wikipedia.org/wiki/Bernard_Kinsey"
+   },
+   {
+    "label": "Frick Archives Directory — Bernard Kinsey",
+    "url": "https://research.frick.org/directory/detail/5412"
+   },
+   {
+    "label": "Wikipedia — Shirley Kinsey",
+    "url": "https://en.wikipedia.org/wiki/Shirley_Kinsey"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. 1967"
+   },
+   {
+    "id": "xerox",
+    "type": "executive",
+    "label": "vice president"
+   },
+   {
+    "id": "rebuild-la",
+    "type": "executive",
+    "label": "co-chairman & COO, 1992"
+   },
+   {
+    "id": "kinsey-collection",
+    "type": "ownership",
+    "label": "co-owner with wife Shirley"
+   }
+  ]
+ },
+ {
+  "id": "will-packer",
+  "name": "Will Packer",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate only: no authoritative published figure; based on producer fees and equity across a $1B+ box-office slate.",
+  "lifespan": "b. 1974",
+  "base": "Atlanta, GA / Los Angeles, CA",
+  "industry": "Film & TV Production",
+  "originBadge": "Engineer's Path",
+  "engineBadge": "Box-Office Comedies",
+  "capitalBadge": "Studio Deals",
+  "hbcuStory": "Graduated magna cum laude from Florida A&M with a B.S. in electrical engineering in 1996; he and classmate Rob Hardy made their first film, Chocolate City, while students. FAMU named its amphitheater for him in 2021.",
+  "humbleBeginnings": "Grew up in St. Petersburg, Florida, and entered FAMU in 1991 as an engineering student.",
+  "breakthrough": "Co-founded Rainforest Films with Rob Hardy, then launched Will Packer Productions in 2013 with Universal film and TV deals.",
+  "legacy": "His films, including Think Like a Man, Ride Along and Girls Trip, have grossed more than $1 billion worldwide, with ten opening at No. 1.",
+  "breakthroughDetail": [
+   {
+    "t": "Rainforest Films.",
+    "d": "Built an independent Black film company with Rob Hardy before scaling to studio releases (dissolved 2014).",
+    "basis": "documented"
+   },
+   {
+    "t": "Will Packer Productions.",
+    "d": "2013 deals with Universal Pictures and Universal Television.",
+    "basis": "documented"
+   },
+   {
+    "t": "Girls Trip.",
+    "d": "Earned about $140 million on a $19 million budget in 2017.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "FAMU honors.",
+    "d": "Will Packer Amphitheater and FAMU's Meritorious Achievement Award (2021).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Will Packer",
+    "url": "https://en.wikipedia.org/wiki/Will_Packer"
+   },
+   {
+    "label": "Black Enterprise — Black executives who attended HBCUs",
+    "url": "https://www.blackenterprise.com/black-executives-who-attended-hbcus/amp/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. electrical engineering 1996"
+   },
+   {
+    "id": "rainforest-films",
+    "type": "ownership",
+    "label": "co-founder"
+   },
+   {
+    "id": "will-packer-productions",
+    "type": "ownership",
+    "label": "founder 2013"
+   },
+   {
+    "id": "rob-hardy",
+    "type": "deal",
+    "label": "co-founded Rainforest Films"
+   }
+  ]
+ },
+ {
+  "id": "rob-hardy",
+  "name": "Rob Hardy",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1971",
+  "base": "Atlanta, GA",
+  "industry": "Film Production",
+  "originBadge": "Campus Filmmaker",
+  "engineBadge": "Independent Film",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Attended Florida A&M, where he won the Bernard Hendricks Student Leadership Award and made Chocolate City (1994) with Will Packer.",
+  "humbleBeginnings": "Born in Philadelphia; graduated from the George School in 1991 before FAMU.",
+  "breakthrough": "Co-founded Rainforest Films, writing and directing Trois (2000), Trois 2 and The Gospel (2005) and executive-producing Stomp the Yard and Think Like a Man.",
+  "legacy": "After Rainforest dissolved in 2014 he launched Rainforest Entertainment (2015), continuing to develop Black-led film and TV.",
+  "breakthroughDetail": [
+   {
+    "t": "Trois.",
+    "d": "Directed Trois (2000), an early theatrical release for Rainforest.",
+    "basis": "documented"
+   },
+   {
+    "t": "The Gospel.",
+    "d": "Wrote and directed The Gospel (2005).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Rainforest Entertainment.",
+    "d": "Founded in March 2015.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Rob Hardy",
+    "url": "https://en.wikipedia.org/wiki/Rob_Hardy"
+   },
+   {
+    "label": "Wikipedia — List of FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Florida_Agricultural_and_Mechanical_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "rainforest-films",
+    "type": "ownership",
+    "label": "co-founder"
+   },
+   {
+    "id": "rainforest-entertainment",
+    "type": "ownership",
+    "label": "founder 2015"
+   }
+  ]
+ },
+ {
+  "id": "kimberly-godwin",
+  "name": "Kimberly Godwin",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "New York, NY",
+  "industry": "Broadcast News",
+  "originBadge": "Journalism Grad",
+  "engineBadge": "Network News Leadership",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.S. in broadcast journalism from Florida A&M in 1984 and later taught at the university.",
+  "humbleBeginnings": "Built a career as a local and network news producer before joining CBS News in 2007.",
+  "breakthrough": "Rose to executive vice president of CBS News, then was named president of ABC News in April 2021.",
+  "legacy": "The first Black woman to lead a major U.S. broadcast network news division; she stepped down in 2024.",
+  "breakthroughDetail": [
+   {
+    "t": "CBS News EVP.",
+    "d": "Senior broadcast producer of CBS Evening News, then EVP of News.",
+    "basis": "documented"
+   },
+   {
+    "t": "ABC News president.",
+    "d": "Led ABC News from 2021 to 2024.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Barrier broken.",
+    "d": "First Black executive to run a major broadcast network news division.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Kim Godwin"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Kim Godwin",
+    "url": "https://en.wikipedia.org/wiki/Kim_Godwin"
+   },
+   {
+    "label": "WTXL — FAMU alumna Kimberly Godwin to become ABC News president",
+    "url": "https://www.wtxl.com/news/local-news/famu-almuna-kimberly-godwin-to-become-newest-abc-news-president"
+   },
+   {
+    "label": "NABJ — Godwin makes history",
+    "url": "https://nabjonline.org/blog/its-official-kim-godwin-makes-history-as-first-black-woman-to-head-abc-news/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. broadcast journalism 1984"
+   },
+   {
+    "id": "cbs-news",
+    "type": "executive",
+    "label": "EVP of News, 2007–2021"
+   },
+   {
+    "id": "abc-news",
+    "type": "executive",
+    "label": "President 2021–2024"
+   }
+  ]
+ },
+ {
+  "id": "arian-simone",
+  "name": "Arian Simone",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Atlanta, GA",
+  "industry": "Venture Capital",
+  "originBadge": "Former Homeless Founder",
+  "engineBadge": "Venture Capital",
+  "capitalBadge": "Corporate & Institutional LPs",
+  "hbcuStory": "Earned her bachelor's and MBA at Florida A&M (entering class of 1999); inducted onto the SBI Big Board in 2024 and endowed an SBI scholarship.",
+  "humbleBeginnings": "Has described experiencing homelessness while building her first businesses before turning to venture investing.",
+  "breakthrough": "Co-founded the Fearless Fund with fellow FAMU alumna Ayana Parsons, a VC fund for women-of-color founders backed by PayPal, Bank of America and Costco.",
+  "legacy": "The FAMU Foundation invested in the fund in 2021, its first investment in a Black-led VC firm; the fund drew a high-profile 2023 legal challenge to its grant program.",
+  "breakthroughDetail": [
+   {
+    "t": "Fearless Fund.",
+    "d": "Pre-seed to Series A investor in women-of-color-led companies.",
+    "basis": "documented"
+   },
+   {
+    "t": "Corporate LPs.",
+    "d": "Backers include PayPal, Bank of America, Invest Atlanta and Costco.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Alma-mater capital.",
+    "d": "FAMU Foundation became an LP in 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "SBI Big Board.",
+    "d": "Endowed the Arian Simone Fearless Fund scholarship at SBI.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "WCTV — FAMU Foundation invests in Fearless Fund",
+    "url": "https://www.wctv.tv/2021/03/09/famu-foundation-invests-in-fearless-fund-venture-capital-firm-supporting-women-of-color"
+   },
+   {
+    "label": "FAMU News — SBI Big Board 2024",
+    "url": "https://news.famu.edu/2024/famu-sbi-adds-three-new-names-sbi-big-board.php"
+   },
+   {
+    "label": "Entrepreneur — She was homeless; now she runs a $25 million investment fund",
+    "url": "https://www.entrepreneur.com/leadership/she-was-homeless-now-she-runs-a-25-million-investment/387973"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. and MBA"
+   },
+   {
+    "id": "fearless-fund",
+    "type": "ownership",
+    "label": "co-founder & CEO"
+   }
+  ]
+ },
+ {
+  "id": "arthur-r-collins",
+  "name": "Arthur R. Collins",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1960",
+  "base": "Washington, DC",
+  "industry": "Strategy & Public Affairs Consulting",
+  "originBadge": "Accountant's Path",
+  "engineBadge": "Public-Private Consulting",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Earned a B.S. in accounting from Florida A&M in 1982 (honorary doctorate 2009); in 2001 he became the first chairman of FAMU's Board of Trustees. Inaugural SBI Hall of Fame inductee.",
+  "humbleBeginnings": "Began his career as an IBM systems engineer in 1982 and later served as deputy receiver at the Florida Department of Insurance.",
+  "breakthrough": "Founded Public Private Partnership, Inc., a Tallahassee strategic-planning and political consulting firm, in 1989.",
+  "legacy": "Co-founded theGROUP in Washington in 2011 and has served on the boards of RLJ Lodging Trust and the Brookings Institution; he chairs Morehouse School of Medicine's board.",
+  "breakthroughDetail": [
+   {
+    "t": "Public Private Partnership, Inc.",
+    "d": "Founded 1989 and led as president and CEO.",
+    "basis": "documented"
+   },
+   {
+    "t": "theGROUP.",
+    "d": "Founding and managing partner of the D.C. strategy, policy and communications firm (2011).",
+    "basis": "documented"
+   },
+   {
+    "t": "Campaign strategist.",
+    "d": "Senior political strategist to Barack Obama's 2008 campaign.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Boards.",
+    "d": "RLJ Lodging Trust, Brookings Institution, Meridian International Center.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Arthur R. Collins",
+    "url": "https://en.wikipedia.org/wiki/Arthur_R._Collins"
+   },
+   {
+    "label": "Wikipedia — List of FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Florida_Agricultural_and_Mechanical_University_alumni"
+   },
+   {
+    "label": "FAMU SBI Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. accounting 1982"
+   },
+   {
+    "id": "florida-a-and-m-university",
+    "type": "board",
+    "label": "first Board of Trustees chairman, 2001"
+   },
+   {
+    "id": "public-private-partnership-inc",
+    "type": "ownership",
+    "label": "founder 1989"
+   },
+   {
+    "id": "thegroup",
+    "type": "ownership",
+    "label": "founding partner 2011"
+   },
+   {
+    "id": "ibm",
+    "type": "executive",
+    "label": "systems engineer, 1982"
+   },
+   {
+    "id": "rlj-lodging-trust",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "tirrell-d-whittley",
+  "name": "Tirrell D. Whittley",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Atlanta, GA",
+  "industry": "Marketing & Advertising",
+  "originBadge": "Accountant's Path",
+  "engineBadge": "Multicultural Marketing",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated cum laude from Florida A&M's School of Business and Industry with a B.S. in accounting; SBI Hall of Fame inductee (2014) and FAMU's Summer 2026 commencement speaker.",
+  "humbleBeginnings": "Trained as an accountant before turning to entertainment marketing.",
+  "breakthrough": "Founded Liquid Soul in 2001, growing it into a full-service brand-marketing agency with offices in Atlanta, Washington, Los Angeles and Dallas.",
+  "legacy": "Expanded into film producing alongside the agency's studio-marketing work.",
+  "breakthroughDetail": [
+   {
+    "t": "Liquid Soul.",
+    "d": "Founded 2001; four regional offices.",
+    "basis": "documented"
+   },
+   {
+    "t": "Filmmaker.",
+    "d": "Also credited as a film producer.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "SBI Hall of Fame.",
+    "d": "Inducted 2014.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "FAMU News — Whittley named Summer 2026 commencement speaker",
+    "url": "https://news.famu.edu/2026/florida-am-university-announces-acclaimed-entrepreneur-filmmaker-tirrell-d-whittley-as-summer-2026-commencement-speaker.php"
+   },
+   {
+    "label": "Black Enterprise — Meet CEO Tirrell D. Whittley",
+    "url": "https://www.blackenterprise.com/meet-film-industry-advertising-and-marketing-ceo-tirrell-d-whitley/"
+   },
+   {
+    "label": "FAMU SBI Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. accounting"
+   },
+   {
+    "id": "liquid-soul",
+    "type": "ownership",
+    "label": "founder & CEO, 2001"
+   }
+  ]
+ },
+ {
+  "id": "omar-goff",
+  "name": "Omar Goff",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Cincinnati, OH",
+  "industry": "Consumer Packaged Goods",
+  "originBadge": "Business School Grad",
+  "engineBadge": "Beauty & Haircare Brands",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated summa cum laude from FAMU's School of Business and Industry in 2004; delivered FAMU's May 2026 commencement keynote and pledged $100,000 to an SBI endowment.",
+  "humbleBeginnings": "Began at Procter & Gamble in product supply and purchasing before moving into brand management.",
+  "breakthrough": "Became president of Mielle, the textured-haircare brand acquired by P&G, then end-to-end commercial leader for Head & Shoulders North America.",
+  "legacy": "His 2026 \"Possibility in Action\" endowment drew matching pledges from Mielle founders Melvin and Monique Rodriguez and TIAA CEO Thasunda Brown Duckett.",
+  "breakthroughDetail": [
+   {
+    "t": "Mielle president.",
+    "d": "Led Mielle within P&G.",
+    "basis": "documented"
+   },
+   {
+    "t": "Head & Shoulders.",
+    "d": "End-to-end commercial leader for North America.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "$100K to SBI.",
+    "d": "Personal gift announced at the 2026 commencement.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "FAMU News — Omar Goff's $100K gift",
+    "url": "https://news.famu.edu/2026/omar-goffs-100k-gift-and-charge-to-make-it-count-define-famu-commencement.php"
+   },
+   {
+    "label": "FAMU News — Spring 2026 commencement speakers",
+    "url": "https://news.famu.edu/2026/famu-announces-the-spring-2026-commencement-speakers.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "summa cum laude 2004"
+   },
+   {
+    "id": "procter-and-gamble",
+    "type": "executive",
+    "label": "20+ years; Head & Shoulders NA leader"
+   },
+   {
+    "id": "mielle-organics",
+    "type": "executive",
+    "label": "President"
+   }
+  ]
+ },
+ {
+  "id": "melissa-butler",
+  "name": "Melissa Butler",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Detroit, MI",
+  "industry": "Cosmetics",
+  "originBadge": "Detroit Native",
+  "engineBadge": "Clean Beauty Retail",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a bachelor's degree in business finance from Florida A&M.",
+  "humbleBeginnings": "Raised in Detroit (Cass Tech); she was working on Wall Street when she began making vegan lipstick in her Brooklyn kitchen in 2012.",
+  "breakthrough": "After a 2015 Shark Tank rejection, she cold-pitched a Target buyer on LinkedIn and landed national distribution.",
+  "legacy": "Moved The Lip Bar back to Detroit; by 2018 it was stocked in several hundred Target stores.",
+  "breakthroughDetail": [
+   {
+    "t": "Kitchen start.",
+    "d": "Launched The Lip Bar as a side hustle in 2012.",
+    "basis": "documented"
+   },
+   {
+    "t": "Target deal.",
+    "d": "Reached Target via LinkedIn; in several hundred stores by 2018.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Detroit HQ.",
+    "d": "Built the brand in her hometown.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Melissa Butler",
+    "url": "https://en.wikipedia.org/wiki/Melissa_Butler"
+   },
+   {
+    "label": "Wikipedia — Category: FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. business finance"
+   },
+   {
+    "id": "the-lip-bar",
+    "type": "ownership",
+    "label": "founder & CEO, 2012"
+   },
+   {
+    "id": "target",
+    "type": "supply",
+    "label": "national retail distribution"
+   }
+  ]
+ },
+ {
+  "id": "janelle-bynum",
+  "name": "Janelle Bynum",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1975",
+  "base": "Clackamas County, OR",
+  "industry": "Restaurant Franchising",
+  "originBadge": "Engineer's Path",
+  "engineBadge": "McDonald's Franchises",
+  "capitalBadge": "Family Franchise Equity",
+  "hbcuStory": "Earned a B.S. in electrical engineering from Florida A&M in 1996, then an MBA from the University of Michigan (2000).",
+  "humbleBeginnings": "Born in Washington, D.C.; worked as a steering-systems engineer at General Motors while earning her MBA.",
+  "breakthrough": "Moved to Oregon in 2002 to help run her mother-in-law's McDonald's franchise; she and her husband now own several Portland-area McDonald's restaurants.",
+  "legacy": "Parlayed her small-business profile into the Oregon House (2017–2025), where she chaired the economic development and small business committee, and Congress (2025–).",
+  "breakthroughDetail": [
+   {
+    "t": "Franchisee.",
+    "d": "Co-owns multiple McDonald's locations around Portland.",
+    "basis": "documented"
+   },
+   {
+    "t": "GM engineer.",
+    "d": "Steering-systems engineer at General Motors.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Public office.",
+    "d": "U.S. Representative for Oregon's 5th district from 2025.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Janelle Bynum",
+    "url": "https://en.wikipedia.org/wiki/Janelle_Bynum"
+   },
+   {
+    "label": "Wikipedia — Florida A&M University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. electrical engineering 1996"
+   },
+   {
+    "id": "mcdonalds",
+    "type": "ownership",
+    "label": "franchisee, 2002–"
+   },
+   {
+    "id": "general-motors",
+    "type": "executive",
+    "label": "steering-systems engineer"
+   }
+  ]
+ },
+ {
+  "id": "garth-c-reeves-sr",
+  "name": "Garth C. Reeves Sr.",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1919–2019",
+  "base": "Miami, FL",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Family Newspaper",
+  "engineBadge": "Black Press Publishing",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Graduated from Florida A&M before enlisting in the Army in World War II.",
+  "humbleBeginnings": "Born in Nassau, Bahamas; worked at his father H. E. S. Reeves's Miami Times from high school, holding every job at the paper.",
+  "breakthrough": "Inherited The Miami Times in 1970 and was its publisher until 1994, building it into Miami's leading Black newspaper.",
+  "legacy": "Invested the paper's profits in bank stock and real estate, including a 5% stake in Bayside Marketplace; joined the Greater Miami Chamber in 1968 and the business elite's \"Non-Group.\"",
+  "breakthroughDetail": [
+   {
+    "t": "Publisher 1970–1994.",
+    "d": "Ran The Miami Times, founded by his father in 1923.",
+    "basis": "documented"
+   },
+   {
+    "t": "Investor.",
+    "d": "Owned a 5% share of Miami's Bayside Marketplace.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NABJ Hall of Fame.",
+    "d": "Inducted 2017; Garth C. Reeves Way named in Miami.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Garth C. Reeves Sr.",
+    "url": "https://en.wikipedia.org/wiki/Garth_C._Reeves_Sr."
+   },
+   {
+    "label": "Wikipedia — Category: FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "graduate"
+   },
+   {
+    "id": "the-miami-times",
+    "type": "ownership",
+    "label": "publisher & owner 1970–1994"
+   },
+   {
+    "id": "bayside-marketplace",
+    "type": "capital",
+    "label": "5% ownership stake"
+   }
+  ]
+ },
+ {
+  "id": "james-a-dallas",
+  "name": "James A. Dallas Sr.",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1917–2004",
+  "base": "Fort Lauderdale, FL",
+  "industry": "Hospitality & Retail",
+  "originBadge": "Segregation-Era Entrepreneur",
+  "engineBadge": "Nightclubs & Retail",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated from Florida A&M in 1942, where he played trombone in the university bands.",
+  "humbleBeginnings": "An educator in segregated Fort Lauderdale who built businesses on the side.",
+  "breakthrough": "Owned O'Dell's Lounge and Grill and The Big Savoy, nightclubs that served Black and white patrons during segregation, plus a grocery store and a pest-control company.",
+  "legacy": "A civic power broker who helped recruit Black professionals to Fort Lauderdale and advised Alcee Hastings; the city named its first downtown street for an African American man after him.",
+  "breakthroughDetail": [
+   {
+    "t": "Integrated nightlife.",
+    "d": "His clubs drew mixed crowds in segregated Fort Lauderdale.",
+    "basis": "documented"
+   },
+   {
+    "t": "Diversified owner.",
+    "d": "Also ran a grocery store and pest-control business.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "James A. Dallas Sr. Street.",
+    "d": "Named in 2004 by the City of Fort Lauderdale.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — James A. Dallas",
+    "url": "https://en.wikipedia.org/wiki/James_A._Dallas"
+   },
+   {
+    "label": "Wikipedia — Category: FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "1942"
+   },
+   {
+    "id": "odells-lounge-and-grill",
+    "type": "ownership",
+    "label": "owner"
+   }
+  ]
+ },
+ {
+  "id": "robert-d-perkins-sr",
+  "name": "Robert D. Perkins Sr.",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1922–1994",
+  "base": "Tallahassee, FL",
+  "industry": "Auto Service & Beauty",
+  "originBadge": "Physics Grad",
+  "engineBadge": "Service Station",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated from Florida A&M in 1947 with degrees in physics, auto mechanics and mathematics, and later taught at FAMU and Florida State.",
+  "humbleBeginnings": "Born in Stuart, Florida; married nurse Trudie Mae Chester in 1946.",
+  "breakthrough": "With Trudie he owned Perkins Service Station and Beauty Shop, the only Black-owned service station in Tallahassee with three gas pumps.",
+  "legacy": "His station fueled participants in the 1956 Tallahassee bus boycott, and his evidence files led to a 1975 federal consent decree on city hiring.",
+  "breakthroughDetail": [
+   {
+    "t": "Black-owned station.",
+    "d": "Perkins Service Station and Beauty Shop at Osceola Street and Railroad Avenue.",
+    "basis": "documented"
+   },
+   {
+    "t": "Bus boycott support.",
+    "d": "Supplied gas to boycott car pools.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Civil rights legacy.",
+    "d": "Pressed the city to build Jake Gaither Park (1954).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Robert D. Perkins Sr.",
+    "url": "https://en.wikipedia.org/wiki/Robert_D._Perkins_Sr."
+   },
+   {
+    "label": "Wikipedia — Category: FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. 1947"
+   },
+   {
+    "id": "perkins-service-station-and-beauty-shop",
+    "type": "ownership",
+    "label": "co-owner with wife Trudie"
+   }
+  ]
+ },
+ {
+  "id": "valorie-burton",
+  "name": "Valorie Burton",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Washington, DC area",
+  "industry": "Coaching & Training",
+  "originBadge": "Journalism Grad",
+  "engineBadge": "Coach Training & Publishing",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a master's degree in journalism from Florida A&M (also attended Florida State; later a master's in applied positive psychology from Penn).",
+  "humbleBeginnings": "Started in marketing and public relations.",
+  "breakthrough": "Ran The Burton Agency, a Dallas marketing and PR firm (1997–2001), then founded Inspire, Inc. in 2001.",
+  "legacy": "Launched the Coaching and Positive Psychology (CaPP) Institute in 2009 to train coaches for organizations; a best-selling author on resilience.",
+  "breakthroughDetail": [
+   {
+    "t": "The Burton Agency.",
+    "d": "Dallas marketing/PR firm, 1997–2001.",
+    "basis": "documented"
+   },
+   {
+    "t": "CaPP Institute.",
+    "d": "Founded 2009.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Author.",
+    "d": "Multiple books on resilience and well-being.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Valorie Burton",
+    "url": "https://en.wikipedia.org/wiki/Valorie_Burton"
+   },
+   {
+    "label": "Wikipedia — Category: FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "M.S. journalism"
+   },
+   {
+    "id": "coaching-and-positive-psychology-institute",
+    "type": "ownership",
+    "label": "founder 2009"
+   }
+  ]
+ },
+ {
+  "id": "winsome-sinclair",
+  "name": "Winsome Sinclair",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1965–2024",
+  "base": "Atlanta, GA",
+  "industry": "Casting & Film Production",
+  "originBadge": "Jamaican-Born",
+  "engineBadge": "Casting Agency",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated from Florida A&M.",
+  "humbleBeginnings": "Born in Jamaica; came to the U.S. and entered film through casting.",
+  "breakthrough": "Founded Winsome Sinclair and Associates, an Atlanta-based international casting agency, with credits including Malcolm X, Jungle Fever, Amistad and The Best Man.",
+  "legacy": "Built one of the leading Black-owned casting firms before her death from colon cancer in 2024.",
+  "breakthroughDetail": [
+   {
+    "t": "Major credits.",
+    "d": "Malcolm X, Amistad, The Best Man, 2 Fast 2 Furious, All Eyez on Me.",
+    "basis": "documented"
+   },
+   {
+    "t": "Agency founder.",
+    "d": "Founded and chaired Winsome Sinclair and Associates.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Producer.",
+    "d": "Also worked as a film producer.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Winsome Sinclair",
+    "url": "https://en.wikipedia.org/wiki/Winsome_Sinclair"
+   },
+   {
+    "label": "Wikipedia — Florida A&M University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "graduate"
+   },
+   {
+    "id": "winsome-sinclair-and-associates",
+    "type": "ownership",
+    "label": "founder & chair"
+   }
+  ]
+ },
+ {
+  "id": "armstrong-williams",
+  "name": "Armstrong Williams",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate only: no published figure; based on ownership of multiple TV station licenses and their sales.",
+  "lifespan": "b. 1959",
+  "base": "Washington, DC",
+  "industry": "Television Broadcasting",
+  "originBadge": "Marion, SC Roots",
+  "engineBadge": "TV Station Ownership",
+  "capitalBadge": "Sinclair-Aligned Deals",
+  "hbcuStory": "Earned a B.A. in political science and English from South Carolina State in 1981.",
+  "humbleBeginnings": "Grew up in Marion, South Carolina.",
+  "breakthrough": "Co-founded the Graham Williams Group marketing and PR firm in 1991 and founded Howard Stirk Holdings in 2013 to buy television stations alongside Sinclair Broadcast Group.",
+  "legacy": "By 2015 he was the largest African American owner of U.S. TV stations; HSH has owned stations including WEYI (Flint), WXBU (Harrisburg) and WWMB (Myrtle Beach).",
+  "breakthroughDetail": [
+   {
+    "t": "Howard Stirk Holdings.",
+    "d": "Founded April 2013; named for his parents.",
+    "basis": "documented"
+   },
+   {
+    "t": "Largest Black TV owner.",
+    "d": "Held that distinction in 2015 until Byron Allen passed him in 2019.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Station trading.",
+    "d": "Bought and later sold several stations through HSH.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Armstrong Williams",
+    "url": "https://en.wikipedia.org/wiki/Armstrong_Williams"
+   },
+   {
+    "label": "Wikipedia — South Carolina State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "south-carolina-state-university",
+    "type": "alumni",
+    "label": "B.A. 1981"
+   },
+   {
+    "id": "howard-stirk-holdings",
+    "type": "ownership",
+    "label": "founder 2013"
+   },
+   {
+    "id": "graham-williams-group",
+    "type": "ownership",
+    "label": "co-founder & CEO, 1991"
+   },
+   {
+    "id": "sinclair-broadcast-group",
+    "type": "deal",
+    "label": "station partnership"
+   }
+  ]
+ },
+ {
+  "id": "robert-porcher",
+  "name": "Robert Porcher",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1969",
+  "base": "Detroit, MI",
+  "industry": "Restaurants & Transportation",
+  "originBadge": "Lowcountry Athlete",
+  "engineBadge": "Restaurants & Logistics",
+  "capitalBadge": "NFL Earnings",
+  "hbcuStory": "Played defensive line at South Carolina State (1988–1991) under coach Willie Jeffries, then went 26th overall in the 1992 NFL draft.",
+  "humbleBeginnings": "Born in Wando, South Carolina; attended Cainhoy High School.",
+  "breakthrough": "Detroit Lions sack leader (95.5 sacks, 1992–2004) who opened three downtown Detroit restaurants: Seldom Blues, Sweet Georgia Brown and Detroit Breakfast House & Grill.",
+  "legacy": "The restaurant group filed for Chapter 11 in 2009; he kept business interests in transportation and the Lions named their Man of the Year award for him.",
+  "breakthroughDetail": [
+   {
+    "t": "Restaurateur.",
+    "d": "Seldom Blues, Sweet Georgia Brown, Detroit Breakfast House & Grill.",
+    "basis": "documented"
+   },
+   {
+    "t": "Setback.",
+    "d": "The restaurants filed for Chapter 11 bankruptcy in 2009.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Philanthropy.",
+    "d": "Cancer research fund supporting the University of Michigan Comprehensive Cancer Center.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Robert Porcher",
+    "url": "https://en.wikipedia.org/wiki/Robert_Porcher"
+   },
+   {
+    "label": "Wikipedia — Category: SC State alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:South_Carolina_State_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "south-carolina-state-university",
+    "type": "alumni",
+    "label": "attended 1988–1991"
+   },
+   {
+    "id": "seldom-blues",
+    "type": "ownership",
+    "label": "owner"
+   }
+  ]
+ },
+ {
+  "id": "i-s-leevy-johnson",
+  "name": "I. S. Leevy Johnson",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1942",
+  "base": "Columbia, SC",
+  "industry": "Funeral Services & Law",
+  "originBadge": "Family Funeral Home",
+  "engineBadge": "Funeral Services",
+  "capitalBadge": "Family Business Equity",
+  "hbcuStory": "Earned a bachelor's degree in business from Benedict College in 1965, after a mortuary science associate degree from the University of Minnesota (1962).",
+  "humbleBeginnings": "Born in Columbia into the family that runs Leevy's Funeral Home.",
+  "breakthrough": "Graduated from the University of South Carolina School of Law in 1968, among its first Black graduates of the 20th century, and won a state House seat in 1970.",
+  "legacy": "Owns and operates Leevy's Funeral Home and practices law with his son, keeping a multigenerational Black family business in Columbia.",
+  "breakthroughDetail": [
+   {
+    "t": "Funeral-home owner.",
+    "d": "Owner of Leevy's Funeral Home.",
+    "basis": "documented"
+   },
+   {
+    "t": "Legislator.",
+    "d": "SC House of Representatives 1970–1980.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Next generation.",
+    "d": "Runs the business and law practice with his sons.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — I. S. Leevy Johnson",
+    "url": "https://en.wikipedia.org/wiki/I._S._Leevy_Johnson"
+   },
+   {
+    "label": "Wikipedia — Category: Benedict College alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:Benedict_College_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "benedict-college",
+    "type": "alumni",
+    "label": "B.S. business 1965"
+   },
+   {
+    "id": "leevys-funeral-home",
+    "type": "ownership",
+    "label": "owner"
+   }
+  ]
+ },
+ {
+  "id": "earl-m-middleton",
+  "name": "Earl M. Middleton",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "c. 1919–2007",
+  "base": "Orangeburg, SC",
+  "industry": "Real Estate & Insurance",
+  "originBadge": "Barbershop Start",
+  "engineBadge": "Real Estate Brokerage",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated from Claflin with a sociology degree, serving as class president all four years; Claflin lists him among notable alumni.",
+  "humbleBeginnings": "Trained as a pilot with the Tuskegee Airmen program in 1942 but was not selected for the final group; served with Army ground forces in the Pacific.",
+  "breakthrough": "Back in Orangeburg he bought a barbershop and began selling homes and insurance from the back; the firm became the first Black-owned affiliate of Coldwell Banker.",
+  "legacy": "Served in the South Carolina House (1975–1984) and was honored by the legislature after his death in 2007.",
+  "breakthroughDetail": [
+   {
+    "t": "Coldwell Banker first.",
+    "d": "Coldwell Banker Middleton and Associates was the brand's first Black-owned affiliate.",
+    "basis": "documented"
+   },
+   {
+    "t": "Legislator.",
+    "d": "SC House, Orangeburg District 95.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Memoir.",
+    "d": "His life story was published as Knowing Who I Am.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "SC African American History — Earl Matthew Middleton",
+    "url": "https://scafricanamerican.com/honorees/earl-matthew-middleton/"
+   },
+   {
+    "label": "SC General Assembly resolution (2019)",
+    "url": "https://scstatehouse.gov/sess123_2019-2020/prever/4098_20190227.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "claflin-university",
+    "type": "alumni",
+    "label": "B.A. sociology"
+   },
+   {
+    "id": "coldwell-banker-middleton-and-associates",
+    "type": "ownership",
+    "label": "founder & owner"
+   },
+   {
+    "id": "coldwell-banker",
+    "type": "deal",
+    "label": "first Black-owned affiliate"
+   }
+  ]
+ },
+ {
+  "id": "walt-simon",
+  "name": "Walt Simon",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1939–1997",
+  "base": "Louisville, KY",
+  "industry": "Fast Food",
+  "originBadge": "Pro Athlete",
+  "engineBadge": "Restaurant Franchising",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Attended Benedict College from 1957 to 1961, the only Benedict alumnus to play in the ABA or NBA.",
+  "humbleBeginnings": "Born in Delcambre, Louisiana; went undrafted and played six seasons in the Eastern Professional Basketball League.",
+  "breakthrough": "After an ABA All-Star career with the Nets and Kentucky Colonels, he joined John Y. Brown Jr. at Kentucky Fried Chicken.",
+  "legacy": "Rose to senior vice president at KFC; Wikipedia describes him as the first Black vice president of a Fortune 500 company.",
+  "breakthroughDetail": [
+   {
+    "t": "ABA All-Star.",
+    "d": "1969; 6,414 ABA points.",
+    "basis": "documented"
+   },
+   {
+    "t": "KFC SVP.",
+    "d": "Senior VP at Kentucky Fried Chicken.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Corporate barrier.",
+    "d": "Credited as a first Black VP in the Fortune 500.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Walt Simon",
+    "url": "https://en.wikipedia.org/wiki/Walt_Simon"
+   },
+   {
+    "label": "Wikipedia — Benedict College (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Benedict_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "benedict-college",
+    "type": "alumni",
+    "label": "attended 1957–1961"
+   },
+   {
+    "id": "kfc",
+    "type": "executive",
+    "label": "Senior Vice President"
+   }
+  ]
+ },
+ {
+  "id": "marjorie-joyner",
+  "name": "Marjorie Joyner",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1896–1994",
+  "base": "Chicago, IL",
+  "industry": "Beauty & Cosmetology",
+  "originBadge": "Beauty-School Pioneer",
+  "engineBadge": "Beauty Culture Training",
+  "capitalBadge": "Salary & Patent",
+  "hbcuStory": "Earned a bachelor's degree in psychology from Bethune-Cookman College in 1973, at age 77, after decades of partnership with founder Mary McLeod Bethune.",
+  "humbleBeginnings": "Born in Monterey, Virginia; in 1916 she became the first African American graduate of Chicago's A. B. Moler Beauty School.",
+  "breakthrough": "As national adviser for the Madam C. J. Walker company she oversaw 200 Walker beauty schools and trained about 15,000 stylists; her permanent-wave machine patent was assigned to the company.",
+  "legacy": "Co-founded the United Beauty School Owners and Teachers Association with Bethune in 1945, helped write Illinois's first cosmetology laws, and led the Chicago Defender Charities.",
+  "breakthroughDetail": [
+   {
+    "t": "Walker national adviser.",
+    "d": "Supervised 200 Walker schools from 1920.",
+    "basis": "documented"
+   },
+   {
+    "t": "Patent.",
+    "d": "U.S. Patent 1,693,515 for a permanent-wave machine, credited to the Walker company.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Bethune ally.",
+    "d": "Co-founded beauty-school trade association and Alpha Chi Pi Omega with Bethune in 1945.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Marjorie Stewart Joyner"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Marjorie Joyner",
+    "url": "https://en.wikipedia.org/wiki/Marjorie_Joyner"
+   },
+   {
+    "label": "Wikipedia — List of Bethune–Cookman University alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Bethune%E2%80%93Cookman_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bethune-cookman-university",
+    "type": "alumni",
+    "label": "B.A. psychology 1973"
+   },
+   {
+    "id": "madam-c-j-walker-manufacturing-company",
+    "type": "executive",
+    "label": "national adviser/supervisor of schools"
+   },
+   {
+    "id": "mary-mcleod-bethune",
+    "type": "civic",
+    "label": "co-founded United Beauty School Owners and Teachers Association, 1945"
+   }
+  ]
+ },
+ {
+  "id": "lester-oliver-bankhead",
+  "name": "Lester Oliver Bankhead",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1912–1997",
+  "base": "Los Angeles, CA",
+  "industry": "Architecture & Construction",
+  "originBadge": "Carpentry Certificate",
+  "engineBadge": "Architecture & Building",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Enrolled at Voorhees in 1937 and graduated in 1941 with a degree in agriculture and a carpentry certificate.",
+  "humbleBeginnings": "Born in Union, South Carolina; served in the Army in World War II and moved to Los Angeles in 1945.",
+  "breakthrough": "Built his own practice, Bankhead's Building Design Services (later the Lester O. Bankhead Design Group), and earned a contractor's license in 1962.",
+  "legacy": "Known for modernist church designs and homes for celebrities in Los Angeles.",
+  "breakthroughDetail": [
+   {
+    "t": "Own firm.",
+    "d": "Founded his design firm by the 1950s.",
+    "basis": "documented"
+   },
+   {
+    "t": "Contractor.",
+    "d": "Licensed general contractor from 1962.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Modernist churches.",
+    "d": "Left a body of Black-designed modernist churches in L.A.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Lester Oliver Bankhead",
+    "url": "https://en.wikipedia.org/wiki/Lester_Oliver_Bankhead"
+   },
+   {
+    "label": "Wikipedia — Voorhees University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Voorhees_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "voorhees-university",
+    "type": "alumni",
+    "label": "agriculture & carpentry certificate, 1941"
+   },
+   {
+    "id": "lester-o-bankhead-design-group",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "mary-mcleod-bethune",
+  "name": "Mary McLeod Bethune",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1875–1955",
+  "base": "Daytona Beach, FL",
+  "industry": "Education, Civil Rights & Insurance",
+  "originBadge": "Sharecroppers' Daughter",
+  "engineBadge": "School Founding & Insurance",
+  "capitalBadge": "Philanthropy & Investment",
+  "hbcuStory": "Attended Scotia Seminary (now Barber-Scotia College) on scholarship, 1888–1894; in 1904 she founded the Daytona school that became Bethune-Cookman University and led it as president.",
+  "humbleBeginnings": "Born near Mayesville, South Carolina, the child of formerly enslaved parents.",
+  "breakthrough": "Opened her girls' school in a rented Daytona house in 1904 with six students; she also founded the Central Life Insurance Company of Florida and invested in the Pittsburgh Courier.",
+  "legacy": "Founded the National Council of Negro Women (1935), led FDR's \"Black Cabinet,\" and bought Paradise Beach (Bethune-Volusia Beach) as a Black beach resort.",
+  "breakthroughDetail": [
+   {
+    "t": "Insurance founder.",
+    "d": "Founded Central Life Insurance Company of Florida.",
+    "basis": "documented"
+   },
+   {
+    "t": "Investor.",
+    "d": "Invested in the Pittsburgh Courier and life insurers; 25% owner of the Welricha Motel.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Institution builder.",
+    "d": "Bethune-Cookman University and the NCNW.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Mary McLeod Bethune",
+    "url": "https://en.wikipedia.org/wiki/Mary_McLeod_Bethune"
+   },
+   {
+    "label": "Wikipedia — Bethune–Cookman University",
+    "url": "https://en.wikipedia.org/wiki/Bethune%E2%80%93Cookman_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "barber-scotia-college",
+    "type": "alumni",
+    "label": "Scotia Seminary, 1888–1894"
+   },
+   {
+    "id": "bethune-cookman-university",
+    "type": "faculty",
+    "label": "founder & president"
+   },
+   {
+    "id": "central-life-insurance-company-of-florida",
+    "type": "ownership",
+    "label": "founder"
+   },
+   {
+    "id": "pittsburgh-courier",
+    "type": "capital",
+    "label": "investor"
+   },
+   {
+    "id": "bethune-volusia-beach",
+    "type": "ownership",
+    "label": "helped purchase Paradise Beach"
+   }
+  ]
+ },
+ {
+  "id": "david-scott",
+  "name": "David Scott",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1945–2026",
+  "base": "Atlanta, GA",
+  "industry": "Politics & Advertising",
+  "originBadge": "Aynor, SC Roots",
+  "engineBadge": "Outdoor Advertising",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a bachelor's degree from Florida A&M, then an MBA from Wharton.",
+  "humbleBeginnings": "Born in Aynor, South Carolina.",
+  "breakthrough": "Founded Dayn-Mark Advertising, an Atlanta billboard and advertising company, in 1978 while serving in the Georgia legislature.",
+  "legacy": "Represented Georgia's 13th district in Congress from 2003 until his death in April 2026 and chaired the House Agriculture Committee (2021–2023).",
+  "breakthroughDetail": [
+   {
+    "t": "Dayn-Mark Advertising.",
+    "d": "Founded 1978, named for his two daughters.",
+    "basis": "documented"
+   },
+   {
+    "t": "Agriculture chair.",
+    "d": "First African American to chair the House Agriculture Committee.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Long tenure.",
+    "d": "Georgia House, Senate and Congress from 1975 to 2026.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — David Scott (Georgia politician)",
+    "url": "https://en.wikipedia.org/wiki/David_Scott_(Georgia_politician)"
+   },
+   {
+    "label": "Wikipedia — Florida A&M University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "bachelor's degree"
+   },
+   {
+    "id": "dayn-mark-advertising",
+    "type": "ownership",
+    "label": "founder 1978"
+   }
+  ]
+ },
+ {
+  "id": "albert-bryan-jr",
+  "name": "Albert Bryan Jr.",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1968",
+  "base": "St. Thomas, USVI",
+  "industry": "Government",
+  "originBadge": "Island Native",
+  "engineBadge": "Territorial Government",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned an MBA from the University of the Virgin Islands in 2003 (B.A. economics, Wittenberg, 1989).",
+  "humbleBeginnings": "Born on St. Thomas.",
+  "breakthrough": "Served as Virgin Islands labor commissioner (2007–2015) and chair of the Economic Development Authority board, then ran consulting firms Aabra Group and Master Strategies.",
+  "legacy": "Elected the 9th governor of the U.S. Virgin Islands in 2018 and re-elected in 2022.",
+  "breakthroughDetail": [
+   {
+    "t": "Governor.",
+    "d": "In office since January 7, 2019.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "UVI MBA.",
+    "d": "One of several Caribbean heads of government educated at UVI.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Albert Bryan Jr.",
+    "url": "https://en.wikipedia.org/wiki/Albert_Bryan_Jr."
+   },
+   {
+    "label": "Wikipedia — Category: UVI alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:University_of_the_Virgin_Islands_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "university-of-the-virgin-islands",
+    "type": "alumni",
+    "label": "MBA 2003"
+   }
+  ]
+ },
+ {
+  "id": "althea-gibson",
+  "name": "Althea Gibson",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1927–2003",
+  "base": "East Orange, NJ",
+  "industry": "Tennis",
+  "originBadge": "Harlem Paddle Tennis",
+  "engineBadge": "Grand Slam Champion",
+  "capitalBadge": "Athletic Scholarship",
+  "hbcuStory": "Graduated from Florida A&M in 1953, where she attended on an athletic scholarship.",
+  "humbleBeginnings": "Grew up in Harlem, learning the game in street paddle tennis.",
+  "breakthrough": "Became the first Black player to win a Grand Slam title (1956 French Championships) and won Wimbledon and the U.S. title in 1957 and 1958.",
+  "legacy": "Won 11 Grand Slam titles and later became the first Black woman on the LPGA tour.",
+  "breakthroughDetail": [
+   {
+    "t": "Grand Slams.",
+    "d": "11 titles in singles and doubles.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Pioneer.",
+    "d": "Broke tennis's color line in the 1950s.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Althea Gibson",
+    "url": "https://en.wikipedia.org/wiki/Althea_Gibson"
+   },
+   {
+    "label": "Wikipedia — Florida A&M University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. 1953"
+   }
+  ]
+ },
+ {
+  "id": "bob-hayes",
+  "name": "Bob Hayes",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1942–2002",
+  "base": "Jacksonville, FL",
+  "industry": "Track & Football",
+  "originBadge": "Jacksonville Sprinter",
+  "engineBadge": "Olympic Gold & NFL",
+  "capitalBadge": "Athletic Scholarship",
+  "hbcuStory": "Ran track and played football at Florida A&M.",
+  "humbleBeginnings": "Grew up in Jacksonville, Florida.",
+  "breakthrough": "Won the 100 meters at the 1964 Tokyo Olympics and became a Dallas Cowboys star receiver.",
+  "legacy": "The only athlete with both an Olympic gold medal and a Super Bowl ring; inducted into the Pro Football Hall of Fame in 2009.",
+  "breakthroughDetail": [
+   {
+    "t": "\"World's Fastest Human.\"",
+    "d": "Olympic 100m champion, 1964.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Pro Football Hall of Fame 2009.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Bob Hayes",
+    "url": "https://en.wikipedia.org/wiki/Bob_Hayes"
+   },
+   {
+    "label": "Wikipedia — Florida A&M University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "attended"
+   }
+  ]
+ },
+ {
+  "id": "carrie-meek",
+  "name": "Carrie Meek",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1926–2021",
+  "base": "Miami, FL",
+  "industry": "Politics",
+  "originBadge": "Sharecroppers' Daughter",
+  "engineBadge": "Congress",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Florida A&M in 1946, where she was also a track athlete.",
+  "humbleBeginnings": "Grew up in Tallahassee's segregated Black community.",
+  "breakthrough": "Became one of the first three Black Floridians elected to Congress since Reconstruction (1992).",
+  "legacy": "Represented Miami in Congress 1993–2003; succeeded by her son Kendrick Meek, also a FAMU graduate.",
+  "breakthroughDetail": [
+   {
+    "t": "Congress.",
+    "d": "U.S. House 1993–2003.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Political family.",
+    "d": "Son Kendrick Meek succeeded her.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Carrie Meek",
+    "url": "https://en.wikipedia.org/wiki/Carrie_Meek"
+   },
+   {
+    "label": "Wikipedia — List of FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Florida_Agricultural_and_Mechanical_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. 1946"
+   }
+  ]
+ },
+ {
+  "id": "keisha-lance-bottoms",
+  "name": "Keisha Lance Bottoms",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1970",
+  "base": "Atlanta, GA",
+  "industry": "Politics & Law",
+  "originBadge": "Atlanta Native",
+  "engineBadge": "City Government",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a bachelor's degree from Florida A&M, then a law degree from Georgia State.",
+  "humbleBeginnings": "Daughter of R&B singer Major Lance, raised in Atlanta.",
+  "breakthrough": "Elected the 60th mayor of Atlanta in 2017.",
+  "legacy": "Served as mayor 2018–2022 and later as a senior adviser in the Biden White House.",
+  "breakthroughDetail": [
+   {
+    "t": "Mayor.",
+    "d": "Atlanta, 2018–2022.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "White House.",
+    "d": "Senior adviser for public engagement.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Keisha Lance Bottoms",
+    "url": "https://en.wikipedia.org/wiki/Keisha_Lance_Bottoms"
+   },
+   {
+    "label": "Wikipedia — Florida A&M University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "bachelor's degree"
+   }
+  ]
+ },
+ {
+  "id": "ibram-x-kendi",
+  "name": "Ibram X. Kendi",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1982",
+  "base": "Boston, MA",
+  "industry": "Scholarship & Publishing",
+  "originBadge": "Queens Native",
+  "engineBadge": "Antiracism Scholarship",
+  "capitalBadge": "Book Royalties",
+  "hbcuStory": "Graduated from Florida A&M in 2004 with degrees in journalism and African American studies.",
+  "humbleBeginnings": "Born in Queens, New York; moved to Virginia as a teen.",
+  "breakthrough": "Won the 2016 National Book Award for Stamped from the Beginning.",
+  "legacy": "Author of How to Be an Antiracist; founded antiracism research centers at American University and Boston University.",
+  "breakthroughDetail": [
+   {
+    "t": "National Book Award.",
+    "d": "2016, nonfiction.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Research centers.",
+    "d": "Founding director at AU and BU.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ibram X. Kendi",
+    "url": "https://en.wikipedia.org/wiki/Ibram_X._Kendi"
+   },
+   {
+    "label": "Wikipedia — List of FAMU alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Florida_Agricultural_and_Mechanical_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. 2004"
+   }
+  ]
+ },
+ {
+  "id": "jim-clyburn",
+  "name": "Jim Clyburn",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1940",
+  "base": "Columbia, SC",
+  "industry": "Politics",
+  "originBadge": "Parsonage Upbringing",
+  "engineBadge": "Congressional Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from South Carolina State in 1961 with a history degree; he was active in Orangeburg student civil rights protests.",
+  "humbleBeginnings": "Son of a fundamentalist minister in Sumter, South Carolina.",
+  "breakthrough": "Elected to Congress in 1992 from South Carolina's 6th district.",
+  "legacy": "Served as House Majority Whip and Assistant Democratic Leader; his 2020 endorsement is credited with reviving Joe Biden's campaign.",
+  "breakthroughDetail": [
+   {
+    "t": "Majority Whip.",
+    "d": "Third-ranking House Democrat.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "SC State champion.",
+    "d": "Longtime advocate for HBCU funding.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "James E. Clyburn"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Jim Clyburn",
+    "url": "https://en.wikipedia.org/wiki/Jim_Clyburn"
+   },
+   {
+    "label": "Wikipedia — South Carolina State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "south-carolina-state-university",
+    "type": "alumni",
+    "label": "B.A. history 1961"
+   }
+  ]
+ },
+ {
+  "id": "ernest-a-finney-jr",
+  "name": "Ernest A. Finney Jr.",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1931–2017",
+  "base": "Columbia, SC",
+  "industry": "Law & Judiciary",
+  "originBadge": "Civil Rights Lawyer",
+  "engineBadge": "State Supreme Court",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned his bachelor's from Claflin in 1952 and his law degree from South Carolina State in 1954.",
+  "humbleBeginnings": "Practiced civil rights law in Sumter, defending sit-in protesters including the Friendship Nine.",
+  "breakthrough": "Became the first Black justice on the South Carolina Supreme Court since Reconstruction.",
+  "legacy": "Served as the court's chief justice (1994–2000).",
+  "breakthroughDetail": [
+   {
+    "t": "Chief Justice.",
+    "d": "South Carolina Supreme Court.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Two HBCUs.",
+    "d": "Claflin and SC State law school.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ernest A. Finney Jr.",
+    "url": "https://en.wikipedia.org/wiki/Ernest_A._Finney_Jr."
+   },
+   {
+    "label": "Wikipedia — South Carolina State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "claflin-university",
+    "type": "alumni",
+    "label": "B.A. 1952"
+   },
+   {
+    "id": "south-carolina-state-university",
+    "type": "alumni",
+    "label": "J.D. 1954"
+   }
+  ]
+ },
+ {
+  "id": "ernest-everett-just",
+  "name": "Ernest Everett Just",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1883–1941",
+  "base": "Washington, DC",
+  "industry": "Cell Biology",
+  "originBadge": "Charleston Child",
+  "engineBadge": "Embryology Research",
+  "capitalBadge": "Academic Grants",
+  "hbcuStory": "Sent at 13 to South Carolina's Colored Normal Industrial Agricultural and Mechanical College (now SC State) before Kimball Union Academy and Dartmouth.",
+  "humbleBeginnings": "Born in Charleston; his mother sacrificed to send him north for school.",
+  "breakthrough": "Graduated magna cum laude from Dartmouth (1907), earned a Chicago Ph.D. (1916) and pioneered the study of the cell surface and fertilization.",
+  "legacy": "First recipient of the NAACP's Spingarn Medal (1915); headed Howard's zoology department and co-founded Omega Psi Phi.",
+  "breakthroughDetail": [
+   {
+    "t": "Cell surface.",
+    "d": "Discovered the fast block to polyspermy.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Spingarn Medal.",
+    "d": "First recipient, 1915.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ernest Everett Just",
+    "url": "https://en.wikipedia.org/wiki/Ernest_Everett_Just"
+   },
+   {
+    "label": "Wikipedia — Category: SC State alumni",
+    "url": "https://en.wikipedia.org/wiki/Category:South_Carolina_State_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "south-carolina-state-university",
+    "type": "alumni",
+    "label": "attended as a teen"
+   }
+  ]
+ },
+ {
+  "id": "septima-clark",
+  "name": "Septima Clark",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1898–1987",
+  "base": "Charleston, SC",
+  "industry": "Education & Civil Rights",
+  "originBadge": "Charleston Teacher",
+  "engineBadge": "Citizenship Schools",
+  "capitalBadge": "Movement Funding",
+  "hbcuStory": "Studied at Charleston's Avery Normal Institute, earned a bachelor's from Benedict College in 1942 and a master's from Hampton.",
+  "humbleBeginnings": "Born in Charleston to a formerly enslaved father; began teaching on Johns Island.",
+  "breakthrough": "Built the adult-literacy Citizenship Schools that taught voter registration across the South.",
+  "legacy": "Became the SCLC's director of education and the first woman on its board; called the \"Mother of the Movement.\"",
+  "breakthroughDetail": [
+   {
+    "t": "Citizenship Schools.",
+    "d": "Run through Highlander, then SCLC from 1961.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "SCLC board.",
+    "d": "First woman member.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Septima Poinsette Clark"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Septima Poinsette Clark",
+    "url": "https://en.wikipedia.org/wiki/Septima_Poinsette_Clark"
+   },
+   {
+    "label": "Wikipedia — Avery Normal Institute",
+    "url": "https://en.wikipedia.org/wiki/Avery_Normal_Institute"
+   }
+  ],
+  "connections": [
+   {
+    "id": "avery-normal-institute",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "benedict-college",
+    "type": "alumni",
+    "label": "B.A. 1942"
+   },
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "master's degree"
+   }
+  ]
+ },
+ {
+  "id": "modjeska-monteith-simkins",
+  "name": "Modjeska Monteith Simkins",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1899–1992",
+  "base": "Columbia, SC",
+  "industry": "Public Health & Civil Rights",
+  "originBadge": "Columbia Educator",
+  "engineBadge": "Civil Rights Organizing",
+  "capitalBadge": "Movement Funding",
+  "hbcuStory": "Earned a B.A. from Benedict College in 1921.",
+  "humbleBeginnings": "Born in Columbia; taught and worked in public health.",
+  "breakthrough": "Helped found the South Carolina NAACP conference in 1939 and served as its secretary 1941–1957.",
+  "legacy": "Helped draft the Clarendon County declaration in Briggs v. Elliott, one of the cases consolidated into Brown v. Board.",
+  "breakthroughDetail": [
+   {
+    "t": "Briggs v. Elliott.",
+    "d": "Key organizer of the 1950 case.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NAACP.",
+    "d": "Only woman officer of the SC conference.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Modjeska Monteith Simkins",
+    "url": "https://en.wikipedia.org/wiki/Modjeska_Monteith_Simkins"
+   },
+   {
+    "label": "Wikipedia — Benedict College (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Benedict_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "benedict-college",
+    "type": "alumni",
+    "label": "B.A. 1921"
+   }
+  ]
+ },
+ {
+  "id": "clementa-c-pinckney",
+  "name": "Clementa C. Pinckney",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1973–2015",
+  "base": "Ridgeland, SC",
+  "industry": "Ministry & Politics",
+  "originBadge": "Teen Preacher",
+  "engineBadge": "Legislature & Pulpit",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated magna cum laude from Allen University in 1995.",
+  "humbleBeginnings": "Began preaching at 13 and was elected to the SC House at 23.",
+  "breakthrough": "Became a state senator and pastor of Charleston's Mother Emanuel AME Church.",
+  "legacy": "Killed with eight parishioners in the 2015 Emanuel AME church shooting; President Obama delivered his eulogy.",
+  "breakthroughDetail": [
+   {
+    "t": "Legislator.",
+    "d": "SC House 1997–2000; Senate 2000–2015.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Mother Emanuel.",
+    "d": "Senior pastor at his death.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Clementa C. Pinckney",
+    "url": "https://en.wikipedia.org/wiki/Clementa_C._Pinckney"
+   },
+   {
+    "label": "Wikipedia — Allen University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Allen_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "allen-university",
+    "type": "alumni",
+    "label": "B.A. 1995"
+   }
+  ]
+ },
+ {
+  "id": "a-philip-randolph",
+  "name": "A. Philip Randolph",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1889–1979",
+  "base": "New York, NY",
+  "industry": "Labor & Civil Rights",
+  "originBadge": "Preacher's Son",
+  "engineBadge": "Labor Organizing",
+  "capitalBadge": "Union Dues",
+  "hbcuStory": "Graduated as valedictorian of Cookman Institute's 1907 class in Jacksonville.",
+  "humbleBeginnings": "Born in Crescent City, Florida, son of an AME minister.",
+  "breakthrough": "Co-founded The Messenger magazine (1917) and from 1925 led the Brotherhood of Sleeping Car Porters, winning a Pullman contract in 1937.",
+  "legacy": "Led the 1963 March on Washington for Jobs and Freedom.",
+  "breakthroughDetail": [
+   {
+    "t": "Pullman contract.",
+    "d": "First major Black-led union contract, 1937.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "March on Washington.",
+    "d": "Chaired the 1963 march.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — A. Philip Randolph",
+    "url": "https://en.wikipedia.org/wiki/A._Philip_Randolph"
+   },
+   {
+    "label": "Wikipedia — Edward Waters University (notable people)",
+    "url": "https://en.wikipedia.org/wiki/Edward_Waters_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "cookman-institute",
+    "type": "alumni",
+    "label": "valedictorian 1907"
+   },
+   {
+    "id": "brotherhood-of-sleeping-car-porters",
+    "type": "executive",
+    "label": "president from 1925"
+   }
+  ]
+ },
+ {
+  "id": "harry-t-moore",
+  "name": "Harry T. Moore",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1905–1951",
+  "base": "Mims, FL",
+  "industry": "Civil Rights",
+  "originBadge": "Suwannee County Teacher",
+  "engineBadge": "Voter Registration",
+  "capitalBadge": "Movement Funding",
+  "hbcuStory": "Earned a bachelor's in education from Bethune-Cookman College in 1936; Florida Memorial also lists him among its alumni.",
+  "humbleBeginnings": "Born in Houston, Florida; a schoolteacher in Brevard County.",
+  "breakthrough": "Founded the Brevard County NAACP (1934) and led the Florida NAACP and Progressive Voters League, raising Black voter registration to 31%.",
+  "legacy": "Killed with his wife Harriette when a Klan bomb destroyed their home on Christmas night 1951.",
+  "breakthroughDetail": [
+   {
+    "t": "Voter registration.",
+    "d": "Raised Florida Black registration to 31% by 1950.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Martyr.",
+    "d": "First NAACP official assassinated in the movement.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Harry T. Moore",
+    "url": "https://en.wikipedia.org/wiki/Harry_T._Moore"
+   },
+   {
+    "label": "Wikipedia — Florida Memorial University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_Memorial_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bethune-cookman-university",
+    "type": "alumni",
+    "label": "B.S. education 1936"
+   },
+   {
+    "id": "florida-memorial-university",
+    "type": "alumni",
+    "label": "listed alumnus (Florida Memorial)"
+   }
+  ]
+ },
+ {
+  "id": "buck-oneil",
+  "name": "Buck O'Neil",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1911–2006",
+  "base": "Kansas City, MO",
+  "industry": "Baseball",
+  "originBadge": "Florida Celery Fields",
+  "engineBadge": "Negro Leagues & MLB",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Finished high school and took two years of college courses at Edward Waters College in Jacksonville.",
+  "humbleBeginnings": "Grew up in Sarasota, Florida, which had no high school for Black students.",
+  "breakthrough": "Kansas City Monarchs star and manager; became MLB's first Black coach with the Cubs in 1962.",
+  "legacy": "Elected to the Baseball Hall of Fame in 2022 and awarded the Presidential Medal of Freedom (2006).",
+  "breakthroughDetail": [
+   {
+    "t": "First Black MLB coach.",
+    "d": "Chicago Cubs, 1962.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Inducted 2022.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Buck O'Neil",
+    "url": "https://en.wikipedia.org/wiki/Buck_O%27Neil"
+   },
+   {
+    "label": "Wikipedia — Edward Waters University (notable people)",
+    "url": "https://en.wikipedia.org/wiki/Edward_Waters_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "edward-waters-university",
+    "type": "alumni",
+    "label": "attended (high school & two years of college)"
+   }
+  ]
+ },
+ {
+  "id": "barrington-irving",
+  "name": "Barrington Irving",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1983",
+  "base": "Miami, FL",
+  "industry": "Aviation & STEM Education",
+  "originBadge": "Jamaican-Born",
+  "engineBadge": "Aviation STEM Programs",
+  "capitalBadge": "Nonprofit Grants",
+  "hbcuStory": "Earned a B.S. in aeronautical science, magna cum laude, from Florida Memorial University.",
+  "humbleBeginnings": "Born in Kingston, Jamaica; raised in Miami.",
+  "breakthrough": "In 2007 became the youngest person and first Black pilot to fly solo around the world, in a plane named Inspiration.",
+  "legacy": "Founded the nonprofit Experience Aviation (2005) and the Flying Classroom STEM curriculum (2013).",
+  "breakthroughDetail": [
+   {
+    "t": "Solo circumnavigation.",
+    "d": "24,600 miles, March–June 2007.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Experience Aviation.",
+    "d": "Based at Opa-Locka Executive Airport.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Barrington Irving",
+    "url": "https://en.wikipedia.org/wiki/Barrington_Irving"
+   },
+   {
+    "label": "Wikipedia — Florida Memorial University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Florida_Memorial_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-memorial-university",
+    "type": "alumni",
+    "label": "B.S. aeronautical science"
+   },
+   {
+    "id": "experience-aviation",
+    "type": "ownership",
+    "label": "founder 2005"
+   }
+  ]
+ },
+ {
+  "id": "cecil-j-williams",
+  "name": "Cecil J. Williams",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1937",
+  "base": "Orangeburg, SC",
+  "industry": "Photography",
+  "originBadge": "Teen Photographer",
+  "engineBadge": "Civil Rights Documentation",
+  "capitalBadge": "Photography Business",
+  "hbcuStory": "Earned a B.A. in art from Claflin in 1960.",
+  "humbleBeginnings": "Born in Orangeburg; began working as a photographer as a young teen.",
+  "breakthrough": "Documented South Carolina's civil rights movement for Jet and other outlets.",
+  "legacy": "Invented the FilmToaster film scanner (2015) and opened the Cecil Williams South Carolina Civil Rights Museum in 2019.",
+  "breakthroughDetail": [
+   {
+    "t": "Inventor.",
+    "d": "FilmToaster negative digitizer.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Museum founder.",
+    "d": "Opened 2019 in Orangeburg.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Cecil J. Williams",
+    "url": "https://en.wikipedia.org/wiki/Cecil_J._Williams"
+   },
+   {
+    "label": "Wikipedia — Claflin University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Claflin_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "claflin-university",
+    "type": "alumni",
+    "label": "B.A. art 1960"
+   },
+   {
+    "id": "cecil-williams-civil-rights-museum",
+    "type": "ownership",
+    "label": "founder 2019"
+   }
+  ]
+ },
+ {
+  "id": "j-anthony-brown",
+  "name": "J. Anthony Brown",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1945",
+  "base": "Los Angeles, CA",
+  "industry": "Comedy & Radio",
+  "originBadge": "Tailor's Trade",
+  "engineBadge": "Comedy & Radio",
+  "capitalBadge": "Show Salary",
+  "hbcuStory": "Attended Denmark Technical College, where he learned tailoring.",
+  "humbleBeginnings": "Born in Columbia, South Carolina; aspired to be a clothing designer.",
+  "breakthrough": "Became a writer for The Arsenio Hall Show and a 20-year fixture of the Tom Joyner Morning Show.",
+  "legacy": "Later on the Steve Harvey Morning Show; owns a clothing line, store and comedy club in Los Angeles.",
+  "breakthroughDetail": [
+   {
+    "t": "Radio.",
+    "d": "Tom Joyner Morning Show 1996–2016.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Businesses.",
+    "d": "J. Anthony Brown Collection and comedy store.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — J. Anthony Brown",
+    "url": "https://en.wikipedia.org/wiki/J._Anthony_Brown"
+   },
+   {
+    "label": "Wikipedia — Denmark Technical College",
+    "url": "https://en.wikipedia.org/wiki/Denmark_Technical_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "denmark-technical-college",
+    "type": "alumni",
+    "label": "attended (tailoring)"
+   }
+  ]
+ },
+ {
+  "id": "harthorne-wingo",
+  "name": "Harthorne Wingo",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1947–2021",
+  "base": "New York, NY",
+  "industry": "Basketball",
+  "originBadge": "Tryon, NC Roots",
+  "engineBadge": "Pro Basketball",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Attended Friendship Junior College in Rock Hill for one year (1965–66).",
+  "humbleBeginnings": "Born in Tryon, North Carolina; played streetball in Greenwich Village.",
+  "breakthrough": "Went from the Allentown Jets to the New York Knicks, winning the 1973 NBA championship.",
+  "legacy": "Played in Italy with Cantù, winning two European Cup Winners' Cups.",
+  "breakthroughDetail": [
+   {
+    "t": "NBA champion.",
+    "d": "1973 Knicks.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Europe.",
+    "d": "Pallacanestro Cantù 1976–1978.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Harthorne Wingo",
+    "url": "https://en.wikipedia.org/wiki/Harthorne_Wingo"
+   },
+   {
+    "label": "Wikipedia — Friendship College",
+    "url": "https://en.wikipedia.org/wiki/Friendship_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "friendship-college",
+    "type": "alumni",
+    "label": "attended 1965–66"
+   }
+  ]
+ },
+ {
+  "id": "arthenia-j-bates-millican",
+  "name": "Arthenia J. Bates Millican",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1920–2012",
+  "base": "Sumter, SC",
+  "industry": "Literature & Education",
+  "originBadge": "Sumter Native",
+  "engineBadge": "Fiction & Teaching",
+  "capitalBadge": "Academic Salary",
+  "hbcuStory": "Earned a B.A. in English from Morris College in 1941 and chaired its English department 1947–49.",
+  "humbleBeginnings": "Born in Sumter, South Carolina.",
+  "breakthrough": "Published Seeds Beneath the Snow (1969) and The Deity Nodded (1973) while teaching at Southern University.",
+  "legacy": "Earned an LSU Ph.D. (1972) and an NEA fellowship (1976).",
+  "breakthroughDetail": [
+   {
+    "t": "Author.",
+    "d": "Short stories, poetry and novels.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NEA fellow.",
+    "d": "1976.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Arthenia J. Bates Millican",
+    "url": "https://en.wikipedia.org/wiki/Arthenia_J._Bates_Millican"
+   },
+   {
+    "label": "Wikipedia — Morris College",
+    "url": "https://en.wikipedia.org/wiki/Morris_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morris-college",
+    "type": "alumni",
+    "label": "B.A. 1941"
+   },
+   {
+    "id": "morris-college",
+    "type": "faculty",
+    "label": "English department chair 1947–1949"
+   }
+  ]
+ },
+ {
+  "id": "harry-carson",
+  "name": "Harry Carson",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1953",
+  "base": "Franklin Lakes, NJ",
+  "industry": "Football & Sports Business",
+  "originBadge": "Florence, SC Roots",
+  "engineBadge": "Sports Consulting",
+  "capitalBadge": "NFL Earnings",
+  "hbcuStory": "Played at South Carolina State 1972–1975 and earned a B.S. in education in 1976.",
+  "humbleBeginnings": "Born in Florence, South Carolina.",
+  "breakthrough": "New York Giants linebacker and 10-year captain (1976–1988), Super Bowl XXI champion and Hall of Famer (2006).",
+  "legacy": "Runs Harry Carson Inc., a sports consulting and promotions company, and was part-owner of the Arena Football League's New Jersey Red Dogs.",
+  "breakthroughDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Pro Football Hall of Fame 2006.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Sports business.",
+    "d": "Harry Carson Inc.; Red Dogs co-owner.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Harry Carson",
+    "url": "https://en.wikipedia.org/wiki/Harry_Carson"
+   },
+   {
+    "label": "Wikipedia — South Carolina State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "south-carolina-state-university",
+    "type": "alumni",
+    "label": "B.S. education 1976"
+   },
+   {
+    "id": "harry-carson-inc",
+    "type": "ownership",
+    "label": "founder"
+   },
+   {
+    "id": "new-jersey-red-dogs",
+    "type": "ownership",
+    "label": "part-owner"
+   }
+  ]
+ },
+ {
+  "id": "ibm",
+  "name": "IBM",
+  "type": "entity",
+  "kind": "Public Technology Company",
+  "description": "Armonk, N.Y.-based IT services, software and hardware company.",
+  "gics": {
+   "sub": "IT Consulting & Other Services",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "symantec",
+  "name": "Symantec",
+  "type": "entity",
+  "kind": "Public Software Company",
+  "description": "Cybersecurity software maker (now Gen Digital after the sale of its enterprise unit).",
+  "gics": {
+   "sub": "Systems Software",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "microsoft",
+  "name": "Microsoft",
+  "type": "entity",
+  "kind": "Public Technology Company",
+  "description": "Redmond, Wash.-based software and cloud company.",
+  "gics": {
+   "sub": "Systems Software",
+   "basis": "official"
+  },
+  "fortune500": {
+   "rank": 13,
+   "year": 2024
+  },
+  "connections": []
+ },
+ {
+  "id": "virtual-instruments",
+  "name": "Virtual Instruments",
+  "type": "entity",
+  "kind": "Private Software Company",
+  "description": "Silicon Valley infrastructure-performance monitoring company; merged with Load DynamiX in 2016.",
+  "gics": {
+   "sub": "Application Software",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "golden-state-warriors",
+  "name": "Golden State Warriors",
+  "type": "entity",
+  "kind": "NBA Franchise",
+  "description": "San Francisco-based National Basketball Association team.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "coca-cola-company",
+  "name": "The Coca-Cola Company",
+  "type": "entity",
+  "kind": "Public Beverage Company",
+  "description": "Atlanta-based global beverage company.",
+  "gics": {
+   "sub": "Soft Drinks & Non-alcoholic Beverages",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "converse",
+  "name": "Converse",
+  "type": "entity",
+  "kind": "Footwear Brand (Nike subsidiary)",
+  "description": "Boston-based sneaker brand owned by Nike since 2003.",
+  "gics": {
+   "sub": "Footwear",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "nike",
+  "name": "Nike",
+  "type": "entity",
+  "kind": "Public Athletic Apparel Company",
+  "description": "Beaverton, Ore.-based athletic footwear and apparel company.",
+  "gics": {
+   "sub": "Footwear",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "helen-of-troy",
+  "name": "Helen of Troy",
+  "type": "entity",
+  "kind": "Public Consumer Products Company",
+  "description": "Nasdaq-listed owner of OXO, Hydro Flask, Osprey and licensed beauty-appliance brands.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "independence-blue-cross",
+  "name": "Independence Blue Cross",
+  "type": "entity",
+  "kind": "Health Insurer",
+  "description": "Philadelphia-region Blue Cross Blue Shield health insurer (Independence Health Group).",
+  "gics": {
+   "sub": "Health Care Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "northern-trust",
+  "name": "Northern Trust",
+  "type": "entity",
+  "kind": "Public Bank & Asset Manager",
+  "description": "Chicago-based wealth management, asset servicing and asset management firm.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-copia-group",
+  "name": "The Copia Group",
+  "type": "entity",
+  "kind": "Private Investment Firm",
+  "description": "Private investment firm providing capital to lower-middle-market companies, founded by Shundrawn Thomas.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "reinsurance-group-of-america",
+  "name": "Reinsurance Group of America",
+  "type": "entity",
+  "kind": "Public Reinsurer",
+  "description": "St. Louis-based life and health reinsurer.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "impax-asset-management",
+  "name": "Impax Asset Management",
+  "type": "entity",
+  "kind": "Public Asset Manager",
+  "description": "London-listed sustainable-investment asset manager.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "heidrick-and-struggles",
+  "name": "Heidrick & Struggles",
+  "type": "entity",
+  "kind": "Public Executive Search Firm",
+  "description": "Chicago-based executive search and leadership consulting firm.",
+  "gics": {
+   "sub": "Human Resource & Employment Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "xerox",
+  "name": "Xerox",
+  "type": "entity",
+  "kind": "Public Technology Company",
+  "description": "Document technology and office equipment company.",
+  "gics": {
+   "sub": "Technology Hardware, Storage & Peripherals",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "rebuild-la",
+  "name": "Rebuild L.A.",
+  "type": "entity",
+  "kind": "Nonprofit Redevelopment Initiative",
+  "description": "Private-sector initiative formed after the 1992 Los Angeles unrest to drive inner-city investment.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "kinsey-collection",
+  "name": "The Kinsey Collection",
+  "type": "entity",
+  "kind": "Private Art & History Collection",
+  "description": "Bernard and Shirley Kinsey's touring collection of African American art and historical documents.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rainforest-films",
+  "name": "Rainforest Films",
+  "type": "entity",
+  "kind": "Film Production Company",
+  "description": "Atlanta film company co-founded by FAMU classmates Will Packer and Rob Hardy; dissolved 2014.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rainforest-entertainment",
+  "name": "Rainforest Entertainment",
+  "type": "entity",
+  "kind": "Film Production Company",
+  "description": "Rob Hardy's production company, launched in 2015.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "will-packer-productions",
+  "name": "Will Packer Productions",
+  "type": "entity",
+  "kind": "Film & TV Production Company",
+  "description": "Will Packer's production company, founded 2013 with Universal deals.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "abc-news",
+  "name": "ABC News",
+  "type": "entity",
+  "kind": "Broadcast News Division",
+  "description": "News division of Disney-owned ABC.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "cbs-news",
+  "name": "CBS News",
+  "type": "entity",
+  "kind": "Broadcast News Division",
+  "description": "News division of CBS (Paramount).",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "fearless-fund",
+  "name": "Fearless Fund",
+  "type": "entity",
+  "kind": "Venture Capital Firm",
+  "description": "Atlanta VC fund investing in women-of-color-led companies.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "public-private-partnership-inc",
+  "name": "Public Private Partnership, Inc.",
+  "type": "entity",
+  "kind": "Consulting Firm",
+  "description": "Tallahassee strategic-planning and political consulting firm founded in 1989 by Arthur R. Collins.",
+  "gics": {
+   "sub": "Advertising",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "thegroup",
+  "name": "theGROUP",
+  "type": "entity",
+  "kind": "Strategy & Communications Firm",
+  "description": "Washington, D.C. strategy, policy and communications firm founded in 2011.",
+  "gics": {
+   "sub": "Advertising",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rlj-lodging-trust",
+  "name": "RLJ Lodging Trust",
+  "type": "entity",
+  "kind": "Public Hotel REIT",
+  "description": "Lodging real-estate investment trust founded by Robert L. Johnson.",
+  "gics": {
+   "sub": "Hotel & Resort REITs",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "liquid-soul",
+  "name": "Liquid Soul",
+  "type": "entity",
+  "kind": "Marketing Agency",
+  "description": "Atlanta-based brand and entertainment marketing agency founded in 2001.",
+  "gics": {
+   "sub": "Advertising",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "procter-and-gamble",
+  "name": "Procter & Gamble",
+  "type": "entity",
+  "kind": "Public Consumer Goods Company",
+  "description": "Cincinnati-based consumer products company.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "mielle-organics",
+  "name": "Mielle Organics",
+  "type": "entity",
+  "kind": "Haircare Brand (P&G)",
+  "description": "Textured-haircare brand founded by Monique and Melvin Rodriguez and acquired by P&G.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-lip-bar",
+  "name": "The Lip Bar",
+  "type": "entity",
+  "kind": "Cosmetics Company",
+  "description": "Detroit-based vegan cosmetics brand founded by Melissa Butler in 2012.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "target",
+  "name": "Target",
+  "type": "entity",
+  "kind": "Public Retailer",
+  "description": "Minneapolis-based general merchandise retailer.",
+  "gics": {
+   "sub": "Consumer Staples Merchandise Retail",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "mcdonalds",
+  "name": "McDonald's",
+  "type": "entity",
+  "kind": "Public Restaurant Company",
+  "description": "Global quick-service restaurant franchisor.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "general-motors",
+  "name": "General Motors",
+  "type": "entity",
+  "kind": "Public Automaker",
+  "description": "Detroit-based automobile manufacturer.",
+  "gics": {
+   "sub": "Automobile Manufacturers",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-miami-times",
+  "name": "The Miami Times",
+  "type": "entity",
+  "kind": "Black-Owned Newspaper",
+  "description": "Weekly newspaper founded in 1923 by H. E. S. Reeves for Miami's Black community.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "bayside-marketplace",
+  "name": "Bayside Marketplace",
+  "type": "entity",
+  "kind": "Retail Development",
+  "description": "Downtown Miami waterfront shopping center.",
+  "gics": {
+   "sub": "Real Estate Development",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "odells-lounge-and-grill",
+  "name": "O'Dell's Lounge and Grill",
+  "type": "entity",
+  "kind": "Nightclub (historic)",
+  "description": "Fort Lauderdale nightclub owned by James A. Dallas Sr. that served Black and white patrons under segregation.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "perkins-service-station-and-beauty-shop",
+  "name": "Perkins Service Station and Beauty Shop",
+  "type": "entity",
+  "kind": "Family Business (historic)",
+  "description": "Tallahassee Black-owned gas station and beauty shop that supplied the 1956 bus boycott.",
+  "gics": {
+   "sub": "Automotive Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "coaching-and-positive-psychology-institute",
+  "name": "Coaching and Positive Psychology Institute",
+  "type": "entity",
+  "kind": "Training Company",
+  "description": "Coach-training institute founded by Valorie Burton in 2009.",
+  "gics": {
+   "sub": "Education Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "winsome-sinclair-and-associates",
+  "name": "Winsome Sinclair and Associates",
+  "type": "entity",
+  "kind": "Casting Agency",
+  "description": "Atlanta-based international casting agency.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "howard-stirk-holdings",
+  "name": "Howard Stirk Holdings",
+  "type": "entity",
+  "kind": "Television Broadcaster",
+  "description": "Armstrong Williams's TV station group, founded 2013 and aligned with Sinclair.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "graham-williams-group",
+  "name": "Graham Williams Group",
+  "type": "entity",
+  "kind": "Marketing & PR Firm",
+  "description": "International marketing, advertising and media PR consultancy formed in 1991.",
+  "gics": {
+   "sub": "Advertising",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "sinclair-broadcast-group",
+  "name": "Sinclair Broadcast Group",
+  "type": "entity",
+  "kind": "Public Broadcaster",
+  "description": "Maryland-based owner and operator of local TV stations.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "seldom-blues",
+  "name": "Seldom Blues",
+  "type": "entity",
+  "kind": "Restaurant (Detroit)",
+  "description": "Downtown Detroit restaurant and jazz venue owned by Robert Porcher's group.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "leevys-funeral-home",
+  "name": "Leevy's Funeral Home",
+  "type": "entity",
+  "kind": "Family Funeral Home",
+  "description": "Columbia, S.C. Black family-owned funeral home.",
+  "gics": {
+   "sub": "Specialized Consumer Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "coldwell-banker-middleton-and-associates",
+  "name": "Coldwell Banker Middleton and Associates",
+  "type": "entity",
+  "kind": "Real Estate Brokerage",
+  "description": "Orangeburg, S.C. brokerage; first Black-owned Coldwell Banker affiliate.",
+  "gics": {
+   "sub": "Real Estate Development",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "coldwell-banker",
+  "name": "Coldwell Banker",
+  "type": "entity",
+  "kind": "Real Estate Brokerage Franchisor",
+  "description": "National residential real estate brokerage brand.",
+  "gics": {
+   "sub": "Real Estate Development",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "kfc",
+  "name": "KFC",
+  "type": "entity",
+  "kind": "Restaurant Chain",
+  "description": "Kentucky Fried Chicken, the Louisville-born fried-chicken chain.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "madam-c-j-walker-manufacturing-company",
+  "name": "Madam C. J. Walker Manufacturing Company",
+  "type": "entity",
+  "kind": "Beauty Products Company (historic)",
+  "description": "Indianapolis hair-care and beauty-school company founded by Madam C. J. Walker.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "lester-o-bankhead-design-group",
+  "name": "Lester O. Bankhead Design Group",
+  "type": "entity",
+  "kind": "Architecture Firm",
+  "description": "Los Angeles architecture and building-design firm (originally Bankhead's Building Design Services).",
+  "gics": {
+   "sub": "Construction & Engineering",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "central-life-insurance-company-of-florida",
+  "name": "Central Life Insurance Company of Florida",
+  "type": "entity",
+  "kind": "Black-Owned Life Insurer (historic)",
+  "description": "Tampa-based life insurer founded by Mary McLeod Bethune.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "pittsburgh-courier",
+  "name": "Pittsburgh Courier",
+  "type": "entity",
+  "kind": "Black Newspaper (historic)",
+  "description": "Nationally circulated Black weekly newspaper.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "bethune-volusia-beach",
+  "name": "Bethune-Volusia Beach",
+  "type": "entity",
+  "kind": "Black Beach Resort (historic)",
+  "description": "Florida beach purchased (as Paradise Beach) with Bethune's help for Black recreation under segregation.",
+  "gics": {
+   "sub": "Leisure Facilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "dayn-mark-advertising",
+  "name": "Dayn-Mark Advertising",
+  "type": "entity",
+  "kind": "Outdoor Advertising Company",
+  "description": "Atlanta billboard and advertising company founded by David Scott in 1978.",
+  "gics": {
+   "sub": "Advertising",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "brotherhood-of-sleeping-car-porters",
+  "name": "Brotherhood of Sleeping Car Porters",
+  "type": "entity",
+  "kind": "Labor Union",
+  "description": "First major Black-led labor union, led by A. Philip Randolph.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "experience-aviation",
+  "name": "Experience Aviation",
+  "type": "entity",
+  "kind": "Nonprofit",
+  "description": "Miami aviation-based STEM education nonprofit founded by Barrington Irving.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "cecil-williams-civil-rights-museum",
+  "name": "Cecil Williams South Carolina Civil Rights Museum",
+  "type": "entity",
+  "kind": "Museum",
+  "description": "Orangeburg museum opened in 2019 by photographer Cecil J. Williams.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "harry-carson-inc",
+  "name": "Harry Carson Inc.",
+  "type": "entity",
+  "kind": "Sports Consulting Company",
+  "description": "Harry Carson's sports consulting and promotions company.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "new-jersey-red-dogs",
+  "name": "New Jersey Red Dogs",
+  "type": "entity",
+  "kind": "Arena Football Team (defunct)",
+  "description": "Arena Football League franchise co-owned by former Giants Harry Carson, Carl Banks and Joe Morris.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ }
+]

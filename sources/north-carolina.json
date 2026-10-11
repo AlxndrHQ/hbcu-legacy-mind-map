@@ -1,0 +1,4556 @@
+[
+ {
+  "id": "north-carolina-a-and-t-state-university",
+  "name": "North Carolina A&T State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant research university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1891,
+  "closed": null,
+  "location": "Greensboro, NC",
+  "state": "NC",
+  "affiliation": "Second Morrill Act (1890) land-grant; University of North Carolina System; Thurgood Marshall College Fund",
+  "formerNames": [
+   "Agricultural and Mechanical College for the Colored Race",
+   "Negro Agricultural and Technical College of North Carolina",
+   "Agricultural and Technical College of North Carolina"
+  ],
+  "fate": "",
+  "description": "Chartered by the North Carolina General Assembly in 1891 as the Agricultural and Mechanical College for the Colored Race, it began as an annex of Shaw University in Raleigh before moving to Greensboro in 1892. It is the largest HBCU by enrollment and a leading producer of Black engineers. Its students launched the 1960 Woolworth sit-ins, and its business school is named for Merck executive and alumnus Willie A. Deese.",
+  "facts": [
+   {
+    "t": "Born as a Shaw annex.",
+    "d": "Opened in Raleigh in 1891 with four teachers and 37 students as an annex of Shaw University, then moved to Greensboro in 1892.",
+    "basis": "documented"
+   },
+   {
+    "t": "The A&T Four.",
+    "d": "On Feb. 1, 1960, freshmen Ezell Blair Jr. (Jibreel Khazan), Franklin McCain, Joseph McNeil and David Richmond sat in at the Greensboro Woolworth lunch counter, sparking a national sit-in movement.",
+    "basis": "documented"
+   },
+   {
+    "t": "First donor-named college.",
+    "d": "In 2019 A&T named its College of Business and Economics for Willie A. Deese ('77) — the first college at the university to carry a donor's name.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — North Carolina A&T State University",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_A%26T_State_University"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   },
+   {
+    "id": "shaw-university",
+    "type": "origin",
+    "label": "began as an annex of Shaw University, 1891"
+   }
+  ]
+ },
+ {
+  "id": "north-carolina-central-university",
+  "name": "North Carolina Central University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Liberal arts & professional (law, business)",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1910,
+  "closed": null,
+  "location": "Durham, NC",
+  "state": "NC",
+  "affiliation": "University of North Carolina System; Thurgood Marshall College Fund",
+  "formerNames": [
+   "National Religious Training School and Chautauqua for the Colored Race",
+   "National Training School",
+   "Durham State Normal School for Negroes",
+   "North Carolina College for Negroes",
+   "North Carolina College at Durham"
+  ],
+  "fate": "",
+  "description": "Founded by pharmacist and Black Wall Street co-founder James E. Shepard (chartered 1909, opened 1910) in Durham's Hayti district, it became in 1925 the nation's first state-funded liberal arts college for Black students. Its law school trained a generation of civil rights lawyers and politicians, and the school sits beside the Parrish Street ‘Black Wall Street’ institutions — North Carolina Mutual and Mechanics & Farmers Bank — whose archives it now holds.",
+  "facts": [
+   {
+    "t": "Black Wall Street roots.",
+    "d": "Founder James E. Shepard was among the founders of North Carolina Mutual Life Insurance Co. and Mechanics and Farmers Bank.",
+    "basis": "documented"
+   },
+   {
+    "t": "First state-funded Black liberal arts college.",
+    "d": "Renamed North Carolina College for Negroes in 1925, described as the first state-supported liberal arts college for Black students.",
+    "basis": "documented"
+   },
+   {
+    "t": "NC Mutual archives.",
+    "d": "North Carolina Mutual donated its corporate archives to NCCU's James E. Shepard Memorial Library.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — North Carolina Central University",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   },
+   {
+    "label": "NCCU Library — NC Mutual Donates Archives",
+    "url": "https://www.nccu.edu/james-e-shepard-memorial-library/special-collections/nc-mutual-donates-archives"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   },
+   {
+    "id": "north-carolina-mutual-life-insurance-company",
+    "type": "civic",
+    "label": "holds NC Mutual corporate archives"
+   }
+  ]
+ },
+ {
+  "id": "winston-salem-state-university",
+  "name": "Winston-Salem State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Teacher education, health sciences",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1892,
+  "closed": null,
+  "location": "Winston-Salem, NC",
+  "state": "NC",
+  "affiliation": "University of North Carolina System; Thurgood Marshall College Fund",
+  "formerNames": [
+   "Slater Industrial Academy",
+   "Slater Industrial and State Normal School",
+   "Winston-Salem Teachers College",
+   "Winston-Salem State College"
+  ],
+  "fate": "",
+  "description": "Founded in 1892 by Simon Green Atkins as Slater Industrial Academy, it became in 1925 the first Black institution in the U.S. authorized to grant degrees for teaching in elementary grades. Under coach Clarence ‘Big House’ Gaines it became a basketball power, producing Earl Monroe and, later, sports-media figure Stephen A. Smith.",
+  "facts": [
+   {
+    "t": "Teacher-training pioneer.",
+    "d": "As Winston-Salem Teachers College (1925) it trained elementary teachers for Black schools across the state.",
+    "basis": "documented"
+   },
+   {
+    "t": "Big House Gaines era.",
+    "d": "Its 1967 team, led by Earl ‘The Pearl’ Monroe, won the NCAA College Division title, the first for an HBCU.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Winston-Salem State University",
+    "url": "https://en.wikipedia.org/wiki/Winston-Salem_State_University"
+   },
+   {
+    "label": "WSSU — Our History",
+    "url": "https://www.wssu.edu/about/points-of-pride/our-history.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "fayetteville-state-university",
+  "name": "Fayetteville State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Comprehensive regional university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1867,
+  "closed": null,
+  "location": "Fayetteville, NC",
+  "state": "NC",
+  "affiliation": "University of North Carolina System; Thurgood Marshall College Fund; Freedmen's Bureau origins",
+  "formerNames": [
+   "Howard School",
+   "State Colored Normal School",
+   "Fayetteville State Teachers College",
+   "Fayetteville State College"
+  ],
+  "fate": "",
+  "description": "Founded in 1867 as the Howard School on land bought by seven Black Fayetteville men, with Freedmen's Bureau support named for Gen. Oliver O. Howard. It became the State Colored Normal School in 1877, one of the earliest state-supported normal schools for Black teachers in the South, and today serves the Fort Bragg military community.",
+  "facts": [
+   {
+    "t": "Founded by seven Black trustees.",
+    "d": "Matthew N. Leary, Andrew J. Chesnutt, Robert Simmons, George Grainger, Thomas Lomax, Nelson Carter and David A. Bryant bought the land and formed a self-perpetuating board.",
+    "basis": "documented"
+   },
+   {
+    "t": "Normal-school lineage.",
+    "d": "Designated the State Colored Normal School in 1877 to train Black teachers for the state.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Fayetteville State University",
+    "url": "https://en.wikipedia.org/wiki/Fayetteville_State_University"
+   },
+   {
+    "label": "FSU — Our History",
+    "url": "https://www.uncfsu.edu/about-fsu/our-history"
+   }
+  ],
+  "connections": [
+   {
+    "id": "freedmens-bureau",
+    "type": "origin",
+    "label": "Freedmen's Bureau support, 1867"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "elizabeth-city-state-university",
+  "name": "Elizabeth City State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Regional university (aviation, pharmacy)",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1891,
+  "closed": null,
+  "location": "Elizabeth City, NC",
+  "state": "NC",
+  "affiliation": "University of North Carolina System; Thurgood Marshall College Fund",
+  "formerNames": [
+   "State Colored Normal School at Elizabeth City",
+   "Elizabeth City State Teachers College",
+   "Elizabeth City State College"
+  ],
+  "fate": "",
+  "description": "Created by the General Assembly in 1891 as a normal school for Black teachers in northeastern North Carolina, led for 37 years by Shaw graduate Peter Weddick Moore. Today it serves a largely rural northeastern North Carolina region and offers programs including aviation science and pharmacy.",
+  "facts": [
+   {
+    "t": "Shaw-trained founder.",
+    "d": "First leader Peter Weddick Moore earned his A.B. at Shaw University in 1887.",
+    "basis": "documented"
+   },
+   {
+    "t": "Rural mission.",
+    "d": "Serves a largely rural 21-county region of northeastern North Carolina.",
+    "basis": "pattern"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Elizabeth City State University",
+    "url": "https://en.wikipedia.org/wiki/Elizabeth_City_State_University"
+   },
+   {
+    "label": "Wikipedia — Shaw University (alumni incl. P. W. Moore)",
+    "url": "https://en.wikipedia.org/wiki/Shaw_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "johnson-c-smith-university",
+  "name": "Johnson C. Smith University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts (Presbyterian)",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1867,
+  "closed": null,
+  "location": "Charlotte, NC",
+  "state": "NC",
+  "affiliation": "Presbyterian Church (USA); UNCF founding member",
+  "formerNames": [
+   "Biddle Memorial Institute",
+   "Biddle University"
+  ],
+  "fate": "",
+  "description": "Founded in 1867 by the Catawba Presbytery as Biddle Memorial Institute with a $1,400 gift from Mary D. Biddle, it was renamed in 1923 for Johnson Crayne Smith after his widow Jane Berry Smith's gifts. It was a 1944 founding member of UNCF and benefited from the Duke Endowment from 1924; it played the first Black college football game (vs. Livingstone, 1892).",
+  "facts": [
+   {
+    "t": "First Black college football game.",
+    "d": "Biddle University played Livingstone College in Salisbury in December 1892, the first intercollegiate football game between Black colleges.",
+    "basis": "documented"
+   },
+   {
+    "t": "Duke Endowment beneficiary.",
+    "d": "Named in James B. Duke's 1924 indenture as a beneficiary of the Duke Endowment.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Johnson C. Smith University",
+    "url": "https://en.wikipedia.org/wiki/Johnson_C._Smith_University"
+   },
+   {
+    "label": "Wikipedia — List of Johnson C. Smith University alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Johnson_C._Smith_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "presbyterian-board-of-missions-for-freedmen",
+    "type": "origin",
+    "label": "founded by Presbyterians (Catawba Presbytery), 1867"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF founding member, 1944"
+   }
+  ]
+ },
+ {
+  "id": "shaw-university",
+  "name": "Shaw University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts (Baptist)",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1865,
+  "closed": null,
+  "location": "Raleigh, NC",
+  "state": "NC",
+  "affiliation": "American Baptist Home Mission Society; American Baptist Churches USA; UNCF",
+  "formerNames": [
+   "Raleigh Institute",
+   "Raleigh Theological Institute",
+   "Shaw Collegiate Institute"
+  ],
+  "fate": "",
+  "description": "The oldest HBCU in the South, founded in December 1865 by Rev. Henry Martin Tupper with the American Baptist Home Mission Society. Its Leonard Medical School, pharmacy and law schools trained the doctors, pharmacists and organizers who built Durham's ‘Black Wall Street’ (NC Mutual, Mechanics & Farmers Bank). SNCC was founded on its campus in 1960, and N.C. A&T began as its annex.",
+  "facts": [
+   {
+    "t": "Cradle of Black Wall Street.",
+    "d": "Shaw/Leonard alumni Aaron M. Moore, W. G. Pearson, S. L. Warren and James E. Shepard were among the founders of North Carolina Mutual and Mechanics & Farmers Bank.",
+    "basis": "documented"
+   },
+   {
+    "t": "Professional schools.",
+    "d": "Leonard Medical School (1882–1918) and a law school (1888–1916) operated on campus.",
+    "basis": "documented"
+   },
+   {
+    "t": "SNCC founded here.",
+    "d": "Ella Baker, Shaw class of 1927, convened the April 1960 conference at Shaw that created the Student Nonviolent Coordinating Committee.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Shaw University",
+    "url": "https://en.wikipedia.org/wiki/Shaw_University"
+   },
+   {
+    "label": "Wikipedia — Leonard Medical School",
+    "url": "https://en.wikipedia.org/wiki/Leonard_Medical_School"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "founded by, 1865"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "leonard-medical-school",
+  "name": "Leonard Medical School",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU professional school · Medicine (Shaw University)",
+  "status": "Closed",
+  "control": "Private",
+  "level": "Graduate/Professional",
+  "founded": 1882,
+  "closed": 1918,
+  "location": "Raleigh, NC",
+  "state": "NC",
+  "affiliation": "Shaw University; American Baptist Home Mission Society",
+  "formerNames": [
+   "Leonard Medical Center"
+  ],
+  "fate": "Closed in 1918 under financial strain from trying to meet Flexner Report standards.",
+  "description": "The medical school of Shaw University, housed in Leonard Hall (completed 1881, named for donor Judson Wade Leonard), is described as the first four-year medical school in the country open to African Americans. In 36 years it graduated nearly 400 physicians, several of whom co-founded North Carolina Mutual, Mechanics & Farmers Bank and Lincoln Hospital in Durham.",
+  "facts": [
+   {
+    "t": "First graduates.",
+    "d": "Awarded its first medical degrees in 1886 to six men.",
+    "basis": "documented"
+   },
+   {
+    "t": "Doctors as entrepreneurs.",
+    "d": "Alumni Aaron M. Moore, Stanford L. Warren and Manassa T. Pope founded insurers, drugstores and a bank alongside their practices.",
+    "basis": "documented"
+   },
+   {
+    "t": "Flexner casualty.",
+    "d": "Closed in 1918, one of several Black medical schools lost after the 1910 Flexner Report.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Leonard Medical School",
+    "url": "https://en.wikipedia.org/wiki/Leonard_Medical_School"
+   },
+   {
+    "label": "Wikipedia — Shaw University",
+    "url": "https://en.wikipedia.org/wiki/Shaw_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "shaw-university",
+    "type": "lineage",
+    "label": "medical school of Shaw University; closed 1918"
+   },
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "Baptist mission school"
+   }
+  ]
+ },
+ {
+  "id": "saint-augustines-university",
+  "name": "Saint Augustine's University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts (Episcopal)",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1867,
+  "closed": null,
+  "location": "Raleigh, NC",
+  "state": "NC",
+  "affiliation": "Episcopal Church; UNCF (joined 1949)",
+  "formerNames": [
+   "Saint Augustine's Normal School and Collegiate Institute",
+   "Saint Augustine's School",
+   "Saint Augustine's Junior College",
+   "Saint Augustine's College"
+  ],
+  "fate": "Lost SACSCOC accreditation (final removal July 2025), filed Chapter 11 in April 2026, and cancelled all Fall 2026 classes; not formally closed as of Aug. 2026.",
+  "description": "Founded in 1867 by Episcopal clergy with first principal Jacob Brinton Smith, it educated Anna Julia Cooper, the Delany family and generations of Black Episcopal clergy and teachers. After years of financial and accreditation crises it filed for bankruptcy in 2026 and suspended instruction, with a bankruptcy judge calling it ‘essentially closed.’",
+  "facts": [
+   {
+    "t": "Episcopal mission college.",
+    "d": "Founded under the Episcopal Church's Freedman's Commission; first Black Episcopal bishop Henry B. Delany was an alumnus and administrator.",
+    "basis": "documented"
+   },
+   {
+    "t": "2024–2026 crisis.",
+    "d": "SACSCOC removed it from membership in July 2025; it filed Chapter 11 in April 2026 and cancelled Fall 2026 classes.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Saint Augustine's University",
+    "url": "https://en.wikipedia.org/wiki/Saint_Augustine%27s_University"
+   },
+   {
+    "label": "JBHE — Saint Augustine's cancels all classes for fall semester (Aug. 2026)",
+    "url": "https://jbhe.com/2026/08/saint-augustines-university-cancels-all-classes-for-the-fall-semester/"
+   },
+   {
+    "label": "ABC11 — St. Augustine's won't offer classes this fall",
+    "url": "https://abc11.com/post/st-augustines-offer-classes-fall-amid-bankruptcy/19711388/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "episcopal-church",
+    "type": "origin",
+    "label": "founded by Episcopal clergy, 1867"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member since 1949"
+   }
+  ]
+ },
+ {
+  "id": "livingstone-college",
+  "name": "Livingstone College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts (AME Zion)",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1879,
+  "closed": null,
+  "location": "Salisbury, NC",
+  "state": "NC",
+  "affiliation": "African Methodist Episcopal Zion Church; UNCF",
+  "formerNames": [
+   "Zion Wesley Institute"
+  ],
+  "fate": "",
+  "description": "Founded in 1879 by the AME Zion Church as Zion Wesley Institute in Concord, it moved to Salisbury in 1882 and was renamed for David Livingstone in 1887 under president Joseph C. Price. Alumni include Harlem real-estate pioneer Philip A. Payton Jr., UNCF architect William J. Trent Jr., and educator J. E. K. Aggrey.",
+  "facts": [
+   {
+    "t": "Price's fundraising.",
+    "d": "Joseph C. Price raised funds in England to establish the school before moving it to Salisbury.",
+    "basis": "documented"
+   },
+   {
+    "t": "UNCF builder.",
+    "d": "Alumnus William J. Trent Jr. (1930) ran the United Negro College Fund from 1944 to 1964.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Livingstone College",
+    "url": "https://en.wikipedia.org/wiki/Livingstone_College"
+   },
+   {
+    "label": "Wikipedia — List of HBCUs (incl. defunct)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-zion-church",
+    "type": "origin",
+    "label": "founded by AME Zion Church, 1879"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "bennett-college",
+  "name": "Bennett College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Women's liberal arts (Methodist)",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1873,
+  "closed": null,
+  "location": "Greensboro, NC",
+  "state": "NC",
+  "affiliation": "United Methodist Church (Freedmen's Aid Society); UNCF; TRACS-accredited since 2023",
+  "formerNames": [
+   "Bennett Seminary",
+   "Bennett School"
+  ],
+  "fate": "",
+  "description": "Founded in 1873 as a coeducational normal school in the basement of Greensboro's St. Matthews Methodist Church, it was named for New York donor Lyman Bennett and became a women's college in 1926. Bennett women organized a 1937 theater boycott and helped plan the 1960 sit-ins. After losing SACSCOC accreditation in 2019 it rebuilt and won TRACS accreditation in 2023.",
+  "facts": [
+   {
+    "t": "Women's college since 1926.",
+    "d": "One of only two historically Black women's colleges (with Spelman).",
+    "basis": "documented"
+   },
+   {
+    "t": "Accreditation comeback.",
+    "d": "SACSCOC withdrew accreditation over finances in 2019; the college raised emergency funds and was accredited by TRACS in April 2023.",
+    "basis": "documented"
+   },
+   {
+    "t": "Brewing first.",
+    "d": "Alumna I. Patricia Henry ('69) became the first African American woman to manage a major U.S. brewery.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Bennett College",
+    "url": "https://en.wikipedia.org/wiki/Bennett_College"
+   },
+   {
+    "label": "WUNC — Bennett College files federal complaint (May 2026)",
+    "url": "https://www.wunc.org/education/2026-05-06/bennett-college-files-federal-complaint-alumnae-association"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "Freedmen's Aid Society sponsorship from 1874"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "barber-scotia-college",
+  "name": "Barber–Scotia College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts (Presbyterian), unaccredited",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1867,
+  "closed": null,
+  "location": "Concord, NC",
+  "state": "NC",
+  "affiliation": "Presbyterian Church (USA)",
+  "formerNames": [
+   "Scotia Seminary",
+   "Scotia Women's College",
+   "Barber–Scotia Junior College"
+  ],
+  "fate": "Lost SACS accreditation in 2004; operating with ~100 students and pursuing TRACS accreditation as of 2026.",
+  "description": "Founded in 1867 by Rev. Luke Dorland as Scotia Seminary to train Black women as teachers, it absorbed Alabama's Barber Memorial College in 1930. Its most famous alumna is Mary McLeod Bethune. Accreditation was revoked in 2004; the college regained tax-exempt status in 2026 and is rebuilding.",
+  "facts": [
+   {
+    "t": "Bethune's school.",
+    "d": "Mary McLeod Bethune graduated from Scotia Seminary before founding what became Bethune-Cookman University.",
+    "basis": "documented"
+   },
+   {
+    "t": "1930 merger.",
+    "d": "Merged with Barber Memorial College (Anniston, Ala., founded 1896) to form Barber–Scotia.",
+    "basis": "documented"
+   },
+   {
+    "t": "2004 accreditation loss.",
+    "d": "SACS revoked accreditation after degrees were awarded to adult students who had not met requirements.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Barber–Scotia College",
+    "url": "https://en.wikipedia.org/wiki/Barber%E2%80%93Scotia_College"
+   },
+   {
+    "label": "WFAE — Barber-Scotia College regains tax-exempt status (Jan. 2026)",
+    "url": "https://www.wfae.org/education/2026-01-20/barber-scotia-college-regains-tax-exempt-status"
+   }
+  ],
+  "connections": [
+   {
+    "id": "presbyterian-board-of-missions-for-freedmen",
+    "type": "origin",
+    "label": "Presbyterian mission seminary, 1867"
+   }
+  ]
+ },
+ {
+  "id": "barber-memorial-college",
+  "name": "Barber Memorial College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Women's seminary/college (Presbyterian)",
+  "status": "Merged",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1896,
+  "closed": 1930,
+  "location": "Anniston, AL",
+  "state": "NC",
+  "affiliation": "Presbyterian Board of Missions for Freedmen",
+  "formerNames": [
+   "Barber Memorial Seminary"
+  ],
+  "fate": "Merged into Scotia Women's College in Concord, NC, in 1930 to form Barber–Scotia.",
+  "description": "A Presbyterian school for Black girls founded in Anniston, Alabama, in 1896 through Margaret M. Barber's gift. In 1930 it merged with Scotia Women's College in North Carolina, giving Barber–Scotia its name.",
+  "facts": [
+   {
+    "t": "Founded by a donor.",
+    "d": "Established with funds from Margaret M. Barber as a memorial.",
+    "basis": "documented"
+   },
+   {
+    "t": "Merged 1930.",
+    "d": "Combined with Scotia Women's College to form Barber–Scotia Junior College.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Barber–Scotia College",
+    "url": "https://en.wikipedia.org/wiki/Barber%E2%80%93Scotia_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "barber-scotia-college",
+    "type": "lineage",
+    "label": "merged into, 1930"
+   },
+   {
+    "id": "presbyterian-board-of-missions-for-freedmen",
+    "type": "origin",
+    "label": "Presbyterian mission school"
+   }
+  ]
+ },
+ {
+  "id": "kittrell-college",
+  "name": "Kittrell College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Junior college (AME)",
+  "status": "Closed",
+  "control": "Private",
+  "level": "2-year",
+  "founded": 1886,
+  "closed": 1975,
+  "location": "Kittrell, NC",
+  "state": "NC",
+  "affiliation": "African Methodist Episcopal Church",
+  "formerNames": [
+   "Kittrell Normal and Industrial School"
+  ],
+  "fate": "Closed after its last graduating class in 1975 amid unpaid debts, a federal-funds investigation and campus fires; the campus became a Job Corps center in 1979.",
+  "description": "Chartered in 1886 by the AME Church's North Carolina Conference as Kittrell Normal and Industrial School in Vance County, it served rural Black students as a two-year college for nearly 90 years. Durham business founder W. G. Pearson was a trustee.",
+  "facts": [
+   {
+    "t": "AME school.",
+    "d": "Authorized by the AME North Carolina Conference under Bishop William Fisher Dickerson in 1885.",
+    "basis": "documented"
+   },
+   {
+    "t": "Afterlife.",
+    "d": "The campus has housed the Kittrell Job Corps Center since 1979.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Kittrell College",
+    "url": "https://en.wikipedia.org/wiki/Kittrell_College"
+   },
+   {
+    "label": "Wikipedia — List of HBCUs (incl. defunct)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "founded by AME Church, 1886"
+   }
+  ]
+ },
+ {
+  "id": "immanuel-lutheran-college",
+  "name": "Immanuel Lutheran College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · High school, junior college & seminary (Lutheran)",
+  "status": "Closed",
+  "control": "Private",
+  "level": "2-year",
+  "founded": 1903,
+  "closed": 1961,
+  "location": "Greensboro, NC",
+  "state": "NC",
+  "affiliation": "Evangelical Lutheran Synodical Conference (Lutheran Church–Missouri Synod)",
+  "formerNames": [],
+  "fate": "Closed June 30, 1961 when the Synodical Conference integrated Black ministerial training into Missouri Synod schools; the state bought the campus for $239,000 as N.C. A&T's East Campus.",
+  "description": "Founded in Concord in 1903 and moved to Greensboro in 1905, it trained Black Lutheran pastors and teachers through a high school, an accredited junior college and a seminary. Its campus next to N.C. A&T was sold to the state when it closed in 1961.",
+  "facts": [
+   {
+    "t": "Lutheran pastor training.",
+    "d": "Operated a four-year seminary alongside the junior college.",
+    "basis": "documented"
+   },
+   {
+    "t": "Campus to A&T.",
+    "d": "North Carolina bought the campus for $239,000; it became A&T's East Campus.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Immanuel Lutheran College (North Carolina)",
+    "url": "https://en.wikipedia.org/wiki/Immanuel_Lutheran_College_(North_Carolina)"
+   },
+   {
+    "label": "Wikipedia — List of HBCUs (incl. defunct)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lutheran-church-missouri-synod",
+    "type": "origin",
+    "label": "Synodical Conference / Missouri Synod school"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "parallel",
+    "label": "campus sold to become A&T's East Campus, 1961"
+   }
+  ]
+ },
+ {
+  "id": "brick-junior-college",
+  "name": "Brick Junior College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Junior college (AMA)",
+  "status": "Closed",
+  "control": "Private",
+  "level": "2-year",
+  "founded": 1895,
+  "closed": 1933,
+  "location": "Enfield (Bricks), NC",
+  "state": "NC",
+  "affiliation": "American Missionary Association; United Church of Christ",
+  "formerNames": [
+   "Joseph K. Brick Agricultural, Industrial and Normal School",
+   "Brick School"
+  ],
+  "fate": "Closed in 1933 as Depression-era cuts slashed AMA funding and enrollment; the campus became the Brick Rural Life School and later the UCC's Franklinton Center.",
+  "description": "Opened in 1895 by the American Missionary Association on land given by Brooklyn widow Julia Brick, under principal Thomas S. Inborden. It added a junior college in 1925–26 and closed in 1933. Carolina Times publisher Louis Austin finished his schooling there.",
+  "facts": [
+   {
+    "t": "AMA school.",
+    "d": "Named for Joseph Keasbey Brick; opened Oct. 1, 1895 with 54 students.",
+    "basis": "documented"
+   },
+   {
+    "t": "Junior college 1925–1933.",
+    "d": "The college division opened with 24 students before the Depression forced closure.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Lost Colleges — Brick Junior College",
+    "url": "https://www.lostcolleges.com/brick-junior-college"
+   },
+   {
+    "label": "NC DNCR — Brick School historical marker (E-90)",
+    "url": "https://www.dncr.nc.gov/blog/2023/12/13/brick-school-e-90"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-missionary-association",
+    "type": "origin",
+    "label": "founded by AMA, 1895"
+   },
+   {
+    "id": "united-church-of-christ",
+    "type": "civic",
+    "label": "campus now UCC's Franklinton Center"
+   }
+  ]
+ },
+ {
+  "id": "janice-bryant-howroyd",
+  "name": "Janice Bryant Howroyd",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$500M-$1B",
+  "tierBasis": "reported",
+  "peakWealth": "≈$600M (Forbes/Black Enterprise)",
+  "wealthNote": "Forbes self-made women lists and Black Enterprise have reported a net worth around $600 million.",
+  "lifespan": "b. 1952",
+  "base": "Torrance / Los Angeles, CA",
+  "industry": "Workforce Solutions & Staffing",
+  "originBadge": "Tarboro Farm Family",
+  "engineBadge": "Staffing & Workforce Mgmt",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.A. in English at North Carolina A&T; she later chaired and served on A&T's Board of Trustees.",
+  "humbleBeginnings": "Grew up one of 11 children in segregated Tarboro, N.C., and moved to Los Angeles in the 1970s.",
+  "breakthrough": "In 1978 she opened The ACT•1 Group in Beverly Hills with roughly $1,000–$1,500, including a $900 loan from her mother; it grew into ActOne Group, a global workforce-solutions company operating in dozens of countries.",
+  "legacy": "Widely cited as the first African American woman to build and own a billion-dollar company; she has kept ActOne private and family-led.",
+  "breakthroughDetail": [
+   {
+    "t": "Started with $900 from her mother.",
+    "d": "ACT•1 opened in 1978 with a phone, a fax machine and about $1,500 in startup money; Tom Noonan was the first client.",
+    "basis": "documented"
+   },
+   {
+    "t": "Billion-dollar revenue.",
+    "d": "Black Enterprise reported ActOne revenues of about $2.8 billion in 2017.",
+    "basis": "documented"
+   },
+   {
+    "t": "Forbes-listed.",
+    "d": "Ranked No. 24 on Forbes' inaugural 2015 list of America's Richest Self-Made Women.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family-held enterprise.",
+    "d": "ActOne remains privately held and minority-woman-owned, a rarity at its scale.",
+    "basis": "documented"
+   },
+   {
+    "t": "Gives back to A&T.",
+    "d": "Served on the N.C. A&T Board of Trustees and is highlighted by the university as a top alumna.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Janice Bryant Howroyd",
+    "url": "https://en.wikipedia.org/wiki/Janice_Bryant_Howroyd"
+   },
+   {
+    "label": "Fox Business — First Black woman to own a billion-dollar company",
+    "url": "https://foxbusiness.com/money/black-woman-billion-dollar-company-actone-group"
+   },
+   {
+    "label": "Black Enterprise — 7 Black women on Forbes' richest self-made women list",
+    "url": "https://www.blackenterprise.com/here-are-the-7-black-women-who-made-forbes-list-of-americas-richest-self-made-women/"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.A. English"
+   },
+   {
+    "id": "actone-group",
+    "type": "ownership",
+    "label": "founded 1978; CEO"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "board",
+    "label": "Board of Trustees"
+   }
+  ]
+ },
+ {
+  "id": "joe-dudley",
+  "name": "Joe Dudley Sr.",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from ~$30M annual revenue of a family-owned manufacturer; no published net-worth figure.",
+  "lifespan": "1937–2024",
+  "base": "Kernersville / Greensboro, NC",
+  "industry": "Hair & Beauty Products",
+  "originBadge": "Door-to-Door Salesman",
+  "engineBadge": "Hair Care & Beauty Schools",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a business administration degree at North Carolina A&T; while a student he bought a $10 Fuller Products sales kit and sold door to door, and he and his future wife Eunice sold products on campus.",
+  "humbleBeginnings": "Born in Aurora, N.C., the fifth of 11 children; later lived in Brooklyn before settling in Greensboro.",
+  "breakthrough": "After running a Fuller distributorship, he and Eunice began mixing their own products in their kitchen in 1969 as Dudley Products; at S. B. Fuller's request he took over Fuller Products in 1976 and merged the companies in 1980.",
+  "legacy": "Built Dudley Products into a ~$30 million manufacturer with cosmetology schools that trained generations of stylists; the family continues the business as Dudley Beauty Corp.",
+  "breakthroughDetail": [
+   {
+    "t": "$10 start.",
+    "d": "Invested $10 in a Fuller sales kit in 1957 and sold door to door.",
+    "basis": "documented"
+   },
+   {
+    "t": "Took over his mentor's company.",
+    "d": "Assumed control of S. B. Fuller's Fuller Products in 1976; the two merged in 1980 under the Dudley name.",
+    "basis": "documented"
+   },
+   {
+    "t": "~$30M revenue.",
+    "d": "Dudley Products reported about $30 million in annual revenue as of 2003.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Cosmetology schools.",
+    "d": "Dudley's beauty colleges trained thousands of cosmetologists, building a distribution network for the brand.",
+    "basis": "pattern"
+   },
+   {
+    "t": "Family succession.",
+    "d": "His family received mourners at Dudley Beauty Corp. in Greensboro after his death in Feb. 2024.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Joe Dudley",
+    "url": "https://en.wikipedia.org/wiki/Joe_Dudley"
+   },
+   {
+    "label": "Black Enterprise — Joe Louis Dudley Sr., haircare pioneer, dies at 86",
+    "url": "https://www.blackenterprise.com/joe-louis-dudley-sr-haircare-pioneer-dies-86/"
+   },
+   {
+    "label": "The Peacemaker — Dr. Joe L. Dudley Sr. dies at 86",
+    "url": "https://peacemakeronline.com/stories/dr-joe-l-dudley-sr-founder-of-dudley-products-dies-at-age-86,23412"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Business Administration, 1962"
+   },
+   {
+    "id": "dudley-products",
+    "type": "ownership",
+    "label": "co-founded with Eunice Dudley, 1969"
+   },
+   {
+    "id": "fuller-products",
+    "type": "capital",
+    "label": "took over S. B. Fuller's company, 1976; merged 1980"
+   }
+  ]
+ },
+ {
+  "id": "willie-a-deese",
+  "name": "Willie A. Deese",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from decades of Fortune 100 executive compensation and ~$10M in disclosed philanthropy.",
+  "lifespan": "",
+  "base": "New Jersey / North Carolina",
+  "industry": "Pharmaceutical Manufacturing",
+  "originBadge": "First-Gen Business Grad",
+  "engineBadge": "Global Pharma Manufacturing",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.S. in Business Administration from N.C. A&T in 1977 (later an MBA from Western New England College). He has given about $10 million to A&T and chaired two capital campaigns; in 2019 A&T named its business school the Willie A. Deese College of Business and Economics.",
+  "humbleBeginnings": "Grew up in North Carolina and entered corporate purchasing after A&T.",
+  "breakthrough": "After roles at Digital Equipment, SmithKline Beecham and Glaxo, he rose to president of Merck Manufacturing Division, running Merck's global supply network until retiring in 2016.",
+  "legacy": "His $5 million endowment gift and total ~$10 million giving made him A&T's signature corporate donor; Merck CEO Kenneth Frazier spoke at the 2020 dedication.",
+  "breakthroughDetail": [
+   {
+    "t": "Ran Merck's global manufacturing.",
+    "d": "Retired as president of Merck Manufacturing Division after a 40-year pharma career.",
+    "basis": "documented"
+   },
+   {
+    "t": "First donor-named college at A&T.",
+    "d": "A $5 million endowed gift led to the 2019 naming of the Deese College of Business and Economics.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "~$10M to his alma mater.",
+    "d": "Total gifts to A&T reported at about $10 million, plus leadership of two campaigns.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "JBHE — N.C. A&T names its College of Business and Economics",
+    "url": "https://www.jbhe.com/2019/10/north-carolina-at-state-university-names-its-college-of-business-and-economics/"
+   },
+   {
+    "label": "N.C. A&T — Dedicates Willie A. Deese College of Business and Economics",
+    "url": "https://www.ncat.edu/news/2020/02/deese-college-dedication.php"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Business Administration, 1977"
+   },
+   {
+    "id": "merck-and-co",
+    "type": "executive",
+    "label": "president, Merck Manufacturing Division (ret. 2016)"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "capital",
+    "label": "~$10M in gifts; college named 2019"
+   }
+  ]
+ },
+ {
+  "id": "dmitri-stockton",
+  "name": "Dmitri Stockton",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Stamford, CT",
+  "industry": "Asset Management / Banking",
+  "originBadge": "Accounting Grad",
+  "engineBadge": "Institutional Asset Mgmt",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.S. in Accounting from N.C. A&T in 1986; served on the business school's Executive Advisory Council and gave A&T's 2012 commencement address.",
+  "humbleBeginnings": "Joined General Electric in 1987 through its Financial Management Program.",
+  "breakthrough": "Rose through GE Capital's international banking units — CEO of GE Capital Bank in Switzerland and of GE Money's Central and Eastern European banking group — before being named president and CEO of GE Asset Management in 2011, overseeing roughly $115 billion.",
+  "legacy": "A model for A&T accounting graduates entering Fortune 500 finance; later served as an independent director on public-company boards.",
+  "breakthroughDetail": [
+   {
+    "t": "CEO of GE Asset Management.",
+    "d": "Named in April 2011, succeeding Jay Ireland; GEAM managed about $115 billion for GE pension plans and institutional clients.",
+    "basis": "documented"
+   },
+   {
+    "t": "International bank CEO.",
+    "d": "Previously ran GE's Central & Eastern European consumer banking group.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Corporate board director.",
+    "d": "Listed as an insider/director at public companies after GE.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "PlanSponsor — GEAM names new president and CEO",
+    "url": "https://www.plansponsor.com/geam-names-new-president-and-ceo/"
+   },
+   {
+    "label": "N.C. A&T Aggie Report — commencement speaker (2012)",
+    "url": "https://campusweb.ncat.edu/publications/aggiereport/2012/mar2/mar16a.html"
+   },
+   {
+    "label": "N.C. A&T — Rankings, Recognitions & Prominent Alumni",
+    "url": "https://www.ncat.edu/about/rankings-and-recognition/index.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Accounting, 1986"
+   },
+   {
+    "id": "ge-asset-management",
+    "type": "executive",
+    "label": "president & CEO, 2011–"
+   }
+  ]
+ },
+ {
+  "id": "john-r-hairston",
+  "name": "John R. Hairston",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from ownership of 11 McDonald's franchises over ~40 years and a multimillion-dollar pledge; no published figure.",
+  "lifespan": "",
+  "base": "Charlotte, NC",
+  "industry": "Restaurant Franchising",
+  "originBadge": "Teacher & Coach",
+  "engineBadge": "McDonald's Franchises",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Earned a B.S. in industrial arts education at N.C. A&T in 1975, where he met his wife Kathy; A&T's College of Health and Human Sciences was renamed for the couple in 2021.",
+  "humbleBeginnings": "A West Charlotte High graduate, he first worked as a teacher and coach and ran a small construction company.",
+  "breakthrough": "He and Kathy trained as McDonald's owner-operators and turned around a struggling downtown Atlanta store, then built a portfolio of 11 McDonald's restaurants in the Charlotte area over about 40 years through John R. Hairston Enterprises.",
+  "legacy": "Retired in 2020 and converted franchise wealth into a multimillion-dollar unrestricted endowment pledge to A&T, plus a distinguished professorship and scholarships.",
+  "breakthroughDetail": [
+   {
+    "t": "Turnaround first store.",
+    "d": "Their first restaurant, in downtown Atlanta, won a regional most-improved award.",
+    "basis": "documented"
+   },
+   {
+    "t": "11 restaurants.",
+    "d": "Acquired 11 McDonald's restaurants over four decades; three-time McDonald's Street Fighter Award winners.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Named college.",
+    "d": "John R. and Kathy R. Hairston College of Health and Human Sciences (2021) after a multimillion-dollar endowed pledge.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "N.C. A&T — College of Health and Human Sciences to be named for the Hairstons",
+    "url": "https://ncat.edu/news/2021/04/chhs-hairstons-naming.php"
+   },
+   {
+    "label": "N.C. A&T — Board of Trustees welcomes new members (2025)",
+    "url": "https://www.ncat.edu/news/2025/07/bot-welcomes-new-members-and-officers.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Industrial Arts Education, 1975"
+   },
+   {
+    "id": "john-r-hairston-enterprises",
+    "type": "ownership",
+    "label": "co-owner, 11 McDonald's units"
+   },
+   {
+    "id": "kathy-r-hairston",
+    "type": "family",
+    "label": "spouse and business partner"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "capital",
+    "label": "multimillion-dollar endowed pledge, 2021"
+   }
+  ]
+ },
+ {
+  "id": "kathy-r-hairston",
+  "name": "Kathy R. Hairston",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Shared household franchise wealth with John R. Hairston; estimate only.",
+  "lifespan": "",
+  "base": "Charlotte, NC",
+  "industry": "Restaurant Franchising",
+  "originBadge": "Social Worker",
+  "engineBadge": "McDonald's Franchises",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Earned a B.S. in social service at N.C. A&T in 1975; won the 2013 Alumni Achievement Award and was appointed to A&T's Board of Trustees in 2025.",
+  "humbleBeginnings": "A Dudley High School (Greensboro) graduate trained in social work.",
+  "breakthrough": "Co-owned and operated 11 McDonald's restaurants with her husband John for about 40 years.",
+  "legacy": "Co-funded the Hairston College of Health and Human Sciences, a sociology/social work professorship (2017) and an endowed scholarship at A&T.",
+  "breakthroughDetail": [
+   {
+    "t": "40-year franchise partnership.",
+    "d": "Co-ran John R. Hairston Enterprises' McDonald's units in Atlanta and Charlotte until retiring in 2020.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Trustee.",
+    "d": "Appointed to the N.C. A&T Board of Trustees in 2025 (term through 2029).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "N.C. A&T — Board of Trustees: Kathy R. Hairston",
+    "url": "https://ncat.edu/about/leadership/board-of-trustees/hairston.php"
+   },
+   {
+    "label": "N.C. A&T — College naming for the Hairstons",
+    "url": "https://ncat.edu/news/2021/04/chhs-hairstons-naming.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Social Service, 1975"
+   },
+   {
+    "id": "john-r-hairston-enterprises",
+    "type": "ownership",
+    "label": "co-owner"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "board",
+    "label": "Board of Trustees, 2025–"
+   }
+  ]
+ },
+ {
+  "id": "hilda-pinnix-ragland",
+  "name": "Hilda Pinnix-Ragland",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1955",
+  "base": "Raleigh, NC",
+  "industry": "Electric Utilities",
+  "originBadge": "Angus Farm Upbringing",
+  "engineBadge": "Utility Exec & Boards",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated magna cum laude in accounting from N.C. A&T in 1977 and later chaired its Board of Trustees; she endowed accounting scholarships at A&T.",
+  "humbleBeginnings": "Grew up on her family's Angus cattle farm in Hillsborough, N.C.",
+  "breakthrough": "Joined Carolina Power & Light as a systems auditor in 1980 and became the first African American woman vice president at CP&L/Progress Energy; after the 2012 Duke merger she was VP of Corporate Public Affairs until 2016. Earned a Duke Fuqua MBA (1986).",
+  "legacy": "Became a serial board director (RTI International, Southwest Water) and chaired the N.C. Community College System board.",
+  "breakthroughDetail": [
+   {
+    "t": "Utility first.",
+    "d": "First African American woman vice president at Progress Energy, later VP at Duke Energy.",
+    "basis": "documented"
+   },
+   {
+    "t": "Board leader.",
+    "d": "Chaired the N.C. A&T trustees and the State Board of Community Colleges.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "STEMulus Academy.",
+    "d": "Founded a STEM program for fifth-grade girls in Wake County and endowed A&T accounting scholarships.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Hilda Pinnix-Ragland",
+    "url": "https://en.wikipedia.org/wiki/Hilda_Pinnix-Ragland"
+   },
+   {
+    "label": "Wikipedia — North Carolina A&T State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_A%26T_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Accounting, 1977"
+   },
+   {
+    "id": "progress-energy",
+    "type": "executive",
+    "label": "vice president, 1980s–2012"
+   },
+   {
+    "id": "duke-energy",
+    "type": "executive",
+    "label": "VP Corporate Public Affairs, 2012–2016"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "board",
+    "label": "chair, Board of Trustees"
+   }
+  ]
+ },
+ {
+  "id": "gina-loften",
+  "name": "Gina Loften",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "United States",
+  "industry": "Technology",
+  "originBadge": "Engineering Aggie",
+  "engineBadge": "Enterprise Technology",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from N.C. A&T in 1990; joined its Board of Trustees in 2023 and became chair in 2025. A&T honored her with an Alumni Achievement Award in 2025.",
+  "humbleBeginnings": "Built a technical career at IBM before moving to Microsoft.",
+  "breakthrough": "Rose to chief technology officer of Microsoft U.S., retiring recently, after executive roles at IBM.",
+  "legacy": "Now a Fortune 100 board director serving on the boards of TIAA, TTEC, Thoughtworks, Foursquare and RTI International.",
+  "breakthroughDetail": [
+   {
+    "t": "Microsoft U.S. CTO.",
+    "d": "Retired as chief technology officer of Microsoft's U.S. business.",
+    "basis": "documented"
+   },
+   {
+    "t": "Board portfolio.",
+    "d": "Directorships include TIAA, TTEC and Thoughtworks.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Chairs A&T trustees.",
+    "d": "Elected chair of the N.C. A&T Board of Trustees in 2025.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "N.C. A&T — Board of Trustees elects new officers (2025)",
+    "url": "https://www.ncat.edu/news/2025/07/bot-welcomes-new-members-and-officers.php"
+   },
+   {
+    "label": "N.C. A&T — Honors 13 distinguished alumni (Fall 2025)",
+    "url": "https://www.ncat.edu/news/2025/10/fall-2025-convocation-web-story.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "Class of 1990"
+   },
+   {
+    "id": "microsoft",
+    "type": "executive",
+    "label": "CTO, Microsoft U.S. (ret.)"
+   },
+   {
+    "id": "tiaa",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "board",
+    "label": "chair, Board of Trustees, 2025–"
+   }
+  ]
+ },
+ {
+  "id": "edward-richard-merrick",
+  "name": "Edward Richard Merrick",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Durham, NC",
+  "industry": "Life Insurance",
+  "originBadge": "Founder's Son",
+  "engineBadge": "Black-Owned Life Insurance",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from A&T College in 1908; later served as an A&T trustee and co-founded the A&T College Alumni Scholarship Fund.",
+  "humbleBeginnings": "Son of John Merrick, the barber-turned-founder of North Carolina Mutual.",
+  "breakthrough": "Rose from administrative assistant to vice president and treasurer of North Carolina Mutual Life Insurance Co. (1934), retiring in 1957.",
+  "legacy": "Married Lyda Moore, daughter of NC Mutual co-founder Dr. Aaron M. Moore, in 1916 — uniting Durham's two founding Black Wall Street families.",
+  "breakthroughDetail": [
+   {
+    "t": "NC Mutual treasurer.",
+    "d": "Became vice president/treasurer of the nation's largest Black-owned insurer in 1934.",
+    "basis": "documented"
+   },
+   {
+    "t": "Dynastic merger.",
+    "d": "His 1916 wedding to Lyda Moore was described as a social event of statewide importance.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "A&T scholarship fund.",
+    "d": "Co-founded the A&T College Alumni Scholarship Fund and served as a trustee.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   },
+   {
+    "label": "Wikipedia — Lyda Moore Merrick",
+    "url": "https://en.wikipedia.org/wiki/Lyda_Moore_Merrick"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "Class of 1908"
+   },
+   {
+    "id": "north-carolina-mutual-life-insurance-company",
+    "type": "executive",
+    "label": "VP & treasurer, 1934–1957"
+   },
+   {
+    "id": "lyda-moore-merrick",
+    "type": "family",
+    "label": "spouse (m. 1916)"
+   },
+   {
+    "id": "aaron-mcduffie-moore",
+    "type": "family",
+    "label": "son-in-law"
+   },
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "board",
+    "label": "trustee"
+   }
+  ]
+ },
+ {
+  "id": "james-h-speed-jr",
+  "name": "James H. Speed Jr.",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Durham, NC",
+  "industry": "Life Insurance",
+  "originBadge": "Accounting Star",
+  "engineBadge": "Black-Owned Life Insurance",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "A basketball player and star accounting student at North Carolina Central (B.S. 1975), he earned an MBA from Atlanta University (now Clark Atlanta). He chairs the NCCU Foundation's finance committee.",
+  "humbleBeginnings": "Trained as an accountant and built a career in corporate finance before returning to Durham.",
+  "breakthrough": "Named president and CEO of North Carolina Mutual Life Insurance Co. in 2003–04, succeeding Bert Collins, and led the historic Black insurer until 2015.",
+  "legacy": "Serves as an independent director for mutual funds and public companies and as an NCCU Foundation leader.",
+  "breakthroughDetail": [
+   {
+    "t": "NC Mutual CEO.",
+    "d": "President, CEO and director of North Carolina Mutual from 2004 to 2015.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NCCU Foundation.",
+    "d": "Finance committee chair of the NCCU Foundation board.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "ThinkAdvisor — Speed to head N.C. Mutual Life (2003)",
+    "url": "https://www.thinkadvisor.com/2003/04/29/speed-to-head-n-c-mutual-life/"
+   },
+   {
+    "label": "NCCU — Five visionary leaders join NCCU Foundation board",
+    "url": "https://www.nccu.edu/news/five-visionary-leaders-join-nccu-foundation-board-directors"
+   },
+   {
+    "label": "NCpedia — North Carolina Mutual Life Insurance Company",
+    "url": "https://www.ncpedia.org/north-carolina-mutual-life-insuranc"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "B.S. 1975"
+   },
+   {
+    "id": "atlanta-university",
+    "type": "alumni",
+    "label": "MBA"
+   },
+   {
+    "id": "north-carolina-mutual-life-insurance-company",
+    "type": "executive",
+    "label": "president & CEO, 2004–2015"
+   },
+   {
+    "id": "north-carolina-central-university",
+    "type": "board",
+    "label": "NCCU Foundation board"
+   }
+  ]
+ },
+ {
+  "id": "ben-ruffin",
+  "name": "Ben Ruffin",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1941–2006",
+  "base": "Winston-Salem, NC",
+  "industry": "Tobacco / Corporate Affairs",
+  "originBadge": "Durham Activist",
+  "engineBadge": "Corporate Affairs & Policy",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from North Carolina Central University in 1964 (political science), then earned an MSW at UNC-Chapel Hill.",
+  "humbleBeginnings": "Born in Durham and educated at Hillside High; led anti-poverty and housing efforts in Durham in the 1960s.",
+  "breakthrough": "After serving as Gov. Jim Hunt's special assistant for minority affairs and a vice president at North Carolina Mutual, he joined RJR Nabisco in 1986 and became vice president for corporate affairs at R.J. Reynolds Tobacco in 1989, steering minority-supplier and hiring initiatives.",
+  "legacy": "In 1998 became the first Black chair of the UNC Board of Governors; later ran his own Winston-Salem consultancy, The Ruffin Group.",
+  "breakthroughDetail": [
+   {
+    "t": "RJR vice president.",
+    "d": "VP for Corporate Affairs at R.J. Reynolds Tobacco from 1989.",
+    "basis": "documented"
+   },
+   {
+    "t": "NC Mutual role.",
+    "d": "Vice president and special assistant to the president of North Carolina Mutual for two years.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "First Black UNC system chair.",
+    "d": "Chaired the UNC Board of Governors from 1998.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ben Ruffin",
+    "url": "https://en.wikipedia.org/wiki/Ben_Ruffin"
+   },
+   {
+    "label": "Wikipedia — North Carolina Central University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "B.A. Political Science, 1964"
+   },
+   {
+    "id": "r-j-reynolds-tobacco-company",
+    "type": "executive",
+    "label": "VP Corporate Affairs, 1989–1999"
+   },
+   {
+    "id": "north-carolina-mutual-life-insurance-company",
+    "type": "executive",
+    "label": "vice president"
+   }
+  ]
+ },
+ {
+  "id": "fred-whitfield",
+  "name": "Fred Whitfield",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1958",
+  "base": "Charlotte, NC",
+  "industry": "Professional Sports Business",
+  "originBadge": "Greensboro Hoops Kid",
+  "engineBadge": "NBA Team Operations",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned his J.D. at North Carolina Central University School of Law (1998) after a BBA and MBA at Campbell University.",
+  "humbleBeginnings": "Grew up in Greensboro, N.C., and played college basketball at Campbell.",
+  "breakthrough": "After roles at Jordan Brand, Nike Basketball and the Washington Wizards, he became president and COO of the Charlotte Bobcats/Hornets in 2006, later vice chairman, alternate governor and minority owner.",
+  "legacy": "Described as the NBA's only African American COO; landed the 2019 NBA All-Star Game for Charlotte and runs youth camps and HoopTee Charities.",
+  "breakthroughDetail": [
+   {
+    "t": "Hornets president.",
+    "d": "President and COO from July 2006; later vice chairman and minority owner.",
+    "basis": "documented"
+   },
+   {
+    "t": "Jordan Brand.",
+    "d": "Director of business and legal affairs at Jordan Brand before Charlotte.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Charlotte events.",
+    "d": "Helped bring the 2019 NBA All-Star Game and the 2012 DNC to Spectrum Center.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Fred Whitfield (executive)",
+    "url": "https://en.wikipedia.org/wiki/Fred_Whitfield_(executive)"
+   },
+   {
+    "label": "NC Sports Hall of Fame — Fred Whitfield",
+    "url": "https://www.ncshof.org/inductees/fred-whitfield/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "J.D. 1998"
+   },
+   {
+    "id": "charlotte-hornets",
+    "type": "executive",
+    "label": "president & COO, 2006–; minority owner"
+   }
+  ]
+ },
+ {
+  "id": "louis-austin",
+  "name": "Louis Austin",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1898–1971",
+  "base": "Durham, NC",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Enfield Farm Roots",
+  "engineBadge": "Black Press",
+  "capitalBadge": "Black Bank Loan",
+  "hbcuStory": "Finished high school at the Joseph K. Brick School, then attended the National Training School in Durham (now NCCU).",
+  "humbleBeginnings": "Born in Enfield, N.C.; started at Durham's Standard Advertiser in 1921 as a sales/reporting hand.",
+  "breakthrough": "Bought the paper in 1927 with a loan from Black-owned Mechanics and Farmers Bank, renamed it The Carolina Times (‘The Truth Unbridled’) and edited it until his death.",
+  "legacy": "Used the paper to push voter registration, school desegregation and equal teacher pay; co-founded the Durham Committee on Negro Affairs (1935). His grandson Kenneth Edmonds still publishes the Times.",
+  "breakthroughDetail": [
+   {
+    "t": "Bank-financed buyout.",
+    "d": "Purchased the paper in 1927 with an M&F Bank loan.",
+    "basis": "documented"
+   },
+   {
+    "t": "Civil rights press.",
+    "d": "Backed the 1933 Hocutt v. Wilson suit and promoted the Double V campaign.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Three-generation outlet.",
+    "d": "The Carolina Times remains in the family as Durham's Black-owned newspaper.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Louis Austin",
+    "url": "https://en.wikipedia.org/wiki/Louis_Austin"
+   },
+   {
+    "label": "Wikipedia — North Carolina Central University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "attended (National Training School)"
+   },
+   {
+    "id": "brick-junior-college",
+    "type": "alumni",
+    "label": "high-school dept. (Brick School)"
+   },
+   {
+    "id": "the-carolina-times",
+    "type": "ownership",
+    "label": "owner/editor, 1927–1971"
+   },
+   {
+    "id": "mechanics-and-farmers-bank",
+    "type": "capital",
+    "label": "1927 purchase loan"
+   }
+  ]
+ },
+ {
+  "id": "andre-leon-talley",
+  "name": "André Leon Talley",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1948–2022",
+  "base": "New York, NY",
+  "industry": "Fashion Publishing",
+  "originBadge": "Raised by Grandmother",
+  "engineBadge": "Fashion Media",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.A. in French literature from North Carolina Central University in 1970, then an M.A. at Brown.",
+  "humbleBeginnings": "Born in Washington, D.C., and raised by his grandmother, a domestic worker at Duke, in Durham.",
+  "breakthrough": "From an unpaid apprenticeship with Diana Vreeland, he moved through Interview and WWD to Vogue, where he became the magazine's first African American male creative director (1988–95) and later editor-at-large.",
+  "legacy": "A cultural power broker who pushed for runway diversity and mentored designers and models; Chevalier of the French Ordre des Arts et des Lettres (2020).",
+  "breakthroughDetail": [
+   {
+    "t": "Vogue creative director.",
+    "d": "Fashion news director 1983–87, creative director 1988–95, editor-at-large 1998–2013.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Industry gatekeeper.",
+    "d": "Mentored figures including Naomi Campbell and LaQuan Smith.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — André Leon Talley",
+    "url": "https://en.wikipedia.org/wiki/Andr%C3%A9_Leon_Talley"
+   },
+   {
+    "label": "Wikipedia — North Carolina Central University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "B.A. French, 1970"
+   },
+   {
+    "id": "vogue",
+    "type": "executive",
+    "label": "creative director 1988–95; editor-at-large 1998–2013"
+   }
+  ]
+ },
+ {
+  "id": "floyd-mckissick",
+  "name": "Floyd McKissick",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1922–1991",
+  "base": "Soul City, NC",
+  "industry": "Real Estate Development / Law",
+  "originBadge": "WWII Veteran",
+  "engineBadge": "Planned-Community Developer",
+  "capitalBadge": "Federal Loan Guarantees",
+  "hbcuStory": "Attended Morehouse (graduating 1948) and North Carolina College's law school (now NCCU) before suing his way into UNC Law in 1951.",
+  "humbleBeginnings": "Born in Asheville; served in the Army in World War II.",
+  "breakthrough": "After leading CORE (1966–68), he founded McKissick Enterprises and in 1969 launched Soul City, a Black-led planned town in Warren County financed partly by a $14 million HUD bond guarantee under the New Communities Act.",
+  "legacy": "Soul City fell short and HUD took control in 1980, but it remains the most ambitious Black economic-development experiment of its era; his son Floyd McKissick Jr. became a state senator.",
+  "breakthroughDetail": [
+   {
+    "t": "Soul City.",
+    "d": "Secured a $14M HUD guarantee, a $500K bank loan and $1.7M from the state for the new town.",
+    "basis": "documented"
+   },
+   {
+    "t": "CORE national director.",
+    "d": "Succeeded James Farmer in 1966 and steered CORE toward Black Power and economic self-determination.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Federal takeover.",
+    "d": "HUD assumed control of Soul City in 1980 and paid off $10 million in loans.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Floyd McKissick",
+    "url": "https://en.wikipedia.org/wiki/Floyd_McKissick"
+   },
+   {
+    "label": "Wikipedia — North Carolina Central University",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "law school, attended c. 1949–51"
+   },
+   {
+    "id": "morehouse-college",
+    "type": "alumni",
+    "label": "B.A. 1948"
+   },
+   {
+    "id": "soul-city",
+    "type": "ownership",
+    "label": "founder/developer, 1969"
+   }
+  ]
+ },
+ {
+  "id": "willie-e-gary",
+  "name": "Willie E. Gary",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1947",
+  "base": "Stuart, FL",
+  "industry": "Trial Law",
+  "originBadge": "Migrant Farmworker Family",
+  "engineBadge": "Contingency-Fee Litigation",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.A. in business administration at Shaw University in 1971 (on a football scholarship), then a J.D. from North Carolina Central University School of Law in 1974.",
+  "humbleBeginnings": "Born in Eastman, Ga., one of 11 children of a sharecropping/migrant farm family.",
+  "breakthrough": "With his wife Gloria he founded Martin County's first Black law firm at 27; it grew into Gary, Williams, Parenti, Watson & Gary, known for mega-verdicts such as $500M against the Loewen Group (1995) and $240M against Disney (2000).",
+  "legacy": "Turned contingency-fee verdicts into one of the most prominent Black-owned law firms in the U.S. and family philanthropy.",
+  "breakthroughDetail": [
+   {
+    "t": "$500M Loewen verdict.",
+    "d": "1995 jury award for funeral-home owner Jeremiah O'Keefe; settled for $175M.",
+    "basis": "documented"
+   },
+   {
+    "t": "$240M Disney verdict.",
+    "d": "2000 win over the ESPN Wide World of Sports concept.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family firm.",
+    "d": "Co-founded with his wife Gloria; philanthropic and community work in Florida and the Southeast.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Willie E. Gary",
+    "url": "https://en.wikipedia.org/wiki/Willie_E._Gary"
+   },
+   {
+    "label": "Wikipedia — Shaw University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Shaw_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "shaw-university",
+    "type": "alumni",
+    "label": "B.A. Business Administration, 1971"
+   },
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "J.D. 1974"
+   },
+   {
+    "id": "gary-williams-parenti-watson-and-gary",
+    "type": "ownership",
+    "label": "co-founded with wife Gloria"
+   }
+  ]
+ },
+ {
+  "id": "william-gaston-pearson",
+  "name": "William Gaston Pearson",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1858–1947",
+  "base": "Durham, NC",
+  "industry": "Insurance, Banking & Education",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "Black Wall Street Institutions",
+  "capitalBadge": "Pooled Community Capital",
+  "hbcuStory": "Graduated from Shaw University with a B.S. in 1886, his studies financed by Durham industrialist Julian S. Carr; later a trustee of Kittrell College and NCCU.",
+  "humbleBeginnings": "Born into slavery in Durham County and worked at Carr's tobacco factory as a youth.",
+  "breakthrough": "An original organizer of North Carolina Mutual and a founder of Mechanics and Farmers Bank (1907), he also organized Fraternal Bank & Trust, Southern Fidelity and Surety, Bankers Fire Insurance and Durham Drug Co., while serving as a longtime Durham principal.",
+  "legacy": "Won the 1927 Harmon Award for business achievement; Durham schools and NCCU's cafeteria bear his name.",
+  "breakthroughDetail": [
+   {
+    "t": "Bank co-founder.",
+    "d": "Among the founders of Mechanics and Farmers Bank, now one of the oldest Black-owned banks.",
+    "basis": "documented"
+   },
+   {
+    "t": "Insurance organizer.",
+    "d": "Original organizer of North Carolina Mutual and several fire and surety insurers.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Harmon Award, 1927.",
+    "d": "Recognized nationally for achievement in business.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — William Gaston Pearson",
+    "url": "https://en.wikipedia.org/wiki/William_Gaston_Pearson"
+   },
+   {
+    "label": "Wikipedia — Mechanics and Farmers Bank",
+    "url": "https://en.wikipedia.org/wiki/Mechanics_and_Farmers_Bank"
+   },
+   {
+    "label": "Duke Libraries — African Americans in Durham",
+    "url": "https://library.duke.edu/rubenstein/franklin/collections/durham_afams"
+   }
+  ],
+  "connections": [
+   {
+    "id": "shaw-university",
+    "type": "alumni",
+    "label": "B.S. 1886"
+   },
+   {
+    "id": "mechanics-and-farmers-bank",
+    "type": "ownership",
+    "label": "co-founder, 1907"
+   },
+   {
+    "id": "north-carolina-mutual-life-insurance-company",
+    "type": "ownership",
+    "label": "original organizer"
+   },
+   {
+    "id": "durham-drug-company",
+    "type": "ownership",
+    "label": "founder/partner"
+   },
+   {
+    "id": "kittrell-college",
+    "type": "board",
+    "label": "trustee"
+   },
+   {
+    "id": "north-carolina-central-university",
+    "type": "board",
+    "label": "trustee"
+   },
+   {
+    "id": "james-e-shepard",
+    "type": "mentorship",
+    "label": "close friend and supporter"
+   }
+  ]
+ },
+ {
+  "id": "aaron-mcduffie-moore",
+  "name": "Aaron McDuffie Moore",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1863–1923",
+  "base": "Durham, NC",
+  "industry": "Life Insurance & Health Care",
+  "originBadge": "Rural Columbus County",
+  "engineBadge": "Mutual Insurance & Hospitals",
+  "capitalBadge": "Pooled Community Capital",
+  "hbcuStory": "Entered Shaw University in 1885 and finished Leonard Medical School's four-year program in three years, passing the N.C. medical boards in 1888 (second of 46). Later a Shaw trustee.",
+  "humbleBeginnings": "Born in Columbus County, N.C.; trained first at normal schools in Lumberton and Fayetteville.",
+  "breakthrough": "Durham's first Black physician co-founded North Carolina Mutual and Provident Association with John Merrick in 1898, serving as treasurer/medical director and, from 1919, president.",
+  "legacy": "Founded Durham Drug Co. (1895), Lincoln Hospital (1901) and its nursing school, and the library that became the Stanford L. Warren branch; used Rosenwald matching grants to improve rural Black schools.",
+  "breakthroughDetail": [
+   {
+    "t": "NC Mutual co-founder.",
+    "d": "Co-founded the company with John Merrick; became president after Merrick's death in 1919.",
+    "basis": "documented"
+   },
+   {
+    "t": "Lincoln Hospital.",
+    "d": "Founded Durham's Black hospital in 1901 and a nursing school in 1903.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Institution builder.",
+    "d": "His drugstore, hospital, library and insurer anchored Durham's Black Wall Street.",
+    "basis": "documented"
+   },
+   {
+    "t": "Family dynasty.",
+    "d": "Daughter Lyda married Edward R. Merrick, joining the two founding families.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Aaron McDuffie Moore",
+    "url": "https://en.wikipedia.org/wiki/Aaron_McDuffie_Moore"
+   },
+   {
+    "label": "Wikipedia — Leonard Medical School",
+    "url": "https://en.wikipedia.org/wiki/Leonard_Medical_School"
+   },
+   {
+    "label": "Wikipedia — North Carolina Mutual Life Insurance Company",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Mutual_Life_Insurance_Company"
+   }
+  ],
+  "connections": [
+   {
+    "id": "leonard-medical-school",
+    "type": "alumni",
+    "label": "M.D., licensed 1888"
+   },
+   {
+    "id": "shaw-university",
+    "type": "alumni",
+    "label": "entered 1885"
+   },
+   {
+    "id": "north-carolina-mutual-life-insurance-company",
+    "type": "ownership",
+    "label": "co-founder, 1898; president 1919–1923"
+   },
+   {
+    "id": "durham-drug-company",
+    "type": "ownership",
+    "label": "founder, 1895"
+   },
+   {
+    "id": "lincoln-hospital-durham",
+    "type": "ownership",
+    "label": "founder, 1901"
+   },
+   {
+    "id": "shaw-university",
+    "type": "board",
+    "label": "trustee"
+   },
+   {
+    "id": "lyda-moore-merrick",
+    "type": "family",
+    "label": "father"
+   },
+   {
+    "id": "fayetteville-state-university",
+    "type": "alumni",
+    "label": "attended the Normal School at Fayetteville"
+   }
+  ]
+ },
+ {
+  "id": "stanford-lee-warren",
+  "name": "Stanford Lee Warren",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1863–1940",
+  "base": "Durham, NC",
+  "industry": "Banking & Medicine",
+  "originBadge": "Physician-Entrepreneur",
+  "engineBadge": "Community Banking",
+  "capitalBadge": "Pooled Community Capital",
+  "hbcuStory": "Earned his M.D. from Shaw University's Leonard Medical School in Raleigh.",
+  "humbleBeginnings": "Born in the 1860s in North Carolina (sources differ on 1860 vs. 1863) and trained as a physician.",
+  "breakthrough": "Practiced medicine in Durham and was one of the founders of Mechanics and Farmers Bank (chartered 1907).",
+  "legacy": "Durham County's Stanford L. Warren Branch Library — the library founded by Aaron Moore — bears his name in recognition of his civic leadership.",
+  "breakthroughDetail": [
+   {
+    "t": "Bank founder.",
+    "d": "Listed among the founders of Mechanics and Farmers Bank with Pearson, Fitzgerald, Shepard and Merrick.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Library namesake.",
+    "d": "Durham's historic Black public library branch is named for him.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "BlackPast — Stanford Lee Warren (1863–1940)",
+    "url": "https://blackpast.org/african-american-history/stanford-lee-warren-1863-1940/"
+   },
+   {
+    "label": "Museum of Durham History — Persons",
+    "url": "https://www.museumofdurhamhistory.org/learn/history-beneath-our-feet/persons"
+   },
+   {
+    "label": "Wikipedia — Mechanics and Farmers Bank",
+    "url": "https://en.wikipedia.org/wiki/Mechanics_and_Farmers_Bank"
+   }
+  ],
+  "connections": [
+   {
+    "id": "leonard-medical-school",
+    "type": "alumni",
+    "label": "M.D."
+   },
+   {
+    "id": "mechanics-and-farmers-bank",
+    "type": "ownership",
+    "label": "co-founder"
+   }
+  ]
+ },
+ {
+  "id": "manassa-thomas-pope",
+  "name": "Manassa Thomas Pope",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1858–1934",
+  "base": "Raleigh, NC",
+  "industry": "Pharmacy & Insurance",
+  "originBadge": "Freeborn Rural Family",
+  "engineBadge": "Drugstores & Mutual Insurance",
+  "capitalBadge": "Professional Fees",
+  "hbcuStory": "Attended Shaw University and earned his medical degree from Leonard Medical School in 1886, in its first graduating class.",
+  "humbleBeginnings": "Trained at Shaw in Raleigh in the first years after Reconstruction.",
+  "breakthrough": "Raleigh physician who co-founded Queen City Drug Co. in Charlotte (1892) and the People's Benevolent Association insurance business, and helped organize Mechanics and Farmers Bank in Durham.",
+  "legacy": "Served as an Army assistant surgeon in 1898 and ran for mayor of Raleigh in 1919; his home is now the M. T. Pope House Museum.",
+  "breakthroughDetail": [
+   {
+    "t": "First Leonard class.",
+    "d": "One of the six men awarded the first Leonard medical degrees in 1886.",
+    "basis": "documented"
+   },
+   {
+    "t": "Multi-venture founder.",
+    "d": "Drugstore, insurance and bank ventures alongside his practice.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "House museum.",
+    "d": "His Raleigh home is on the National Register and operates as a museum.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Manassa Thomas Pope",
+    "url": "https://en.wikipedia.org/wiki/Manassa_Thomas_Pope"
+   },
+   {
+    "label": "Wikipedia — Leonard Medical School",
+    "url": "https://en.wikipedia.org/wiki/Leonard_Medical_School"
+   }
+  ],
+  "connections": [
+   {
+    "id": "leonard-medical-school",
+    "type": "alumni",
+    "label": "M.D. 1886"
+   },
+   {
+    "id": "shaw-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "queen-city-drug-company",
+    "type": "ownership",
+    "label": "co-founder, 1892"
+   },
+   {
+    "id": "peoples-benevolent-association",
+    "type": "ownership",
+    "label": "co-founder"
+   },
+   {
+    "id": "mechanics-and-farmers-bank",
+    "type": "ownership",
+    "label": "helped organize"
+   }
+  ]
+ },
+ {
+  "id": "stephen-a-smith",
+  "name": "Stephen A. Smith",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from reported ESPN/SiriusXM contract values; no audited net worth published.",
+  "lifespan": "b. 1967",
+  "base": "New York, NY",
+  "industry": "Sports Media",
+  "originBadge": "Queens Kid, Hoops Scholarship",
+  "engineBadge": "Sports Talk Media",
+  "capitalBadge": "Talent Contracts",
+  "hbcuStory": "Transferred to Winston-Salem State on a basketball scholarship, played for Hall of Famer Clarence ‘Big House’ Gaines until a knee injury, and graduated in 1991 with a B.A. in mass communication.",
+  "humbleBeginnings": "Raised in Hollis, Queens; spent a year at the Fashion Institute of Technology before WSSU.",
+  "breakthrough": "Built a newspaper career at the Philadelphia Inquirer into ESPN's First Take, signing ESPN deals reported at ~$60 million over five years (2019) and over $100 million over five years (2025), plus a $36 million SiriusXM deal.",
+  "legacy": "Owns a growing independent media business around The Stephen A. Smith Show podcast while remaining ESPN's highest-paid on-air talent.",
+  "breakthroughDetail": [
+   {
+    "t": "$100M+ ESPN deal.",
+    "d": "2025 contract reported at more than $100 million over five years.",
+    "basis": "documented"
+   },
+   {
+    "t": "SiriusXM.",
+    "d": "2025 deal reported at $36 million over three years.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Independent podcast.",
+    "d": "Hosts The Stephen A. Smith Show as his own platform.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Stephen A. Smith",
+    "url": "https://en.wikipedia.org/wiki/Stephen_A._Smith"
+   },
+   {
+    "label": "Wikipedia — Winston-Salem State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Winston-Salem_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "winston-salem-state-university",
+    "type": "alumni",
+    "label": "B.A. Mass Communication, 1991"
+   },
+   {
+    "id": "espn",
+    "type": "deal",
+    "label": "multi-year talent contracts"
+   }
+  ]
+ },
+ {
+  "id": "nicholas-perkins",
+  "name": "Nicholas Perkins",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from an $18.5M brand acquisition and multiple operating companies; no published figure.",
+  "lifespan": "",
+  "base": "Fayetteville, NC",
+  "industry": "Restaurants & Food Service",
+  "originBadge": "Fayetteville Native",
+  "engineBadge": "Restaurant Brands & Contract Food",
+  "capitalBadge": "Acquisition Debt & Equity",
+  "hbcuStory": "Graduated from Fayetteville State University in 2003 and later earned an MBA at Howard University; he has given millions to HBCU scholarships.",
+  "humbleBeginnings": "A Fayetteville native who started his first company in his early twenties.",
+  "breakthrough": "Founded Perkins Management Company, a contract food-services firm, at 24; bought 14 Fuddruckers franchises, then in 2021 his Black Titan Franchise Systems acquired the entire Fuddruckers brand from Luby's for $18.5 million.",
+  "legacy": "Owns a stable of food-industry companies and sits on the National Urban League board.",
+  "breakthroughDetail": [
+   {
+    "t": "Bought Fuddruckers.",
+    "d": "Black Titan Franchise Systems paid $18.5 million for worldwide ownership of the brand in 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "Franchisee first.",
+    "d": "Owned 14 U.S. Fuddruckers franchises before buying the franchisor.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "HBCU giving.",
+    "d": "Credited by FSU with donating millions to HBCU scholarships.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Fayetteville State University — Alumni & Friends",
+    "url": "https://www.uncfsu.edu/alumni-and-friends"
+   },
+   {
+    "label": "Wikipedia — Fuddruckers",
+    "url": "https://en.wikipedia.org/wiki/Fuddruckers"
+   }
+  ],
+  "connections": [
+   {
+    "id": "fayetteville-state-university",
+    "type": "alumni",
+    "label": "Class of 2003"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "MBA"
+   },
+   {
+    "id": "black-titan-franchise-systems",
+    "type": "ownership",
+    "label": "founder"
+   },
+   {
+    "id": "fuddruckers",
+    "type": "capital",
+    "label": "acquired brand for $18.5M, 2021"
+   },
+   {
+    "id": "perkins-management-company",
+    "type": "ownership",
+    "label": "founded at age 24"
+   }
+  ]
+ },
+ {
+  "id": "ed-mitchell",
+  "name": "Ed Mitchell",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. c. 1948",
+  "base": "Wilson / Raleigh, NC",
+  "industry": "Barbecue Restaurants",
+  "originBadge": "Family Grocery",
+  "engineBadge": "Whole-Hog Barbecue",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Graduated from Fayetteville State in 1971, according to the university's alumni profiles.",
+  "humbleBeginnings": "Learned whole-hog cooking from his family in Wilson, N.C., and began selling barbecue at the family grocery store in the 1990s.",
+  "breakthrough": "Became one of the South's best-known pitmasters through Mitchell's Ribs, Chicken & BBQ, then co-founded The Pit in Raleigh and later The Preserve with his son Ryan.",
+  "legacy": "Championed heritage-breed pork and Black barbecue history, with national TV exposure and Goldbelly and sauce-licensing ventures.",
+  "breakthroughDetail": [
+   {
+    "t": "National profile.",
+    "d": "Featured on Throwdown! with Bobby Flay, Man v. Food and in Bon Appétit.",
+    "basis": "documented"
+   },
+   {
+    "t": "Restaurant ventures.",
+    "d": "Co-founded The Pit (Raleigh); opened Que (Durham, 2014); announced The Preserve (2019).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Licensing.",
+    "d": "Created barbecue sauces for True Made Foods (2020) and ships via Goldbelly.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Fayetteville State University — Alumni & Friends",
+    "url": "https://www.uncfsu.edu/alumni-and-friends"
+   },
+   {
+    "label": "Wikipedia — Ed Mitchell (pitmaster)",
+    "url": "https://en.wikipedia.org/wiki/Ed_Mitchell_(pitmaster)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "fayetteville-state-university",
+    "type": "alumni",
+    "label": "Class of 1971"
+   },
+   {
+    "id": "the-pit-authentic-barbecue",
+    "type": "ownership",
+    "label": "co-founder"
+   }
+  ]
+ },
+ {
+  "id": "philip-a-payton-jr",
+  "name": "Philip A. Payton Jr.",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1876–1917",
+  "base": "New York, NY",
+  "industry": "Real Estate",
+  "originBadge": "Barber's Son",
+  "engineBadge": "Harlem Housing",
+  "capitalBadge": "Sold Shares to Black Investors",
+  "hbcuStory": "Attended Livingstone College in Salisbury, N.C., graduating in 1899 per his biography.",
+  "humbleBeginnings": "Born in Westfield, Mass., son of a barber; worked as a janitor in a New York real estate office before starting his own agency.",
+  "breakthrough": "In 1904 chartered the Afro-American Realty Company with Black investors, selling 50,000 shares at $10 to lease and buy Harlem buildings for Black tenants at a time of white resistance.",
+  "legacy": "Called the ‘Father of Harlem’; the company folded in 1908 after an investor lawsuit and the Panic of 1907, but his own firm closed a ~$1.5M sale of six apartment houses in 1917, the largest for Black buyers to that date.",
+  "breakthroughDetail": [
+   {
+    "t": "Afro-American Realty Co.",
+    "d": "Grew to about $1 million in assets selling $10 shares to Black investors.",
+    "basis": "documented"
+   },
+   {
+    "t": "Opened Harlem.",
+    "d": "Bought and managed buildings for Black renters, sparking Harlem's transformation.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Successors.",
+    "d": "John E. Nail and Henry C. Parker carried on his work as the ‘little fathers’ of Harlem.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Philip A. Payton Jr.",
+    "url": "https://en.wikipedia.org/wiki/Philip_A._Payton_Jr."
+   },
+   {
+    "label": "Wikipedia — Livingstone College (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Livingstone_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "livingstone-college",
+    "type": "alumni",
+    "label": "graduated 1899"
+   },
+   {
+    "id": "afro-american-realty-company",
+    "type": "ownership",
+    "label": "founder, 1904"
+   }
+  ]
+ },
+ {
+  "id": "i-patricia-henry",
+  "name": "I. Patricia Henry",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1947",
+  "base": "Eden, NC",
+  "industry": "Brewing",
+  "originBadge": "Chemistry Summa Grad",
+  "engineBadge": "Brewery Operations",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated summa cum laude from Bennett College in 1969 with a B.S. in chemistry; later studied at the Siebel Institute of Brewing Technology and Harvard.",
+  "humbleBeginnings": "Born in Martinsville, Va.; started as a systems analyst at GE, Norfolk & Western and Ethyl Corp.",
+  "breakthrough": "Joined Miller Brewing in 1977 and became the first African American and first woman brewmaster at a major U.S. brewery; in 1995 she became manager of Miller's Eden, N.C., plant (878 employees, ~8–9 million barrels a year).",
+  "legacy": "First African American woman to manage a major U.S. brewery; later joined the BB&T corporate board (2013).",
+  "breakthroughDetail": [
+   {
+    "t": "Brewmaster first.",
+    "d": "First woman and first Black brewmaster for a major U.S. brewer.",
+    "basis": "documented"
+   },
+   {
+    "t": "Plant manager.",
+    "d": "Ran Miller's Eden, N.C., brewery from 1995.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Bank director.",
+    "d": "Joined BB&T's board in 2013.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — I. Patricia Henry",
+    "url": "https://en.wikipedia.org/wiki/I._Patricia_Henry"
+   },
+   {
+    "label": "Wikipedia — Bennett College (notable alumnae)",
+    "url": "https://en.wikipedia.org/wiki/Bennett_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bennett-college",
+    "type": "alumni",
+    "label": "B.S. Chemistry, 1969"
+   },
+   {
+    "id": "miller-brewing-company",
+    "type": "executive",
+    "label": "brewmaster; Eden plant manager 1995–"
+   },
+   {
+    "id": "bb-and-t",
+    "type": "board",
+    "label": "director, 2013–"
+   }
+  ]
+ },
+ {
+  "id": "lyda-moore-merrick",
+  "name": "Lyda Moore Merrick",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1890–1987",
+  "base": "Durham, NC",
+  "industry": "Publishing for the Blind",
+  "originBadge": "Black Wall Street Daughter",
+  "engineBadge": "Braille Publishing",
+  "capitalBadge": "Self-Funded",
+  "hbcuStory": "Attended Scotia Seminary (now Barber–Scotia) before graduating magna cum laude from Fisk University in 1911 with a music degree.",
+  "humbleBeginnings": "Daughter of NC Mutual co-founder Dr. Aaron M. Moore, raised in Durham's Hayti district.",
+  "breakthrough": "In 1952 co-founded the Negro Braille Magazine with John Carter Washington — the first publication for blind African Americans — and edited it for 18 years.",
+  "legacy": "Often paid the magazine's costs herself so readers did not have to; it continues as The Merrick/Washington Magazine for the Blind.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black Braille magazine.",
+    "d": "Co-founded the Negro Braille Magazine in 1952.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Renamed in her honor.",
+    "d": "Became The Merrick/Washington Magazine for the Blind around 1980.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Lyda Moore Merrick",
+    "url": "https://en.wikipedia.org/wiki/Lyda_Moore_Merrick"
+   },
+   {
+    "label": "Wikipedia — Barber–Scotia College (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Barber%E2%80%93Scotia_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "barber-scotia-college",
+    "type": "alumni",
+    "label": "attended Scotia Seminary"
+   },
+   {
+    "id": "fisk-university",
+    "type": "alumni",
+    "label": "B.Mus. 1911"
+   },
+   {
+    "id": "negro-braille-magazine",
+    "type": "ownership",
+    "label": "co-founder, 1952"
+   },
+   {
+    "id": "aaron-mcduffie-moore",
+    "type": "family",
+    "label": "daughter"
+   }
+  ]
+ },
+ {
+  "id": "brad-holmes",
+  "name": "Brad Holmes",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1979",
+  "base": "Detroit, MI",
+  "industry": "NFL Team Management",
+  "originBadge": "PR Intern",
+  "engineBadge": "Football Operations",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated cum laude from N.C. A&T in 2002 with a B.S. in journalism and mass communication; a four-year letterman who captained the 1999 MEAC and Black college national champions.",
+  "humbleBeginnings": "Born in Tampa, Fla.; played defensive tackle at A&T.",
+  "breakthrough": "Rose from a 2003 Rams public-relations internship through scouting to director of college scouting, then was named executive vice president and general manager of the Detroit Lions in 2021.",
+  "legacy": "Rebuilt the Lions into a contender; named PFWA Executive of the Year in 2023 and 2024.",
+  "breakthroughDetail": [
+   {
+    "t": "Lions GM.",
+    "d": "Hired Jan. 2021; first move was the Stafford-for-Goff trade.",
+    "basis": "documented"
+   },
+   {
+    "t": "Executive of the Year.",
+    "d": "PFWA honors in 2023 and 2024.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "HBCU pipeline.",
+    "d": "One of few HBCU graduates running an NFL front office.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Brad Holmes",
+    "url": "https://en.wikipedia.org/wiki/Brad_Holmes"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Journalism, 2002"
+   },
+   {
+    "id": "detroit-lions",
+    "type": "executive",
+    "label": "EVP & general manager, 2021–"
+   }
+  ]
+ },
+ {
+  "id": "terrence-j",
+  "name": "Terrence J",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1982",
+  "base": "Los Angeles, CA",
+  "industry": "Television Hosting & Production",
+  "originBadge": "Rocky Mount Upbringing",
+  "engineBadge": "TV Hosting & Acting",
+  "capitalBadge": "Talent Contracts",
+  "hbcuStory": "Earned a mass communication degree at N.C. A&T in 2004 after being raised in Rocky Mount, N.C.; A&T lists him among its prominent alumni.",
+  "humbleBeginnings": "Born Terrence Jenkins in Queens and raised by his mother in Rocky Mount.",
+  "breakthrough": "Won BET's New Faces contest in 2006 and co-hosted 106 & Park until 2012, then co-anchored E! News (2012–15).",
+  "legacy": "Moved into acting and producing; published The Wealth of My Mother's Wisdom (HarperCollins, 2013).",
+  "breakthroughDetail": [
+   {
+    "t": "106 & Park.",
+    "d": "Co-host 2006–2012.",
+    "basis": "documented"
+   },
+   {
+    "t": "E! News.",
+    "d": "Co-anchor from 2012, replacing Ryan Seacrest.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Author.",
+    "d": "The Wealth of My Mother's Wisdom (2013).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Terrence Jenkins"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Terrence J",
+    "url": "https://en.wikipedia.org/wiki/Terrence_J"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.A. Mass Communication, 2004"
+   },
+   {
+    "id": "bet-networks",
+    "type": "deal",
+    "label": "co-host, 106 & Park, 2006–2012"
+   }
+  ]
+ },
+ {
+  "id": "james-e-shepard",
+  "name": "James E. Shepard",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1875–1947",
+  "base": "Durham, NC",
+  "industry": "Higher Education / Black Wall Street",
+  "originBadge": "Pastor's Son",
+  "engineBadge": "College Founder",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Trained as a pharmacist at Shaw University, graduating in 1894; founded what is now North Carolina Central University in 1910 and led it for nearly 40 years.",
+  "humbleBeginnings": "Born in Raleigh, son of a Baptist minister.",
+  "breakthrough": "A Hayti pharmacist, he was among the seven founders of North Carolina Mutual and a founder of Mechanics and Farmers Bank before launching the National Religious Training School and Chautauqua, which became the first state-funded Black liberal arts college (1925).",
+  "legacy": "Durham 150 Main Honoree (2019); NCCU's library and a Durham middle school bear his name.",
+  "breakthroughDetail": [
+   {
+    "t": "NC Mutual and M&F founder.",
+    "d": "Listed among NC Mutual's seven founders and M&F Bank's founders.",
+    "basis": "documented"
+   },
+   {
+    "t": "Founded NCCU, 1910.",
+    "d": "Served as president until his death in 1947.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "State college.",
+    "d": "Won state funding (1923) and liberal-arts status (1925) for his school.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — James E. Shepard",
+    "url": "https://en.wikipedia.org/wiki/James_E._Shepard"
+   },
+   {
+    "label": "NCCU Library — NC Mutual Donates Archives",
+    "url": "https://www.nccu.edu/james-e-shepard-memorial-library/special-collections/nc-mutual-donates-archives"
+   },
+   {
+    "label": "Wikipedia — Mechanics and Farmers Bank",
+    "url": "https://en.wikipedia.org/wiki/Mechanics_and_Farmers_Bank"
+   }
+  ],
+  "connections": [
+   {
+    "id": "shaw-university",
+    "type": "alumni",
+    "label": "pharmacy, 1894"
+   },
+   {
+    "id": "north-carolina-central-university",
+    "type": "faculty",
+    "label": "founder & president, 1910–1947"
+   },
+   {
+    "id": "north-carolina-mutual-life-insurance-company",
+    "type": "ownership",
+    "label": "one of seven founders"
+   },
+   {
+    "id": "mechanics-and-farmers-bank",
+    "type": "ownership",
+    "label": "co-founder, 1907"
+   }
+  ]
+ },
+ {
+  "id": "jesse-jackson",
+  "name": "Jesse Jackson",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1941",
+  "base": "Chicago, IL",
+  "industry": "Civil Rights & Economic Justice",
+  "originBadge": "Greenville Teen Mother's Son",
+  "engineBadge": "Civil Rights & Corporate Covenants",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Transferred from the University of Illinois to N.C. A&T, where he quarterbacked the football team, was student body president, led Greensboro desegregation protests in 1963, and earned a B.S. in sociology in 1964.",
+  "humbleBeginnings": "Born in Greenville, S.C., to a teenage mother.",
+  "breakthrough": "A Martin Luther King Jr. lieutenant who ran Operation Breadbasket, he founded Operation PUSH (1971) and the Rainbow Coalition, ran for president in 1984 and 1988, and launched the Wall Street Project pressing corporations on Black suppliers and executives.",
+  "legacy": "Rainbow/PUSH's corporate-accountability campaigns opened supplier and board doors for Black businesses.",
+  "breakthroughDetail": [
+   {
+    "t": "Two presidential runs.",
+    "d": "Won multiple primaries in 1984 and 1988.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Wall Street Project.",
+    "d": "Pressed Fortune 500 firms on Black hiring, procurement and board seats.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Jesse Jackson",
+    "url": "https://en.wikipedia.org/wiki/Jesse_Jackson"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Sociology, 1964"
+   },
+   {
+    "id": "rainbow-push-coalition",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "ronald-mcnair",
+  "name": "Ronald McNair",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1950–1986",
+  "base": "Houston, TX",
+  "industry": "Laser Physics / Spaceflight",
+  "originBadge": "Lake City Sharecroppers' Son",
+  "engineBadge": "Laser Physics & Spaceflight",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated magna cum laude in physics from N.C. A&T in 1971, then earned a Ph.D. at MIT (1976).",
+  "humbleBeginnings": "Grew up in segregated Lake City, S.C.",
+  "breakthrough": "Became a laser physicist at Hughes Research Labs and the second African American in space (STS-41-B, 1984).",
+  "legacy": "Died in the 1986 Challenger disaster; the federal McNair Scholars Program for first-generation doctoral students bears his name.",
+  "breakthroughDetail": [
+   {
+    "t": "NASA astronaut.",
+    "d": "Flew on Challenger in 1984.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "McNair Scholars.",
+    "d": "Federal TRIO program named for him.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ronald McNair",
+    "url": "https://en.wikipedia.org/wiki/Ronald_McNair"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. Physics, 1971"
+   },
+   {
+    "id": "nasa",
+    "type": "executive",
+    "label": "astronaut, 1978–1986"
+   }
+  ]
+ },
+ {
+  "id": "joseph-mcneil",
+  "name": "Joseph McNeil",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1942",
+  "base": "New York",
+  "industry": "Civil Rights / Aviation",
+  "originBadge": "Wilmington Native",
+  "engineBadge": "Sit-In Movement",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "An A&T engineering-physics freshman who helped launch the Feb. 1, 1960 Woolworth sit-in; graduated in 1963.",
+  "humbleBeginnings": "Born in Wilmington, N.C., and raised partly in New York.",
+  "breakthrough": "One of the A&T Four whose lunch-counter sit-in spread to dozens of cities within weeks.",
+  "legacy": "Later served as an Air Force officer and retired as a major general in the Air Force Reserve.",
+  "breakthroughDetail": [
+   {
+    "t": "Greensboro sit-in.",
+    "d": "Sat at the Woolworth counter with Blair, McCain and Richmond.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Statue at A&T.",
+    "d": "The A&T Four are honored with a monument on campus.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Joseph McNeil",
+    "url": "https://en.wikipedia.org/wiki/Joseph_McNeil"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. 1963"
+   },
+   {
+    "id": "franklin-mccain",
+    "type": "civic",
+    "label": "fellow A&T Four member"
+   },
+   {
+    "id": "jibreel-khazan",
+    "type": "civic",
+    "label": "fellow A&T Four member"
+   },
+   {
+    "id": "david-richmond",
+    "type": "civic",
+    "label": "fellow A&T Four member"
+   }
+  ]
+ },
+ {
+  "id": "franklin-mccain",
+  "name": "Franklin McCain",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1941–2014",
+  "base": "Charlotte, NC",
+  "industry": "Civil Rights / Chemistry",
+  "originBadge": "Washington, D.C. Upbringing",
+  "engineBadge": "Sit-In Movement",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "An A&T chemistry and biology student who joined the 1960 Woolworth sit-in; graduated in 1964.",
+  "humbleBeginnings": "Born in Union County, N.C., and raised in Washington, D.C.",
+  "breakthrough": "One of the A&T Four who launched the Greensboro sit-ins.",
+  "legacy": "Spent his career as a chemist and sales executive with Celanese in Charlotte and served on university boards.",
+  "breakthroughDetail": [
+   {
+    "t": "A&T Four.",
+    "d": "Co-led the Feb. 1, 1960 sit-in.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Monument.",
+    "d": "Honored with the A&T Four statue on campus.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Franklin McCain",
+    "url": "https://en.wikipedia.org/wiki/Franklin_McCain"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. 1964"
+   },
+   {
+    "id": "jibreel-khazan",
+    "type": "civic",
+    "label": "fellow A&T Four member"
+   },
+   {
+    "id": "david-richmond",
+    "type": "civic",
+    "label": "fellow A&T Four member"
+   }
+  ]
+ },
+ {
+  "id": "jibreel-khazan",
+  "name": "Jibreel Khazan",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1941",
+  "base": "New Bedford, MA",
+  "industry": "Civil Rights",
+  "originBadge": "Greensboro Native",
+  "engineBadge": "Sit-In Movement",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Born Ezell Blair Jr.; an A&T student who co-led the 1960 Woolworth sit-in and graduated in 1963.",
+  "humbleBeginnings": "Grew up in Greensboro, N.C.",
+  "breakthrough": "One of the A&T Four.",
+  "legacy": "Later moved to Massachusetts, worked with developmentally disabled people, and converted to Islam.",
+  "breakthroughDetail": [
+   {
+    "t": "A&T Four.",
+    "d": "Co-led the Feb. 1, 1960 sit-in.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Monument.",
+    "d": "Honored with the A&T Four statue on campus.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Ezell Blair Jr."
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Jibreel Khazan",
+    "url": "https://en.wikipedia.org/wiki/Jibreel_Khazan"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "Class of 1963"
+   },
+   {
+    "id": "david-richmond",
+    "type": "civic",
+    "label": "fellow A&T Four member"
+   }
+  ]
+ },
+ {
+  "id": "david-richmond",
+  "name": "David Richmond",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1941–1990",
+  "base": "Greensboro, NC",
+  "industry": "Civil Rights",
+  "originBadge": "Greensboro Native",
+  "engineBadge": "Sit-In Movement",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Attended N.C. A&T and joined the 1960 sit-in; he left before graduating and later received an honorary doctorate.",
+  "humbleBeginnings": "Grew up in Greensboro.",
+  "breakthrough": "One of the A&T Four.",
+  "legacy": "Stayed in Greensboro working in community and health-care jobs; honored posthumously by A&T.",
+  "breakthroughDetail": [
+   {
+    "t": "A&T Four.",
+    "d": "Co-led the Feb. 1, 1960 sit-in.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Honorary degree.",
+    "d": "Received an honorary doctorate from A&T.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — David Richmond (activist)",
+    "url": "https://en.wikipedia.org/wiki/David_Richmond_(activist)"
+   },
+   {
+    "label": "Wikipedia — List of N.C. A&T alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_North_Carolina_Agricultural_and_Technical_State_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "attended; honorary doctorate"
+   }
+  ]
+ },
+ {
+  "id": "henry-frye",
+  "name": "Henry Frye",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1932",
+  "base": "Greensboro, NC",
+  "industry": "Law & Government",
+  "originBadge": "Ellerbe Farm Boy",
+  "engineBadge": "Law & Legislature",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated with highest honors from N.C. A&T before UNC School of Law.",
+  "humbleBeginnings": "Born in Ellerbe, Richmond County, N.C.",
+  "breakthrough": "Elected to the N.C. House in 1968 as the state's only Black legislator, served until 1981, and became the first African American chief justice of the N.C. Supreme Court (1999–2001).",
+  "legacy": "Practiced with Brooks Pierce in Greensboro until 2016; an A&T icon.",
+  "breakthroughDetail": [
+   {
+    "t": "Chief justice.",
+    "d": "First Black chief justice of North Carolina, 1999–2001.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Legislative pioneer.",
+    "d": "First Black N.C. House member of the 20th century.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Henry Frye",
+    "url": "https://en.wikipedia.org/wiki/Henry_Frye"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S., highest honors"
+   }
+  ]
+ },
+ {
+  "id": "michael-s-regan",
+  "name": "Michael S. Regan",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1976",
+  "base": "Raleigh, NC",
+  "industry": "Environmental Policy",
+  "originBadge": "Goldsboro Native",
+  "engineBadge": "Environmental Regulation",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. in earth and environmental science at N.C. A&T in 1998.",
+  "humbleBeginnings": "Grew up in Goldsboro, N.C.",
+  "breakthrough": "After posts at EPA and the Environmental Defense Fund, he led N.C.'s Department of Environmental Quality and became the first Black man to lead the U.S. EPA (2021–2025).",
+  "legacy": "A&T touts him as its most prominent recent public servant.",
+  "breakthroughDetail": [
+   {
+    "t": "EPA Administrator.",
+    "d": "Confirmed in 2021.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Firsts.",
+    "d": "First Black man to serve as EPA Administrator.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Michael S. Regan",
+    "url": "https://en.wikipedia.org/wiki/Michael_S._Regan"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. 1998"
+   },
+   {
+    "id": "us-environmental-protection-agency",
+    "type": "executive",
+    "label": "Administrator, 2021–2025"
+   }
+  ]
+ },
+ {
+  "id": "al-attles",
+  "name": "Al Attles",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1936–2024",
+  "base": "Oakland, CA",
+  "industry": "Pro Basketball",
+  "originBadge": "Newark Native",
+  "engineBadge": "NBA Player-Coach-GM",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from N.C. A&T in 1960 after starring in basketball.",
+  "humbleBeginnings": "Grew up in Newark, N.J.",
+  "breakthrough": "Spent his entire career with the Warriors as player, NBA-champion head coach (1975) and later general manager and vice president.",
+  "legacy": "Naismith Hall of Famer (2019) and one of the NBA's first Black coaches.",
+  "breakthroughDetail": [
+   {
+    "t": "1975 NBA title.",
+    "d": "Coached Golden State to the championship.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Lifetime Warrior.",
+    "d": "Over 60 years with the franchise.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Al Attles",
+    "url": "https://en.wikipedia.org/wiki/Al_Attles"
+   },
+   {
+    "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
+    "url": "https://www.ncat.edu/about/130th/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "Class of 1960"
+   },
+   {
+    "id": "golden-state-warriors",
+    "type": "executive",
+    "label": "head coach, GM, vice president"
+   }
+  ]
+ },
+ {
+  "id": "maynard-jackson",
+  "name": "Maynard Jackson",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1938–2003",
+  "base": "Atlanta, GA",
+  "industry": "Municipal Government",
+  "originBadge": "Preacher's Son",
+  "engineBadge": "City Government & Contracting Equity",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned his law degree (J.D.) at North Carolina Central University School of Law in 1964 after graduating from Morehouse.",
+  "humbleBeginnings": "Grandson of civil rights leader John Wesley Dobbs.",
+  "breakthrough": "Elected the first Black mayor of Atlanta in 1973; his affirmative-action contracting rules for the Hartsfield airport expansion steered major contracts to Black-owned firms.",
+  "legacy": "His minority set-aside model became a template for municipal contracting nationwide.",
+  "breakthroughDetail": [
+   {
+    "t": "Atlanta mayor.",
+    "d": "Three terms (1974–82, 1990–94).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Airport set-asides.",
+    "d": "Required joint ventures with Black firms on airport contracts.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Maynard Jackson",
+    "url": "https://en.wikipedia.org/wiki/Maynard_Jackson"
+   },
+   {
+    "label": "Wikipedia — North Carolina Central University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "J.D. 1964"
+   },
+   {
+    "id": "morehouse-college",
+    "type": "alumni",
+    "label": "B.A. 1956"
+   }
+  ]
+ },
+ {
+  "id": "julius-l-chambers",
+  "name": "Julius L. Chambers",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1936–2013",
+  "base": "Charlotte, NC",
+  "industry": "Civil Rights Law",
+  "originBadge": "Mount Gilead Native",
+  "engineBadge": "Civil Rights Litigation",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from North Carolina College (NCCU) in 1958, then led his class at UNC Law; later returned as NCCU chancellor (1993–2001).",
+  "humbleBeginnings": "Grew up in Mount Gilead, N.C., where his father's business was harmed by racial discrimination.",
+  "breakthrough": "Founded North Carolina's first integrated law firm and argued landmark cases including Swann v. Charlotte-Mecklenburg (busing) and Griggs v. Duke Power (employment discrimination); led the NAACP Legal Defense Fund 1984–93.",
+  "legacy": "Griggs remains foundational employment-discrimination law.",
+  "breakthroughDetail": [
+   {
+    "t": "Griggs v. Duke Power.",
+    "d": "1971 Supreme Court win on disparate impact.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NCCU chancellor.",
+    "d": "Led his alma mater 1993–2001.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Julius L. Chambers",
+    "url": "https://en.wikipedia.org/wiki/Julius_L._Chambers"
+   },
+   {
+    "label": "Wikipedia — North Carolina Central University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "B.A. 1958"
+   },
+   {
+    "id": "north-carolina-central-university",
+    "type": "faculty",
+    "label": "chancellor, 1993–2001"
+   },
+   {
+    "id": "naacp-legal-defense-fund",
+    "type": "executive",
+    "label": "director-counsel, 1984–1993"
+   }
+  ]
+ },
+ {
+  "id": "ella-baker",
+  "name": "Ella Baker",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1903–1986",
+  "base": "New York, NY",
+  "industry": "Civil Rights Organizing",
+  "originBadge": "Littleton Farm Family",
+  "engineBadge": "Grassroots Organizing",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated as valedictorian from Shaw University in 1927, and in 1960 convened the student conference at Shaw that founded SNCC.",
+  "humbleBeginnings": "Raised in Littleton, N.C., hearing her grandmother's stories of slavery.",
+  "breakthrough": "Organized for the NAACP and SCLC and co-founded the Student Nonviolent Coordinating Committee in 1960.",
+  "legacy": "Her group-centered leadership model shaped generations of organizers. Early on she also organized the Young Negroes' Cooperative League (1930s), a Black consumer-cooperative movement.",
+  "breakthroughDetail": [
+   {
+    "t": "SNCC founder.",
+    "d": "Convened the founding conference at Shaw in April 1960.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Co-op economics.",
+    "d": "National director of the Young Negroes' Cooperative League in the 1930s.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ella Baker",
+    "url": "https://en.wikipedia.org/wiki/Ella_Baker"
+   },
+   {
+    "label": "Wikipedia — Shaw University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Shaw_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "shaw-university",
+    "type": "alumni",
+    "label": "B.A. 1927 (valedictorian)"
+   },
+   {
+    "id": "student-nonviolent-coordinating-committee",
+    "type": "ownership",
+    "label": "co-founder, 1960"
+   }
+  ]
+ },
+ {
+  "id": "mary-mcleod-bethune",
+  "name": "Mary McLeod Bethune",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1875–1955",
+  "base": "Daytona Beach, FL",
+  "industry": "Education & Federal Policy",
+  "originBadge": "Sharecroppers' Daughter",
+  "engineBadge": "School Founder & Federal Adviser",
+  "capitalBadge": "Philanthropic Gifts",
+  "hbcuStory": "Attended Scotia Seminary in Concord, N.C., on a scholarship, graduating in 1894.",
+  "humbleBeginnings": "Born in South Carolina, the 15th of 17 children of formerly enslaved parents.",
+  "breakthrough": "Founded a girls' school in Daytona in 1904 with $1.50 that became Bethune-Cookman; led the National Council of Negro Women and FDR's ‘Black Cabinet.’",
+  "legacy": "Her schools and organizations became lasting institutions; she remains one of the most influential Black women in U.S. history.",
+  "breakthroughDetail": [
+   {
+    "t": "Founded Bethune-Cookman.",
+    "d": "Started in 1904 with five girls.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NCNW founder.",
+    "d": "Founded the National Council of Negro Women in 1935.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Mary McLeod Bethune",
+    "url": "https://en.wikipedia.org/wiki/Mary_McLeod_Bethune"
+   },
+   {
+    "label": "Wikipedia — Barber–Scotia College (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Barber%E2%80%93Scotia_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "barber-scotia-college",
+    "type": "alumni",
+    "label": "Scotia Seminary, 1894"
+   },
+   {
+    "id": "bethune-cookman-university",
+    "type": "faculty",
+    "label": "founder & president"
+   },
+   {
+    "id": "national-council-of-negro-women",
+    "type": "ownership",
+    "label": "founder, 1935"
+   }
+  ]
+ },
+ {
+  "id": "eva-clayton",
+  "name": "Eva Clayton",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1934",
+  "base": "Warrenton, NC",
+  "industry": "Government & Economic Development",
+  "originBadge": "Savannah-Born Teacher's Path",
+  "engineBadge": "Rural Development Policy",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. at Johnson C. Smith University (1955) and an M.S. at North Carolina Central University.",
+  "humbleBeginnings": "Born in Savannah, Ga., and raised in Augusta.",
+  "breakthrough": "Worked with Floyd McKissick's Soul City project and in state government before becoming, in 1992, the first Black woman elected to Congress from North Carolina.",
+  "legacy": "Focused on rural economic development and agriculture policy in Congress (1992–2003).",
+  "breakthroughDetail": [
+   {
+    "t": "Congress, 1992.",
+    "d": "First Black woman to represent N.C. in Congress.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Soul City link.",
+    "d": "Worked on McKissick's Soul City planned community.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Eva Clayton",
+    "url": "https://en.wikipedia.org/wiki/Eva_Clayton"
+   },
+   {
+    "label": "Wikipedia — List of Johnson C. Smith University alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Johnson_C._Smith_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "johnson-c-smith-university",
+    "type": "alumni",
+    "label": "B.S. 1955"
+   },
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "M.S."
+   },
+   {
+    "id": "floyd-mckissick",
+    "type": "parallel",
+    "label": "Soul City collaborator"
+   }
+  ]
+ },
+ {
+  "id": "henry-aaron-hill",
+  "name": "Henry Aaron Hill",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1915–1979",
+  "base": "Haverhill, MA",
+  "industry": "Industrial Chemistry",
+  "originBadge": "St. Joseph, MO Native",
+  "engineBadge": "Contract Chemical R&D",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. in chemistry at Johnson C. Smith University in 1936 and a Ph.D. in organic chemistry at MIT (1942).",
+  "humbleBeginnings": "Born in St. Joseph, Missouri.",
+  "breakthrough": "Co-founded National Polychemicals Inc. and in 1961 founded Riverside Research Laboratory, his own chemical research firm.",
+  "legacy": "Became the first African American president of the American Chemical Society (1977).",
+  "breakthroughDetail": [
+   {
+    "t": "Company founder.",
+    "d": "Founded Riverside Research Laboratory in 1961.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "ACS president.",
+    "d": "Led the American Chemical Society in 1977.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Henry Aaron Hill",
+    "url": "https://en.wikipedia.org/wiki/Henry_Aaron_Hill"
+   },
+   {
+    "label": "Wikipedia — List of Johnson C. Smith University alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Johnson_C._Smith_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "johnson-c-smith-university",
+    "type": "alumni",
+    "label": "B.S. Chemistry, 1936"
+   },
+   {
+    "id": "riverside-research-laboratory",
+    "type": "ownership",
+    "label": "founder, 1961"
+   }
+  ]
+ },
+ {
+  "id": "elizabeth-duncan-koontz",
+  "name": "Elizabeth Duncan Koontz",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1919–1989",
+  "base": "Salisbury, NC",
+  "industry": "Education & Labor Policy",
+  "originBadge": "Salisbury Native",
+  "engineBadge": "Teachers' Union & Labor Policy",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Livingstone College in her hometown of Salisbury in 1938.",
+  "humbleBeginnings": "Born in Salisbury, N.C., the daughter of teachers.",
+  "breakthrough": "Became the first Black president of the National Education Association (1968) and director of the U.S. Women's Bureau (1969).",
+  "legacy": "Advocated equal pay and opportunity for working women.",
+  "breakthroughDetail": [
+   {
+    "t": "NEA president.",
+    "d": "First Black president of the NEA.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Women's Bureau.",
+    "d": "Led the U.S. Department of Labor's Women's Bureau.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Elizabeth Duncan Koontz",
+    "url": "https://en.wikipedia.org/wiki/Elizabeth_Duncan_Koontz"
+   },
+   {
+    "label": "Wikipedia — Livingstone College (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Livingstone_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "livingstone-college",
+    "type": "alumni",
+    "label": "B.A. 1938"
+   },
+   {
+    "id": "national-education-association",
+    "type": "executive",
+    "label": "president, 1968"
+   }
+  ]
+ },
+ {
+  "id": "william-j-trent-jr",
+  "name": "William J. Trent Jr.",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1910–1993",
+  "base": "New York, NY",
+  "industry": "Philanthropy & Corporate Personnel",
+  "originBadge": "College President's Son",
+  "engineBadge": "HBCU Fundraising",
+  "capitalBadge": "Philanthropic Gifts",
+  "hbcuStory": "Graduated from Livingstone College in 1930, when his father William J. Trent Sr. was its president; then earned a master's in economics at Wharton.",
+  "humbleBeginnings": "Born in Asheville and raised in Atlanta.",
+  "breakthrough": "Served in FDR's ‘Black Cabinet,’ then as founding executive director of the United Negro College Fund (1944–64), raising about $78 million for private HBCUs.",
+  "legacy": "Joined Time Inc. as assistant personnel director for race relations (to 1975), one of the first Black executives at a major U.S. media company.",
+  "breakthroughDetail": [
+   {
+    "t": "UNCF architect.",
+    "d": "Ran UNCF for its first 20 years.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Time Inc.",
+    "d": "Assistant personnel director, 1964–1975.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — William J. Trent",
+    "url": "https://en.wikipedia.org/wiki/William_J._Trent"
+   },
+   {
+    "label": "Wikipedia — Livingstone College (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Livingstone_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "livingstone-college",
+    "type": "alumni",
+    "label": "B.A. 1930"
+   },
+   {
+    "id": "uncf",
+    "type": "executive",
+    "label": "executive director, 1944–1964"
+   },
+   {
+    "id": "time-inc",
+    "type": "executive",
+    "label": "assistant personnel director, 1964–1975"
+   }
+  ]
+ },
+ {
+  "id": "anna-julia-cooper",
+  "name": "Anna Julia Cooper",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1858–1964",
+  "base": "Washington, DC",
+  "industry": "Education & Scholarship",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "Black Feminist Scholarship",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Began at Saint Augustine's Normal School in Raleigh at age nine (on scholarship) and later taught there before Oberlin.",
+  "humbleBeginnings": "Born enslaved in Raleigh, N.C.",
+  "breakthrough": "Wrote A Voice from the South (1892), led Washington's M Street (Dunbar) High School, and at 66 earned a doctorate from the Sorbonne.",
+  "legacy": "Quoted in U.S. passports; a founding voice of Black feminist thought.",
+  "breakthroughDetail": [
+   {
+    "t": "A Voice from the South.",
+    "d": "Landmark 1892 work of Black feminism.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Sorbonne Ph.D.",
+    "d": "Fourth African American woman to earn a doctorate.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Anna Julia Cooper",
+    "url": "https://en.wikipedia.org/wiki/Anna_Julia_Cooper"
+   },
+   {
+    "label": "Wikipedia — Saint Augustine's University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Saint_Augustine%27s_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "saint-augustines-university",
+    "type": "alumni",
+    "label": "student from 1868; teacher"
+   },
+   {
+    "id": "saint-augustines-university",
+    "type": "faculty",
+    "label": "teacher"
+   }
+  ]
+ },
+ {
+  "id": "henry-beard-delany",
+  "name": "Henry Beard Delany",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1858–1928",
+  "base": "Raleigh, NC",
+  "industry": "Church & Education",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "Episcopal Ministry & Education",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Saint Augustine's in 1885 and stayed for decades as teacher and vice principal; his children included the Delany sisters of Having Our Say.",
+  "humbleBeginnings": "Born enslaved in St. Mary's, Georgia.",
+  "breakthrough": "In 1918 became the first African American elected bishop in the Episcopal Church (suffragan, North Carolina).",
+  "legacy": "Founded a family of high achievers, including dentist Bessie and teacher Sadie Delany and judge Hubert Delany.",
+  "breakthroughDetail": [
+   {
+    "t": "Episcopal bishop.",
+    "d": "First Black Episcopal bishop, 1918.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Delany family.",
+    "d": "His children's memoir Having Our Say became a bestseller and Broadway play.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Henry Beard Delany",
+    "url": "https://en.wikipedia.org/wiki/Henry_Beard_Delany"
+   },
+   {
+    "label": "Wikipedia — Saint Augustine's University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Saint_Augustine%27s_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "saint-augustines-university",
+    "type": "alumni",
+    "label": "Class of 1885"
+   },
+   {
+    "id": "saint-augustines-university",
+    "type": "faculty",
+    "label": "vice principal"
+   },
+   {
+    "id": "episcopal-church",
+    "type": "civic",
+    "label": "suffragan bishop, 1918"
+   }
+  ]
+ },
+ {
+  "id": "jethro-pugh",
+  "name": "Jethro Pugh",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1944–2015",
+  "base": "Dallas, TX",
+  "industry": "Pro Football / Airport Retail",
+  "originBadge": "Windsor, NC Farm Boy",
+  "engineBadge": "NFL & Airport Concessions",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Enrolled at Elizabeth City State at 16 on an athletic scholarship; two-time All-CIAA defensive end (1963, 1964), and ECSU retired his jersey.",
+  "humbleBeginnings": "Born in Windsor, N.C., and raised in Indian Woods Township.",
+  "breakthrough": "Played 14 seasons with the Dallas Cowboys, winning Super Bowls VI and XII and an unofficial 95.5 sacks.",
+  "legacy": "After football he owned western-themed gift shops at Dallas–Fort Worth International Airport and partnered with The Paradies Shops; his golf tournament raised money for UNCF.",
+  "breakthroughDetail": [
+   {
+    "t": "Two Super Bowls.",
+    "d": "Starter on the Doomsday Defense.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Airport retail owner.",
+    "d": "Owned DFW Airport gift shops after retiring.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Jethro Pugh",
+    "url": "https://en.wikipedia.org/wiki/Jethro_Pugh"
+   },
+   {
+    "label": "Wikipedia — Elizabeth City State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Elizabeth_City_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "elizabeth-city-state-university",
+    "type": "alumni",
+    "label": "Class of 1964 (attended on scholarship)"
+   },
+   {
+    "id": "the-paradies-shops",
+    "type": "deal",
+    "label": "airport retail partner"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "golf tournament fundraiser"
+   }
+  ]
+ },
+ {
+  "id": "actone-group",
+  "name": "ActOne Group",
+  "type": "entity",
+  "kind": "Workforce solutions / staffing company",
+  "description": "Privately held workforce-solutions firm founded in 1978 as The ACT•1 Group by Janice Bryant Howroyd.",
+  "gics": {
+   "sub": "Human Resource & Employment Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "dudley-products",
+  "name": "Dudley Products",
+  "type": "entity",
+  "kind": "Hair and skin care manufacturer",
+  "description": "Greensboro-area maker of Black hair and skin care products and operator of cosmetology schools, founded by Joe and Eunice Dudley in 1969.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "fuller-products",
+  "name": "Fuller Products Company",
+  "type": "entity",
+  "kind": "Cosmetics manufacturer / direct sales",
+  "description": "S. B. Fuller's Chicago Black-owned cosmetics and door-to-door sales company, taken over by Joe Dudley in 1976 and merged into Dudley Products in 1980.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "merck-and-co",
+  "name": "Merck & Co.",
+  "type": "entity",
+  "kind": "Pharmaceutical company",
+  "description": "Global pharmaceutical company headquartered in Rahway, New Jersey.",
+  "gics": {
+   "sub": "Pharmaceuticals",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "ge-asset-management",
+  "name": "GE Asset Management",
+  "type": "entity",
+  "kind": "Asset manager (GE subsidiary)",
+  "description": "General Electric's investment arm managing GE pension assets and institutional money; sold to State Street in 2016.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "john-r-hairston-enterprises",
+  "name": "John R. Hairston Enterprises",
+  "type": "entity",
+  "kind": "McDonald's franchisee",
+  "description": "Hairston family company that owned and operated 11 McDonald's restaurants in the Atlanta and Charlotte areas over about 40 years.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "mcdonalds",
+    "type": "deal",
+    "label": "franchisee"
+   }
+  ]
+ },
+ {
+  "id": "mcdonalds",
+  "name": "McDonald's",
+  "type": "entity",
+  "kind": "Fast-food franchisor",
+  "description": "Global quick-service restaurant franchisor.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "progress-energy",
+  "name": "Progress Energy",
+  "type": "entity",
+  "kind": "Electric utility holding company",
+  "description": "Raleigh-based utility (formerly Carolina Power & Light) that merged into Duke Energy in 2012.",
+  "gics": {
+   "sub": "Electric Utilities",
+   "basis": "official"
+  },
+  "connections": [
+   {
+    "id": "duke-energy",
+    "type": "capital",
+    "label": "merged into Duke Energy, 2012"
+   }
+  ]
+ },
+ {
+  "id": "duke-energy",
+  "name": "Duke Energy",
+  "type": "entity",
+  "kind": "Electric utility holding company",
+  "description": "Charlotte-based electric and gas utility holding company.",
+  "gics": {
+   "sub": "Electric Utilities",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "microsoft",
+  "name": "Microsoft",
+  "type": "entity",
+  "kind": "Software and cloud company",
+  "description": "Redmond, Washington-based software, cloud and devices company.",
+  "gics": {
+   "sub": "Systems Software",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "tiaa",
+  "name": "TIAA",
+  "type": "entity",
+  "kind": "Retirement services and asset management",
+  "description": "Teachers Insurance and Annuity Association of America, a retirement and investment-management provider.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "north-carolina-mutual-life-insurance-company",
+  "name": "North Carolina Mutual Life Insurance Company",
+  "type": "entity",
+  "kind": "Black-owned life insurer",
+  "description": "Durham insurer founded in 1898 by John Merrick, Aaron M. Moore and associates; long the largest Black-owned business in the U.S. and anchor of Durham's ‘Black Wall Street.’",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "mechanics-and-farmers-bank",
+  "name": "Mechanics and Farmers Bank",
+  "type": "entity",
+  "kind": "Black-owned commercial bank",
+  "description": "Durham bank chartered in 1907 by Black Wall Street founders; one of the oldest Black-owned banks in the U.S.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "durham-drug-company",
+  "name": "Durham Drug Company",
+  "type": "entity",
+  "kind": "Pharmacy",
+  "description": "Durham Black-owned drugstore founded in 1895 by Dr. Aaron M. Moore and partners.",
+  "gics": {
+   "sub": "Consumer Staples Merchandise Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "lincoln-hospital-durham",
+  "name": "Lincoln Hospital (Durham)",
+  "type": "entity",
+  "kind": "Hospital and nursing school",
+  "description": "Hospital for Black patients in Durham founded in 1901 by Dr. Aaron M. Moore with Duke family support.",
+  "gics": {
+   "sub": "Health Care Facilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "queen-city-drug-company",
+  "name": "Queen City Drug Company",
+  "type": "entity",
+  "kind": "Pharmacy",
+  "description": "Charlotte Black-owned drugstore co-founded in 1892 by Dr. Manassa T. Pope.",
+  "gics": {
+   "sub": "Consumer Staples Merchandise Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "peoples-benevolent-association",
+  "name": "People's Benevolent Association",
+  "type": "entity",
+  "kind": "Mutual-benefit insurer",
+  "description": "Raleigh-area Black insurance/benevolent business co-founded by Dr. Manassa T. Pope.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "r-j-reynolds-tobacco-company",
+  "name": "R.J. Reynolds Tobacco Company",
+  "type": "entity",
+  "kind": "Tobacco manufacturer",
+  "description": "Winston-Salem-based cigarette maker, now part of Reynolds American/BAT.",
+  "gics": {
+   "sub": "Tobacco",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "charlotte-hornets",
+  "name": "Charlotte Hornets",
+  "type": "entity",
+  "kind": "NBA franchise",
+  "description": "Charlotte's NBA team (Bobcats 2004–2014).",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-carolina-times",
+  "name": "The Carolina Times",
+  "type": "entity",
+  "kind": "Black-owned weekly newspaper",
+  "description": "Durham Black newspaper bought by Louis Austin in 1927 and still published by his family.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "vogue",
+  "name": "Vogue",
+  "type": "entity",
+  "kind": "Fashion magazine",
+  "description": "Condé Nast's flagship fashion magazine.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "soul-city",
+  "name": "Soul City",
+  "type": "entity",
+  "kind": "Planned community / real estate development",
+  "description": "Black-led new town in Warren County, N.C., launched in 1969 by Floyd McKissick's McKissick Enterprises with a HUD New Communities guarantee.",
+  "gics": {
+   "sub": "Real Estate Development",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "gary-williams-parenti-watson-and-gary",
+  "name": "Gary, Williams, Parenti, Watson & Gary",
+  "type": "entity",
+  "kind": "Trial law firm",
+  "description": "Stuart, Florida personal-injury and commercial litigation firm co-founded by Willie E. and Gloria Gary.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "espn",
+  "name": "ESPN",
+  "type": "entity",
+  "kind": "Sports cable network",
+  "description": "Disney-controlled sports media network.",
+  "gics": {
+   "sub": "Cable & Satellite",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "black-titan-franchise-systems",
+  "name": "Black Titan Franchise Systems",
+  "type": "entity",
+  "kind": "Restaurant franchisor",
+  "description": "Nicholas Perkins' company that acquired the Fuddruckers brand in 2021.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "fuddruckers",
+    "type": "ownership",
+    "label": "owner since 2021"
+   }
+  ]
+ },
+ {
+  "id": "fuddruckers",
+  "name": "Fuddruckers",
+  "type": "entity",
+  "kind": "Fast-casual burger chain",
+  "description": "Burger chain sold by Luby's to Black Titan Franchise Systems for $18.5 million in 2021.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "perkins-management-company",
+  "name": "Perkins Management Company",
+  "type": "entity",
+  "kind": "Contract food-services firm",
+  "description": "North Carolina contract food-services company founded by Nicholas Perkins.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-pit-authentic-barbecue",
+  "name": "The Pit Authentic Barbecue",
+  "type": "entity",
+  "kind": "Barbecue restaurant",
+  "description": "Raleigh whole-hog barbecue restaurant co-founded with pitmaster Ed Mitchell.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "afro-american-realty-company",
+  "name": "Afro-American Realty Company",
+  "type": "entity",
+  "kind": "Real estate company",
+  "description": "Harlem real estate company chartered by Philip A. Payton Jr. in 1904 that sold shares to Black investors; ceased in 1908.",
+  "gics": {
+   "sub": "Real Estate Development",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "miller-brewing-company",
+  "name": "Miller Brewing Company",
+  "type": "entity",
+  "kind": "Brewer",
+  "description": "Milwaukee brewer (now part of Molson Coors).",
+  "gics": {
+   "sub": "Distillers & Vintners",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "bb-and-t",
+  "name": "BB&T",
+  "type": "entity",
+  "kind": "Bank holding company",
+  "description": "Winston-Salem-based bank that merged with SunTrust into Truist in 2019.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "negro-braille-magazine",
+  "name": "Negro Braille Magazine",
+  "type": "entity",
+  "kind": "Braille periodical",
+  "description": "First publication for blind African Americans, co-founded in 1952 by Lyda Moore Merrick; later The Merrick/Washington Magazine for the Blind.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "detroit-lions",
+  "name": "Detroit Lions",
+  "type": "entity",
+  "kind": "NFL franchise",
+  "description": "Detroit's National Football League team.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "bet-networks",
+  "name": "BET Networks",
+  "type": "entity",
+  "kind": "Cable network",
+  "description": "Black Entertainment Television, owned by Paramount.",
+  "gics": {
+   "sub": "Cable & Satellite",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "golden-state-warriors",
+  "name": "Golden State Warriors",
+  "type": "entity",
+  "kind": "NBA franchise",
+  "description": "San Francisco Bay Area NBA team.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "time-inc",
+  "name": "Time Inc.",
+  "type": "entity",
+  "kind": "Magazine publisher",
+  "description": "New York publisher of Time, Life, Fortune and Sports Illustrated.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "riverside-research-laboratory",
+  "name": "Riverside Research Laboratory",
+  "type": "entity",
+  "kind": "Chemical research firm",
+  "description": "Contract chemical research company founded in 1961 by Henry Aaron Hill in Haverhill, Massachusetts.",
+  "gics": {
+   "sub": "Biotechnology",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-paradies-shops",
+  "name": "The Paradies Shops",
+  "type": "entity",
+  "kind": "Airport retailer",
+  "description": "Atlanta-based airport concessions retailer operating across the U.S. and Canada.",
+  "gics": {
+   "sub": "Other Specialty Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rainbow-push-coalition",
+  "name": "Rainbow/PUSH Coalition",
+  "type": "entity",
+  "kind": "Civil rights organization",
+  "description": "Chicago civil rights and economic-justice group formed from Operation PUSH (1971) and the Rainbow Coalition.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "nasa",
+  "name": "NASA",
+  "type": "entity",
+  "kind": "Federal space agency",
+  "description": "U.S. National Aeronautics and Space Administration.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "us-environmental-protection-agency",
+  "name": "U.S. Environmental Protection Agency",
+  "type": "entity",
+  "kind": "Federal agency",
+  "description": "U.S. federal environmental regulator.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "naacp-legal-defense-fund",
+  "name": "NAACP Legal Defense and Educational Fund",
+  "type": "entity",
+  "kind": "Civil rights law organization",
+  "description": "Civil rights litigation organization founded by Thurgood Marshall in 1940.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "student-nonviolent-coordinating-committee",
+  "name": "Student Nonviolent Coordinating Committee",
+  "type": "entity",
+  "kind": "Civil rights organization",
+  "description": "Student civil rights organization founded at Shaw University in April 1960.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-council-of-negro-women",
+  "name": "National Council of Negro Women",
+  "type": "entity",
+  "kind": "Nonprofit organization",
+  "description": "Federation of Black women's organizations founded by Mary McLeod Bethune in 1935.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-education-association",
+  "name": "National Education Association",
+  "type": "entity",
+  "kind": "Labor union",
+  "description": "Largest U.S. teachers' union.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ }
+]

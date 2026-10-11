@@ -1,0 +1,5056 @@
+[
+ {
+  "id": "hampton-university",
+  "name": "Hampton University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Research university",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1868,
+  "closed": null,
+  "location": "Hampton, VA",
+  "state": "VA",
+  "affiliation": "American Missionary Association (historic); nonsectarian",
+  "formerNames": [
+   "Hampton Normal and Agricultural Institute",
+   "Hampton Institute"
+  ],
+  "fate": "",
+  "description": "Founded in 1868 by the American Missionary Association under former Union general Samuel Chapman Armstrong, on ground where Mary S. Peake had taught freedpeople beneath the Emancipation Oak since 1861. Hampton's industrial-education model trained Booker T. Washington and shaped Tuskegee and dozens of other schools. Its alumni run deep in Black business history — from Chicago Defender founder Robert S. Abbott to Oracle president Charles Phillips (MBA) and Baltimore Ravens president Sashi Brown.",
+  "facts": [
+   {
+    "t": "Emancipation Oak roots.",
+    "d": "The university dates its origins to September 17, 1861, when Mary S. Peake began teaching freedmen for the American Missionary Association.",
+    "basis": "documented"
+   },
+   {
+    "t": "Land-grant role moved to VSU.",
+    "d": "Hampton held Virginia's land-grant program for Black students until 1920, when it moved to Virginia State.",
+    "basis": "documented"
+   },
+   {
+    "t": "Oldest African diaspora museum.",
+    "d": "The Hampton University Museum is described as the oldest African diaspora museum in the United States.",
+    "basis": "documented"
+   },
+   {
+    "t": "Pipeline to Black publishing.",
+    "d": "Robert S. Abbott (1896) and his nephew John H. Sengstacke (1934) — the two men who built and ran the Chicago Defender — both studied at Hampton.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Hampton University",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   },
+   {
+    "label": "Hampton University School of Business — Notable Alumni",
+    "url": "https://home.hamptonu.edu/business/notable-alumni/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-missionary-association",
+    "type": "origin",
+    "label": "founded by, 1868"
+   },
+   {
+    "id": "freedmens-bureau",
+    "type": "origin",
+    "label": "early support"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF founding member school, 1944"
+   }
+  ]
+ },
+ {
+  "id": "virginia-state-university",
+  "name": "Virginia State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1882,
+  "closed": null,
+  "location": "Ettrick (Petersburg), VA",
+  "state": "VA",
+  "affiliation": "Commonwealth of Virginia; 1890 land-grant",
+  "formerNames": [
+   "Virginia Normal and Collegiate Institute",
+   "Virginia Normal and Industrial Institute",
+   "Virginia State College for Negroes",
+   "Virginia State College"
+  ],
+  "fate": "",
+  "description": "Chartered by the Virginia legislature on March 6, 1882, as the Virginia Normal and Collegiate Institute, it is described as the first fully state-supported four-year institution of higher learning for Black Americans; John Mercer Langston was its first president. It became Virginia's 1890 land-grant HBCU when the program moved from Hampton in 1920. Its business school is named for alumnus Reginald F. Lewis, the TLC Beatrice financier.",
+  "facts": [
+   {
+    "t": "First state-supported Black four-year college.",
+    "d": "Opened October 1, 1883 after a lawsuit delayed it 19 months; 126 students and seven faculty in year one.",
+    "basis": "documented"
+   },
+   {
+    "t": "Land-grant transfer, 1920.",
+    "d": "The federal land-grant program for Black Virginians moved from Hampton Institute to the school in 1920.",
+    "basis": "documented"
+   },
+   {
+    "t": "Reginald F. Lewis College of Business.",
+    "d": "The business college carries the name of its 1965 alumnus, described by the school as 'America's First Black Billionaire Businessman'.",
+    "basis": "documented"
+   },
+   {
+    "t": "MacKenzie Scott gifts.",
+    "d": "Received $30 million in 2020 and $50 million in 2025 — the largest single gift in its history.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Virginia State University",
+    "url": "https://en.wikipedia.org/wiki/Virginia_State_University"
+   },
+   {
+    "label": "VSU Reginald F. Lewis College of Business — Alumni",
+    "url": "https://www.vsu.edu/business/resources/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant (from 1920)"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "norfolk-state-university",
+  "name": "Norfolk State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Comprehensive university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1935,
+  "closed": null,
+  "location": "Norfolk, VA",
+  "state": "VA",
+  "affiliation": "Commonwealth of Virginia",
+  "formerNames": [
+   "Norfolk Unit (Division) of Virginia Union University",
+   "Norfolk Polytechnic College",
+   "Norfolk State College"
+  ],
+  "fate": "",
+  "description": "Opened September 18, 1935, as the Norfolk Unit of Virginia Union University with about 85 students, it became independent in 1942, was folded into Virginia State College in 1944, and separated again in 1969. Today it is Virginia's largest HBCU by many measures, with a School of Business whose entrepreneurship institute bears the name of auto-dealer alumnus Ernest M. Hodge.",
+  "facts": [
+   {
+    "t": "Born as a Virginia Union branch.",
+    "d": "Founded in 1935 as the Norfolk Unit of Virginia Union University; renamed Norfolk Polytechnic College in 1942.",
+    "basis": "documented"
+   },
+   {
+    "t": "Independent in 1969, university in 1979.",
+    "d": "Separated from Virginia State and gained SACS accreditation in 1969; university status in 1979.",
+    "basis": "documented"
+   },
+   {
+    "t": "Hodge entrepreneurship institute.",
+    "d": "The Ernest M. Hodge Institute for Entrepreneurship honors the 1975 business graduate who built one of the largest Black-owned auto dealership groups.",
+    "basis": "documented"
+   },
+   {
+    "t": "MacKenzie Scott gifts.",
+    "d": "Received $40 million (2020) and $50 million (2025) gifts.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Norfolk State University",
+    "url": "https://en.wikipedia.org/wiki/Norfolk_State_University"
+   },
+   {
+    "label": "NSU — Ernest M. Hodge Institute for Entrepreneurship",
+    "url": "https://www.nsu.edu/Academics/Faculty-and-Academic-Divisions/Schools-and-Colleges/School-of-Business/Ernest-M-Hodge-Institute-for-Entrepreneurship/About"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "origin",
+    "label": "began as Norfolk Unit of VUU, 1935"
+   },
+   {
+    "id": "virginia-state-university",
+    "type": "lineage",
+    "label": "division of Virginia State College, 1944–1969"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "virginia-union-university",
+  "name": "Virginia Union University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1865,
+  "closed": null,
+  "location": "Richmond, VA",
+  "state": "VA",
+  "affiliation": "American Baptist Home Mission Society; American Baptist Churches USA",
+  "formerNames": [
+   "Richmond Theological School for Freedmen",
+   "Colver Institute",
+   "Richmond Institute",
+   "Richmond Theological Seminary"
+  ],
+  "fate": "",
+  "description": "Founded in 1865 by the American Baptist Home Mission Society to train freedmen for ministry, it met for a time in the former Lumpkin's Jail slave pen. Virginia Union formed in 1899 when Richmond Theological Seminary merged with Washington's Wayland Seminary; Hartshorn Memorial College joined in 1932 and Storer College's endowment in 1964. It produced Governor L. Douglas Wilder, Pittsburgh Courier publisher Robert L. Vann, and the Richmond bankers who ran Consolidated Bank and Trust.",
+  "facts": [
+   {
+    "t": "Classes in a slave jail.",
+    "d": "From 1867 the school was housed in the building long known as Lumpkin's Jail.",
+    "basis": "documented"
+   },
+   {
+    "t": "1899 merger.",
+    "d": "Richmond Theological Seminary and Wayland Seminary merged to form Virginia Union University; first classes met October 4, 1899.",
+    "basis": "documented"
+   },
+   {
+    "t": "Absorbed Hartshorn and Storer.",
+    "d": "Hartshorn Memorial College merged in 1932 (making VUU coeducational) and Storer College merged its assets in 1964.",
+    "basis": "documented"
+   },
+   {
+    "t": "Mother school of Norfolk State.",
+    "d": "Norfolk State began in 1935 as VUU's Norfolk Unit.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Virginia Union University",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   },
+   {
+    "label": "Virginia Union University — History",
+    "url": "https://www.vuu.edu/about-union/history"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "founded by, 1865"
+   },
+   {
+    "id": "freedmens-bureau",
+    "type": "origin",
+    "label": "early support"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "richmond-theological-seminary",
+  "name": "Richmond Theological Seminary",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private Baptist seminary for freedmen",
+  "status": "Merged",
+  "control": "Private",
+  "level": "Graduate/Professional",
+  "founded": 1865,
+  "closed": 1899,
+  "location": "Richmond, VA",
+  "state": "VA",
+  "affiliation": "American Baptist Home Mission Society",
+  "formerNames": [
+   "Richmond Theological School for Freedmen",
+   "Colver Institute",
+   "Richmond Institute",
+   "Richmond Theological Institute"
+  ],
+  "fate": "Merged with Wayland Seminary in 1899 to form Virginia Union University.",
+  "description": "The Richmond branch of the ABHMS's National Theological Institute, holding classes by November 1865 and from 1867 meeting in Lumpkin's Jail under Nathaniel Colver. Incorporated as Richmond Institute in 1876 and re-established as Richmond Theological Seminary in 1886, it trained early Black Baptist leaders such as businessman-educator James H. Blackwell (1880).",
+  "facts": [
+   {
+    "t": "Lumpkin's Jail.",
+    "d": "Nathaniel Colver resumed the school in 1867 in the former slave-trading jail.",
+    "basis": "documented"
+   },
+   {
+    "t": "Merged 1899.",
+    "d": "Joined Wayland Seminary to create Virginia Union University.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Virginia Union University — History",
+    "url": "https://www.vuu.edu/about-union/history"
+   },
+   {
+    "label": "Wikipedia — Virginia Union University",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "founded by, 1865"
+   },
+   {
+    "id": "virginia-union-university",
+    "type": "lineage",
+    "label": "merged into, 1899"
+   }
+  ]
+ },
+ {
+  "id": "wayland-seminary",
+  "name": "Wayland Seminary",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private Baptist seminary & academy",
+  "status": "Merged",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1865,
+  "closed": 1899,
+  "location": "Washington, DC",
+  "state": "DC",
+  "affiliation": "American Baptist Home Mission Society",
+  "formerNames": [],
+  "fate": "Merged with Richmond Theological Seminary in 1899 to form Virginia Union University.",
+  "description": "The Washington, D.C. branch of the ABHMS National Theological Institute, named for Baptist educator Francis Wayland and led for 30 years by George Mellen Prentiss King. It received a Freedmen's Bureau grant and counted Booker T. Washington among its students (1878–79).",
+  "facts": [
+   {
+    "t": "Freedmen's Bureau grant.",
+    "d": "Received a $1,500 grant from the Freedmen's Bureau.",
+    "basis": "documented"
+   },
+   {
+    "t": "Merged 1899.",
+    "d": "Moved its work to Richmond to form Virginia Union University.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Virginia Union University — History",
+    "url": "https://www.vuu.edu/about-union/history"
+   },
+   {
+    "label": "Wikipedia — Virginia Union University",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "founded by, 1865"
+   },
+   {
+    "id": "freedmens-bureau",
+    "type": "capital",
+    "label": "$1,500 grant"
+   },
+   {
+    "id": "virginia-union-university",
+    "type": "lineage",
+    "label": "merged into, 1899"
+   }
+  ]
+ },
+ {
+  "id": "hartshorn-memorial-college",
+  "name": "Hartshorn Memorial College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private Baptist women's college",
+  "status": "Merged",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1883,
+  "closed": 1932,
+  "location": "Richmond, VA",
+  "state": "VA",
+  "affiliation": "American Baptist Home Mission Society",
+  "formerNames": [],
+  "fate": "Merged into Virginia Union University in 1932, making VUU coeducational.",
+  "description": "Founded in Richmond in 1883 as a college for African American women under Baptist sponsorship. For nearly half a century it educated Black women teachers and missionaries before merging into neighboring Virginia Union.",
+  "facts": [
+   {
+    "t": "Women's college, 1883.",
+    "d": "Established specifically for African American women.",
+    "basis": "documented"
+   },
+   {
+    "t": "Merged 1932.",
+    "d": "Its merger made Virginia Union coeducational.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Virginia Union University — History",
+    "url": "https://www.vuu.edu/about-union/history"
+   },
+   {
+    "label": "Wikipedia — Virginia Union University",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "Baptist mission sponsorship"
+   },
+   {
+    "id": "virginia-union-university",
+    "type": "lineage",
+    "label": "merged into, 1932"
+   }
+  ]
+ },
+ {
+  "id": "virginia-university-of-lynchburg",
+  "name": "Virginia University of Lynchburg",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1886,
+  "closed": null,
+  "location": "Lynchburg, VA",
+  "state": "VA",
+  "affiliation": "Virginia Baptist State Convention (Black Baptists)",
+  "formerNames": [
+   "Lynchburg Baptist Seminary",
+   "Virginia Seminary",
+   "Virginia Theological Seminary and College",
+   "Virginia Seminary and College"
+  ],
+  "fate": "",
+  "description": "Organized in May 1886 at the 19th annual session of the Virginia Baptist State Convention, it was founded and run by Black Baptists rather than a white missionary society — an early model of Black institutional self-reliance. Civil-rights forerunner Vernon Johns graduated in 1915 and later served as its president.",
+  "facts": [
+   {
+    "t": "Black-founded and Black-controlled.",
+    "d": "Organized by the Black Virginia Baptist State Convention in 1886.",
+    "basis": "documented"
+   },
+   {
+    "t": "Vernon Johns.",
+    "d": "The 1915 graduate served as president 1929–1933 before leading Montgomery's Dexter Avenue Baptist Church.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Virginia University of Lynchburg — History",
+    "url": "https://wp.vul.edu/history/"
+   },
+   {
+    "label": "Wikipedia — Virginia University of Lynchburg",
+    "url": "https://en.wikipedia.org/wiki/Virginia_University_of_Lynchburg"
+   },
+   {
+    "label": "BlackPast — Virginia University of Lynchburg",
+    "url": "https://www.blackpast.org/african-american-history/virginia-university-of-lynchburg-1886-2/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "national-baptist-convention",
+    "type": "origin",
+    "label": "founded by Virginia Baptist State Convention, 1886"
+   }
+  ]
+ },
+ {
+  "id": "saint-pauls-college",
+  "name": "Saint Paul's College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Episcopal",
+  "status": "Closed",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1888,
+  "closed": 2013,
+  "location": "Lawrenceville, VA",
+  "state": "VA",
+  "affiliation": "Episcopal Church",
+  "formerNames": [
+   "Saint Paul Normal and Industrial School",
+   "Saint Paul's Polytechnic Institute"
+  ],
+  "fate": "Lost SACS accreditation over finances and faculty credentials; after a planned merger with Saint Augustine's fell through in May 2013, it closed June 30, 2013.",
+  "description": "Founded in 1888 by Hampton-trained Episcopal priest James Solomon Russell, who had begun teaching in a church room in 1883, as Saint Paul Normal and Industrial School. At its peak about 1,000 students attended; by closing it had about 150, and the campus was later sold.",
+  "facts": [
+   {
+    "t": "Founded by a Hampton alumnus.",
+    "d": "James Solomon Russell bought the first building with a legacy from the Rev. Saul of Philadelphia.",
+    "basis": "documented"
+   },
+   {
+    "t": "Accreditation fight.",
+    "d": "SACS revoked accreditation; a court injunction briefly reinstated probation before trustees chose to close.",
+    "basis": "documented"
+   },
+   {
+    "t": "Campus sold.",
+    "d": "The Pension Benefit Guaranty Corporation sold most of the campus in 2017 for $2.5 million.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Episcopal News Service — St. Paul's College to close (2013)",
+    "url": "https://www.episcopalnewsservice.org/2013/06/04/st-pauls-college-in-lawrenceville-to-close/"
+   },
+   {
+    "label": "Diverse Issues in Higher Education — After 125 years, St. Paul's shutting down",
+    "url": "https://diverseeducation.com/article/53664"
+   },
+   {
+    "label": "Lost Colleges — St. Paul Normal and Industrial School",
+    "url": "https://www.lostcolleges.com/st-paul-normal-and-industrial-school"
+   }
+  ],
+  "connections": [
+   {
+    "id": "episcopal-church",
+    "type": "origin",
+    "label": "Episcopal (American Church Institute for Negroes)"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "former UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "bishop-payne-divinity-school",
+  "name": "Bishop Payne Divinity School",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private Episcopal seminary",
+  "status": "Closed",
+  "control": "Private",
+  "level": "Graduate/Professional",
+  "founded": 1878,
+  "closed": 1949,
+  "location": "Petersburg, VA",
+  "state": "VA",
+  "affiliation": "Episcopal Church",
+  "formerNames": [],
+  "fate": "Closed in 1949; its work for Black Episcopal clergy was absorbed by the (historically white) Virginia Theological Seminary in Alexandria.",
+  "description": "An Episcopal school in Petersburg that trained Black clergy for the church in the South; it began as a normal and industrial school and did not award bachelor's degrees until 1910. Saint Paul's College founder James Solomon Russell studied here from 1878.",
+  "facts": [
+   {
+    "t": "Trained Black Episcopal clergy.",
+    "d": "Founded 1878 in Petersburg.",
+    "basis": "documented"
+   },
+   {
+    "t": "James Solomon Russell.",
+    "d": "Admitted in 1878; went on to found Saint Paul's College.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of historically black colleges and universities",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   },
+   {
+    "label": "Wikipedia — James Solomon Russell",
+    "url": "https://en.wikipedia.org/wiki/James_Solomon_Russell"
+   }
+  ],
+  "connections": [
+   {
+    "id": "episcopal-church",
+    "type": "origin",
+    "label": "Episcopal Church"
+   }
+  ]
+ },
+ {
+  "id": "wilberforce-university",
+  "name": "Wilberforce University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AME",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1856,
+  "closed": null,
+  "location": "Wilberforce, OH",
+  "state": "OH",
+  "affiliation": "African Methodist Episcopal Church",
+  "formerNames": [
+   "Ohio African University"
+  ],
+  "fate": "",
+  "description": "Founded in 1856 by the Methodist Episcopal Church with AME participation and named for abolitionist William Wilberforce; in 1863 the AME Church under Bishop Daniel A. Payne bought it, making it the first college owned and operated by African Americans. Its alumni include Parks Sausage CEO Raymond V. Haysbert, golf-course pioneer Bill Powell, and Lewis College of Business founder Violet T. Lewis.",
+  "facts": [
+   {
+    "t": "First Black-owned college.",
+    "d": "Purchased by the AME Church in 1863 under Bishop Daniel Payne.",
+    "basis": "documented"
+   },
+   {
+    "t": "Mother of Central State.",
+    "d": "A state-funded Combined Normal and Industrial Department, created on its campus in 1887, became Central State University.",
+    "basis": "documented"
+   },
+   {
+    "t": "First interracial college golf match.",
+    "d": "Wilberforce's golf team, including future Clearview owner Bill Powell, played Ohio Northern in 1937.",
+    "basis": "documented"
+   },
+   {
+    "t": "Entrepreneurship center.",
+    "d": "Opened a center for entrepreneurship named for alumni Mark and Shelly Wilson.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Britannica — Wilberforce University",
+    "url": "https://www.britannica.com/print/article/643464"
+   },
+   {
+    "label": "Black Enterprise — Wilberforce opens new center for entrepreneurship",
+    "url": "https://www.blackenterprise.com/wilberforce-university-opens-new-center-entrepreneurship-social-good-transformative-leadership/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "owned by AME Church since 1863"
+   },
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded with Methodist Episcopal Church, 1856"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "central-state-university",
+  "name": "Central State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1887,
+  "closed": null,
+  "location": "Wilberforce, OH",
+  "state": "OH",
+  "affiliation": "State of Ohio",
+  "formerNames": [
+   "Combined Normal and Industrial Department of Wilberforce University",
+   "College of Education and Industrial Arts",
+   "Central State College"
+  ],
+  "fate": "",
+  "description": "Began in 1887 as a state-funded department on Wilberforce University's campus and separated in 1947, becoming Central State College (1951) and University (1965); Ohio's only public HBCU, it gained 1890 land-grant status in 2014. Graduates include MAXIMA Corp. founder Joshua I. Smith, BET executive Curtis Symonds and opera star Leontyne Price.",
+  "facts": [
+   {
+    "t": "Spun out of Wilberforce.",
+    "d": "Created by the Ohio legislature in 1887 as a department of Wilberforce; independent from 1947.",
+    "basis": "documented"
+   },
+   {
+    "t": "Land-grant in 2014.",
+    "d": "Designated an 1890 land-grant institution in 2014.",
+    "basis": "documented"
+   },
+   {
+    "t": "Alumni hall of fame.",
+    "d": "Inducts alumni each Charter Day, including Leontyne Price (1948) in 2025.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Central State — 138th Charter Day Convocation (Hall of Fame)",
+    "url": "https://www.centralstate.edu/news/central-state-university-celebrates-138th-charter-day-convocation"
+   },
+   {
+    "label": "Wikipedia — Raymond V. Haysbert (attended Central State & Wilberforce)",
+    "url": "https://en.wikipedia.org/wiki/Raymond_V._Haysbert"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wilberforce-university",
+    "type": "origin",
+    "label": "began as state department of Wilberforce, 1887"
+   },
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant (2014)"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "payne-theological-seminary",
+  "name": "Payne Theological Seminary",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AME seminary",
+  "status": "Operating",
+  "control": "Private",
+  "level": "Graduate/Professional",
+  "founded": 1894,
+  "closed": null,
+  "location": "Wilberforce, OH",
+  "state": "OH",
+  "affiliation": "African Methodist Episcopal Church",
+  "formerNames": [],
+  "fate": "",
+  "description": "The AME Church's seminary, named for Bishop Daniel A. Payne and established on land adjacent to Wilberforce University, carrying on the theological work that dates to Wilberforce's 1856 founding. It is the oldest freestanding African American theological seminary and trains clergy for the AME connection.",
+  "facts": [
+   {
+    "t": "Named for Daniel Payne.",
+    "d": "Honors the AME bishop who bought Wilberforce for the church in 1863.",
+    "basis": "documented"
+   },
+   {
+    "t": "Listed HBCU.",
+    "d": "Appears on the federal-style lists of current HBCUs in Ohio alongside Wilberforce and Central State.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of historically black colleges and universities",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   },
+   {
+    "label": "Wikipedia — Payne Theological Seminary",
+    "url": "https://en.wikipedia.org/wiki/Payne_Theological_Seminary"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "AME Church seminary"
+   },
+   {
+    "id": "wilberforce-university",
+    "type": "origin",
+    "label": "grew out of Wilberforce's theology work"
+   }
+  ]
+ },
+ {
+  "id": "pensole-lewis-college-of-business-and-design",
+  "name": "Pensole Lewis College of Business & Design",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Business & design",
+  "status": "Operating",
+  "control": "Private",
+  "level": "2-year",
+  "founded": 1928,
+  "closed": null,
+  "location": "Detroit, MI",
+  "state": "MI",
+  "affiliation": "Nonsectarian",
+  "formerNames": [
+   "Lewis Business College",
+   "Lewis College of Business"
+  ],
+  "fate": "",
+  "description": "Violet T. Lewis, a Wilberforce-trained businesswoman, opened Lewis Business College in Indianapolis in 1928 on a $50 loan and opened a Detroit branch around 1938–39; it was Michigan's only HBCU. After losing accreditation and a long decline it closed around 2013–2015, then was revived in 2021–22 by designer D'Wayne Edwards as Pensole Lewis College — described as the first closed HBCU ever to reopen.",
+  "facts": [
+   {
+    "t": "Founded on a $50 loan.",
+    "d": "Violet T. Lewis opened the school in January 1928 in Indianapolis.",
+    "basis": "documented"
+   },
+   {
+    "t": "HBCU designation.",
+    "d": "Sources differ on whether the Education Department designated it an HBCU in 1957 or 1987.",
+    "basis": "documented"
+   },
+   {
+    "t": "First HBCU to reopen.",
+    "d": "Rebranded in 2021 and re-established under Michigan legislation; was pursuing new accreditation in partnership with the College for Creative Studies.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Pensole Lewis College of Business and Design",
+    "url": "https://en.wikipedia.org/wiki/Pensole_Lewis_College_of_Business_and_Design"
+   },
+   {
+    "label": "TPInsights — First closed HBCU to reopen",
+    "url": "https://tpinsights.com/detroit-college-set-to-make-history-as-first-closed-hbcu-to-ever-reopen/"
+   },
+   {
+    "label": "Wikipedia — Violet T. Lewis",
+    "url": "https://en.wikipedia.org/wiki/Violet_T._Lewis"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "western-university",
+  "name": "Western University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AME (Kansas)",
+  "status": "Closed",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1865,
+  "closed": 1943,
+  "location": "Quindaro (Kansas City), KS",
+  "state": "KS",
+  "affiliation": "African Methodist Episcopal Church",
+  "formerNames": [
+   "Quindaro Freedman's School"
+  ],
+  "fate": "Lost funding in the Great Depression and competition for students; closed in 1943. Only a John Brown statue remains of the campus.",
+  "description": "Began as the Quindaro Freedman's School in the free-state river town of Quindaro, an Underground Railroad stop, and became Western University in 1881 when the AME Church took it over. Its music department was celebrated: alumni included choral pioneer Eva Jessye and singer-actress Etta Moten Barnett.",
+  "facts": [
+   {
+    "t": "Kansas's HBCU.",
+    "d": "The only HBCU in Kansas history; state funds supported its industrial department.",
+    "basis": "documented"
+   },
+   {
+    "t": "Music school.",
+    "d": "Will Marion Cook taught there; Eva Jessye, Nora Douglas Holt and Etta Moten Barnett studied there.",
+    "basis": "documented"
+   },
+   {
+    "t": "Remnant.",
+    "d": "Only the John Brown statue in front of the former Ward Hall survives.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Western University (Kansas)",
+    "url": "https://en.wikipedia.org/wiki/Western_University_(Kansas)"
+   },
+   {
+    "label": "Community Voice — Quindaro Freedman's School was Kansas's HBCU",
+    "url": "https://www.communityvoiceks.com/2016/02/09/quindaro-freedmans-school-was-kansas-historically-black-university-hbcu/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "AME Church from 1881"
+   }
+  ]
+ },
+ {
+  "id": "lincoln-university-of-missouri",
+  "name": "Lincoln University of Missouri",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1866,
+  "closed": null,
+  "location": "Jefferson City, MO",
+  "state": "MO",
+  "affiliation": "State of Missouri; 1890 land-grant",
+  "formerNames": [
+   "Lincoln Institute"
+  ],
+  "fate": "",
+  "description": "Founded in 1866 by Black Union veterans of the 62nd and 65th U.S. Colored Infantry, who pooled their pay to start Lincoln Institute. It became Missouri's 1890 land-grant school and was at the center of Missouri ex rel. Gaines v. Canada (1938). Business alumni include restaurant franchise mogul Valerie Daniels-Carter, barbecue king Ollie Gates and Walmart heiress Ann Walton Kroenke.",
+  "facts": [
+   {
+    "t": "Founded by Black soldiers.",
+    "d": "Soldiers of the 62nd and 65th U.S. Colored Infantry funded the school in 1866.",
+    "basis": "documented"
+   },
+   {
+    "t": "'HBCU's wealthiest graduate.'",
+    "d": "Black Enterprise identifies nursing graduate Ann Walton Kroenke, a billionaire Walmart heir, as the wealthiest HBCU graduate.",
+    "basis": "documented"
+   },
+   {
+    "t": "160 years in 2026.",
+    "d": "Valerie Daniels-Carter (1978) keynoted the 2026 Founders' Day.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Lincoln University — 160 years / Founders' Day 2026",
+    "url": "https://www.lincolnu.edu/news/2025/12/valerie-daniels-carter-founders-day-2026.html"
+   },
+   {
+    "label": "Wikipedia — Lincoln University (Missouri)",
+    "url": "https://en.wikipedia.org/wiki/Lincoln_University_(Missouri)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "harris-stowe-state-university",
+  "name": "Harris–Stowe State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Urban university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1857,
+  "closed": null,
+  "location": "St. Louis, MO",
+  "state": "MO",
+  "affiliation": "State of Missouri",
+  "formerNames": [
+   "Harris Teachers College",
+   "Harris-Stowe College",
+   "Harris-Stowe State College"
+  ],
+  "fate": "",
+  "description": "Formed in 1954 when St. Louis's white Harris Teachers College (1857) merged with Stowe Teachers College, the city's Black teachers college, as the schools desegregated. It is a public HBCU in downtown St. Louis focused on education and business; alumni include federal judge Charles Shaw and anchorman Julius Hunter.",
+  "facts": [
+   {
+    "t": "Two teachers colleges.",
+    "d": "HBCU status descends from Stowe Teachers College, merged in 1954.",
+    "basis": "documented"
+   },
+   {
+    "t": "Business council.",
+    "d": "An African American business leaders council has raised over $400,000 in scholarships for its business program.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Harris–Stowe State University",
+    "url": "https://en.wikipedia.org/wiki/Harris%E2%80%93Stowe_State_University"
+   },
+   {
+    "label": "NewsOne — HBCU spotlight: Harris-Stowe State University",
+    "url": "https://newsone.com/2034457/hbcu-harris-stowe-state-university/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "stowe-teachers-college",
+  "name": "Stowe Teachers College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public Black teachers college",
+  "status": "Merged",
+  "control": "Public",
+  "level": "Normal school/Institute",
+  "founded": 1890,
+  "closed": 1954,
+  "location": "St. Louis, MO",
+  "state": "MO",
+  "affiliation": "St. Louis Public Schools",
+  "formerNames": [
+   "Sumner Normal School"
+  ],
+  "fate": "Merged with Harris Teachers College in 1954 to form Harris-Stowe (now Harris–Stowe State University).",
+  "description": "St. Louis's normal school for Black teachers, begun in connection with Sumner High School and later named for Harriet Beecher Stowe. Its 1954 merger with the white Harris Teachers College is the source of Harris–Stowe's HBCU status.",
+  "facts": [
+   {
+    "t": "Merged 1954.",
+    "d": "Combined with Harris Teachers College as St. Louis schools desegregated.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Harris–Stowe State University",
+    "url": "https://en.wikipedia.org/wiki/Harris%E2%80%93Stowe_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "harris-stowe-state-university",
+    "type": "lineage",
+    "label": "merged into, 1954"
+   }
+  ]
+ },
+ {
+  "id": "george-r-smith-college",
+  "name": "George R. Smith College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Methodist",
+  "status": "Closed",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1894,
+  "closed": 1925,
+  "location": "Sedalia, MO",
+  "state": "MO",
+  "affiliation": "Methodist Episcopal Church (Freedmen's Aid Society)",
+  "formerNames": [],
+  "fate": "Its building burned on April 26, 1925 and it never reopened; its assets were merged into Philander Smith College in 1933.",
+  "description": "A Methodist college for Black students in Sedalia, Missouri, named for the town's founder. It operated for three decades until a 1925 fire destroyed it.",
+  "facts": [
+   {
+    "t": "Destroyed by fire.",
+    "d": "Burned April 26, 1925.",
+    "basis": "documented"
+   },
+   {
+    "t": "Assets to Philander Smith.",
+    "d": "Merged into Philander Smith College (Little Rock) in 1933.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — List of historically black colleges and universities",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   },
+   {
+    "label": "Wikipedia — George R. Smith College",
+    "url": "https://en.wikipedia.org/wiki/George_R._Smith_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "Freedmen's Aid Society"
+   },
+   {
+    "id": "philander-smith-university",
+    "type": "lineage",
+    "label": "assets merged into Philander Smith, 1933"
+   }
+  ]
+ },
+ {
+  "id": "reginald-f-lewis",
+  "name": "Reginald F. Lewis",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "$100M-$500M",
+  "tierBasis": "reported",
+  "peakWealth": "$400M (Forbes, 1993)",
+  "wealthNote": "Forbes 400 estimate published in 1993.",
+  "lifespan": "1942–1993",
+  "base": "New York, NY",
+  "industry": "Private Equity / Leveraged Buyouts",
+  "originBadge": "Football Scholarship",
+  "engineBadge": "Leveraged Buyouts",
+  "capitalBadge": "Junk-Bond Financing",
+  "hbcuStory": "Won a football scholarship to Virginia State College and earned a B.A. in political science in 1965; a Rockefeller Foundation summer program then led Harvard to invite him to law school.",
+  "humbleBeginnings": "Grew up in East Baltimore, where he quarterbacked Dunbar High School and worked from childhood — famously saying he wanted to 'do business, not just talk about it.'",
+  "breakthrough": "After 15 years as a corporate lawyer, founded TLC Group in 1983, bought McCall Pattern for $22.5 million and sold it for a large profit, then acquired Beatrice International Foods for $985 million in 1987.",
+  "legacy": "TLC Beatrice became the first Black-owned company with more than $1 billion in sales; his foundation funded Howard, Harvard Law and Baltimore's Reginald F. Lewis Museum, and VSU's business school carries his name.",
+  "breakthroughDetail": [
+   {
+    "t": "McCall Pattern turnaround.",
+    "d": "A $22.5 million buyout he restructured and sold for a large return to investors.",
+    "basis": "documented"
+   },
+   {
+    "t": "$985 million Beatrice deal (1987).",
+    "d": "Created TLC Beatrice International Holdings, the first Black-owned company with $1B+ in annual sales.",
+    "basis": "documented"
+   },
+   {
+    "t": "Forbes 400.",
+    "d": "Forbes listed him among the 400 richest Americans in 1993 with an estimated $400 million.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Philanthropy.",
+    "d": "$1 million to Howard (1988), $3 million to Harvard Law (1992), $5 million toward the Reginald F. Lewis Museum (opened 2005).",
+    "basis": "documented"
+   },
+   {
+    "t": "Family stewardship.",
+    "d": "After his death from brain cancer at 50, his wife Loida Nicolas Lewis ran TLC Beatrice.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Reginald F. Lewis",
+    "url": "https://en.wikipedia.org/wiki/Reginald_Lewis"
+   },
+   {
+    "label": "VSU College of Business — Alumni (Reginald F. Lewis)",
+    "url": "https://www.vsu.edu/business/resources/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-state-university",
+    "type": "alumni",
+    "label": "B.A. political science 1965"
+   },
+   {
+    "id": "tlc-group",
+    "type": "ownership",
+    "label": "founded 1983"
+   },
+   {
+    "id": "tlc-beatrice",
+    "type": "ownership",
+    "label": "chairman & CEO, acquired 1987"
+   }
+  ]
+ },
+ {
+  "id": "gladys-west",
+  "name": "Gladys West",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1930",
+  "base": "King George, VA",
+  "industry": "Mathematics / Geodesy",
+  "originBadge": "Sharecropper's Daughter",
+  "engineBadge": "GPS Satellite Geodesy",
+  "capitalBadge": "Federal Service",
+  "hbcuStory": "Earned a B.S. (1952) and M.S. (1955) in mathematics at Virginia State.",
+  "humbleBeginnings": "Grew up in rural Dinwiddie County, Virginia.",
+  "breakthrough": "Her modeling of the Earth's shape at the Naval Surface Warfare Center contributed to the development of GPS.",
+  "legacy": "Inducted into the U.S. Air Force Hall of Fame.",
+  "breakthroughDetail": [
+   {
+    "t": "GPS pioneer.",
+    "d": "Mathematical work contributed to GPS.",
+    "basis": "documented"
+   },
+   {
+    "t": "Air Force Hall of Fame.",
+    "d": "Inducted for her contributions.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hidden figure recognized late.",
+    "d": "Celebrated widely only after retirement.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Virginia State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Virginia_State_University"
+   },
+   {
+    "label": "Wikipedia — Gladys West",
+    "url": "https://en.wikipedia.org/wiki/Gladys_West"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-state-university",
+    "type": "alumni",
+    "label": "B.S. 1952, M.S. 1955"
+   }
+  ]
+ },
+ {
+  "id": "lucy-mcbath",
+  "name": "Lucy McBath",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1960",
+  "base": "Marietta, GA",
+  "industry": "Congress / Gun-safety Advocacy",
+  "originBadge": "Political Science Grad",
+  "engineBadge": "Public Office",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Virginia State University in 1982.",
+  "humbleBeginnings": "Daughter of a dentist and NAACP leader in Joliet, Illinois; worked as a Delta Air Lines flight attendant.",
+  "breakthrough": "After her son Jordan Davis was killed in 2012, became a national gun-safety advocate and was elected to Congress from Georgia.",
+  "legacy": "Serves as a U.S. Representative from Georgia.",
+  "breakthroughDetail": [
+   {
+    "t": "Elected to Congress.",
+    "d": "U.S. Congresswoman from Georgia.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Advocacy.",
+    "d": "National spokesperson for gun-violence prevention.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Virginia State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Virginia_State_University"
+   },
+   {
+    "label": "Wikipedia — Lucy McBath",
+    "url": "https://en.wikipedia.org/wiki/Lucy_McBath"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-state-university",
+    "type": "alumni",
+    "label": "B.A. 1982"
+   }
+  ]
+ },
+ {
+  "id": "william-r-harvey",
+  "name": "William R. Harvey",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1941",
+  "base": "Hampton, VA",
+  "industry": "Higher Education / Beverage Bottling",
+  "originBadge": "Alabama Roots",
+  "engineBadge": "University Leadership",
+  "capitalBadge": "Salary & Franchise",
+  "hbcuStory": "Studied at Virginia State (graduate study) after Talladega College, before a Harvard doctorate; then led Hampton University for 44 years.",
+  "humbleBeginnings": "Born in Brewton, Alabama, in 1941.",
+  "breakthrough": "Became Hampton's 12th president on July 1, 1978, and in 1986 he and his wife Norma bought a Pepsi-Cola bottling franchise — called the first African American owner in the soft-drink bottling industry.",
+  "legacy": "Grew Hampton's endowment, campus and research enterprise until retiring June 30, 2022.",
+  "breakthroughDetail": [
+   {
+    "t": "Hampton president 1978–2022.",
+    "d": "One of the longest-serving HBCU presidents.",
+    "basis": "documented"
+   },
+   {
+    "t": "Pepsi bottler, 1986.",
+    "d": "Bought a Pepsi-Cola bottling franchise with his wife Norma.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Institution builder.",
+    "d": "Expanded Hampton into a research university.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — William R. Harvey",
+    "url": "https://en.wikipedia.org/wiki/William_R._Harvey"
+   },
+   {
+    "label": "AFRO — Dr. William Harvey announces retirement",
+    "url": "https://afro.com/after-43-years-dr-william-harvey-of-hampton-university-announces-retirement/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-state-university",
+    "type": "alumni",
+    "label": "attended (graduate study)"
+   },
+   {
+    "id": "talladega-college",
+    "type": "alumni",
+    "label": "B.A."
+   },
+   {
+    "id": "hampton-university",
+    "type": "faculty",
+    "label": "president, 1978–2022"
+   }
+  ]
+ },
+ {
+  "id": "robert-s-abbott",
+  "name": "Robert S. Abbott",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$500K-$5M",
+  "tierBasis": "estimated",
+  "wealthNote": "Widely described as one of the first Black millionaires; no audited figure exists.",
+  "lifespan": "1868–1940",
+  "base": "Chicago, IL",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Printing Trade Student",
+  "engineBadge": "Black Press Circulation",
+  "capitalBadge": "25-Cent Bootstrap",
+  "hbcuStory": "Studied the printing trade at Hampton Institute, finishing in 1896 — the skill that shaped his career.",
+  "humbleBeginnings": "Born on St. Simons Island, Georgia, to formerly enslaved parents; shut out of Chicago print shops by discrimination, he earned a law degree but couldn't build a practice.",
+  "breakthrough": "Launched The Chicago Defender in 1905 with an initial investment of 25 cents; it became the most widely circulated Black newspaper in the country and helped propel the Great Migration.",
+  "legacy": "Paid for his nephew John H. Sengstacke's Hampton education and left him the Defender; also founded Chicago's Bud Billiken Day Parade.",
+  "breakthroughDetail": [
+   {
+    "t": "Chicago Defender, 1905.",
+    "d": "Started with 25 cents; became the nation's best-selling Black paper.",
+    "basis": "documented"
+   },
+   {
+    "t": "Great Migration engine.",
+    "d": "The Defender's national circulation urged Southern Black workers north.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family succession.",
+    "d": "Groomed nephew John H. Sengstacke as heir.",
+    "basis": "documented"
+   },
+   {
+    "t": "Bud Billiken Parade.",
+    "d": "Founded Chicago's annual back-to-school parade.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Robert Sengstacke Abbott",
+    "url": "https://en.wikipedia.org/wiki/Robert_Sengstacke_Abbott"
+   },
+   {
+    "label": "Britannica — Robert Abbott",
+    "url": "https://britannica.com/biography/Robert-Sengstacke-Abbott"
+   },
+   {
+    "label": "PBS The Black Press — Robert Abbott",
+    "url": "https://www.pbs.org/blackpress/news_bios/abbott.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "printing trade, completed 1896"
+   },
+   {
+    "id": "chicago-defender",
+    "type": "ownership",
+    "label": "founded 1905"
+   }
+  ]
+ },
+ {
+  "id": "john-h-sengstacke",
+  "name": "John H. Sengstacke",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on ownership of the largest Black newspaper chain; no published figure.",
+  "lifespan": "1912–1997",
+  "base": "Chicago, IL",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Uncle-funded Education",
+  "engineBadge": "Newspaper Chain",
+  "capitalBadge": "Inherited Enterprise",
+  "hbcuStory": "His uncle Robert S. Abbott financed his education at Hampton Institute, where he graduated in 1934 (one record says 1933), working summers at the Defender.",
+  "humbleBeginnings": "Born in Savannah, Georgia; the son of a minister and editor, he apprenticed in the family newspaper business.",
+  "breakthrough": "Joined the Defender as vice president and treasurer in 1934, became general manager in 1935 and inherited it on Abbott's death in 1940.",
+  "legacy": "Built the largest chain of Black newspapers in the U.S. and founded the National Newspaper Publishers Association in 1940, serving seven terms as president.",
+  "breakthroughDetail": [
+   {
+    "t": "Defender heir, 1940.",
+    "d": "President and editor until his death in 1997.",
+    "basis": "documented"
+   },
+   {
+    "t": "NNPA founder, 1940.",
+    "d": "United Black publishers into a national trade group.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Largest Black newspaper chain.",
+    "d": "Owned papers including the Defender, Michigan Chronicle, Tri-State Defender and Pittsburgh Courier.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — John H. Sengstacke",
+    "url": "https://en.wikipedia.org/wiki/John_H._Sengstacke"
+   },
+   {
+    "label": "PBS The Black Press — John Sengstacke",
+    "url": "https://www.pbs.org/blackpress/news_bios/newbios/nwsppr/Biogrphs/sengstacke/sengstake.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.S. 1934"
+   },
+   {
+    "id": "chicago-defender",
+    "type": "ownership",
+    "label": "inherited 1940; president & editor to 1997"
+   },
+   {
+    "id": "national-newspaper-publishers-association",
+    "type": "ownership",
+    "label": "founded 1940"
+   },
+   {
+    "id": "pittsburgh-courier",
+    "type": "ownership",
+    "label": "acquired (Sengstacke chain)"
+   },
+   {
+    "id": "robert-s-abbott",
+    "type": "family",
+    "label": "nephew & heir"
+   }
+  ]
+ },
+ {
+  "id": "robert-brokenburr",
+  "name": "Robert Brokenburr",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1886–1974",
+  "base": "Indianapolis, IN",
+  "industry": "Personal Care / Law",
+  "originBadge": "Hampton & Howard Law",
+  "engineBadge": "Hair-care Empire Counsel",
+  "capitalBadge": "Salary & Practice",
+  "hbcuStory": "Graduated from Hampton Normal and Agricultural Institute in 1906, then earned a law degree at Howard University in 1909.",
+  "humbleBeginnings": "A young Black attorney arriving in Indianapolis at the start of his career.",
+  "breakthrough": "Wrote the articles of incorporation for the Madam C. J. Walker Manufacturing Company in 1911 and, per Wikipedia, served as its general manager and counsel (other sources credit Freeman Ransom as business manager).",
+  "legacy": "Became the first African American elected to the Indiana State Senate (1940) while maintaining a civil-rights litigation practice.",
+  "breakthroughDetail": [
+   {
+    "t": "Incorporated the Walker company, 1911.",
+    "d": "Helped Madam C. J. Walker file her incorporation papers.",
+    "basis": "documented"
+   },
+   {
+    "t": "Indiana Senate first.",
+    "d": "First Black member of the Indiana State Senate.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Corporate law for Black enterprise.",
+    "d": "Model of the Black business lawyer as company builder.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Robert Brokenburr",
+    "url": "https://en.wikipedia.org/wiki/Robert_Brokenburr"
+   },
+   {
+    "label": "Indiana Historical Society — Madam C. J. Walker Papers addition",
+    "url": "https://indianahistory.org/wp-content/uploads/madam-cj-walker-papers-addition-1911-2005.pdf"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "graduated 1906"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "law degree 1909"
+   },
+   {
+    "id": "madam-c-j-walker-manufacturing-company",
+    "type": "executive",
+    "label": "incorporating attorney; counsel/general manager"
+   }
+  ]
+ },
+ {
+  "id": "percy-creuzot",
+  "name": "Percy Creuzot",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$500K-$5M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on a multi-unit regional restaurant chain; no published figure.",
+  "lifespan": "1924–2010",
+  "base": "Houston, TX",
+  "industry": "Restaurants",
+  "originBadge": "Navy Veteran",
+  "engineBadge": "Creole Fried Chicken",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "After Navy service in World War II, graduated from Hampton Institute in 1949.",
+  "humbleBeginnings": "A New Orleans native, he came to Houston in 1965 selling class rings and graduation supplies to Black high schools for Herff-Jones.",
+  "breakthrough": "In 1969 he and his wife Sallie opened a Creole po-boy stand in Houston's Third Ward that pivoted to fried chicken — Frenchy's, earning him the nickname 'the Black Colonel Sanders.'",
+  "legacy": "Frenchy's became a Houston institution run by the family; son Percy III led the business and son John Creuzot became Dallas County District Attorney.",
+  "breakthroughDetail": [
+   {
+    "t": "Frenchy's, 1969.",
+    "d": "Founded in Houston's Third Ward near Texas Southern University.",
+    "basis": "documented"
+   },
+   {
+    "t": "Pivot to chicken.",
+    "d": "Switched from po-boys to Creole fried chicken soon after opening.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family business.",
+    "d": "Passed to son Percy Creuzot III.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Percy Creuzot",
+    "url": "https://en.wikipedia.org/wiki/Percy_Creuzot"
+   },
+   {
+    "label": "ABC13 — Founder of Frenchy's Fried Chicken chain dies",
+    "url": "https://abc13.com/archive/7482341"
+   },
+   {
+    "label": "D Magazine — How John Creuzot's dad built Frenchy's",
+    "url": "https://www.dmagazine.com/publications/d-magazine/2019/february/how-john-creuzots-dad-built-frenchys-chicken-one-of-houstons-favorite-chicken-joints/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "graduated 1949"
+   },
+   {
+    "id": "frenchys-chicken",
+    "type": "ownership",
+    "label": "co-founded 1969"
+   }
+  ]
+ },
+ {
+  "id": "percy-sutton",
+  "name": "Percy Sutton",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on Inner City Broadcasting holdings; no published figure verified.",
+  "lifespan": "1920–2009",
+  "base": "New York, NY",
+  "industry": "Radio Broadcasting",
+  "originBadge": "Tuskegee Airman",
+  "engineBadge": "Black-owned Radio",
+  "capitalBadge": "Investor Syndicate",
+  "hbcuStory": "Attended three HBCUs — Prairie View, Tuskegee Institute and Hampton Institute — without taking a degree, then earned a law degree at Brooklyn Law School in 1950.",
+  "humbleBeginnings": "Youngest of 15 children of a San Antonio educator; served with the Tuskegee Airmen in World War II.",
+  "breakthrough": "Co-founded Inner City Broadcasting, which in the early 1970s bought New York's WLIB-AM and WBLS-FM, and around 1980–81 bought Harlem's Apollo Theater.",
+  "legacy": "Malcolm X's lawyer and Manhattan's longest-serving borough president; Black Enterprise calls him a model for multi-generational wealth.",
+  "breakthroughDetail": [
+   {
+    "t": "Inner City Broadcasting.",
+    "d": "Bought WLIB and WBLS — anchors of Black-owned radio.",
+    "basis": "documented"
+   },
+   {
+    "t": "Apollo Theater.",
+    "d": "Bought and restored the Harlem landmark.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Generational wealth.",
+    "d": "Family-run media company passed to son Pierre Sutton.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "BlackPast — Percy Sutton",
+    "url": "https://blackpast.org/aah/sutton-percy-1920"
+   },
+   {
+    "label": "Black Enterprise — Percy E. Sutton remains a model for multi-generational wealth",
+    "url": "https://blackenterprise.com/the-legacy-of-percy-e-sutton-remains-a-model-for-multi-generational-wealth/"
+   },
+   {
+    "label": "Encyclopedia.com — Percy E. Sutton",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/political-science-biographies/percy-e-sutton"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "tuskegee-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "inner-city-broadcasting-corporation",
+    "type": "ownership",
+    "label": "co-founder, early 1970s"
+   },
+   {
+    "id": "apollo-theater",
+    "type": "ownership",
+    "label": "bought c. 1980–81"
+   }
+  ]
+ },
+ {
+  "id": "charles-phillips",
+  "name": "Charles Phillips",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "$100M-$500M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from two decades of Oracle/Infor executive compensation and equity; no published net-worth figure.",
+  "lifespan": "b. 1959",
+  "base": "New York, NY",
+  "industry": "Enterprise Software",
+  "originBadge": "Air Force Officer",
+  "engineBadge": "Enterprise Software",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned an MBA from Hampton University (1986) while serving as a Marine Corps officer, after a computer science degree from the Air Force Academy; later a J.D. from New York Law School.",
+  "humbleBeginnings": "Son of an Air Force sergeant from Little Rock, Arkansas.",
+  "breakthrough": "Became a top-ranked Wall Street software analyst at Morgan Stanley, then was recruited by Larry Ellison and named Oracle president within six months (2003–2010).",
+  "legacy": "As CEO of Infor (2010–2019) built it into a major cloud software company, then became chairman; co-founded the Black Economic Alliance and the tech-investment firm Recognize.",
+  "breakthroughDetail": [
+   {
+    "t": "Oracle president.",
+    "d": "Joined 2003; president/co-president through 2010.",
+    "basis": "documented"
+   },
+   {
+    "t": "Infor CEO 2010–2019.",
+    "d": "Stepped down as CEO in August 2019 to become chairman.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hampton notable alumnus.",
+    "d": "Featured on Hampton's business-school roster of notable alumni.",
+    "basis": "documented"
+   },
+   {
+    "t": "Next act.",
+    "d": "Co-founded the Black Economic Alliance and tech investment firm Recognize.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Charles Phillips (businessman)",
+    "url": "https://en.wikipedia.org/wiki/Charles_Phillips_(businessman)"
+   },
+   {
+    "label": "Encyclopedia of Arkansas — Charles E. Phillips Jr.",
+    "url": "https://encyclopediaofarkansas.net/entries/charles-e-phillips-jr-8234/"
+   },
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "MBA 1986"
+   },
+   {
+    "id": "oracle",
+    "type": "executive",
+    "label": "president, 2003–2010"
+   },
+   {
+    "id": "infor",
+    "type": "executive",
+    "label": "CEO 2010–2019; chairman"
+   }
+  ]
+ },
+ {
+  "id": "sashi-brown",
+  "name": "Sashi Brown",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on senior pro-sports executive compensation; no published figure.",
+  "lifespan": "",
+  "base": "Baltimore, MD",
+  "industry": "Pro Sports Business",
+  "originBadge": "Mass Media Major",
+  "engineBadge": "Sports Franchise Ops",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.A. in mass media from Hampton University in 1998, calling Pirates football and basketball as an analyst and play-by-play announcer; then Harvard Law (2002). Hampton trustee.",
+  "humbleBeginnings": "Started his career as a lawyer, becoming the Jacksonville Jaguars' senior vice president and lead counsel.",
+  "breakthrough": "Rose from Jacksonville Jaguars lead counsel to Cleveland Browns EVP of football operations (2013–17) and president of Monumental's Wizards, Mystics and Go-Go.",
+  "legacy": "Named president of the Baltimore Ravens on April 1, 2022, overseeing all business operations.",
+  "breakthroughDetail": [
+   {
+    "t": "Ravens president, 2022.",
+    "d": "Succeeded Dick Cass; oversees finance, sales, stadium and communications.",
+    "basis": "documented"
+   },
+   {
+    "t": "Browns EVP.",
+    "d": "Ran Cleveland's football operations 2013–2017.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hampton trustee.",
+    "d": "Sits on Hampton's Board of Trustees.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Sashi Brown",
+    "url": "https://en.wikipedia.org/wiki/Sashi_Brown"
+   },
+   {
+    "label": "Baltimore Ravens — Dick Cass to retire, Sashi Brown named successor",
+    "url": "https://www.baltimoreravens.com/news/press-release-ravens-president-dick-cass-to-retire-sashi-brown-named-successor"
+   },
+   {
+    "label": "Hampton University — Board of Trustees",
+    "url": "https://home.hamptonu.edu/administration/board-of-trustees/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.A. mass media 1998"
+   },
+   {
+    "id": "baltimore-ravens",
+    "type": "executive",
+    "label": "president, 2022–"
+   }
+  ]
+ },
+ {
+  "id": "rashida-jones",
+  "name": "Rashida Jones",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on network-president compensation; no published figure.",
+  "lifespan": "b. 1981",
+  "base": "New York, NY",
+  "industry": "Television News",
+  "originBadge": "Mass Media Arts Grad",
+  "engineBadge": "Cable News Management",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from Hampton University's Scripps Howard School of Journalism (mass media arts) in 2002; now a Hampton trustee.",
+  "humbleBeginnings": "Began as a local TV news producer before joining NBC News.",
+  "breakthrough": "Became president of MSNBC effective February 1, 2021 — the first Black executive to lead a major cable news network.",
+  "legacy": "After MSNBC, became CEO of Piers Morgan's Uncensored network, per Hampton's trustee listing.",
+  "breakthroughDetail": [
+   {
+    "t": "MSNBC president, 2021.",
+    "d": "First African American to run a major cable news network.",
+    "basis": "documented"
+   },
+   {
+    "t": "NBC News SVP.",
+    "d": "Oversaw breaking-news and election coverage before the promotion.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hampton commencement speaker.",
+    "d": "Delivered Hampton's 150th commencement address.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Rashida Jones (television executive)"
+  ],
+  "sources": [
+   {
+    "label": "Black Enterprise — Rashida Jones to lead MSNBC",
+    "url": "https://blackenterprise.com/rashida-jones-to-become-first-black-executive-to-lead-a-major-cable-news-network-as-msnbc-president/"
+   },
+   {
+    "label": "BlackPast — Rashida Jones (1981– )",
+    "url": "https://new.blackpast.org/african-american-history/rashida-jones-1981"
+   },
+   {
+    "label": "Hampton University — Board of Trustees",
+    "url": "https://home.hamptonu.edu/administration/board-of-trustees/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.A. mass media arts 2002"
+   },
+   {
+    "id": "msnbc",
+    "type": "executive",
+    "label": "president, 2021–2025"
+   }
+  ]
+ },
+ {
+  "id": "keith-leaphart",
+  "name": "Keith Leaphart",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1975",
+  "base": "Philadelphia, PA",
+  "industry": "Fintech / Creative Services",
+  "originBadge": "Scholarship Kid",
+  "engineBadge": "Fintech & Agencies",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Won a scholarship to Hampton University and graduated in 1996 with a biology degree, later earning a D.O./MBA.",
+  "humbleBeginnings": "Grew up in Philadelphia's West Oak Lane; ran a commercial cleaning and event-planning business while in medical and business school.",
+  "breakthrough": "Founded the Leaphart Group and Replica Creative, then the fintech company Philanthropi.",
+  "legacy": "Chairs the Lenfest Foundation and serves as Secretary-Treasurer of the Pennsylvania Turnpike Commission.",
+  "breakthroughDetail": [
+   {
+    "t": "Serial founder.",
+    "d": "Replica Creative, the Leaphart Group and Philanthropi.",
+    "basis": "documented"
+   },
+   {
+    "t": "Physician-entrepreneur.",
+    "d": "Practiced at Bryn Mawr Hospital while running businesses.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Philanthropy leader.",
+    "d": "Chair of the Lenfest Foundation.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Keith Leaphart",
+    "url": "https://en.wikipedia.org/wiki/Keith_Leaphart"
+   },
+   {
+    "label": "Philadelphia Inquirer — On the Boards (2010)",
+    "url": "https://inquirer.com/philly/business/20101213_On_the_Boards.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.S. biology 1996"
+   },
+   {
+    "id": "philanthropi",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "michele-jawando",
+  "name": "Michele Jawando",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Washington, DC",
+  "industry": "Philanthropic Investing / Tech Policy",
+  "originBadge": "Hampton & UNC Law",
+  "engineBadge": "Impact Investing",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned her bachelor's degree at Hampton University (2002), then a J.D. from UNC Chapel Hill; serves on Hampton's board.",
+  "humbleBeginnings": "Began on Capitol Hill working for Senator Kirsten Gillibrand.",
+  "breakthrough": "Moved to Google's public policy team, then to Omidyar Network as SVP of programs before being named CEO.",
+  "legacy": "Leads one of the best-known philanthropic investment firms in tech.",
+  "breakthroughDetail": [
+   {
+    "t": "Omidyar Network CEO.",
+    "d": "Heads Pierre Omidyar's social-change investment firm.",
+    "basis": "documented"
+   },
+   {
+    "t": "Google policy.",
+    "d": "Managed relationships with nonprofits and policymakers.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hampton trustee.",
+    "d": "Listed on Hampton's Board of Trustees.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Michele Lawrence Jawando"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Michele Jawando",
+    "url": "https://en.wikipedia.org/wiki/Michele_Jawando"
+   },
+   {
+    "label": "Hampton University — Board of Trustees",
+    "url": "https://home.hamptonu.edu/administration/board-of-trustees/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.A. 2002"
+   },
+   {
+    "id": "omidyar-network",
+    "type": "executive",
+    "label": "CEO"
+   }
+  ]
+ },
+ {
+  "id": "nicole-pullen-ross",
+  "name": "Nicole Pullen Ross",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on Goldman Sachs partner compensation; no published figure.",
+  "lifespan": "",
+  "base": "New York, NY",
+  "industry": "Private Wealth Management",
+  "originBadge": "Hampton '94",
+  "engineBadge": "Private Wealth Management",
+  "capitalBadge": "Salary & Partnership",
+  "hbcuStory": "Hampton University class of 1994; vice chair of Hampton's Board of Trustees.",
+  "humbleBeginnings": "Built her career inside Goldman Sachs's private wealth business.",
+  "breakthrough": "Became a Goldman Sachs partner and head of the Northeast Private Wealth Management region and of Sports & Entertainment Solutions.",
+  "legacy": "Uses her board role to steer Hampton's governance and alumni finance network.",
+  "breakthroughDetail": [
+   {
+    "t": "Goldman Sachs partner.",
+    "d": "Northeast Private Wealth Management region head.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sports & entertainment wealth.",
+    "d": "Heads the firm's Sports & Entertainment Solutions group.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hampton vice chair.",
+    "d": "Vice chair of the Board of Trustees.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Hampton University School of Business — Notable Alumni",
+    "url": "https://home.hamptonu.edu/business/notable-alumni/"
+   },
+   {
+    "label": "Hampton University — Board of Trustees",
+    "url": "https://home.hamptonu.edu/administration/board-of-trustees/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.A. 1994"
+   },
+   {
+    "id": "goldman-sachs",
+    "type": "executive",
+    "label": "partner, PWM region head"
+   }
+  ]
+ },
+ {
+  "id": "che-pope",
+  "name": "Che Pope",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1970",
+  "base": "Los Angeles, CA",
+  "industry": "Music Production & Label Management",
+  "originBadge": "Boston-born Producer",
+  "engineBadge": "Label Ops & Production",
+  "capitalBadge": "Royalties & Equity",
+  "hbcuStory": "Hampton University class of 1992, listed among Hampton's notable media alumni.",
+  "humbleBeginnings": "Born in Boston in 1970; came up as a record producer.",
+  "breakthrough": "Spent about eight years on Dr. Dre's Aftermath production team (Eminem, 50 Cent), then served as president and COO of Kanye West's GOOD Music (2012–2015).",
+  "legacy": "Founded the content company Wrkshp Media.",
+  "breakthroughDetail": [
+   {
+    "t": "GOOD Music president/COO.",
+    "d": "Ran the label's operations 2012–2015.",
+    "basis": "documented"
+   },
+   {
+    "t": "Aftermath producer.",
+    "d": "Produced for Eminem and 50 Cent.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Wrkshp founder.",
+    "d": "Built his own media company.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Che Pope",
+    "url": "https://en.wikipedia.org/wiki/Che_Pope"
+   },
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "class of 1992"
+   },
+   {
+    "id": "good-music",
+    "type": "executive",
+    "label": "president & COO, 2012–2015"
+   },
+   {
+    "id": "wrkshp-media",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "booker-t-washington",
+  "name": "Booker T. Washington",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1856–1915",
+  "base": "Tuskegee, AL",
+  "industry": "Education / Black Business Advocacy",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "Industrial Education",
+  "capitalBadge": "Philanthropic Patrons",
+  "hbcuStory": "Walked much of the 500 miles to Hampton Institute, worked as a janitor to pay his way and graduated in 1875 under Samuel Chapman Armstrong; also studied at Wayland Seminary (1878–79).",
+  "humbleBeginnings": "Born enslaved in Virginia; worked in West Virginia salt furnaces and coal mines as a boy.",
+  "breakthrough": "Became the first principal of Tuskegee Institute in 1881 and, in 1900, founded the National Negro Business League.",
+  "legacy": "Built Tuskegee into a national institution and networked Black entrepreneurs through the NNBL; Hampton remains the model he spread across the South.",
+  "breakthroughDetail": [
+   {
+    "t": "Tuskegee, 1881.",
+    "d": "First leader of Tuskegee Institute.",
+    "basis": "documented"
+   },
+   {
+    "t": "National Negro Business League, 1900.",
+    "d": "Organized Black business owners nationally.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hampton model.",
+    "d": "Exported Hampton's industrial-education philosophy.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   },
+   {
+    "label": "Wikipedia — Booker T. Washington",
+    "url": "https://en.wikipedia.org/wiki/Booker_T._Washington"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "graduated 1875"
+   },
+   {
+    "id": "wayland-seminary",
+    "type": "alumni",
+    "label": "attended 1878–79"
+   },
+   {
+    "id": "tuskegee-university",
+    "type": "faculty",
+    "label": "first principal, 1881–1915"
+   },
+   {
+    "id": "national-negro-business-league",
+    "type": "ownership",
+    "label": "founded 1900"
+   }
+  ]
+ },
+ {
+  "id": "james-solomon-russell",
+  "name": "James Solomon Russell",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1857–1935",
+  "base": "Lawrenceville, VA",
+  "industry": "Education / Episcopal Ministry",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "School Founder",
+  "capitalBadge": "Church Philanthropy",
+  "hbcuStory": "Admitted to Hampton Normal and Agricultural Institute in the 1870s, then to Bishop Payne Divinity School in Petersburg in 1878.",
+  "humbleBeginnings": "Born in Mecklenburg County, Virginia, in 1857.",
+  "breakthrough": "Founded Saint Paul Normal and Industrial School in 1888 after teaching Black students in a church room from 1883.",
+  "legacy": "As Archdeacon of Southern Virginia grew Black Episcopal congregations from none to 37; first African American on the Episcopal Board of Missions; commemorated in the Episcopal calendar.",
+  "breakthroughDetail": [
+   {
+    "t": "Saint Paul's founder, 1888.",
+    "d": "Bought the first building with a legacy from the Rev. Saul of Philadelphia.",
+    "basis": "documented"
+   },
+   {
+    "t": "Archdeacon, 1893.",
+    "d": "Planted 37 Black Episcopal churches.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Declined bishoprics.",
+    "d": "Turned down election as Suffragan Bishop of Arkansas in 1917.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — James Solomon Russell",
+    "url": "https://en.wikipedia.org/wiki/James_Solomon_Russell"
+   },
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "attended 1870s"
+   },
+   {
+    "id": "bishop-payne-divinity-school",
+    "type": "alumni",
+    "label": "admitted 1878"
+   },
+   {
+    "id": "saint-pauls-college",
+    "type": "faculty",
+    "label": "founder & principal, 1888–1929"
+   }
+  ]
+ },
+ {
+  "id": "mary-jackson",
+  "name": "Mary Jackson",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1921–2005",
+  "base": "Hampton, VA",
+  "industry": "Aerospace Engineering",
+  "originBadge": "Hampton Math & Science",
+  "engineBadge": "Aeronautical Engineering",
+  "capitalBadge": "Federal Service",
+  "hbcuStory": "Graduated from Hampton Institute in 1942 with degrees in mathematics and physical science.",
+  "humbleBeginnings": "Grew up in Hampton, Virginia; taught math and worked as a bookkeeper before NACA.",
+  "breakthrough": "Became NASA's first Black female engineer at Langley Research Center.",
+  "legacy": "Awarded a posthumous Congressional Gold Medal; NASA headquarters is named for her.",
+  "breakthroughDetail": [
+   {
+    "t": "NASA's first Black female engineer.",
+    "d": "At Langley Research Center.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Congressional Gold Medal.",
+    "d": "Recognized posthumously.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   },
+   {
+    "label": "Wikipedia — Mary Jackson (engineer)",
+    "url": "https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.S. 1942"
+   },
+   {
+    "id": "nasa",
+    "type": "executive",
+    "label": "engineer, Langley"
+   }
+  ]
+ },
+ {
+  "id": "wanda-sykes",
+  "name": "Wanda Sykes",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1964",
+  "base": "Los Angeles, CA",
+  "industry": "Comedy / TV Production",
+  "originBadge": "Marketing Grad",
+  "engineBadge": "Comedy & Production",
+  "capitalBadge": "Talent Earnings",
+  "hbcuStory": "Earned a B.S. in marketing from Hampton University in 1986.",
+  "humbleBeginnings": "Worked as a contracting specialist at the National Security Agency before stand-up.",
+  "breakthrough": "Emmy-winning writer, comedian and actor.",
+  "legacy": "Runs her own production company and is a frequent Hampton ambassador.",
+  "breakthroughDetail": [
+   {
+    "t": "Emmy winner.",
+    "d": "Won as a writer on The Chris Rock Show.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Producer.",
+    "d": "Owns production company Push It Productions.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   },
+   {
+    "label": "Hampton University School of Business — Notable Alumni",
+    "url": "https://home.hamptonu.edu/business/notable-alumni/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.S. marketing 1986"
+   }
+  ]
+ },
+ {
+  "id": "ruth-e-carter",
+  "name": "Ruth E. Carter",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1960",
+  "base": "Los Angeles, CA",
+  "industry": "Costume Design",
+  "originBadge": "Theater Arts Grad",
+  "engineBadge": "Film Costume Design",
+  "capitalBadge": "Talent Earnings",
+  "hbcuStory": "Graduated from Hampton University in 1982.",
+  "humbleBeginnings": "Raised by a single mother in Springfield, Massachusetts.",
+  "breakthrough": "Won the Academy Award for costume design for Black Panther — and a second Oscar for Black Panther: Wakanda Forever.",
+  "legacy": "First Black winner in the costume design category.",
+  "breakthroughDetail": [
+   {
+    "t": "Two Oscars.",
+    "d": "Black Panther and Wakanda Forever.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Spike Lee collaborator.",
+    "d": "Longtime costume designer on Spike Lee films.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   },
+   {
+    "label": "Wikipedia — Ruth E. Carter",
+    "url": "https://en.wikipedia.org/wiki/Ruth_E._Carter"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.A. 1982"
+   }
+  ]
+ },
+ {
+  "id": "freeman-a-hrabowski-iii",
+  "name": "Freeman A. Hrabowski III",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1950",
+  "base": "Baltimore, MD",
+  "industry": "Higher Education",
+  "originBadge": "Child Civil-Rights Marcher",
+  "engineBadge": "University Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Entered Hampton Institute as a teenager and graduated in 1969 with highest honors in mathematics.",
+  "humbleBeginnings": "Marched as a child in Birmingham's 1963 Children's Crusade and was jailed.",
+  "breakthrough": "Led the University of Maryland, Baltimore County as president for three decades, building the Meyerhoff Scholars STEM program.",
+  "legacy": "Made UMBC a top producer of Black STEM Ph.D.s.",
+  "breakthroughDetail": [
+   {
+    "t": "UMBC president.",
+    "d": "Served 1992–2022.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Meyerhoff Scholars.",
+    "d": "National model for minority STEM achievement.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Hampton University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Hampton_University"
+   },
+   {
+    "label": "Wikipedia — Freeman A. Hrabowski III",
+    "url": "https://en.wikipedia.org/wiki/Freeman_A._Hrabowski_III"
+   }
+  ],
+  "connections": [
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "B.A. mathematics 1969"
+   }
+  ]
+ },
+ {
+  "id": "ernest-m-hodge",
+  "name": "Ernest M. Hodge",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on ownership of a multi-state dealership group; no published figure.",
+  "lifespan": "",
+  "base": "Atlanta, GA",
+  "industry": "Automotive Dealerships",
+  "originBadge": "Business Grad",
+  "engineBadge": "Multi-franchise Dealerships",
+  "capitalBadge": "GM Dealer Development",
+  "hbcuStory": "Graduated from Norfolk State in 1975 with a business degree; NSU's Ernest M. Hodge Institute for Entrepreneurship is named for him.",
+  "humbleBeginnings": "Trained at the General Motors Dealer Development Academy in Flint, Michigan.",
+  "breakthrough": "Built Heritage Automotive Group (Cadillac, VW, Infiniti, Chevrolet stores in Georgia and New York) and became co-CEO of March/Hodge Automotive Group.",
+  "legacy": "His group ranked first among minority-owned dealerships on Black Enterprise's list; inducted into the National Black College Alumni Hall of Fame.",
+  "breakthroughDetail": [
+   {
+    "t": "Heritage Automotive Group.",
+    "d": "Owner, CEO and president.",
+    "basis": "documented"
+   },
+   {
+    "t": "March/Hodge co-CEO.",
+    "d": "Ranked #1 minority-owned auto dealer group by Black Enterprise.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Named institute at NSU.",
+    "d": "Ernest M. Hodge Institute for Entrepreneurship.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Ernie Hodge"
+  ],
+  "sources": [
+   {
+    "label": "NSU — Ernie Hodge (campaign steering committee)",
+    "url": "https://www.nsu.edu/now-is-our-time/campaign-steering-committee/Ernie-Hodge"
+   },
+   {
+    "label": "NSU — Ernest M. Hodge Institute for Entrepreneurship",
+    "url": "https://www.nsu.edu/Academics/Faculty-and-Academic-Divisions/Schools-and-Colleges/School-of-Business/Ernest-M-Hodge-Institute-for-Entrepreneurship/About"
+   }
+  ],
+  "connections": [
+   {
+    "id": "norfolk-state-university",
+    "type": "alumni",
+    "label": "B.S. business 1975"
+   },
+   {
+    "id": "heritage-automotive-group",
+    "type": "ownership",
+    "label": "owner, CEO & president"
+   },
+   {
+    "id": "march-hodge-automotive-group",
+    "type": "ownership",
+    "label": "co-CEO"
+   }
+  ]
+ },
+ {
+  "id": "derek-t-dingle",
+  "name": "Derek T. Dingle",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "New York, NY",
+  "industry": "Business Journalism / Comics",
+  "originBadge": "Journalism Grad",
+  "engineBadge": "Business Media & Comics",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a journalism degree at Norfolk State, later studying magazine management at NYU.",
+  "humbleBeginnings": "Joined Black Enterprise in 1983 as an assistant editor.",
+  "breakthrough": "Co-founded Milestone Media in 1993 — the Black-owned comics imprint behind Static — serving as its president and CEO.",
+  "legacy": "Returned to lead Black Enterprise editorially as editor-in-chief (2008) and later chief content officer.",
+  "breakthroughDetail": [
+   {
+    "t": "Milestone Media co-founder.",
+    "d": "Static became a WB/Cartoon Network series (2000–2005).",
+    "basis": "documented"
+   },
+   {
+    "t": "Black Enterprise editor-in-chief.",
+    "d": "Appointed SVP and editor-in-chief in 2008.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Chronicler of Black business.",
+    "d": "Author and editor of Black Enterprise's coverage of the BE 100s.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Derek T. Dingle",
+    "url": "https://en.wikipedia.org/wiki/Derek_T._Dingle"
+   },
+   {
+    "label": "NSU — Derek T. Dingle bio",
+    "url": "https://www.nsu.edu/behold/2026/bio/derek-t-dingle"
+   }
+  ],
+  "connections": [
+   {
+    "id": "norfolk-state-university",
+    "type": "alumni",
+    "label": "B.A. journalism"
+   },
+   {
+    "id": "milestone-media",
+    "type": "ownership",
+    "label": "co-founder, president & CEO, 1993"
+   },
+   {
+    "id": "black-enterprise",
+    "type": "executive",
+    "label": "editor-in-chief / chief content officer"
+   }
+  ]
+ },
+ {
+  "id": "devon-henry",
+  "name": "Devon Henry",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Newport News, VA",
+  "industry": "Construction Management",
+  "originBadge": "NSU Grad",
+  "engineBadge": "Government Contracting",
+  "capitalBadge": "Contract Revenue",
+  "hbcuStory": "Norfolk State University graduate (class of 2000) and later member of NSU's Board of Visitors.",
+  "humbleBeginnings": "Built a Hampton Roads contracting firm specializing in construction management, environmental, marine and emergency-response work.",
+  "breakthrough": "Hired by Virginia, Richmond and Charlottesville in 2020 to remove Confederate monuments — including Richmond's Robert E. Lee statue — after a call from Gov. Ralph Northam.",
+  "legacy": "His company has removed dozens of monuments across the South despite threats; he sold NFTs of the removals to raise money for charity.",
+  "breakthroughDetail": [
+   {
+    "t": "Removed the Lee statue.",
+    "d": "Team Henry took down Richmond's Monument Avenue statues, ending with A.P. Hill's in December 2022.",
+    "basis": "documented"
+   },
+   {
+    "t": "Scale.",
+    "d": "Reported counts range from 24 to 73 monuments removed.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "CryptoFederacy.",
+    "d": "Sold digital art of the removals to fund nonprofits.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Black Enterprise — Devon Henry has removed 23 Confederate monuments",
+    "url": "https://www.blackenterprise.com/devon-henrys-comapny-has-taken-down-23-confederate-monuments-across-the-south-but-the-job-is-not-easy/"
+   },
+   {
+    "label": "Stars and Stripes / Washington Post — Richmond Confederate statues",
+    "url": "https://stripes.com/theaters/us/2023-01-03/confederate-statues-richmond-virginia-8631211.html"
+   },
+   {
+    "label": "theGrio — Black contractor braves threats removing statues",
+    "url": "https://thegrio.com/2020/10/25/black-contractor-removes-richmond-statues"
+   }
+  ],
+  "connections": [
+   {
+    "id": "norfolk-state-university",
+    "type": "alumni",
+    "label": "class of 2000"
+   },
+   {
+    "id": "team-henry-enterprises",
+    "type": "ownership",
+    "label": "CEO & president"
+   }
+  ]
+ },
+ {
+  "id": "tim-reid",
+  "name": "Tim Reid",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1944",
+  "base": "Petersburg, VA",
+  "industry": "Film & TV Production",
+  "originBadge": "Business Administration Grad",
+  "engineBadge": "Independent Film Studio",
+  "capitalBadge": "Investor Syndicate",
+  "hbcuStory": "Earned a Bachelor of Business Administration from Norfolk State College in 1968.",
+  "humbleBeginnings": "Grew up in Norfolk, Virginia; worked in corporate sales at DuPont before comedy.",
+  "breakthrough": "Starred on WKRP in Cincinnati and Frank's Place, then brought investors together to build New Millennium Studios in Petersburg (1996–97), Virginia's first full-service movie studio.",
+  "legacy": "Produced and directed independent Black films and later launched a streaming platform for Black creators.",
+  "breakthroughDetail": [
+   {
+    "t": "New Millennium Studios.",
+    "d": "60-acre studio in Petersburg, Virginia.",
+    "basis": "documented"
+   },
+   {
+    "t": "Producer-director.",
+    "d": "Made independent features through his own studio.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Streaming venture.",
+    "d": "Launched a platform celebrating Black creators in 2022.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Tim Reid",
+    "url": "https://en.wikipedia.org/wiki/Tim_Reid"
+   },
+   {
+    "label": "William & Mary Reves Center — Tim Reid on legacy building",
+    "url": "https://www.wm.edu/offices/revescenter/news/2019/passing-the-torch-its-time-for-legacy-building-accountability-from-african-american-millennials-and-gen-z.php"
+   },
+   {
+    "label": "Wikipedia — Norfolk State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Norfolk_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "norfolk-state-university",
+    "type": "alumni",
+    "label": "B.B.A. 1968"
+   },
+   {
+    "id": "new-millennium-studios",
+    "type": "ownership",
+    "label": "founder & president"
+   }
+  ]
+ },
+ {
+  "id": "robert-l-vann",
+  "name": "Robert L. Vann",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1879–1940",
+  "base": "Pittsburgh, PA",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Valedictorian Farm Boy",
+  "engineBadge": "Black Press Circulation",
+  "capitalBadge": "Legal Practice",
+  "hbcuStory": "Enrolled in 1901 at Wayland Academy, Virginia Union's preparatory school, and continued at Virginia Union until 1903 before winning a scholarship to the Western University of Pennsylvania.",
+  "humbleBeginnings": "Born in Hertford County, North Carolina; graduated valedictorian of Waters Training School in 1901.",
+  "breakthrough": "Became Pitt Law's first Black graduate (1909) and turned the Pittsburgh Courier into the nation's most widely circulated Black newspaper.",
+  "legacy": "Left bequests that funded scholarships at Virginia Union and the Robert L. Vann Memorial Tower on its campus.",
+  "breakthroughDetail": [
+   {
+    "t": "Pittsburgh Courier.",
+    "d": "Built into the largest Black weekly in America.",
+    "basis": "documented"
+   },
+   {
+    "t": "Pitt Law first.",
+    "d": "First African American graduate of Pitt's law school, 1909.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Gift to VUU.",
+    "d": "Vann Memorial Tower and scholarships at Virginia Union.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Robert Lee Vann"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Robert Lee Vann",
+    "url": "https://en.wikipedia.org/wiki/Robert_Lee_Vann"
+   },
+   {
+    "label": "NCpedia — Vann, Robert Lee",
+    "url": "https://www.ncpedia.org/biography/vann-robert-lee"
+   },
+   {
+    "label": "Pitt Law — Robert Lee Vann, J.D. 1909",
+    "url": "https://scholarship.law.pitt.edu/exhibit/breaking-barriers-milestones-in-diversity-at-pitt-law/robert-lee-vann/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "attended 1901–1903 (Wayland Academy & VUU)"
+   },
+   {
+    "id": "pittsburgh-courier",
+    "type": "ownership",
+    "label": "publisher & editor"
+   }
+  ]
+ },
+ {
+  "id": "james-h-blackwell",
+  "name": "James H. Blackwell",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1864–1931",
+  "base": "Richmond, VA",
+  "industry": "Insurance, Lending & Real Estate",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "Mutual Aid Insurance",
+  "capitalBadge": "Member Premiums",
+  "hbcuStory": "Graduated from the Richmond Theological Institute (a Virginia Union predecessor) in 1880 and attended Virginia Union; later earned a Ph.D. at Princeton.",
+  "humbleBeginnings": "Born into slavery in Marion, Virginia, in 1864; began teaching in 1880.",
+  "breakthrough": "Founded the Virginia Industrial Mercantile and Building and Loan Association (1891) and the Benevolent Investment and Relief Association (1898), which issued over 12,000 insurance policies to African Americans.",
+  "legacy": "Also founded Southside Realty and held officer roles at Second Street Savings Bank; Richmond's Blackwell neighborhood and J.H. Blackwell Elementary are named for him.",
+  "breakthroughDetail": [
+   {
+    "t": "Building and loan, 1891.",
+    "d": "Lent to Black homebuyers until the Panic of 1893.",
+    "basis": "documented"
+   },
+   {
+    "t": "Insurance, 1898.",
+    "d": "Benevolent Investment and Relief Association with branches in VA, DC and MD.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Strong Men and Women honoree.",
+    "d": "Library of Virginia, 2014.",
+    "basis": "documented"
+   },
+   {
+    "t": "Namesake neighborhood.",
+    "d": "Richmond's Blackwell community.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "James Heyward Blackwell"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — James Blackwell (educator)",
+    "url": "https://en.wikipedia.org/wiki/James_Blackwell_(educator)"
+   },
+   {
+    "label": "Wikipedia — Virginia Union University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "richmond-theological-seminary",
+    "type": "alumni",
+    "label": "graduated 1880 (Richmond Theological Institute)"
+   },
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "benevolent-investment-and-relief-association",
+    "type": "ownership",
+    "label": "founded 1898"
+   },
+   {
+    "id": "virginia-industrial-mercantile-and-building-and-loan-association",
+    "type": "ownership",
+    "label": "founded 1891"
+   }
+  ]
+ },
+ {
+  "id": "emmett-c-burke",
+  "name": "Emmett C. Burke",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1875–1953",
+  "base": "Richmond, VA",
+  "industry": "Banking",
+  "originBadge": "Bank Teller at 19",
+  "engineBadge": "Conservative Lending",
+  "capitalBadge": "Depositor Funding",
+  "hbcuStory": "Earned a bachelor of laws from Virginia Union University in 1926 while already a banker; VUU trustee 1943–1953.",
+  "humbleBeginnings": "Son of a Richmond laborer; graduated from the Richmond Colored Normal School in 1893 and became a teller at the True Reformers' Bank in 1894.",
+  "breakthrough": "Cashier of Maggie L. Walker's St. Luke Penny Savings Bank from its 1903 opening; after the 1930 merger he succeeded Walker as president of Consolidated Bank and Trust.",
+  "legacy": "His conservative lending was credited with carrying the bank through the Great Depression.",
+  "breakthroughDetail": [
+   {
+    "t": "St. Luke cashier, 1903.",
+    "d": "Original cashier of Maggie Walker's bank.",
+    "basis": "documented"
+   },
+   {
+    "t": "Consolidated president.",
+    "d": "Succeeded Maggie L. Walker after the 1930 merger.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Survived the Depression.",
+    "d": "Bank credited his conservative lending.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Emmett Carroll Burke"
+  ],
+  "sources": [
+   {
+    "label": "Library of Virginia — Dictionary of Virginia Biography: Emmett Carroll Burke",
+    "url": "https://www.lva.virginia.gov/collections/dvb/bio/burke-emmett-carroll"
+   },
+   {
+    "label": "Wikipedia — Virginia Union University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "LL.B. 1926"
+   },
+   {
+    "id": "st-luke-penny-savings-bank",
+    "type": "executive",
+    "label": "cashier, 1903–1930"
+   },
+   {
+    "id": "consolidated-bank-and-trust-company",
+    "type": "executive",
+    "label": "president, 1930s–1950"
+   }
+  ]
+ },
+ {
+  "id": "frank-s-royal",
+  "name": "Frank S. Royal",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1939",
+  "base": "Richmond, VA",
+  "industry": "Corporate Boards / Medicine",
+  "originBadge": "Lynchburg Native",
+  "engineBadge": "Fortune 500 Boards",
+  "capitalBadge": "Director Fees & Practice",
+  "hbcuStory": "Graduated from Virginia Union in 1961 (M.D., Meharry 1968) and chaired VUU's board of trustees for three decades.",
+  "humbleBeginnings": "Born in Lynchburg, Virginia, in 1939; practiced family medicine in Richmond from 1969.",
+  "breakthrough": "Became president and chairman of the National Medical Association and a sought-after corporate director at CSX, SunTrust, Smithfield Foods and HCA.",
+  "legacy": "Steered Virginia Union and Meharry as board chair.",
+  "breakthroughDetail": [
+   {
+    "t": "CSX director 1994–2008.",
+    "d": "Plus SunTrust 1998–2012 and Smithfield 2002–2013.",
+    "basis": "documented"
+   },
+   {
+    "t": "NMA president.",
+    "d": "Led the National Medical Association.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "VUU board chair.",
+    "d": "Three decades of governance.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Frank S. Royal",
+    "url": "https://en.wikipedia.org/wiki/Frank_S._Royal"
+   },
+   {
+    "label": "Wikipedia — Virginia Union University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "B.S. 1961"
+   },
+   {
+    "id": "meharry-medical-college",
+    "type": "alumni",
+    "label": "M.D. 1968"
+   },
+   {
+    "id": "csx",
+    "type": "board",
+    "label": "director 1994–2008"
+   },
+   {
+    "id": "suntrust-banks",
+    "type": "board",
+    "label": "director 1998–2012"
+   },
+   {
+    "id": "smithfield-foods",
+    "type": "board",
+    "label": "director 2002–2013"
+   }
+  ]
+ },
+ {
+  "id": "max-robinson",
+  "name": "Max Robinson",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1939–1988",
+  "base": "Chicago, IL",
+  "industry": "Television News",
+  "originBadge": "Richmond Native",
+  "engineBadge": "Network News Anchoring",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Studied at Virginia Union University (listed by VUU as a student and in his Wikipedia infobox) after time at Oberlin.",
+  "humbleBeginnings": "Born in Richmond, Virginia; served briefly in the Air Force studying Russian at Indiana University.",
+  "breakthrough": "Co-anchored ABC World News Tonight from Chicago (1978–1983) — the first African American broadcast network news anchor.",
+  "legacy": "Co-founded the National Association of Black Journalists.",
+  "breakthroughDetail": [
+   {
+    "t": "ABC World News Tonight.",
+    "d": "Co-anchor with Frank Reynolds and Peter Jennings, 1978–1983.",
+    "basis": "documented"
+   },
+   {
+    "t": "WMAQ first.",
+    "d": "First Black anchor at Chicago's WMAQ-TV, 1984.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NABJ co-founder.",
+    "d": "Helped found the National Association of Black Journalists.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Max Robinson",
+    "url": "https://en.wikipedia.org/wiki/Max_Robinson"
+   },
+   {
+    "label": "Virginia Union University — History (notable alumni)",
+    "url": "https://www.vuu.edu/about-union/history"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "abc-news",
+    "type": "executive",
+    "label": "network co-anchor, 1978–1983"
+   }
+  ]
+ },
+ {
+  "id": "randall-robinson",
+  "name": "Randall Robinson",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1941–2023",
+  "base": "Washington, DC",
+  "industry": "Advocacy / Foreign Policy",
+  "originBadge": "Richmond Native",
+  "engineBadge": "Anti-apartheid Lobbying",
+  "capitalBadge": "Donor-funded Nonprofit",
+  "hbcuStory": "Studied at Virginia Union University (listed by VUU and in Norfolk State's alumni list), then Harvard Law School.",
+  "humbleBeginnings": "Grew up in segregated Richmond; younger brother of anchor Max Robinson.",
+  "breakthrough": "Founded TransAfrica, the lobby that drove the Free South Africa Movement and U.S. sanctions against apartheid.",
+  "legacy": "Author of The Debt, a landmark case for reparations.",
+  "breakthroughDetail": [
+   {
+    "t": "TransAfrica founder.",
+    "d": "Led the anti-apartheid lobbying campaign of the 1980s.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Reparations argument.",
+    "d": "The Debt (2000).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Virginia Union University — History (notable alumni)",
+    "url": "https://www.vuu.edu/about-union/history"
+   },
+   {
+    "label": "Wikipedia — Norfolk State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Norfolk_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "transafrica",
+    "type": "ownership",
+    "label": "founder"
+   },
+   {
+    "id": "max-robinson",
+    "type": "family",
+    "label": "younger brother"
+   }
+  ]
+ },
+ {
+  "id": "l-douglas-wilder",
+  "name": "L. Douglas Wilder",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1931",
+  "base": "Richmond, VA",
+  "industry": "Politics",
+  "originBadge": "Grandson of Enslaved",
+  "engineBadge": "Public Office",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Virginia Union University in 1951 with a degree in chemistry.",
+  "humbleBeginnings": "Grew up in segregated Richmond; Korean War Bronze Star recipient.",
+  "breakthrough": "Elected Governor of Virginia in 1989 — the first African American elected governor of any U.S. state.",
+  "legacy": "Later mayor of Richmond; namesake of VCU's Wilder School.",
+  "breakthroughDetail": [
+   {
+    "t": "First elected Black governor.",
+    "d": "Virginia, 1990–1994.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Mayor of Richmond.",
+    "d": "Served 2005–2009.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Douglas Wilder"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Virginia Union University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   },
+   {
+    "label": "Virginia Union University — History (notable alumni)",
+    "url": "https://www.vuu.edu/about-union/history"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "B.S. chemistry 1951"
+   }
+  ]
+ },
+ {
+  "id": "samuel-l-gravely-jr",
+  "name": "Samuel L. Gravely Jr.",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1922–2004",
+  "base": "Richmond, VA",
+  "industry": "Military",
+  "originBadge": "Navy Reservist",
+  "engineBadge": "Naval Command",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Virginia Union in 1948 after World War II service, later presiding over VUU's alumni association.",
+  "humbleBeginnings": "Richmond native who enlisted in the Naval Reserve in 1942.",
+  "breakthrough": "Became the first African American admiral in U.S. Navy history.",
+  "legacy": "Commanded the U.S. Third Fleet.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black admiral.",
+    "d": "U.S. Navy.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Third Fleet.",
+    "d": "Vice admiral in command of the Third Fleet.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Virginia Union University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Virginia_Union_University"
+   },
+   {
+    "label": "Virginia Union University — History (notable alumni)",
+    "url": "https://www.vuu.edu/about-union/history"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-union-university",
+    "type": "alumni",
+    "label": "B.A. 1948"
+   }
+  ]
+ },
+ {
+  "id": "vernon-johns",
+  "name": "Vernon Johns",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1892–1965",
+  "base": "Darlington Heights, VA",
+  "industry": "Ministry / Civil Rights",
+  "originBadge": "Farm Boy Scholar",
+  "engineBadge": "Pulpit & Farm Produce",
+  "capitalBadge": "Family Farm",
+  "hbcuStory": "Graduated from Virginia Theological Seminary and College (today's Virginia University of Lynchburg) in 1915, then Oberlin (1918); returned as its president 1929–1933.",
+  "humbleBeginnings": "Born on a Prince Edward County farm in 1892 and returned to farming between pulpits.",
+  "breakthrough": "As pastor of Montgomery's Dexter Avenue Baptist Church (1948–53) defied bus segregation and preached Black economic self-reliance — even selling farm produce outside the church.",
+  "legacy": "Succeeded at Dexter by Martin Luther King Jr.; remembered as a forerunner of the civil rights movement.",
+  "breakthroughDetail": [
+   {
+    "t": "VUL president 1929–1933.",
+    "d": "Could not stabilize the school's finances and resigned.",
+    "basis": "documented"
+   },
+   {
+    "t": "Dexter Avenue pastor.",
+    "d": "Predecessor of Martin Luther King Jr.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Self-reliance preacher.",
+    "d": "Urged congregants toward Black economic independence.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Vernon Johns",
+    "url": "https://en.wikipedia.org/wiki/Vernon_Johns"
+   },
+   {
+    "label": "Virginia University of Lynchburg — History",
+    "url": "https://wp.vul.edu/history/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "virginia-university-of-lynchburg",
+    "type": "alumni",
+    "label": "graduated 1915"
+   },
+   {
+    "id": "virginia-university-of-lynchburg",
+    "type": "faculty",
+    "label": "president, 1929–1933"
+   }
+  ]
+ },
+ {
+  "id": "raymond-v-haysbert",
+  "name": "Raymond V. Haysbert",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1920–2010",
+  "base": "Baltimore, MD",
+  "industry": "Packaged Meats",
+  "originBadge": "Tuskegee Airman",
+  "engineBadge": "Public Black-owned Food Co.",
+  "capitalBadge": "Public Equity",
+  "hbcuStory": "After World War II enrolled at Central State and Wilberforce, earning degrees in accounting and mathematics; then taught at Wilberforce.",
+  "humbleBeginnings": "Born in Cincinnati; served with the Tuskegee Airmen in Africa and Italy.",
+  "breakthrough": "Joined Baltimore's Parks Sausage Company in 1952 and rose to CEO as it became one of the largest Black-owned businesses and the first to go public.",
+  "legacy": "National Minority Entrepreneur of the Year (1991); chaired the Greater Baltimore Urban League.",
+  "breakthroughDetail": [
+   {
+    "t": "Parks Sausage CEO.",
+    "d": "Led the first Black-owned company to list on a stock exchange.",
+    "basis": "documented"
+   },
+   {
+    "t": "1991 award.",
+    "d": "National Minority Entrepreneur of the Year.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Baltimore civic leader.",
+    "d": "Chaired the Greater Baltimore Urban League.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Raymond V. Haysbert",
+    "url": "https://en.wikipedia.org/wiki/Raymond_V._Haysbert"
+   },
+   {
+    "label": "AFRO — Maryland loses a business icon",
+    "url": "https://afro.com/maryland-loses-a-business-icon/"
+   },
+   {
+    "label": "Baltimore Brew — The hard-won wisdom of a Baltimore trailblazer",
+    "url": "https://baltimorebrew.com/2010/05/26/raymond-v-haysbert-the-hard-won-wisdom-of-a-baltimore-trail-blazer/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "degree in accounting"
+   },
+   {
+    "id": "central-state-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "wilberforce-university",
+    "type": "faculty",
+    "label": "taught after WWII"
+   },
+   {
+    "id": "parks-sausage-company",
+    "type": "executive",
+    "label": "joined 1952; CEO"
+   }
+  ]
+ },
+ {
+  "id": "william-j-powell",
+  "name": "William J. Powell",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1916–2009",
+  "base": "East Canton, OH",
+  "industry": "Golf Course Ownership",
+  "originBadge": "College Golfer",
+  "engineBadge": "Public Golf Course",
+  "capitalBadge": "Physician Backers",
+  "hbcuStory": "Played on Wilberforce University's golf team, which in 1937 faced Ohio Northern in the first interracial collegiate golf match in U.S. history; Wilberforce later gave him an honorary doctorate.",
+  "humbleBeginnings": "Grew up in Minerva, Ohio; served in World War II with the Army Air Forces and was denied a G.I. loan on return.",
+  "breakthrough": "With backing from two Black physicians and his brother, bought an Ohio dairy farm and built Clearview Golf Club himself, opening nine holes in the late 1940s.",
+  "legacy": "Bought out his partners, expanded Clearview to 18 holes in 1978 and kept it in the family; daughter Renee Powell, an LPGA pro, runs it.",
+  "breakthroughDetail": [
+   {
+    "t": "Built Clearview by hand.",
+    "d": "First golf course designed, built, owned and operated by an African American.",
+    "basis": "documented"
+   },
+   {
+    "t": "PGA Distinguished Service Award, 2009.",
+    "d": "Also in the National Black Golf Hall of Fame (1996).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family succession.",
+    "d": "Daughter Renee Powell carries on the course.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Bill Powell"
+  ],
+  "sources": [
+   {
+    "label": "USGA — A Pioneer Passes",
+    "url": "https://www.usga.org/articles/2010/01/a-pioneer-passes-54685.html"
+   },
+   {
+    "label": "BlackPast — William James 'Bill' Powell",
+    "url": "https://new.blackpast.org/?p=34020"
+   },
+   {
+    "label": "Black Enterprise — Golf pioneer William Powell dies",
+    "url": "https://www.blackenterprise.com/golf-pioneer-william-powell-dies/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "attended; golf team (1937)"
+   },
+   {
+    "id": "clearview-golf-club",
+    "type": "ownership",
+    "label": "founder & owner, 1946–48"
+   }
+  ]
+ },
+ {
+  "id": "violet-t-lewis",
+  "name": "Violet T. Lewis",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1897–1968",
+  "base": "Detroit, MI",
+  "industry": "Business Education",
+  "originBadge": "Secretarial Program Grad",
+  "engineBadge": "Private Business College",
+  "capitalBadge": "$50 Bank Loan",
+  "hbcuStory": "Completed Wilberforce University's secretarial program in 1917 (attended 1915–1917).",
+  "humbleBeginnings": "Trained as a secretary at a time when few business schools admitted Black women.",
+  "breakthrough": "Opened Lewis Business College in Indianapolis in January 1928 on a $50 loan and opened a Detroit branch around 1938–39.",
+  "legacy": "The Detroit school became Lewis College of Business — Michigan's only HBCU — and was revived as Pensole Lewis College in 2021–22; a Michigan highway is named for her.",
+  "breakthroughDetail": [
+   {
+    "t": "Founded on $50.",
+    "d": "Lewis Business College, Indianapolis, 1928.",
+    "basis": "documented"
+   },
+   {
+    "t": "Detroit expansion.",
+    "d": "Opened in Detroit around 1938–39; the Indianapolis school closed in 1940.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Michigan's only HBCU.",
+    "d": "Her college lasted into the 2010s and was reborn as Pensole Lewis.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Violet Temple Lewis"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Violet T. Lewis",
+    "url": "https://en.wikipedia.org/wiki/Violet_T._Lewis"
+   },
+   {
+    "label": "Encyclopedia of Indianapolis — Violet Temple Lewis",
+    "url": "https://indyencyclopedia.org/violet-temple-lewis/"
+   },
+   {
+    "label": "Amsterdam News — Violet T. Lewis, educational trailblazer",
+    "url": "https://amsterdamnews.com/news/2017/jun/01/violet-t-lewis-educational-trailblazer-and-founder/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "secretarial program, 1917"
+   },
+   {
+    "id": "pensole-lewis-college-of-business-and-design",
+    "type": "faculty",
+    "label": "founder & president, 1928–1968"
+   }
+  ]
+ },
+ {
+  "id": "mark-wilson",
+  "name": "Mark Wilson",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Atlanta, GA",
+  "industry": "Workforce Screening & Customer Engagement",
+  "originBadge": "Returning Adult Grad",
+  "engineBadge": "Business Services",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Studied at Wilberforce 1978–82 and completed his degree through its adult CLIMB program in 2009; chaired its Board of Trustees from 2014, and Wilberforce's entrepreneurship center is named for him and wife Shelly, also an alumna.",
+  "humbleBeginnings": "Built his career in Atlanta business services.",
+  "breakthrough": "As CEO of eVerifile, a workforce and contractor screening firm, won EY's Entrepreneur of the Year award in 2010; with Shelly founded Chime Solutions.",
+  "legacy": "Serial entrepreneurs who reinvest in Wilberforce through governance and the Wilson entrepreneurship center.",
+  "breakthroughDetail": [
+   {
+    "t": "eVerifile CEO.",
+    "d": "2010 EY Entrepreneur of the Year honoree.",
+    "basis": "documented"
+   },
+   {
+    "t": "Chime Solutions.",
+    "d": "Atlanta company founded with his wife Shelly.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Wilberforce board chair.",
+    "d": "Led the board during its 2014 accreditation crisis.",
+    "basis": "documented"
+   },
+   {
+    "t": "Wilson center.",
+    "d": "Wilberforce's entrepreneurship center bears the Wilsons' name.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "WYSO — Wilberforce announces changes to its board",
+    "url": "https://www.wyso.org/news/2014-09-02/wilberforce-university-announces-changes-to-its-board-of-trustees"
+   },
+   {
+    "label": "Black Enterprise — Wilberforce opens new center for entrepreneurship",
+    "url": "https://www.blackenterprise.com/wilberforce-university-opens-new-center-entrepreneurship-social-good-transformative-leadership/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "B.S. 2009 (attended 1978–82)"
+   },
+   {
+    "id": "everifile",
+    "type": "executive",
+    "label": "CEO"
+   },
+   {
+    "id": "chime-solutions",
+    "type": "ownership",
+    "label": "co-founder"
+   }
+  ]
+ },
+ {
+  "id": "floyd-flake",
+  "name": "Floyd Flake",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1945",
+  "base": "Queens, NY",
+  "industry": "Ministry / Community Development",
+  "originBadge": "Large Family, Houston",
+  "engineBadge": "Church-led Development",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned his B.A. at Wilberforce University and later served as its 18th president (2002–2008).",
+  "humbleBeginnings": "Born in Los Angeles and raised in Houston, one of 13 children.",
+  "breakthrough": "Grew Allen AME Church in Queens from about 1,400 to over 23,000 members while serving in Congress (1987–1997).",
+  "legacy": "The church and its affiliates became a major Queens real-estate developer of commercial and residential projects.",
+  "breakthroughDetail": [
+   {
+    "t": "Congressman 1987–1997.",
+    "d": "New York's 6th district.",
+    "basis": "documented"
+   },
+   {
+    "t": "Allen AME growth.",
+    "d": "1,400 to 23,000+ members.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Church-based development.",
+    "d": "Allen affiliates own commercial and residential property in Queens.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Floyd Flake",
+    "url": "https://en.wikipedia.org/wiki/Floyd_Flake"
+   },
+   {
+    "label": "Britannica — Wilberforce University",
+    "url": "https://www.britannica.com/print/article/643464"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "B.A."
+   },
+   {
+    "id": "wilberforce-university",
+    "type": "faculty",
+    "label": "president, 2002–2008"
+   },
+   {
+    "id": "ame-church",
+    "type": "civic",
+    "label": "pastor, Greater Allen AME Cathedral"
+   }
+  ]
+ },
+ {
+  "id": "dorothy-vaughan",
+  "name": "Dorothy Vaughan",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1910–2008",
+  "base": "Hampton, VA",
+  "industry": "Mathematics / Computing",
+  "originBadge": "Math Scholarship",
+  "engineBadge": "NASA Computing",
+  "capitalBadge": "Federal Service",
+  "hbcuStory": "Graduated from Wilberforce University in mathematics in 1929.",
+  "humbleBeginnings": "Taught math in segregated Virginia schools during the Depression.",
+  "breakthrough": "Became the first Black supervisor at NACA's Langley lab and an early expert in FORTRAN.",
+  "legacy": "Featured in Hidden Figures.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black NACA supervisor.",
+    "d": "Led the West Area Computing unit.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hidden Figures.",
+    "d": "Story told in book and film.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "EduRank — Wilberforce University notable alumni",
+    "url": "https://edurank.org/uni/wilberforce-university/alumni/"
+   },
+   {
+    "label": "Wikipedia — Dorothy Vaughan",
+    "url": "https://en.wikipedia.org/wiki/Dorothy_Vaughan"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "B.A. mathematics 1929"
+   },
+   {
+    "id": "nasa",
+    "type": "executive",
+    "label": "section head, Langley"
+   }
+  ]
+ },
+ {
+  "id": "joshua-i-smith",
+  "name": "Joshua I. Smith",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1941",
+  "base": "Bethesda, MD",
+  "industry": "Information Technology Services",
+  "originBadge": "Science Grad",
+  "engineBadge": "Federal IT Contracts",
+  "capitalBadge": "SBA 8(a) Contracts",
+  "hbcuStory": "Earned a B.S. from Central State University in 1963; pledged $1 million to CSU in 2014, which renamed a building the Smith Center for Education and Natural Sciences.",
+  "humbleBeginnings": "Worked in information science at Plenum Publishing and led the American Society for Information Science (1973–77).",
+  "breakthrough": "Founded MAXIMA Corporation in 1978 and ran it as chairman and CEO, building one of the leading Black-owned information-technology firms.",
+  "legacy": "Later chairman of The Coaching Group and a director of Caterpillar, FedEx and Allstate; appointed by President George H. W. Bush to the Commission on Minority Business Development.",
+  "breakthroughDetail": [
+   {
+    "t": "MAXIMA founder, 1978.",
+    "d": "Computer and information-management services firm.",
+    "basis": "documented"
+   },
+   {
+    "t": "Fortune 100 boards.",
+    "d": "Caterpillar, FedEx and Allstate.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "$1 million to CSU.",
+    "d": "Smith Center for Education and Natural Sciences named in 2014.",
+    "basis": "documented"
+   },
+   {
+    "t": "WCSU-FM gift.",
+    "d": "Donated $50,000 to Central State's radio station.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Joshua I. Smith",
+    "url": "https://en.wikipedia.org/wiki/Joshua_I._Smith"
+   },
+   {
+    "label": "UCSB American Presidency Project — Appointment of Joshua I. Smith",
+    "url": "https://www.presidency.ucsb.edu/documents/appointment-joshua-i-smith-member-the-commission-minority-business-development-and"
+   },
+   {
+    "label": "WHIO — CSU grad gives $1 million to university",
+    "url": "https://www.whio.com/news/csu-grad-gives-million-university/L5fY4pu12ss0IzQeIAzyqM/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "central-state-university",
+    "type": "alumni",
+    "label": "B.S. 1963"
+   },
+   {
+    "id": "maxima-corporation",
+    "type": "ownership",
+    "label": "founder, chairman & CEO, 1978"
+   },
+   {
+    "id": "caterpillar",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "fedex",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "allstate",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "curtis-symonds",
+  "name": "Curtis Symonds",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Washington, DC",
+  "industry": "Cable & Streaming Media",
+  "originBadge": "Faculty Kid",
+  "engineBadge": "Cable Distribution",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Central State University graduate (1978) whose parents, both HBCU graduates, taught at Central State.",
+  "humbleBeginnings": "Started as a systems manager at Ohio's Continental Cable, then spent about five years in ESPN's Chicago ad-sales office.",
+  "breakthrough": "Spent over a decade at BET as EVP of affiliate distribution and marketing (1988–2001), also leading BET on Jazz, BET Action Pay-Per-View and BET International.",
+  "legacy": "President/COO of the WNBA's Washington Mystics, then co-founded HBCU GO to stream HBCU sports; inducted into the Cable Hall of Fame.",
+  "breakthroughDetail": [
+   {
+    "t": "BET EVP.",
+    "d": "Built BET's cable carriage.",
+    "basis": "documented"
+   },
+   {
+    "t": "HBCU GO co-founder.",
+    "d": "Free streaming platform for HBCU sports.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Cable Hall of Fame.",
+    "d": "Honoree.",
+    "basis": "documented"
+   },
+   {
+    "t": "HBCU media pipeline.",
+    "d": "Platform for HBCU content.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "theGrio — Curtis Symonds launches new app for HBCU athletes",
+    "url": "https://thegrio.com/2019/10/28/curtis-symonds-launches-new-app-black-athletes-hbcu"
+   },
+   {
+    "label": "Syndeo Institute — Cable Hall of Fame: Curtis Symonds",
+    "url": "https://dev.syndeoinstitute.org/connect/cable-hall-of-fame/current-honorees/curtis-symonds/"
+   },
+   {
+    "label": "HBCU Buzz — Curtis Symonds creates HBCUGo",
+    "url": "https://hbcubuzz.com/?p=70690"
+   }
+  ],
+  "connections": [
+   {
+    "id": "central-state-university",
+    "type": "alumni",
+    "label": "B.A. 1978"
+   },
+   {
+    "id": "bet-networks",
+    "type": "executive",
+    "label": "EVP affiliate distribution, 1988–2001"
+   },
+   {
+    "id": "hbcu-go",
+    "type": "ownership",
+    "label": "co-founder & president"
+   }
+  ]
+ },
+ {
+  "id": "leontyne-price",
+  "name": "Leontyne Price",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1927",
+  "base": "New York, NY",
+  "industry": "Opera",
+  "originBadge": "Laurel, Mississippi",
+  "engineBadge": "Opera",
+  "capitalBadge": "Talent Earnings",
+  "hbcuStory": "Graduated in 1948 from the College of Education and Industrial Arts at Wilberforce (now Central State University); inducted into CSU's Alumni Hall of Fame in 2025.",
+  "humbleBeginnings": "Grew up in Laurel, Mississippi, where her mother sang in the church choir.",
+  "breakthrough": "Went on to Juilliard and became one of the most acclaimed sopranos of the 20th century at the Metropolitan Opera.",
+  "legacy": "Presidential Medal of Freedom recipient.",
+  "breakthroughDetail": [
+   {
+    "t": "Met Opera star.",
+    "d": "Celebrated Aida.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "CSU Hall of Fame.",
+    "d": "Inducted 2025.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Central State — 138th Charter Day Convocation",
+    "url": "https://www.centralstate.edu/news/central-state-university-celebrates-138th-charter-day-convocation"
+   },
+   {
+    "label": "Wikipedia — Leontyne Price",
+    "url": "https://en.wikipedia.org/wiki/Leontyne_Price"
+   }
+  ],
+  "connections": [
+   {
+    "id": "central-state-university",
+    "type": "alumni",
+    "label": "B.A. 1948"
+   }
+  ]
+ },
+ {
+  "id": "joyce-beatty",
+  "name": "Joyce Beatty",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1950",
+  "base": "Columbus, OH",
+  "industry": "Congress",
+  "originBadge": "Dayton Native",
+  "engineBadge": "Public Office",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned her B.A. at Central State University (1972).",
+  "humbleBeginnings": "Raised in Dayton, Ohio.",
+  "breakthrough": "Ohio state legislator, Ohio State University senior vice president, then U.S. Representative from Ohio from 2013.",
+  "legacy": "Chaired the Congressional Black Caucus (2021–2023).",
+  "breakthroughDetail": [
+   {
+    "t": "Congresswoman.",
+    "d": "Ohio's 3rd district.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "CBC chair.",
+    "d": "2021–2023.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Joyce Beatty",
+    "url": "https://en.wikipedia.org/wiki/Joyce_Beatty"
+   },
+   {
+    "label": "Wikipedia — Central State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Central_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "central-state-university",
+    "type": "alumni",
+    "label": "B.A. 1972"
+   }
+  ]
+ },
+ {
+  "id": "kedar-massenberg",
+  "name": "Kedar Massenberg",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1963",
+  "base": "New York, NY",
+  "industry": "Recorded Music",
+  "originBadge": "Brooklyn to Ohio",
+  "engineBadge": "Artist Development & Labels",
+  "capitalBadge": "Label Distribution Deals",
+  "hbcuStory": "Graduated from Central State University in Wilberforce, Ohio, in 1986.",
+  "humbleBeginnings": "Grew up in Brooklyn, graduating from Erasmus Hall High School in 1981.",
+  "breakthrough": "Managed D'Angelo's rise and, from his New York home in 1995, founded Kedar Entertainment, signing and breaking Erykah Badu; credited with coining and trademarking the term 'neo soul.'",
+  "legacy": "Served as president of Motown Records from 1997 to 2004.",
+  "breakthroughDetail": [
+   {
+    "t": "Kedar Entertainment, 1995.",
+    "d": "Discovered and developed Erykah Badu.",
+    "basis": "documented"
+   },
+   {
+    "t": "Motown president 1997–2004.",
+    "d": "Ran the legendary label.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Neo soul brand.",
+    "d": "Coined and trademarked the genre name.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Kedar Massenberg",
+    "url": "https://en.wikipedia.org/wiki/Kedar_Massenberg"
+   },
+   {
+    "label": "Wikipedia — Central State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Central_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "central-state-university",
+    "type": "alumni",
+    "label": "B.A. 1986"
+   },
+   {
+    "id": "kedar-entertainment",
+    "type": "ownership",
+    "label": "founder, president & CEO, 1995"
+   },
+   {
+    "id": "motown-records",
+    "type": "executive",
+    "label": "president, 1997–2004"
+   }
+  ]
+ },
+ {
+  "id": "barry-hankerson",
+  "name": "Barry Hankerson",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1947",
+  "base": "New York, NY",
+  "industry": "Recorded Music & Artist Management",
+  "originBadge": "Harlem-raised Footballer",
+  "engineBadge": "Independent Label",
+  "capitalBadge": "Distribution Deals",
+  "hbcuStory": "Attended Central State University in Ohio, majoring in sociology and playing on the football team.",
+  "humbleBeginnings": "Born in New York City and raised in Harlem; worked as a community organizer in Detroit Mayor Coleman Young's office in the early 1970s.",
+  "breakthrough": "Managed The Winans, Toni Braxton and R. Kelly, and in 1993 formed Blackground (later Blackground Records) to launch his niece Aaliyah's career via a Jive distribution deal.",
+  "legacy": "Also founded publisher Black Fountain Music and Blackground Pictures; his control of the Blackground catalog has been the subject of long-running disputes with Aaliyah's estate and artists.",
+  "breakthroughDetail": [
+   {
+    "t": "Blackground, 1993.",
+    "d": "Released Aaliyah's debut Age Ain't Nothing but a Number through Jive.",
+    "basis": "documented"
+   },
+   {
+    "t": "Artist manager.",
+    "d": "The Winans, Toni Braxton, R. Kelly.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Catalog control.",
+    "d": "Re-released the Blackground catalog in 2021 amid estate objections.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Barry Hankerson",
+    "url": "https://en.wikipedia.org/wiki/Barry_Hankerson"
+   },
+   {
+    "label": "Wikipedia — Central State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Central_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "central-state-university",
+    "type": "alumni",
+    "label": "attended (sociology)"
+   },
+   {
+    "id": "blackground-records",
+    "type": "ownership",
+    "label": "founder, 1993"
+   }
+  ]
+ },
+ {
+  "id": "eva-jessye",
+  "name": "Eva Jessye",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1895–1992",
+  "base": "Ann Arbor, MI",
+  "industry": "Choral Music",
+  "originBadge": "Enrolled at 13",
+  "engineBadge": "Choral Direction",
+  "capitalBadge": "Talent Earnings",
+  "hbcuStory": "Barred from local high school, she enrolled at Western University in Quindaro, Kansas, at 13, studying privately with Will Marion Cook; later earned a degree at Langston University.",
+  "humbleBeginnings": "Born in Coffeyville, Kansas.",
+  "breakthrough": "Led the Eva Jessye Choir and was George Gershwin's choice as music director of Porgy and Bess (1935).",
+  "legacy": "Took her choir to the 1963 March on Washington; first Black woman to gain international fame as a choral director.",
+  "breakthroughDetail": [
+   {
+    "t": "Porgy and Bess.",
+    "d": "Music director from 1935 into the 1960s.",
+    "basis": "documented"
+   },
+   {
+    "t": "Hallelujah (1929).",
+    "d": "Choral director for MGM.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "March on Washington.",
+    "d": "Led her choir there in 1963.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Eva Jessye",
+    "url": "https://en.wikipedia.org/wiki/Eva_Jessye"
+   },
+   {
+    "label": "Wikipedia — Western University (Kansas)",
+    "url": "https://en.wikipedia.org/wiki/Western_University_(Kansas)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "western-university",
+    "type": "alumni",
+    "label": "attended from age 13"
+   },
+   {
+    "id": "langston-university",
+    "type": "alumni",
+    "label": "bachelor's degree"
+   }
+  ]
+ },
+ {
+  "id": "etta-moten-barnett",
+  "name": "Etta Moten Barnett",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1901–2004",
+  "base": "Chicago, IL",
+  "industry": "Film, Stage & Radio",
+  "originBadge": "Paid Tuition by Singing",
+  "engineBadge": "Stage & Screen",
+  "capitalBadge": "Talent Earnings",
+  "hbcuStory": "Studied music at Western University in Quindaro, paying tuition by singing on Topeka radio and the Chautauqua circuit; later a B.A. from the University of Kansas (1931).",
+  "humbleBeginnings": "Born in Weimar, Texas, the daughter of a Methodist minister.",
+  "breakthrough": "Broke ground for Black women in Hollywood in Flying Down to Rio and Gold Diggers of 1933 and played Bess on Broadway and tour until 1945.",
+  "legacy": "Married Associated Negro Press founder Claude Barnett, hosted Chicago radio and represented the U.S. on missions to ten African nations.",
+  "breakthroughDetail": [
+   {
+    "t": "1933 films.",
+    "d": "Flying Down to Rio; Gold Diggers of 1933.",
+    "basis": "documented"
+   },
+   {
+    "t": "Bess.",
+    "d": "Porgy and Bess on Broadway and tour.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "ANP partnership.",
+    "d": "Traveled Africa with the Associated Negro Press.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Etta Moten Barnett",
+    "url": "https://en.wikipedia.org/wiki/Etta_Moten_Barnett"
+   },
+   {
+    "label": "Wikipedia — Western University (Kansas)",
+    "url": "https://en.wikipedia.org/wiki/Western_University_(Kansas)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "western-university",
+    "type": "alumni",
+    "label": "studied music"
+   },
+   {
+    "id": "eva-jessye",
+    "type": "mentorship",
+    "label": "soloist with the Eva Jessye Choir"
+   }
+  ]
+ },
+ {
+  "id": "valerie-daniels-carter",
+  "name": "Valerie Daniels-Carter",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$100M-$500M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from a 130+ unit multibrand franchise portfolio and sports stake; no published net-worth figure.",
+  "lifespan": "",
+  "base": "Milwaukee, WI",
+  "industry": "Restaurant Franchising",
+  "originBadge": "Business Administration Grad",
+  "engineBadge": "Multi-brand Franchising",
+  "capitalBadge": "Bank Debt & Reinvestment",
+  "hbcuStory": "Earned a B.S. in business administration from Lincoln University of Missouri in 1978 (MBA, Cardinal Stritch); keynoted Lincoln's 160th Founders' Day in 2026.",
+  "humbleBeginnings": "Started V&J in 1982 with a single Burger King in Milwaukee, co-founded with her brother John Daniels.",
+  "breakthrough": "Grew to 132 locations in eight states with 4,500+ employees in 16 years; today a multibrand operator (Burger King, Pizza Hut, Auntie Anne's, Cinnabon, Captain D's) plus real estate and corporate ventures.",
+  "legacy": "Described as the largest female-owned restaurant franchise organization in the U.S.; minority owner of the Milwaukee Bucks and board member of the Green Bay Packers.",
+  "breakthroughDetail": [
+   {
+    "t": "V&J Holding Companies, 1982.",
+    "d": "From one Burger King to a multistate, multibrand operator.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sports ownership.",
+    "d": "Minority owner of the Milwaukee Bucks.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Author & honoree.",
+    "d": "Four business books; Essence's '50 Most Inspiring' African Americans.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Lincoln University — Valerie Daniels-Carter to keynote Founders' Day 2026",
+    "url": "https://www.lincolnu.edu/news/2025/12/valerie-daniels-carter-founders-day-2026.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-of-missouri",
+    "type": "alumni",
+    "label": "B.S. business administration 1978"
+   },
+   {
+    "id": "v-and-j-holding-companies",
+    "type": "ownership",
+    "label": "founder, president & CEO, 1982"
+   },
+   {
+    "id": "milwaukee-bucks",
+    "type": "ownership",
+    "label": "minority owner"
+   }
+  ]
+ },
+ {
+  "id": "ollie-gates",
+  "name": "Ollie Gates",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from ownership of a multi-unit regional restaurant chain; no published figure.",
+  "lifespan": "b. 1931",
+  "base": "Kansas City, MO",
+  "industry": "Restaurants",
+  "originBadge": "Scholarship Lost, Paid His Way",
+  "engineBadge": "Barbecue Chain",
+  "capitalBadge": "Family Business Reinvestment",
+  "hbcuStory": "Transferred from Maryland State College to Lincoln University — giving up a football scholarship — and finished a B.S. in 1954 while working weekends in the family restaurant and waiting tables at night.",
+  "humbleBeginnings": "Son of George Gates, founder of the family's Kansas City barbecue business; served two years as an Army Corps of Engineers lieutenant.",
+  "breakthrough": "Took over after his father's death in 1960 and became president and CEO of Gates Bar-B-Q in 1970, building it into Kansas City's iconic chain.",
+  "legacy": "A Kansas City civic figure inducted into UMKC's Entrepreneurship Hall of Fame and listed by Lincoln among its entrepreneur alumni.",
+  "breakthroughDetail": [
+   {
+    "t": "Gates Bar-B-Q CEO, 1970.",
+    "d": "Expanded the family stand into a multi-location chain.",
+    "basis": "documented"
+   },
+   {
+    "t": "Engineer-builder.",
+    "d": "Used his construction training to design and build restaurants.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family succession.",
+    "d": "Gates remains a family-run institution.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "UMKC Entrepreneurship Hall of Fame — Ollie Gates",
+    "url": "https://bloch.umkc.edu/ehof/kiosk/inductee_gates.html"
+   },
+   {
+    "label": "Gates Bar-B-Q — History",
+    "url": "https://gatesbbq.com/history/"
+   },
+   {
+    "label": "Praise Charlotte — HBCU spotlight: Lincoln University of Missouri",
+    "url": "https://praisecharlotte.com/559842/hbcu-lincoln-university-of-missouri/"
+   },
+   {
+    "label": "UMKC Archives — Gates, Ollie, Sr.",
+    "url": "https://finding-aids.library.umkc.edu/agents/people/663"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-of-missouri",
+    "type": "alumni",
+    "label": "B.S. 1954"
+   },
+   {
+    "id": "university-of-maryland-eastern-shore",
+    "type": "alumni",
+    "label": "attended as Maryland State College (football scholarship)"
+   },
+   {
+    "id": "gates-bar-b-q",
+    "type": "ownership",
+    "label": "president & CEO from 1970"
+   }
+  ]
+ },
+ {
+  "id": "ann-walton-kroenke",
+  "name": "Ann Walton Kroenke",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "$1B+",
+  "tierBasis": "reported",
+  "peakWealth": "$4B+ (Black Enterprise)",
+  "wealthNote": "Black Enterprise reported a net worth of more than $4 billion; Bloomberg tracks her on its Billionaires Index.",
+  "lifespan": "b. 1948",
+  "base": "Columbia, MO",
+  "industry": "Retail Inheritance / Sports & Real Estate",
+  "originBadge": "Nursing Grad",
+  "engineBadge": "Walmart Shares",
+  "capitalBadge": "Inherited Equity",
+  "hbcuStory": "Graduated from the nursing school at Lincoln University of Missouri, an HBCU; Black Enterprise calls her the wealthiest HBCU graduate.",
+  "humbleBeginnings": "Daughter of Bud Walton, who co-founded Walmart with his brother Sam; worked as a registered nurse.",
+  "breakthrough": "Inherited Walmart shares on her father's death in 1995, making her a billionaire.",
+  "legacy": "With husband Stan Kroenke, owns Kroenke Sports & Entertainment holdings including the Los Angeles Rams, Denver Nuggets, Colorado Avalanche and Arsenal.",
+  "breakthroughDetail": [
+   {
+    "t": "Walmart heir.",
+    "d": "Shares from Bud Walton's estate (1995).",
+    "basis": "documented"
+   },
+   {
+    "t": "Bloomberg Billionaires Index.",
+    "d": "Profiled by Bloomberg as a Lincoln University graduate.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Sports empire.",
+    "d": "Family sports and real-estate holdings via Kroenke Sports & Entertainment.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Black Enterprise — HBCU's wealthiest graduate revealed",
+    "url": "https://www.blackenterprise.com/hbcu-wealthiest-graduate/"
+   },
+   {
+    "label": "Bloomberg Billionaires — Ann W. Kroenke",
+    "url": "https://www.bloomberg.com/billionaires/profiles/ann-w-kroenke"
+   },
+   {
+    "label": "Wikipedia — Ann Walton Kroenke",
+    "url": "https://en.wikipedia.org/wiki/Ann_Walton_Kroenke"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-of-missouri",
+    "type": "alumni",
+    "label": "nursing graduate"
+   },
+   {
+    "id": "walmart",
+    "type": "capital",
+    "label": "inherited shareholder"
+   },
+   {
+    "id": "kroenke-sports-and-entertainment",
+    "type": "ownership",
+    "label": "co-owner with Stan Kroenke"
+   }
+  ]
+ },
+ {
+  "id": "tlc-group",
+  "name": "TLC Group L.P.",
+  "type": "entity",
+  "kind": "Private Equity Firm",
+  "description": "Reginald F. Lewis's buyout firm, founded 1983, which acquired McCall Pattern and Beatrice International.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "tlc-beatrice",
+  "name": "TLC Beatrice International Holdings",
+  "type": "entity",
+  "kind": "Food Conglomerate",
+  "description": "Beatrice's international food businesses, bought for $985 million in 1987; the first Black-owned company with over $1 billion in annual sales.",
+  "gics": {
+   "sub": "Packaged Foods & Meats",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "tlc-group",
+    "type": "capital",
+    "label": "acquired via leveraged buyout, 1987"
+   }
+  ]
+ },
+ {
+  "id": "chicago-defender",
+  "name": "The Chicago Defender",
+  "type": "entity",
+  "kind": "Newspaper",
+  "description": "Black weekly founded by Robert S. Abbott in 1905 with 25 cents; became the most widely circulated Black newspaper and a driver of the Great Migration.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-newspaper-publishers-association",
+  "name": "National Newspaper Publishers Association",
+  "type": "entity",
+  "kind": "Trade Association",
+  "description": "Federation of Black-owned newspapers founded by John H. Sengstacke in 1940.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "madam-c-j-walker-manufacturing-company",
+  "name": "Madam C. J. Walker Manufacturing Company",
+  "type": "entity",
+  "kind": "Hair-care Manufacturer",
+  "description": "Indianapolis hair-care and cosmetics maker incorporated in 1911 with help from attorney Robert Brokenburr.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "frenchys-chicken",
+  "name": "Frenchy's Chicken",
+  "type": "entity",
+  "kind": "Restaurant Chain",
+  "description": "Houston Creole fried-chicken chain founded in 1969 in the Third Ward by Percy and Sallie Creuzot.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "inner-city-broadcasting-corporation",
+  "name": "Inner City Broadcasting Corporation",
+  "type": "entity",
+  "kind": "Radio Broadcaster",
+  "description": "Black-owned broadcaster co-founded by Percy Sutton that bought New York's WLIB and WBLS in the early 1970s.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "apollo-theater",
+  "name": "Apollo Theater",
+  "type": "entity",
+  "kind": "Entertainment Venue",
+  "description": "Harlem's landmark theater, bought by Percy Sutton's group around 1980–81 and restored.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "oracle",
+  "name": "Oracle Corporation",
+  "type": "entity",
+  "kind": "Enterprise Software Company",
+  "description": "Database and enterprise software giant; Charles Phillips was president 2003–2010.",
+  "gics": {
+   "sub": "Systems Software",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "infor",
+  "name": "Infor",
+  "type": "entity",
+  "kind": "Enterprise Software Company",
+  "description": "Industry-specific cloud ERP company led by Charles Phillips as CEO 2010–2019; later acquired by Koch Industries.",
+  "gics": {
+   "sub": "Application Software",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "baltimore-ravens",
+  "name": "Baltimore Ravens",
+  "type": "entity",
+  "kind": "NFL Franchise",
+  "description": "NFL team; Hampton alumnus Sashi Brown became president in April 2022.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "msnbc",
+  "name": "MSNBC",
+  "type": "entity",
+  "kind": "Cable News Network",
+  "description": "NBCUniversal cable news network (renamed MS NOW in 2025) led by Rashida Jones as president 2021–2025.",
+  "gics": {
+   "sub": "Cable & Satellite",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "philanthropi",
+  "name": "Philanthropi",
+  "type": "entity",
+  "kind": "Fintech Startup",
+  "description": "Giving and philanthropy fintech platform founded by Keith Leaphart.",
+  "gics": {
+   "sub": "Application Software",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "omidyar-network",
+  "name": "Omidyar Network",
+  "type": "entity",
+  "kind": "Philanthropic Investment Firm",
+  "description": "Social-change venture of eBay founder Pierre Omidyar; Hampton alumna Michele Jawando is CEO.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "goldman-sachs",
+  "name": "Goldman Sachs",
+  "type": "entity",
+  "kind": "Investment Bank",
+  "description": "Global investment bank and wealth manager.",
+  "gics": {
+   "sub": "Investment Banking & Brokerage",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "march-hodge-automotive-group",
+  "name": "March/Hodge Automotive Group",
+  "type": "entity",
+  "kind": "Auto Dealership Group",
+  "description": "Multi-franchise dealership group co-led by Ernest M. Hodge; ranked first among minority-owned dealerships on the Black Enterprise list.",
+  "gics": {
+   "sub": "Automotive Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "heritage-automotive-group",
+  "name": "Heritage Automotive Group",
+  "type": "entity",
+  "kind": "Auto Dealership Group",
+  "description": "Ernest Hodge's Georgia/New York group (Heritage Cadillac, Heritage VW, Tradition Chevrolet and others).",
+  "gics": {
+   "sub": "Automotive Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "black-enterprise",
+  "name": "Black Enterprise",
+  "type": "entity",
+  "kind": "Business Media Company",
+  "description": "Business magazine and media company founded by Earl G. Graves Sr. in 1970; publisher of the BE 100s.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "milestone-media",
+  "name": "Milestone Media",
+  "type": "entity",
+  "kind": "Comics Publisher",
+  "description": "Black-owned comics company co-founded in 1993 by Dwayne McDuffie, Denys Cowan, Michael Davis, Christopher Priest and Derek T. Dingle; created Static.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "team-henry-enterprises",
+  "name": "Team Henry Enterprises",
+  "type": "entity",
+  "kind": "Construction Contractor",
+  "description": "Virginia construction-management, environmental and marine contractor that removed dozens of Confederate monuments across the South.",
+  "gics": {
+   "sub": "Construction & Engineering",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "new-millennium-studios",
+  "name": "New Millennium Studios",
+  "type": "entity",
+  "kind": "Film Studio",
+  "description": "Petersburg, Virginia film studio founded by Tim Reid in 1996–97 — Virginia's first full-service movie studio.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "pittsburgh-courier",
+  "name": "Pittsburgh Courier",
+  "type": "entity",
+  "kind": "Newspaper",
+  "description": "Black weekly that Robert L. Vann built into the nation's largest-circulation Black paper; launched the 'Double V' campaign.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "consolidated-bank-and-trust-company",
+  "name": "Consolidated Bank and Trust Company",
+  "type": "entity",
+  "kind": "Black-owned Bank",
+  "description": "Richmond bank formed in 1930 by merging Saint Luke Bank and Trust with Second Street Savings Bank; long the oldest surviving Black-owned bank.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "st-luke-penny-savings-bank",
+  "name": "St. Luke Penny Savings Bank",
+  "type": "entity",
+  "kind": "Black-owned Bank",
+  "description": "Richmond bank opened November 2, 1903 by the Independent Order of St. Luke under Maggie L. Walker.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "consolidated-bank-and-trust-company",
+    "type": "capital",
+    "label": "merged to form Consolidated, 1930"
+   }
+  ]
+ },
+ {
+  "id": "benevolent-investment-and-relief-association",
+  "name": "Benevolent Investment and Relief Association",
+  "type": "entity",
+  "kind": "Insurance Association",
+  "description": "Founded by James H. Blackwell in 1898; issued over 12,000 insurance policies to African Americans in VA, DC and MD.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "virginia-industrial-mercantile-and-building-and-loan-association",
+  "name": "Virginia Industrial Mercantile and Building and Loan Association",
+  "type": "entity",
+  "kind": "Building & Loan",
+  "description": "1891 Richmond building-and-loan lending to Black homeowners; failed in the Panic of 1893.",
+  "gics": {
+   "sub": "Commercial & Residential Mortgage Finance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "csx",
+  "name": "CSX Corporation",
+  "type": "entity",
+  "kind": "Railroad",
+  "description": "Eastern U.S. freight railroad.",
+  "gics": {
+   "sub": "Rail Transportation",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "suntrust-banks",
+  "name": "SunTrust Banks",
+  "type": "entity",
+  "kind": "Bank Holding Company",
+  "description": "Atlanta-based bank (merged into Truist in 2019).",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "smithfield-foods",
+  "name": "Smithfield Foods",
+  "type": "entity",
+  "kind": "Pork Processor",
+  "description": "Virginia-based pork producer and processor.",
+  "gics": {
+   "sub": "Packaged Foods & Meats",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "parks-sausage-company",
+  "name": "Parks Sausage Company",
+  "type": "entity",
+  "kind": "Meat Processor",
+  "description": "Baltimore sausage maker founded by Henry G. Parks Jr.; the first Black-owned company to go public (1969).",
+  "gics": {
+   "sub": "Packaged Foods & Meats",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "clearview-golf-club",
+  "name": "Clearview Golf Club",
+  "type": "entity",
+  "kind": "Golf Course",
+  "description": "East Canton, Ohio course built by Bill Powell from 1946–48; the first golf course designed, built, owned and operated by an African American.",
+  "gics": {
+   "sub": "Leisure Facilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "everifile",
+  "name": "eVerifile",
+  "type": "entity",
+  "kind": "Background Screening Company",
+  "description": "Atlanta workforce and contractor screening firm led by Mark Wilson; 2010 EY Entrepreneur of the Year honoree; later acquired.",
+  "gics": {
+   "sub": "Human Resource & Employment Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "chime-solutions",
+  "name": "Chime Solutions",
+  "type": "entity",
+  "kind": "Customer Contact Center Company",
+  "description": "Atlanta-based customer-engagement/contact-center company founded by Mark and Shelly Wilson.",
+  "gics": {
+   "sub": "IT Consulting & Other Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "maxima-corporation",
+  "name": "MAXIMA Corporation",
+  "type": "entity",
+  "kind": "IT & Information Services Contractor",
+  "description": "Computer and information-management firm founded by Joshua I. Smith in 1978; one of the largest Black-owned tech contractors of its era.",
+  "gics": {
+   "sub": "IT Consulting & Other Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "caterpillar",
+  "name": "Caterpillar Inc.",
+  "type": "entity",
+  "kind": "Heavy Equipment Manufacturer",
+  "description": "Construction and mining equipment maker.",
+  "gics": {
+   "sub": "Construction Machinery & Heavy Transportation Equipment",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "fedex",
+  "name": "FedEx",
+  "type": "entity",
+  "kind": "Logistics Company",
+  "description": "Global express transportation company.",
+  "gics": {
+   "sub": "Air Freight & Logistics",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "allstate",
+  "name": "Allstate",
+  "type": "entity",
+  "kind": "Insurer",
+  "description": "Personal property and casualty insurer.",
+  "gics": {
+   "sub": "Property & Casualty Insurance",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "bet-networks",
+  "name": "BET (Black Entertainment Television)",
+  "type": "entity",
+  "kind": "Cable Network",
+  "description": "Cable network founded by Robert L. Johnson in 1980.",
+  "gics": {
+   "sub": "Cable & Satellite",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "hbcu-go",
+  "name": "HBCU GO",
+  "type": "entity",
+  "kind": "Streaming Platform",
+  "description": "Free streaming platform for HBCU sports and entertainment co-founded by Curtis Symonds.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "gates-bar-b-q",
+  "name": "Gates Bar-B-Q",
+  "type": "entity",
+  "kind": "Restaurant Chain",
+  "description": "Kansas City barbecue chain founded by Ollie Gates's parents and built out by son Ollie Gates.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "v-and-j-holding-companies",
+  "name": "V&J Holding Companies",
+  "type": "entity",
+  "kind": "Restaurant Franchisee",
+  "description": "Milwaukee multibrand franchise operator (Burger King, Pizza Hut, Auntie Anne's, Cinnabon and more) started by Valerie Daniels-Carter in 1982; described as the largest female-owned restaurant franchise organization in the U.S.",
+  "gics": {
+   "sub": "Restaurants",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "milwaukee-bucks",
+  "name": "Milwaukee Bucks",
+  "type": "entity",
+  "kind": "NBA Franchise",
+  "description": "NBA team.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "walmart",
+  "name": "Walmart",
+  "type": "entity",
+  "kind": "Retailer",
+  "description": "World's largest retailer by revenue, co-founded by Sam and Bud Walton.",
+  "gics": {
+   "sub": "Consumer Staples Merchandise Retail",
+   "basis": "official"
+  },
+  "connections": [],
+  "fortune500": {
+   "rank": 1,
+   "year": 2024
+  }
+ },
+ {
+  "id": "kroenke-sports-and-entertainment",
+  "name": "Kroenke Sports & Entertainment",
+  "type": "entity",
+  "kind": "Sports Holding Company",
+  "description": "Owner of the Denver Nuggets, Colorado Avalanche, Los Angeles Rams and Arsenal.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-negro-business-league",
+  "name": "National Negro Business League",
+  "type": "entity",
+  "kind": "Business Association",
+  "description": "Founded by Booker T. Washington in Boston in 1900 to promote Black enterprise.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "kedar-entertainment",
+  "name": "Kedar Entertainment",
+  "type": "entity",
+  "kind": "Record Label & Management Company",
+  "description": "Label and management company founded by Kedar Massenberg in 1995; launched Erykah Badu.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "motown-records",
+  "name": "Motown Records",
+  "type": "entity",
+  "kind": "Record Label",
+  "description": "Detroit-founded record label; Kedar Massenberg was president 1997–2004.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "blackground-records",
+  "name": "Blackground Records",
+  "type": "entity",
+  "kind": "Independent Record Label",
+  "description": "Label founded by Barry Hankerson in 1993 as Blackground Enterprises; home of Aaliyah's early catalog.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "good-music",
+  "name": "GOOD Music",
+  "type": "entity",
+  "kind": "Record Label",
+  "description": "Kanye West's record label; Che Pope was president and COO 2012–2015.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "wrkshp-media",
+  "name": "Wrkshp Media",
+  "type": "entity",
+  "kind": "Content Company",
+  "description": "Media and content company founded by Che Pope.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "abc-news",
+  "name": "ABC News",
+  "type": "entity",
+  "kind": "Broadcast News Division",
+  "description": "News division of the ABC television network.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "transafrica",
+  "name": "TransAfrica",
+  "type": "entity",
+  "kind": "Advocacy Organization",
+  "description": "Foreign-policy lobby for Africa and the Caribbean founded by Randall Robinson in 1977.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "nasa",
+  "name": "NASA",
+  "type": "entity",
+  "kind": "Federal Space Agency",
+  "description": "U.S. space agency; Langley Research Center employed Mary Jackson and Dorothy Vaughan.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ }
+]

@@ -1,0 +1,3506 @@
+[
+ {
+  "id": "morgan-state-university",
+  "name": "Morgan State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Research university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1867,
+  "closed": null,
+  "location": "Baltimore, MD",
+  "state": "MD",
+  "affiliation": "Methodist Episcopal Church (founding); State of Maryland since 1939",
+  "formerNames": [
+   "Centenary Biblical Institute",
+   "Morgan College",
+   "Morgan State College"
+  ],
+  "fate": "",
+  "description": "Founded in 1867 by the Methodist Episcopal Church as the Centenary Biblical Institute to train men for the ministry, it became Morgan College in 1890 and was bought by the State of Maryland in 1939. It is Maryland's largest HBCU and a designated public urban research university. Its Earl G. Graves School of Business and Management is named for the Black Enterprise founder, one of its best-known alumni.",
+  "facts": [
+   {
+    "t": "Church seminary to state university.",
+    "d": "Began as a Methodist Episcopal seminary (1867), renamed for board chair Lyttleton Morgan in 1890, and became public in 1939 when Maryland purchased it.",
+    "basis": "documented"
+   },
+   {
+    "t": "Earl G. Graves School of Business.",
+    "d": "The AACSB-accredited business school is named for alumnus Earl G. Graves Sr.; its new building opened in fall 2015.",
+    "basis": "documented"
+   },
+   {
+    "t": "Record alumni gift.",
+    "d": "Former UPS executive Calvin E. Tyler Jr., who left Morgan in 1963 for lack of money, and his wife Tina committed $20 million in 2021 — the largest alumni gift in Morgan's history.",
+    "basis": "documented"
+   },
+   {
+    "t": "Parent of an Eastern Shore campus.",
+    "d": "Morgan College's Delaware Conference Academy at Princess Anne grew into today's University of Maryland Eastern Shore.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Morgan State University",
+    "url": "https://en.wikipedia.org/wiki/Morgan_State_University"
+   },
+   {
+    "label": "Morgan State — Morgan State is Black History!",
+    "url": "https://www.morgan.edu/about/blackhistorymonth"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded by (Centenary Biblical Institute, 1867)"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "bowie-state-university",
+  "name": "Bowie State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Comprehensive university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1865,
+  "closed": null,
+  "location": "Bowie, MD",
+  "state": "MD",
+  "affiliation": "Baltimore Association for the Moral and Educational Improvement of the Colored People (founding); University System of Maryland",
+  "formerNames": [
+   "Baltimore Normal School for Colored Teachers",
+   "Baltimore Normal School",
+   "Maryland Normal and Industrial School at Bowie",
+   "Maryland Teachers College at Bowie",
+   "Bowie State College"
+  ],
+  "fate": "",
+  "description": "Maryland's oldest HBCU, it was started in 1865 by the Baltimore Association for the Moral and Educational Improvement of the Colored People as a teacher-training school meeting in a Baltimore church. It moved to a 187-acre Prince George's County farm in 1910 and grew from a normal school into a comprehensive university with a College of Business. In 1992 it became the first HBCU to run graduate programs overseas.",
+  "facts": [
+   {
+    "t": "Oldest HBCU in Maryland.",
+    "d": "Founded January 9, 1865; first classes met at the African Baptist Church in Baltimore.",
+    "basis": "documented"
+   },
+   {
+    "t": "Move to Jericho Farm.",
+    "d": "Relocated in 1910 to a 187-acre farm in Prince George's County, today's campus.",
+    "basis": "documented"
+   },
+   {
+    "t": "Overseas first.",
+    "d": "In 1992 it became the first HBCU to offer graduate programs abroad for U.S. military personnel.",
+    "basis": "documented"
+   },
+   {
+    "t": "Record gifts.",
+    "d": "MacKenzie Scott gave $25 million in 2020 and $50 million in 2025, the largest gift in its history.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Bowie State University",
+    "url": "https://en.wikipedia.org/wiki/Bowie_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "coppin-state-university",
+  "name": "Coppin State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Urban university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1900,
+  "closed": null,
+  "location": "Baltimore, MD",
+  "state": "MD",
+  "affiliation": "Baltimore City School Board (founding); University System of Maryland",
+  "formerNames": [
+   "Colored High School teacher-training course",
+   "Fanny Jackson Coppin Normal School",
+   "Coppin Teachers College",
+   "Coppin State Teachers College",
+   "Coppin State College"
+  ],
+  "fate": "",
+  "description": "Begun in 1900 as a one-year teacher-training course at Baltimore's Colored High School (later Douglass High), it was named in 1926 for Institute for Colored Youth educator Fanny Jackson Coppin. It joined the state system in 1950, moved to West North Avenue in 1952 and broadened beyond teacher education in 1963. It is an urban, largely commuter university in West Baltimore.",
+  "facts": [
+   {
+    "t": "Named for an ICY pioneer.",
+    "d": "Renamed in 1926 for Fanny Jackson Coppin, longtime principal of Philadelphia's Institute for Colored Youth (today's Cheyney).",
+    "basis": "documented"
+   },
+   {
+    "t": "From normal school to university.",
+    "d": "Four-year B.S. by 1938, first B.A. in 1967, university status in 2004.",
+    "basis": "documented"
+   },
+   {
+    "t": "Philadelphia link.",
+    "d": "In 2022 it offered free tuition to graduates of Philadelphia's Fanny Jackson Coppin School.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Coppin State University",
+    "url": "https://en.wikipedia.org/wiki/Coppin_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   },
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "parallel",
+    "label": "named for ICY principal Fanny Jackson Coppin"
+   }
+  ]
+ },
+ {
+  "id": "university-of-maryland-eastern-shore",
+  "name": "University of Maryland Eastern Shore",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1886,
+  "closed": null,
+  "location": "Princess Anne, MD",
+  "state": "MD",
+  "affiliation": "Methodist Episcopal Church, Delaware Conference (founding); 1890 land-grant; University System of Maryland",
+  "formerNames": [
+   "Delaware Conference Academy",
+   "Princess Anne Academy",
+   "Eastern Shore Branch of the Maryland Agricultural College",
+   "Princess Anne College",
+   "Maryland State College"
+  ],
+  "fate": "",
+  "description": "Opened September 13, 1886, with nine students in a converted farmhouse as the Delaware Conference Academy, a Methodist preparatory branch of Morgan College. Maryland used it to satisfy the Second Morrill Act's requirement for a Black land-grant college, and it passed from church to state control about fifty years after opening. It became the University of Maryland Eastern Shore in 1970.",
+  "facts": [
+   {
+    "t": "Morgan's Eastern Shore branch.",
+    "d": "Founded as a preparatory school for Baltimore's Centenary Biblical Institute / Morgan College.",
+    "basis": "documented"
+   },
+   {
+    "t": "Land-grant by segregation.",
+    "d": "Because Black students were barred from the College Park agricultural college, Maryland partnered with Morgan to provide the 1890 land-grant college on the Lower Eastern Shore.",
+    "basis": "documented"
+   },
+   {
+    "t": "Founding MEAC member.",
+    "d": "UMES was a founding member of the Mid-Eastern Athletic Conference in 1970 and produced Hall of Famer Art Shell.",
+    "basis": "documented"
+   },
+   {
+    "t": "Record gift.",
+    "d": "MacKenzie Scott gave $20 million (2020) and $38 million (2025), the largest single gift in UMES history.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — University of Maryland Eastern Shore",
+    "url": "https://en.wikipedia.org/wiki/University_of_Maryland_Eastern_Shore"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded by (Delaware Conference, 1886)"
+   },
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   },
+   {
+    "id": "morgan-state-university",
+    "type": "origin",
+    "label": "began as Morgan College's preparatory branch"
+   }
+  ]
+ },
+ {
+  "id": "delaware-state-university",
+  "name": "Delaware State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1891,
+  "closed": null,
+  "location": "Dover, DE",
+  "state": "DE",
+  "affiliation": "1890 land-grant; State of Delaware",
+  "formerNames": [
+   "Delaware College for Colored Students",
+   "State College for Colored Students",
+   "Delaware State College"
+  ],
+  "fate": "",
+  "description": "Created by the Delaware General Assembly on May 15, 1891, under the Second Morrill Act as the Delaware College for Colored Students, it was renamed in 1893 to avoid confusion with the white Delaware College in Newark. It lost accreditation in 1949, regained it in 1957, and became a university in 1993. In 2021 it acquired Methodist-founded Wesley College — the first HBCU to acquire a non-HBCU institution.",
+  "facts": [
+   {
+    "t": "1890 land-grant.",
+    "d": "Established by the state legislature in 1891 to give Delaware a Black land-grant college.",
+    "basis": "documented"
+   },
+   {
+    "t": "Accreditation fight.",
+    "d": "Provisionally accredited in 1945, revoked in 1949, restored in 1957.",
+    "basis": "documented"
+   },
+   {
+    "t": "Acquired Wesley College.",
+    "d": "In 2021 DSU absorbed Wesley College, now 'DSU Downtown' — a first for an HBCU.",
+    "basis": "documented"
+   },
+   {
+    "t": "Record alumni gift.",
+    "d": "Auto dealer Steve Ewing ('83) gave $1 million in 2023, the largest single gift by an alumnus in school history.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Delaware State University",
+    "url": "https://en.wikipedia.org/wiki/Delaware_State_University"
+   },
+   {
+    "label": "Atlanta Tribune — Steve Ewing donates $1 million to alma mater",
+    "url": "https://atlantatribune.com/2023/12/13/atlanta-businessman-steve-ewing-donates-1-million-to-alma-mater-celebration-featured-dj-jazzy-jeff-and-swv/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "cheyney-university-of-pennsylvania",
+  "name": "Cheyney University of Pennsylvania",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Liberal arts",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1837,
+  "closed": null,
+  "location": "Cheyney, PA",
+  "state": "PA",
+  "affiliation": "Society of Friends (Quaker founding); Pennsylvania State System of Higher Education",
+  "formerNames": [
+   "African Institute",
+   "Institute for Colored Youth",
+   "Cheyney Training School for Teachers",
+   "Cheyney State Teachers College",
+   "Cheyney State College"
+  ],
+  "fate": "",
+  "description": "Widely cited as the oldest HBCU, it was founded in 1837 with a bequest from Quaker philanthropist Richard Humphreys and became Philadelphia's Institute for Colored Youth, where Fanny Jackson Coppin built a celebrated classical and industrial program. It moved to a farm in Cheyney in 1902 and is now part of Pennsylvania's state system. Its business alumni include Philadelphia Tribune chief Robert W. Bogle and Rap Snacks founder James Lindsay.",
+  "facts": [
+   {
+    "t": "Oldest HBCU.",
+    "d": "Founded in 1837 from Richard Humphreys' Quaker bequest to educate free Black youth.",
+    "basis": "documented"
+   },
+   {
+    "t": "Institute for Colored Youth.",
+    "d": "Under principal Fanny Jackson Coppin the ICY trained teachers and added an industrial department; alumni included Octavius Catto (1858).",
+    "basis": "documented"
+   },
+   {
+    "t": "Business-minded alumni.",
+    "d": "Its alumni include Philadelphia Tribune president Robert W. Bogle and Rap Snacks founder James Lindsay (B.S. Marketing).",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Cheyney University — The First HBCU",
+    "url": "https://cheyney.edu/who-we-are/the-first-hbcu/"
+   },
+   {
+    "label": "Wikipedia — List of Cheyney University of Pennsylvania alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Cheyney_University_of_Pennsylvania_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "society-of-friends",
+    "type": "origin",
+    "label": "founded with Quaker Richard Humphreys' bequest, 1837"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "lincoln-university-pennsylvania",
+  "name": "Lincoln University (Pennsylvania)",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public (state-related) HBCU · Liberal arts",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1854,
+  "closed": null,
+  "location": "Lower Oxford Township (near Oxford), PA",
+  "state": "PA",
+  "affiliation": "Presbyterian (founding); state-related university of Pennsylvania",
+  "formerNames": [
+   "Ashmun Institute"
+  ],
+  "fate": "",
+  "description": "Chartered in 1854 as the Ashmun Institute by Presbyterian minister John Miller Dickey and his wife Sarah Emlen Cresson, it was renamed for Abraham Lincoln in 1866 and is often called the first degree-granting HBCU. It educated an outsized share of Black professionals and two African heads of state — Kwame Nkrumah and Nnamdi Azikiwe — plus Thurgood Marshall and Langston Hughes. Business alumni include Amsterdam News owner Wilbert Tatum.",
+  "facts": [
+   {
+    "t": "First degree-granting HBCU.",
+    "d": "Chartered by Pennsylvania in 1854 as Ashmun Institute; renamed Lincoln University in 1866.",
+    "basis": "documented"
+   },
+   {
+    "t": "Professional pipeline.",
+    "d": "Lincoln says its graduates made up about 20% of Black physicians and over 10% of Black lawyers in the U.S. between 1854 and 1954.",
+    "basis": "documented"
+   },
+   {
+    "t": "African independence leaders.",
+    "d": "Kwame Nkrumah (Ghana) and Nnamdi Azikiwe (Nigeria) both graduated from Lincoln.",
+    "basis": "documented"
+   },
+   {
+    "t": "Record gifts.",
+    "d": "MacKenzie Scott gave $20 million (2020) and $25 million (2025), the largest gifts in its history.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Lincoln University — History",
+    "url": "https://www.lincoln.edu/about/history.html"
+   },
+   {
+    "label": "Wikipedia — List of Lincoln University (Pennsylvania) alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Lincoln_University_(Pennsylvania)_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "presbyterian-board-of-missions-for-freedmen",
+    "type": "origin",
+    "label": "Presbyterian founding (John Miller Dickey, 1854)"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "avery-college",
+  "name": "Avery College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private Black college · Classical/industrial",
+  "status": "Closed",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1849,
+  "closed": 1873,
+  "location": "Allegheny City (Pittsburgh), PA",
+  "state": "PA",
+  "affiliation": "Methodist Protestant founder; AME, Methodist and Presbyterian ties",
+  "formerNames": [
+   "Allegheny Institute and Mission Church",
+   "Avery College Training School"
+  ],
+  "fate": "Closed in 1873; its three-story building was later demolished for Interstate 279 and a state historical marker (1968) marks the site.",
+  "description": "Founded in 1849 by Rev. Charles Avery, a Methodist Protestant abolitionist and cotton merchant, as a school and church for African Americans in Allegheny City. It began as an industrial school, added classical studies, and was led 1863–1867 by George Boyer Vashon. Its building reportedly sheltered Underground Railroad freedom seekers.",
+  "facts": [
+   {
+    "t": "Abolitionist founder.",
+    "d": "Charles Avery (1784–1858) funded the school with his fortune from cotton and industry.",
+    "basis": "documented"
+   },
+   {
+    "t": "Underground Railroad.",
+    "d": "The basement of its Greek Revival building is reported to have served as an escape route.",
+    "basis": "documented"
+   },
+   {
+    "t": "Notable alumni.",
+    "d": "AME bishop and publisher Benjamin Tucker Tanner studied at Avery.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Avery College",
+    "url": "https://en.wikipedia.org/wiki/Avery_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "AME ties"
+   }
+  ]
+ },
+ {
+  "id": "bluefield-state-university",
+  "name": "Bluefield State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Regional university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1895,
+  "closed": null,
+  "location": "Bluefield, WV",
+  "state": "WV",
+  "affiliation": "State of West Virginia",
+  "formerNames": [
+   "Bluefield Colored Institute",
+   "Bluefield State Teachers College",
+   "Bluefield State College"
+  ],
+  "fate": "",
+  "description": "Founded February 28, 1895, as the Bluefield Colored Institute under principal Hamilton Hatter (a Storer College graduate) to serve the Black families of the southern West Virginia coalfields. After desegregation it became majority white; a 1968 bombing of the gym led the president to close the dorms, accelerating that shift. It returned to residential life in 2021 and became a university in 2022.",
+  "facts": [
+   {
+    "t": "Coalfield institute.",
+    "d": "Opened with 40 pupils in 1895, became a normal school in 1909 and a teachers college in 1932.",
+    "basis": "documented"
+   },
+   {
+    "t": "1968 bombing.",
+    "d": "A bomb damaged the gym on November 21, 1968; dorms were closed and the student body became predominantly white.",
+    "basis": "documented"
+   },
+   {
+    "t": "Reopened dorms.",
+    "d": "Became residential again in 2021 for the first time since 1968; renamed a university in 2022.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Bluefield State University",
+    "url": "https://en.wikipedia.org/wiki/Bluefield_State_University"
+   },
+   {
+    "label": "e-WV — Bluefield State University",
+    "url": "https://wvencyclopedia.org/entries/536"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "west-virginia-state-university",
+  "name": "West Virginia State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1891,
+  "closed": null,
+  "location": "Institute, WV",
+  "state": "WV",
+  "affiliation": "1890 land-grant; State of West Virginia",
+  "formerNames": [
+   "West Virginia Colored Institute",
+   "West Virginia Collegiate Institute",
+   "West Virginia State College"
+  ],
+  "fate": "",
+  "description": "Established under the Second Morrill Act in 1891 as the West Virginia Colored Institute, it added college degrees in 1915 and in 1927 became the first public college in the state accredited by the North Central Association. Historian Carter G. Woodson served as academic dean. It lost land-grant status in 1957 and regained it fully in 2001; it is now majority white.",
+  "facts": [
+   {
+    "t": "Land-grant lost and regained.",
+    "d": "State funding for land-grant matching ended in 1957; Congress fully restored the status in 2001 after a 12-year effort.",
+    "basis": "documented"
+   },
+   {
+    "t": "Aviation pioneer.",
+    "d": "In 1939 it was the first of six HBCUs authorized to offer an aviation program; graduates flew with the Tuskegee Airmen.",
+    "basis": "documented"
+   },
+   {
+    "t": "Notable alumni.",
+    "d": "NASA mathematician Katherine Johnson, NBA pioneer Earl Lloyd, Judge Damon Keith and OIC founder Leon Sullivan.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — West Virginia State University",
+    "url": "https://en.wikipedia.org/wiki/West_Virginia_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member"
+   }
+  ]
+ },
+ {
+  "id": "storer-college",
+  "name": "Storer College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private Black college · Normal school",
+  "status": "Closed",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1867,
+  "closed": 1955,
+  "location": "Harpers Ferry, WV",
+  "state": "WV",
+  "affiliation": "Free Will Baptists; Freedmen's Bureau support",
+  "formerNames": [],
+  "fate": "Closed in June 1955 after West Virginia withdrew state funding following Brown v. Board — the last blow after decades without tuition revenue, accreditation or a meaningful endowment; its campus is now part of Harpers Ferry National Historical Park.",
+  "description": "Grew from a one-room school for freedpeople opened in 1865 by Free Will Baptist missionary Nathan Cook Brackett, with a $10,000 matching gift from Maine philanthropist John Storer; it was chartered in 1867–68 on former Armory property. It hosted the Niagara Movement's 1906 conference, the first in the U.S. Alumni included Nigeria's Nnamdi Azikiwe, jazz arranger Don Redman and lawyer-publisher J. R. Clifford.",
+  "facts": [
+   {
+    "t": "Niagara Movement.",
+    "d": "Hosted the movement's second conference in 1906, led by W. E. B. Du Bois — a forerunner of the NAACP.",
+    "basis": "documented"
+   },
+   {
+    "t": "Never accredited.",
+    "d": "Began four-year degrees in 1938 but never won regional accreditation.",
+    "basis": "documented"
+   },
+   {
+    "t": "Legacy assets.",
+    "d": "Its endowment and library went to Virginia Union University; the campus became part of the national park.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Storer College",
+    "url": "https://en.wikipedia.org/wiki/Storer_College"
+   },
+   {
+    "label": "NPS — Dr. Madison Spencer Briscoe, Storer College and Harpers Ferry NHP",
+    "url": "https://home.nps.gov/articles/000/dr-madison-spencer-briscoe-storer-college-and-harper-s-ferry-national-historic-park.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "freedmens-bureau",
+    "type": "origin",
+    "label": "Freedmen's Bureau support at founding"
+   },
+   {
+    "id": "virginia-union-university",
+    "type": "capital",
+    "label": "endowment and library transferred to, 1955"
+   }
+  ]
+ },
+ {
+  "id": "earl-g-graves-sr",
+  "name": "Earl G. Graves Sr.",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on ownership of Black Enterprise and the sale of a Pepsi bottling stake; no published net worth.",
+  "lifespan": "1935–2020",
+  "base": "New York, NY",
+  "industry": "Publishing / Media",
+  "originBadge": "Brooklyn Striver",
+  "engineBadge": "Black Business Media",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.A. in economics from Morgan State in 1958 (some Morgan sources say 1957) and was commissioned through ROTC; Morgan's Earl G. Graves School of Business and Management is named for him.",
+  "humbleBeginnings": "Born in Brooklyn in 1935 to parents from Barbados and Trinidad; worked on LBJ's 1964 campaign and as an administrative assistant to Sen. Robert F. Kennedy from 1965.",
+  "breakthrough": "Founded Earl G. Graves, Ltd. and launched Black Enterprise in 1970, creating the BE 100s list that became the scoreboard of Black-owned business.",
+  "legacy": "Built a family-run media company passed to his son Earl 'Butch' Graves Jr.; held Fortune 500 board seats and became a model for Black corporate governance.",
+  "breakthroughDetail": [
+   {
+    "t": "Black Enterprise, 1970.",
+    "d": "Launched the magazine that ranked and chronicled Black-owned companies for five decades.",
+    "basis": "documented"
+   },
+   {
+    "t": "Pepsi bottling franchise.",
+    "d": "In 1990 he and Magic Johnson bought the Pepsi-Cola bottling franchise in Washington, D.C.; he was CEO until selling the stake to Pepsi in 1998.",
+    "basis": "documented"
+   },
+   {
+    "t": "Corporate boards.",
+    "d": "Served on boards including Aetna, AMR (American Airlines), DaimlerChrysler, Federated Department Stores and Rohm and Haas.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Named business school.",
+    "d": "Morgan State's business school bears his name; its new building opened in 2015.",
+    "basis": "documented"
+   },
+   {
+    "t": "Family succession.",
+    "d": "His sons run Earl G. Graves, Ltd., keeping the brand family-controlled.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Earl G. Graves Sr.",
+    "url": "https://en.wikipedia.org/wiki/Earl_G._Graves_Sr."
+   },
+   {
+    "label": "Morgan State — Morgan State is Black History!",
+    "url": "https://www.morgan.edu/about/blackhistorymonth"
+   },
+   {
+    "label": "AFRO — A shrewd businessman and a proud son of Morgan State University",
+    "url": "https://afro.com/a-shrewd-businessman-and-a-proud-son-of-morgan-state-university/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.A. Economics 1958"
+   },
+   {
+    "id": "black-enterprise",
+    "type": "ownership",
+    "label": "founded 1970"
+   },
+   {
+    "id": "pepsi-cola-bottling-company-of-washington-dc",
+    "type": "ownership",
+    "label": "co-owner & CEO 1990–1998"
+   },
+   {
+    "id": "morgan-state-university",
+    "type": "civic",
+    "label": "business school named for him"
+   }
+  ]
+ },
+ {
+  "id": "kevin-liles",
+  "name": "Kevin Liles",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate reflecting senior-label compensation and co-founder equity in 300 Entertainment; no published figure.",
+  "lifespan": "b. 1968",
+  "base": "New York, NY",
+  "industry": "Music / Record Labels",
+  "originBadge": "Baltimore Intern-to-CEO",
+  "engineBadge": "Hip-Hop Label Building",
+  "capitalBadge": "Salary & Founder Equity",
+  "hbcuStory": "Attended Morgan State on a NASA-sponsored electrical engineering scholarship and left without a degree to pursue music; he later funded Morgan's 'Make It Happen' entrepreneurship programming.",
+  "humbleBeginnings": "Grew up near Baltimore; was part of local crew Numarx, which co-wrote 'Girl You Know It's True' (1986).",
+  "breakthrough": "Joined Def Jam as an unpaid intern in 1992 and was named its president by 1998, later becoming EVP of Island Def Jam and of Warner Music Group.",
+  "legacy": "Co-founded 300 Entertainment in 2012 with Lyor Cohen and partners and led it as CEO until September 2024.",
+  "breakthroughDetail": [
+   {
+    "t": "Intern to president.",
+    "d": "Rose from Def Jam intern (1992) to president (1998).",
+    "basis": "documented"
+   },
+   {
+    "t": "Warner Music EVP.",
+    "d": "Executive vice president of Warner Music Group until 2009, then launched KWL Enterprises.",
+    "basis": "documented"
+   },
+   {
+    "t": "300 Entertainment.",
+    "d": "Co-founded the label in 2012; stepped down as CEO in September 2024.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Backs Morgan entrepreneurs.",
+    "d": "Morgan magazine credits him with funding the 'Make It Happen' program of its entrepreneurship center.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Kevin Liles",
+    "url": "https://en.wikipedia.org/wiki/Kevin_Liles"
+   },
+   {
+    "label": "Morgan State — Morgan State is Black History!",
+    "url": "https://www.morgan.edu/about/blackhistorymonth"
+   },
+   {
+    "label": "Morgan Magazine — Building Legacy Through Business Ownership",
+    "url": "https://magazine.morgan.edu/building-legacy-through-business-ownership/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "attended (electrical engineering), no degree"
+   },
+   {
+    "id": "def-jam-recordings",
+    "type": "executive",
+    "label": "intern 1992 → president 1998"
+   },
+   {
+    "id": "warner-music-group",
+    "type": "executive",
+    "label": "EVP, to 2009"
+   },
+   {
+    "id": "300-entertainment",
+    "type": "ownership",
+    "label": "co-founder 2012; CEO to 2024"
+   }
+  ]
+ },
+ {
+  "id": "joseph-haskins-jr",
+  "name": "Joseph Haskins Jr.",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Baltimore, MD",
+  "industry": "Community Banking",
+  "originBadge": "Morgan Economist",
+  "engineBadge": "Black-Owned Bank",
+  "capitalBadge": "Church-Capitalized Bank",
+  "hbcuStory": "Earned a B.A. in economics from Morgan State (Class of 1971 per Morgan magazine), later an NYU MBA in finance and a Johns Hopkins M.L.A.; Harbor Bank opened a branch at Morgan's Northwood Commons.",
+  "humbleBeginnings": "Joined the organizing committee for a Black-owned Baltimore bank in the late 1970s, after an earlier charter effort dating to 1973.",
+  "breakthrough": "Designed the plan to capitalize The Harbor Bank of Maryland through Baltimore's faith-based community; the bank opened in 1982 and he led it as president/CEO from 1987.",
+  "legacy": "Became the longest-serving bank CEO in Maryland before handing the CEO role to John Lewis in 2023; Harbor is an FDIC Minority Depository Institution and Treasury-certified CDFI.",
+  "breakthroughDetail": [
+   {
+    "t": "Co-founded Harbor Bank (1982).",
+    "d": "One of 13 founders of the Black-owned Baltimore bank.",
+    "basis": "documented"
+   },
+   {
+    "t": "Investment subsidiary first.",
+    "d": "Harbor Financial Services (1996) made Harbor the first community bank to start an investment subsidiary.",
+    "basis": "documented"
+   },
+   {
+    "t": "Four-decade CEO.",
+    "d": "Led the bank for about 40 years, retiring as CEO in 2023.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "MDI/CDFI franchise.",
+    "d": "Built a seven-branch Maryland bank serving underbanked communities.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — The Harbor Bank of Maryland",
+    "url": "https://en.wikipedia.org/wiki/The_Harbor_Bank_of_Maryland"
+   },
+   {
+    "label": "The Daily Record — Joseph Haskins Jr.",
+    "url": "https://thedailyrecord.com/2021/06/30/joseph-haskins-jr/"
+   },
+   {
+    "label": "Morgan Magazine — A Grand Opening",
+    "url": "https://magazine.morgan.edu/a-grand-opening/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.A. Economics (Class of 1971)"
+   },
+   {
+    "id": "the-harbor-bank-of-maryland",
+    "type": "ownership",
+    "label": "co-founder 1982"
+   },
+   {
+    "id": "the-harbor-bank-of-maryland",
+    "type": "executive",
+    "label": "president/CEO c.1987–2023"
+   }
+  ]
+ },
+ {
+  "id": "willie-lanier",
+  "name": "Willie Lanier",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1945",
+  "base": "Richmond, VA",
+  "industry": "Securities / Investments",
+  "originBadge": "Hall of Fame Linebacker",
+  "engineBadge": "Brokerage & Investing",
+  "capitalBadge": "Securities Career",
+  "hbcuStory": "Earned a B.A. in business administration from Morgan State in 1967; later chaired the Morgan State University Foundation and gave $500,000 to endow a lectureship in business ethics.",
+  "humbleBeginnings": "Grew up in segregated Richmond, Virginia; earned real-estate and securities licenses during NFL off-seasons.",
+  "breakthrough": "After a Hall of Fame career with the Kansas City Chiefs (Super Bowl IV), he moved into finance — president of First Wheat Securities in Richmond and vice-chairman at First Union Securities.",
+  "legacy": "Runs the Lanier Group LLC investment firm, was a minority venture partner in TDS Logistics, and serves as a senior advisor at Cary Street Partners.",
+  "breakthroughDetail": [
+   {
+    "t": "Wall Street second act.",
+    "d": "Rose to vice-chairman of First Union Securities.",
+    "basis": "documented"
+   },
+   {
+    "t": "Logistics venture.",
+    "d": "Former CEO of TDS/US and minority venture partner in TDS Logistics (later Syncreon).",
+    "basis": "documented"
+   },
+   {
+    "t": "Pro Football Hall of Fame, 1986.",
+    "d": "Middle linebacker for the Super Bowl IV champion Kansas City Chiefs.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Ethics lectureship.",
+    "d": "2015 gift of $500,000 created the Willie E. Lanier Sr. Endowed Lectureship in Business Ethics at Morgan.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Willie Lanier",
+    "url": "https://en.wikipedia.org/wiki/Willie_Lanier"
+   },
+   {
+    "label": "Richmond Free Press — NFL Hall of Famer donates $500,000 to Morgan State",
+    "url": "https://m.richmondfreepress.com/news/2015/may/22/richmond-nfl-hall-famer-donates-500000-morgan-stat"
+   },
+   {
+    "label": "Morgan State — Morgan State is Black History!",
+    "url": "https://www.morgan.edu/about/blackhistorymonth"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.A. Business Administration 1967"
+   },
+   {
+    "id": "first-union-securities",
+    "type": "executive",
+    "label": "vice-chairman"
+   },
+   {
+    "id": "lanier-group",
+    "type": "ownership",
+    "label": "principal"
+   },
+   {
+    "id": "morgan-state-university",
+    "type": "civic",
+    "label": "$500K ethics lectureship; Foundation chair"
+   }
+  ]
+ },
+ {
+  "id": "joe-black",
+  "name": "Joe Black",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1924–2002",
+  "base": "Phoenix, AZ",
+  "industry": "Transportation",
+  "originBadge": "Negro Leagues Pitcher",
+  "engineBadge": "Corporate Ladder",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Attended Morgan State on scholarship and completed a bachelor's degree in marketing there, taking classes in baseball off-seasons.",
+  "humbleBeginnings": "Grew up in Plainfield, New Jersey, and pitched in the Negro Leagues before reaching the Brooklyn Dodgers.",
+  "breakthrough": "Became the first Black pitcher to win a World Series game (1952); after baseball he joined Greyhound, rising to vice president of special markets by 1967.",
+  "legacy": "Moved with Greyhound's headquarters to Phoenix in 1971; later a special assistant with the Arizona Diamondbacks and a fundraiser for needy ex-players via BAT.",
+  "breakthroughDetail": [
+   {
+    "t": "World Series first.",
+    "d": "Won Game 1 of the 1952 World Series over the Yankees.",
+    "basis": "documented"
+   },
+   {
+    "t": "Greyhound vice president.",
+    "d": "Joined Greyhound in the early 1960s; VP of special markets by 1967, described as the first Black VP of a major transportation company.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Giving back to players.",
+    "d": "Raised money for indigent former players through the Baseball Assistance Team.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "SABR — Joe Black's storied life continues to inspire",
+    "url": "https://sabr.org/?p=50455"
+   },
+   {
+    "label": "Cronkite News — Joe Black",
+    "url": "https://cronkitenews.azpbs.org/?p=89921"
+   },
+   {
+    "label": "Baseball-Reference Bullpen — Joe Black",
+    "url": "https://www.baseball-reference.com/bullpen/Joe_Black"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.S. Marketing"
+   },
+   {
+    "id": "greyhound-lines",
+    "type": "executive",
+    "label": "VP special markets (by 1967)"
+   }
+  ]
+ },
+ {
+  "id": "calvin-e-tyler-jr",
+  "name": "Calvin E. Tyler Jr.",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated: the couple's $25 million in documented gifts implies wealth above that level from UPS compensation and stock.",
+  "lifespan": "living",
+  "base": "Baltimore, MD",
+  "industry": "Logistics / Parcel Delivery",
+  "originBadge": "Dropout Driver",
+  "engineBadge": "UPS Operations",
+  "capitalBadge": "Salary & Stock",
+  "hbcuStory": "Entered Morgan State College in 1961 to study business administration but left in 1963 when he could not pay tuition; he and wife Tina later gave Morgan $5 million (2016) and $20 million (2021).",
+  "humbleBeginnings": "Took a job in 1964 as one of UPS's first ten drivers in Baltimore after leaving Morgan for lack of money.",
+  "breakthrough": "Climbed from the delivery truck to senior vice president of operations at UPS, retiring in 1998.",
+  "legacy": "The Calvin and Tina Tyler Endowed Scholarship Fund — believed to be the largest alumni gift to any HBCU at the time — now funds students nationwide.",
+  "breakthroughDetail": [
+   {
+    "t": "Driver to SVP.",
+    "d": "Rose from one of the first UPS drivers in Baltimore to senior vice president of operations.",
+    "basis": "documented"
+   },
+   {
+    "t": "Retired 1998.",
+    "d": "Built wealth through a 34-year UPS career (employee-ownership culture).",
+    "basis": "pattern"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "$20 million gift.",
+    "d": "Largest private gift from an alumnus in Morgan State history, announced 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "Earlier $5 million.",
+    "d": "Their 2016 gift for Baltimore City students was then the largest in Morgan's history.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Morgan State — Former UPS Driver Gives Morgan $20 Million",
+    "url": "https://www.morgan.edu/news/former-ups-driver-gives-morgan-state-university-20-million-ensuring-access-to-college-for-generations-of-students"
+   },
+   {
+    "label": "Baltimore Sun — Morgan State alumnus gives $20 million",
+    "url": "https://www.baltimoresun.com/education/bs-md-morgan-gift-ups-20210222-ta3iy6vuerfzrlffrry5ad5k2a-story.html"
+   },
+   {
+    "label": "ABC News — College dropout donates $20 million",
+    "url": "https://abcnews.go.com/US/college-dropout-donates-20-million-historically-black-university/story?id=76104692"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "attended 1961–1963"
+   },
+   {
+    "id": "united-parcel-service",
+    "type": "executive",
+    "label": "driver 1964 → SVP operations, ret. 1998"
+   },
+   {
+    "id": "morgan-state-university",
+    "type": "capital",
+    "label": "$25M in scholarship gifts"
+   }
+  ]
+ },
+ {
+  "id": "dia-simms",
+  "name": "Dia Simms",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Los Angeles, CA",
+  "industry": "Spirits / Consumer Brands",
+  "originBadge": "Assistant-to-President",
+  "engineBadge": "Premium Spirits Brands",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.S. in psychology from Morgan State (Wikipedia lists 1997/1999).",
+  "humbleBeginnings": "Born in Monterey, California; started in radio ad sales at Clear Channel, where Bad Boy was among her accounts.",
+  "breakthrough": "Joined Sean Combs as an assistant in 2005 and in 2017 became the first president of Combs Enterprises, overseeing spirits, fashion, media and the Cîroc partnership.",
+  "legacy": "Became CEO of Lobos 1707 Tequila & Mezcal in 2020, co-founded Pronghorn to bring Black talent and owners into spirits, and invested in women-led Saint Liberty Whiskey.",
+  "breakthroughDetail": [
+   {
+    "t": "President, Combs Enterprises (2017–2019).",
+    "d": "First person to hold the role.",
+    "basis": "documented"
+   },
+   {
+    "t": "Cîroc growth.",
+    "d": "As president of Combs Wine & Spirits she helped grow Cîroc into a roughly $2 billion retail-value brand.",
+    "basis": "documented"
+   },
+   {
+    "t": "CEO, Lobos 1707.",
+    "d": "Took the helm of the LeBron James–backed tequila brand in 2020.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Pronghorn.",
+    "d": "Co-founded the 2020 initiative to build Black ownership in the spirits industry.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Dia Simms",
+    "url": "https://en.wikipedia.org/wiki/Dia_Simms"
+   },
+   {
+    "label": "AfroTech — Dia Simms, Lobos 1707",
+    "url": "https://afrotech.com/dia-simms-lobos-1707-tequila-spirits"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.S. Psychology"
+   },
+   {
+    "id": "combs-enterprises",
+    "type": "executive",
+    "label": "president 2017–2019"
+   },
+   {
+    "id": "lobos-1707",
+    "type": "executive",
+    "label": "CEO from 2020"
+   }
+  ]
+ },
+ {
+  "id": "david-e-talbert",
+  "name": "David E. Talbert",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1966",
+  "base": "Los Angeles, CA",
+  "industry": "Theater / Film Production",
+  "originBadge": "Chitlin-Circuit Playwright",
+  "engineBadge": "Touring Stage Plays",
+  "capitalBadge": "Box Office & Studio Deals",
+  "hbcuStory": "A graduate of Morgan State University; Wikipedia's Morgan alumni list describes him as playwright, TV producer and entrepreneur.",
+  "humbleBeginnings": "Built an audience writing and touring urban stage plays beginning with 'Tellin' It Like It Tiz' (1991).",
+  "breakthrough": "Wrote and directed the studio films 'Almost Christmas' (2016) and Netflix's 'Jingle Jangle: A Christmas Journey' (2020).",
+  "legacy": "With producing partner and wife Lyn Sisson-Talbert, signed a first-look deal with Netflix in 2021.",
+  "breakthroughDetail": [
+   {
+    "t": "Touring theater business.",
+    "d": "Wrote and produced a string of touring plays from 1991 to 2015.",
+    "basis": "documented"
+   },
+   {
+    "t": "Netflix first-look deal.",
+    "d": "Signed March 2021 with Lyn Sisson-Talbert.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family production company.",
+    "d": "Builds with his wife as co-producer.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — David E. Talbert",
+    "url": "https://en.wikipedia.org/wiki/David_E._Talbert"
+   },
+   {
+    "label": "Wikipedia — List of Morgan State University alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Morgan_State_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "graduate"
+   },
+   {
+    "id": "netflix",
+    "type": "deal",
+    "label": "first-look deal 2021"
+   }
+  ]
+ },
+ {
+  "id": "david-j-brashear",
+  "name": "David J. Brashear",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Maryland",
+  "industry": "Federal IT & Engineering Services",
+  "originBadge": "Industrial Engineer",
+  "engineBadge": "Federal Contracting",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. in industrial engineering from Morgan State in 1997; serves on the Morgan State University Foundation board and supports Morgan athletics.",
+  "humbleBeginnings": "Added a master's in information systems technology from George Washington University and IT/project-management credentials.",
+  "breakthrough": "Founded Altus Technology Solutions in 2004 and grew it to more than 160 professionals providing engineering, IT and range-operations support to the federal government.",
+  "legacy": "Mentors Morgan students and serves on regional nonprofit boards.",
+  "breakthroughDetail": [
+   {
+    "t": "Founded Altus (2004).",
+    "d": "Federal engineering, IT and range-operations contractor with 160+ employees.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Foundation board.",
+    "d": "Joined the Morgan State University Foundation board of directors.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Morgan State — Foundation Welcomes Three New Members",
+    "url": "https://www.morgan.edu/institutional-advancement/news/foundation-welcomes-three-new-members-to-its-board-of-directors"
+   },
+   {
+    "label": "Morgan State — Foundation Welcomes Two New Members",
+    "url": "https://www.morgan.edu/institutional-advancement/news/foundation-welcomes-two-new-members-to-its-board-of-directors"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.S. Industrial Engineering 1997"
+   },
+   {
+    "id": "altus-technology-solutions",
+    "type": "ownership",
+    "label": "founder 2004; president & CEO"
+   },
+   {
+    "id": "morgan-state-university",
+    "type": "board",
+    "label": "MSU Foundation board"
+   }
+  ]
+ },
+ {
+  "id": "omar-s-mcintosh",
+  "name": "Omar S. McIntosh",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Washington, DC",
+  "industry": "Construction",
+  "originBadge": "Civil Engineer",
+  "engineBadge": "Commercial Construction",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.S. in civil engineering from Morgan State in 2000; serves on Morgan's Construction Management Advisory Board and the MSU Foundation board.",
+  "humbleBeginnings": "Spent nearly 30 years in the construction industry; later earned an MBA from Johns Hopkins.",
+  "breakthrough": "Executive vice president of Smoot Construction Company of Washington, D.C., overseeing Mid-Atlantic and Northeast operations.",
+  "legacy": "Led teams on the MLK Jr. Memorial Library modernization and the Children's National Research & Innovation Campus at Walter Reed.",
+  "breakthroughDetail": [
+   {
+    "t": "EVP at Smoot.",
+    "d": "Oversees a team of 80+ professionals at the Black-founded contractor.",
+    "basis": "documented"
+   },
+   {
+    "t": "Landmark projects.",
+    "d": "MLK Jr. Memorial Library and Roosevelt High School modernizations.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Alumni leadership.",
+    "d": "Past leadership roles with the MSU Foundation and National Alumni Association.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Morgan State — Foundation Welcomes Three New Members",
+    "url": "https://www.morgan.edu/institutional-advancement/news/foundation-welcomes-three-new-members-to-its-board-of-directors"
+   },
+   {
+    "label": "Morgan State — Foundation Welcomes Two New Members",
+    "url": "https://www.morgan.edu/institutional-advancement/news/foundation-welcomes-two-new-members-to-its-board-of-directors"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.S. Civil Engineering 2000"
+   },
+   {
+    "id": "smoot-construction",
+    "type": "executive",
+    "label": "executive vice president"
+   },
+   {
+    "id": "morgan-state-university",
+    "type": "board",
+    "label": "MSU Foundation board, 2025"
+   }
+  ]
+ },
+ {
+  "id": "stephanie-d-nellons-paige",
+  "name": "Stephanie D. Nellons-Paige",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Houston, TX",
+  "industry": "Strategic Advisory",
+  "originBadge": "Two-Degree Bear",
+  "engineBadge": "Strategy Consulting",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a bachelor's (1981) and master's (1985) from Morgan State; joined the MSU Foundation board.",
+  "humbleBeginnings": "Built a career in corporate and public affairs before co-founding her own firm.",
+  "breakthrough": "Co-founder and managing partner of the Nellons-Paige Group; senior advisor to the $30 billion Texas High-Speed Rail project.",
+  "legacy": "HBCU advocate who helped raise scholarship money and served as second vice chair of the Texas Southern University Board of Regents.",
+  "breakthroughDetail": [
+   {
+    "t": "Nellons-Paige Group.",
+    "d": "National strategic advisory firm she co-founded.",
+    "basis": "documented"
+   },
+   {
+    "t": "Corporate boards.",
+    "d": "Board member of Centegix, University of the Potomac and Schmoody.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "HBCU governance.",
+    "d": "Former second vice chair of the Texas Southern University regents.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Morgan State — Foundation Welcomes Three New Members",
+    "url": "https://www.morgan.edu/institutional-advancement/news/foundation-welcomes-three-new-members-to-its-board-of-directors"
+   },
+   {
+    "label": "Morgan State — Foundation Welcomes Two New Members",
+    "url": "https://www.morgan.edu/institutional-advancement/news/foundation-welcomes-two-new-members-to-its-board-of-directors"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.A. 1981; M.A. 1985"
+   },
+   {
+    "id": "nellons-paige-group",
+    "type": "ownership",
+    "label": "co-founder & managing partner"
+   },
+   {
+    "id": "texas-southern-university",
+    "type": "board",
+    "label": "regent (second vice chair)"
+   }
+  ]
+ },
+ {
+  "id": "robert-w-bogle",
+  "name": "Robert W. Bogle",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Philadelphia, PA",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Ad Salesman",
+  "engineBadge": "Black Press",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Earned a B.A. in urban studies at Cheyney (Class of 1973 per the alumni list) and later chaired Cheyney's Council of Trustees; he also studied marketing at Wharton.",
+  "humbleBeginnings": "Joined The Philadelphia Tribune in 1970 selling advertising.",
+  "breakthrough": "Rose to advertising director (1973), marketing director (1976), EVP and treasurer (1983) and president & CEO (1989) of the nation's oldest continuously published Black newspaper.",
+  "legacy": "A long-serving civic leader — Delaware River Port Authority commissioner, chair of Philadelphia's hospitals and higher-education facilities authority, three-time NNPA Russwurm Award winner.",
+  "breakthroughDetail": [
+   {
+    "t": "Tribune CEO since 1989.",
+    "d": "Led the Tribune (founded 1884) for more than three decades.",
+    "basis": "documented"
+   },
+   {
+    "t": "NNPA Russwurm Awards.",
+    "d": "Won the Black press's top honor in 1995, 1997 and 1999.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Cheyney trustee chair.",
+    "d": "Chaired the university's Council of Trustees.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Robert W. Bogle",
+    "url": "https://en.wikipedia.org/wiki/Robert_W._Bogle"
+   },
+   {
+    "label": "Wikipedia — List of Cheyney University of Pennsylvania alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Cheyney_University_of_Pennsylvania_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "alumni",
+    "label": "B.A. Urban Studies, 1973"
+   },
+   {
+    "id": "the-philadelphia-tribune",
+    "type": "executive",
+    "label": "president & CEO from 1989"
+   },
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "board",
+    "label": "chair, Council of Trustees"
+   }
+  ]
+ },
+ {
+  "id": "james-lindsay",
+  "name": "James Lindsay",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Miami, FL",
+  "industry": "Snack Foods",
+  "originBadge": "Philly Marketer",
+  "engineBadge": "Hip-Hop Licensed Snacks",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated from Cheyney University with a B.S. in marketing (c. 1994); Cheyney has featured him on entrepreneurship panels.",
+  "humbleBeginnings": "Philadelphia native who started as a consumer-products manager at Johnson Products after college.",
+  "breakthrough": "Founded Rap Snacks in 1994, pairing rapper likenesses and flavors with chips sold first in corner stores.",
+  "legacy": "Grew the brand from corner stores to national retailers such as Walmart, building what Axios calls a multi-million-dollar snack empire.",
+  "breakthroughDetail": [
+   {
+    "t": "Rap Snacks, 1994.",
+    "d": "Built a hip-hop–licensed snack brand from scratch.",
+    "basis": "documented"
+   },
+   {
+    "t": "Corner store to Walmart.",
+    "d": "Expanded from urban convenience stores to national mass retail.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Culture as brand moat.",
+    "d": "Built a durable consumer brand by partnering with hip-hop artists rather than buying traditional advertising.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Cheyney University — Family Day entrepreneurial panel with James Lindsay",
+    "url": "https://cheyney.edu/news/cheyney-universitys-annual-family-day-to-feature-entrepreneurial-panel-with-rap-snacks-founder-james-lindsay-and-rap-mogul-master-p/"
+   },
+   {
+    "label": "National Urban League — James Lindsay",
+    "url": "https://nul.org/basic-page/james-lindsay"
+   },
+   {
+    "label": "Axios — James Lindsay built a multi-million dollar snack empire",
+    "url": "https://www.axios.com/2024/12/21/james-lindsay-snack-empire-hip-hop-culture"
+   }
+  ],
+  "connections": [
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "alumni",
+    "label": "B.S. Marketing"
+   },
+   {
+    "id": "rap-snacks",
+    "type": "ownership",
+    "label": "founder & CEO, 1994"
+   }
+  ]
+ },
+ {
+  "id": "steve-ewing",
+  "name": "Steve Ewing",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimated from ownership of a $600M-revenue dealership and multiple franchises; no published net worth.",
+  "lifespan": "living",
+  "base": "Atlanta, GA",
+  "industry": "Auto Dealerships",
+  "originBadge": "Car-Lot Salesman",
+  "engineBadge": "Ford Franchises",
+  "capitalBadge": "Dealer Financing",
+  "hbcuStory": "Earned a B.A. in English/journalism from then-Delaware State College in 1983; in 2023 gave DSU $1 million — the largest single gift by an alumnus — and chairs its Athletic Transformation Committee.",
+  "humbleBeginnings": "Northern New Jersey native who couldn't land a media job after college and started selling cars at a Chevrolet store.",
+  "breakthrough": "Bought his first Ford franchise in New Jersey at 29, then in 2002 acquired Wade Ford in Smyrna, Georgia — the first Black owner in its history.",
+  "legacy": "Grew Wade Ford past $600 million in annual revenue, owned five dealerships, won NAMAD's first Innovation Award (2014) and joined Georgia Power's board; later sold Wade Ford.",
+  "breakthroughDetail": [
+   {
+    "t": "Wade Ford, 2002.",
+    "d": "First African American to own the 1933-founded Metro Atlanta franchise.",
+    "basis": "documented"
+   },
+   {
+    "t": "$600M+ revenue.",
+    "d": "Wade Ford was producing over $600 million a year in revenue by 2022.",
+    "basis": "documented"
+   },
+   {
+    "t": "Industry honors.",
+    "d": "First NAMAD Innovation Award (2014) and multiple Ford President's Awards.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "$1 million to DSU.",
+    "d": "Largest alumni gift in DSU history (2023), with a challenge to alumni to match it.",
+    "basis": "documented"
+   },
+   {
+    "t": "Corporate board.",
+    "d": "Elected to the Georgia Power board of directors.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Atlanta Tribune — Steve Ewing donates $1 million to alma mater",
+    "url": "https://atlantatribune.com/2023/12/13/atlanta-businessman-steve-ewing-donates-1-million-to-alma-mater-celebration-featured-dj-jazzy-jeff-and-swv/"
+   },
+   {
+    "label": "Marietta Daily Journal — Wade Ford owner attributes success to 'no excuses' mantra",
+    "url": "https://www.mdjonline.com/news/local/wade-ford-owner-steve-ewing-attributes-success-to-no-excuses-mantra/article_e1152098-8528-11ec-862a-b7db222528ff.html"
+   },
+   {
+    "label": "Black Enterprise — Wade Ford Inc.",
+    "url": "https://www.blackenterprise.com/7-wade-ford-inc/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "delaware-state-university",
+    "type": "alumni",
+    "label": "B.A. 1983"
+   },
+   {
+    "id": "wade-ford",
+    "type": "ownership",
+    "label": "owner 2002–2023"
+   },
+   {
+    "id": "georgia-power",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "delaware-state-university",
+    "type": "capital",
+    "label": "$1M gift, 2023"
+   }
+  ]
+ },
+ {
+  "id": "norman-oliver",
+  "name": "Norman Oliver",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Wilmington, DE",
+  "industry": "Construction / Transportation",
+  "originBadge": "SGA President",
+  "engineBadge": "Construction & Contracts",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Earned a B.S. in social work from then-Delaware State College in 1985, where he was SGA president; later a DSU trustee and donor of an unrestricted $200,000 gift (2024).",
+  "humbleBeginnings": "Led his freshman class, the Men's Council and his Kappa Alpha Psi chapter as a student.",
+  "breakthrough": "Owns Rock Solid Construction (commercial and residential) and NOR Enterprises, which provides school transportation for homeless children.",
+  "legacy": "Former Wilmington city councilman; his nonprofit Our Youth, Inc. has built more than 30 affordable housing units.",
+  "breakthroughDetail": [
+   {
+    "t": "Rock Solid Construction.",
+    "d": "Commercial and residential contractor he owns.",
+    "basis": "documented"
+   },
+   {
+    "t": "NOR Enterprises.",
+    "d": "Student-transportation contractor serving homeless children.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "$200K to DSU.",
+    "d": "Unrestricted gift in October 2024.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Delaware State University — DSU receives $200,000 gift from alumnus Norman Oliver",
+    "url": "https://www.desu.edu/news/2024/10/dsu-receives-200000-gift-alumnus-norman-oliver"
+   },
+   {
+    "label": "WITN22 — Norman Oliver donates $200,000 to Delaware State",
+    "url": "https://www.witn22.org/2024/10/18/norman-oliver-donates-200k-delaware-state-university/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "delaware-state-university",
+    "type": "alumni",
+    "label": "B.S. Social Work 1985"
+   },
+   {
+    "id": "rock-solid-construction",
+    "type": "ownership",
+    "label": "owner"
+   },
+   {
+    "id": "delaware-state-university",
+    "type": "board",
+    "label": "former trustee"
+   }
+  ]
+ },
+ {
+  "id": "wilbert-tatum",
+  "name": "Wilbert Tatum",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1933–2009",
+  "base": "New York, NY",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Durham Tenth Child",
+  "engineBadge": "Black Press Ownership",
+  "capitalBadge": "Investor Group Buyout",
+  "hbcuStory": "Majored in sociology at Lincoln University (Pennsylvania), Class of 1958 per the alumni list; later earned a master's from Occidental College.",
+  "humbleBeginnings": "Born in Durham, North Carolina, the 10th of 13 children.",
+  "breakthrough": "In 1971 joined an investor group with Percy Sutton and H. Carl McCall that bought the New York Amsterdam News; took control in 1983 and became sole owner in 1996.",
+  "legacy": "Handed the paper to his daughter Elinor Tatum in 1997 and remained chairman until his death in 2009; also invested in renovating Harlem buildings in the 1980s.",
+  "breakthroughDetail": [
+   {
+    "t": "Amsterdam News buyout, 1971.",
+    "d": "Part of the Sutton–McCall group that bought Harlem's leading Black weekly.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sole owner, 1996.",
+    "d": "Consolidated ownership over 25 years.",
+    "basis": "documented"
+   },
+   {
+    "t": "Harlem real estate.",
+    "d": "Bought and renovated neglected buildings in the mid-1980s.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family succession.",
+    "d": "Named daughter Elinor publisher and editor-in-chief at 26, keeping the paper family-owned.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Wilbert Tatum",
+    "url": "https://en.wikipedia.org/wiki/Wilbert_Tatum"
+   },
+   {
+    "label": "Black Enterprise — Amsterdam News' Wilbert A. Tatum Dies",
+    "url": "https://www.blackenterprise.com/amsterdam-news-wilbert-a-tatum-dies/"
+   },
+   {
+    "label": "Philadelphia Inquirer — Wilbert A. Tatum, Harlem publisher, 76",
+    "url": "https://www.inquirer.com/philly/obituaries/20090228_Wilbert_A__Tatum___Harlem_publisher__76.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "alumni",
+    "label": "B.A. Sociology 1958"
+   },
+   {
+    "id": "new-york-amsterdam-news",
+    "type": "ownership",
+    "label": "co-owner 1971; sole owner 1996"
+   }
+  ]
+ },
+ {
+  "id": "frederick-d-alexander",
+  "name": "Frederick D. Alexander",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1910–1980",
+  "base": "Charlotte, NC",
+  "industry": "Funeral Services",
+  "originBadge": "Funeral-Home Heir",
+  "engineBadge": "Family Funeral Business",
+  "capitalBadge": "Family Business",
+  "hbcuStory": "Graduated from Lincoln University (Pennsylvania) in 1931 and returned to Charlotte; Lincoln's 1946 alumni directory lists him as an insurance district manager.",
+  "humbleBeginnings": "Son of Zechariah Alexander, owner of Charlotte's Alexander Funeral Home and a district manager for North Carolina Mutual Life Insurance.",
+  "breakthrough": "Ran the family funeral business and in 1962 became the first Black member of the Charlotte Chamber of Commerce.",
+  "legacy": "Parlayed business standing into politics — first Black Charlotte city councilman since the 1890s (1965) and North Carolina state senator (1974).",
+  "breakthroughDetail": [
+   {
+    "t": "Family business.",
+    "d": "Worked in and led the Alexander Funeral Home.",
+    "basis": "documented"
+   },
+   {
+    "t": "Chamber of Commerce first.",
+    "d": "First African American member of the Charlotte Chamber, 1962.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Political firsts.",
+    "d": "City Council 1965; N.C. Senate 1974–1980; brother Kelly Alexander led the NAACP nationally.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Frederick D. Alexander",
+    "url": "https://en.wikipedia.org/wiki/Frederick_D._Alexander"
+   },
+   {
+    "label": "Hoodline — Charlotte remembers civil rights trailblazer Frederick Douglas Alexander",
+    "url": "https://hoodline.com/2025/02/charlotte-remembers-civil-rights-trailblazer-frederick-douglas-alexander-on-his-birthday/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "alumni",
+    "label": "graduated 1931"
+   },
+   {
+    "id": "alexander-funeral-home",
+    "type": "ownership",
+    "label": "family owner-operator"
+   }
+  ]
+ },
+ {
+  "id": "maurice-brewster",
+  "name": "Maurice Brewster",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "San Jose, CA",
+  "industry": "Corporate Ground Transportation",
+  "originBadge": "Corporate Manager",
+  "engineBadge": "Tech-Campus Shuttles",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. from Lincoln University (Pennsylvania) in 1978; joined the Lincoln University Foundation board in 2025.",
+  "humbleBeginnings": "Spent more than two decades in corporate management before starting his own company.",
+  "breakthrough": "Founded Mosaic Global Transportation, a certified minority-owned company running employee shuttles and event transportation for Bay Area corporations.",
+  "legacy": "Built Mosaic into a multi-million-dollar international business with offices in San Jose and Inglewood.",
+  "breakthroughDetail": [
+   {
+    "t": "Mosaic Global Transportation.",
+    "d": "Minority-owned shuttle and event-transport firm, named among the fastest-growing private companies in 2018.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Lincoln Foundation board.",
+    "d": "Joined in 2025.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Lincoln University — Foundation welcomes new leadership and board members",
+    "url": "https://www.lincoln.edu/news/2025/06/Lincoln%20University%20Foundation%20of%20Pennsylvania%20Welcomes%20New%20Leadership%20%20and%20Four%20New%20Board%20Members%20.html"
+   },
+   {
+    "label": "Mosaic Global Transportation — company site",
+    "url": "http://www.mosaicglobaltransportation.com/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "alumni",
+    "label": "B.S. 1978"
+   },
+   {
+    "id": "mosaic-global-transportation",
+    "type": "ownership",
+    "label": "founder & CEO"
+   },
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "board",
+    "label": "Foundation board, 2025"
+   }
+  ]
+ },
+ {
+  "id": "leon-sullivan",
+  "name": "Leon Sullivan",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1922–2001",
+  "base": "Philadelphia, PA",
+  "industry": "Community Development / Job Training",
+  "originBadge": "Charleston Preacher",
+  "engineBadge": "Black-Owned Real Estate",
+  "capitalBadge": "Congregant Savings Plan",
+  "hbcuStory": "Attended West Virginia State College on a basketball and football scholarship and joined Kappa Alpha Psi there in 1940.",
+  "humbleBeginnings": "Grew up in one of Charleston, West Virginia's poorest neighborhoods.",
+  "breakthrough": "As pastor of Philadelphia's Zion Baptist Church, launched the 10-36 savings plan (1962) whose for-profit arm, Progress Investment Associates, built Progress Plaza (1968), billed as the nation's first Black-owned and developed shopping center.",
+  "legacy": "Founded Opportunities Industrialization Centers (1964), became the first Black director of General Motors (1971) and wrote the Sullivan Principles for companies in apartheid South Africa.",
+  "breakthroughDetail": [
+   {
+    "t": "10-36 Plan.",
+    "d": "Congregants invested $10 a month for 36 months, split between a charitable trust and a for-profit company.",
+    "basis": "documented"
+   },
+   {
+    "t": "Progress Plaza, 1968.",
+    "d": "First Black-owned and developed shopping center in the U.S.",
+    "basis": "documented"
+   },
+   {
+    "t": "GM board, 1971.",
+    "d": "First African American on the board of a major U.S. corporation, serving more than 20 years.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "OIC.",
+    "d": "Job-training network founded in an abandoned North Philadelphia jail in 1964.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sullivan Principles.",
+    "d": "1977 corporate code of conduct for South Africa; Global Sullivan Principles in 1997.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Leon Sullivan",
+    "url": "https://en.wikipedia.org/wiki/Leon_Sullivan"
+   },
+   {
+    "label": "Wikipedia — West Virginia State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/West_Virginia_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "west-virginia-state-university",
+    "type": "alumni",
+    "label": "attended (scholarship athlete)"
+   },
+   {
+    "id": "progress-investment-associates",
+    "type": "ownership",
+    "label": "founder (10-36 Plan)"
+   },
+   {
+    "id": "opportunities-industrialization-centers",
+    "type": "ownership",
+    "label": "founder 1964"
+   },
+   {
+    "id": "general-motors",
+    "type": "board",
+    "label": "director 1971–1990s"
+   }
+  ]
+ },
+ {
+  "id": "zirl-a-palmer",
+  "name": "Zirl A. Palmer",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1919–1982",
+  "base": "Lexington, KY",
+  "industry": "Pharmacy Retail",
+  "originBadge": "Coalfield Native",
+  "engineBadge": "Neighborhood Pharmacy",
+  "capitalBadge": "Rexall Franchise",
+  "hbcuStory": "Born in Bluefield, West Virginia, he attended Bluefield State College and Howard University before earning a pharmacy degree at Xavier University of Louisiana with state aid, since West Virginia barred Black students from its professional schools.",
+  "humbleBeginnings": "Grew up in segregated southern West Virginia.",
+  "breakthrough": "Opened Palmer Pharmacy in Lexington's East End in 1951–52 — Rexall's first Black-owned store — and added a West End location in 1961 combining pharmacy, luncheonette and doctors' offices.",
+  "legacy": "A third store was destroyed by a Ku Klux Klan bomb in 1968; he became the first Black trustee of the University of Kentucky (1972–1979).",
+  "breakthroughDetail": [
+   {
+    "t": "First Black-owned Rexall.",
+    "d": "Palmer Pharmacy opened in Lexington's East End.",
+    "basis": "documented"
+   },
+   {
+    "t": "Own soda fountain.",
+    "d": "Built a luncheonette where Black customers were refused elsewhere.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "UK Board of Trustees.",
+    "d": "First Black member, appointed 1972.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Zirl A. Palmer",
+    "url": "https://en.wikipedia.org/wiki/Zirl_A._Palmer"
+   },
+   {
+    "label": "AJC Sepia — HBCU of the Week: Bluefield State College",
+    "url": "https://www.ajc.com/news/local-education/ajc-sepia-hbcu-the-week-bluefield-state-college-notable-graduates/tGiL3novPpk2HvZebjkd1O/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bluefield-state-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "pharmacy degree"
+   },
+   {
+    "id": "palmer-pharmacy",
+    "type": "ownership",
+    "label": "founder 1951–52"
+   }
+  ]
+ },
+ {
+  "id": "luke-lawal-jr",
+  "name": "Luke Lawal Jr.",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Maryland",
+  "industry": "Digital Media / Apps",
+  "originBadge": "Dorm-Room Founder",
+  "engineBadge": "HBCU Digital Media",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated from Bowie State in 2011; he started HBCU Buzz from his dorm room as a junior.",
+  "humbleBeginnings": "Began building media as an undergraduate with no outside funding.",
+  "breakthrough": "Grew HBCU Buzz into a leading digital outlet covering HBCUs, reaching its 10th anniversary.",
+  "legacy": "As CEO of L & Company, runs ventures including Taper (a barber/stylist app) and Root Care Health.",
+  "breakthroughDetail": [
+   {
+    "t": "HBCU Buzz.",
+    "d": "Launched from a Bowie State dorm room.",
+    "basis": "documented"
+   },
+   {
+    "t": "Serial founder.",
+    "d": "L & Company, Taper and Root Care Health.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "HBCU media voice.",
+    "d": "Built a platform amplifying HBCU news nationally.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "AFRO — Bowie State alumnus makes waves as serial entrepreneur",
+    "url": "https://afro.com/bowie-state-university-alumnus-makes-waves-as-serial-entrepreneur/"
+   },
+   {
+    "label": "Bowie State — Black Innovator Talks celebrates entrepreneurial spirit",
+    "url": "https://bowiestate.edu/about/news/2020/black-innovator-talks-at-bsu-celebrates-entrepreneurial-spirit.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bowie-state-university",
+    "type": "alumni",
+    "label": "2011"
+   },
+   {
+    "id": "hbcu-buzz",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "j-r-clifford",
+  "name": "J. R. Clifford",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1848–1933",
+  "base": "Martinsburg, WV",
+  "industry": "Newspaper Publishing / Law",
+  "originBadge": "Civil War Veteran",
+  "engineBadge": "Black Weekly Newspaper",
+  "capitalBadge": "Subscriptions & Law Practice",
+  "hbcuStory": "Graduated from Storer College in 1878 after enrolling in the early 1870s; he later helped organize the Niagara Movement's 1906 meeting on Storer's campus.",
+  "humbleBeginnings": "Born in 1848 in Williamsport, Virginia (now West Virginia).",
+  "breakthrough": "Published The Pioneer Press weekly from 1882 to 1917 and in 1887 became the first African American admitted to the West Virginia bar.",
+  "legacy": "Won Williams v. Board of Education (1898) against shortened school terms for Black children and was a founding member of the Niagara Movement.",
+  "breakthroughDetail": [
+   {
+    "t": "The Pioneer Press, 1882–1917.",
+    "d": "Long-running Black weekly he owned and edited.",
+    "basis": "documented"
+   },
+   {
+    "t": "First Black lawyer in WV.",
+    "d": "Admitted to the state bar in 1887.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Niagara Movement.",
+    "d": "Founding member; helped bring the 1906 meeting to Harpers Ferry.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — J. R. Clifford",
+    "url": "https://en.wikipedia.org/wiki/J._R._Clifford"
+   },
+   {
+    "label": "Wikipedia — Storer College",
+    "url": "https://en.wikipedia.org/wiki/Storer_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "storer-college",
+    "type": "alumni",
+    "label": "graduated 1878"
+   },
+   {
+    "id": "the-pioneer-press",
+    "type": "ownership",
+    "label": "publisher 1882–1917"
+   }
+  ]
+ },
+ {
+  "id": "thurgood-marshall",
+  "name": "Thurgood Marshall",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1908–1993",
+  "base": "Washington, DC",
+  "industry": "Law / Civil Rights",
+  "originBadge": "Baltimore Porter's Son",
+  "engineBadge": "Civil Rights Litigation",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Lincoln University (Pennsylvania) in 1930, then Howard University School of Law.",
+  "humbleBeginnings": "Grew up in Baltimore; denied admission to the University of Maryland's segregated law school.",
+  "breakthrough": "As NAACP Legal Defense Fund chief counsel he won Brown v. Board of Education (1954).",
+  "legacy": "First African American U.S. Supreme Court justice (1967–1991).",
+  "breakthroughDetail": [
+   {
+    "t": "Brown v. Board.",
+    "d": "Argued and won the 1954 school-desegregation case.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Supreme Court.",
+    "d": "Served 24 years on the Court.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Thurgood Marshall",
+    "url": "https://en.wikipedia.org/wiki/Thurgood_Marshall"
+   },
+   {
+    "label": "Wikipedia — List of Lincoln University (Pennsylvania) alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Lincoln_University_(Pennsylvania)_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "alumni",
+    "label": "B.A. 1930"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "LL.B. 1933"
+   }
+  ]
+ },
+ {
+  "id": "langston-hughes",
+  "name": "Langston Hughes",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1901–1967",
+  "base": "New York, NY",
+  "industry": "Literature",
+  "originBadge": "Busboy Poet",
+  "engineBadge": "Harlem Renaissance",
+  "capitalBadge": "Royalties & Patronage",
+  "hbcuStory": "Earned his B.A. from Lincoln University (Pennsylvania) in 1929 after leaving Columbia.",
+  "humbleBeginnings": "Worked as a busboy and seaman before his poetry drew notice.",
+  "breakthrough": "Became a central voice of the Harlem Renaissance with 'The Weary Blues' (1926).",
+  "legacy": "Lincoln's library is named the Langston Hughes Memorial Library.",
+  "breakthroughDetail": [
+   {
+    "t": "Harlem Renaissance.",
+    "d": "Poet, novelist, playwright and columnist.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Lincoln library.",
+    "d": "The university library bears his name.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Langston Hughes",
+    "url": "https://en.wikipedia.org/wiki/Langston_Hughes"
+   },
+   {
+    "label": "Wikipedia — List of Lincoln University (Pennsylvania) alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Lincoln_University_(Pennsylvania)_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "alumni",
+    "label": "B.A. 1929"
+   }
+  ]
+ },
+ {
+  "id": "kwame-nkrumah",
+  "name": "Kwame Nkrumah",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1909–1972",
+  "base": "Accra, Ghana",
+  "industry": "Head of State",
+  "originBadge": "Gold Coast Teacher",
+  "engineBadge": "Independence Movement",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Lincoln University (Pennsylvania) in 1939 and later studied at Penn.",
+  "humbleBeginnings": "A Gold Coast schoolteacher who came to the U.S. for college.",
+  "breakthrough": "Led the Gold Coast to independence as Ghana in 1957.",
+  "legacy": "Ghana's first prime minister and president; a founder of Pan-Africanist politics.",
+  "breakthroughDetail": [
+   {
+    "t": "Ghana independence.",
+    "d": "First sub-Saharan colony to win independence, 1957.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Pan-Africanism.",
+    "d": "Co-founded the Organisation of African Unity (1963).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Kwame Nkrumah",
+    "url": "https://en.wikipedia.org/wiki/Kwame_Nkrumah"
+   },
+   {
+    "label": "Wikipedia — List of Lincoln University (Pennsylvania) alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Lincoln_University_(Pennsylvania)_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "alumni",
+    "label": "B.A. 1939"
+   }
+  ]
+ },
+ {
+  "id": "nnamdi-azikiwe",
+  "name": "Nnamdi Azikiwe",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1904–1996",
+  "base": "Lagos, Nigeria",
+  "industry": "Head of State / Press",
+  "originBadge": "Storer to Lincoln",
+  "engineBadge": "Nationalist Newspapers",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Studied at Storer College (1925–27) and Howard University before graduating from Lincoln University (Pennsylvania) in 1930.",
+  "humbleBeginnings": "Came to the U.S. from colonial Nigeria and worked his way through school.",
+  "breakthrough": "Returned to West Africa as a nationalist journalist and newspaper publisher.",
+  "legacy": "First president of Nigeria (1963–1966).",
+  "breakthroughDetail": [
+   {
+    "t": "Three HBCUs.",
+    "d": "Storer, Howard and Lincoln.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Nigerian independence.",
+    "d": "Led the nationalist movement to independence in 1960.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Nnamdi Azikiwe",
+    "url": "https://en.wikipedia.org/wiki/Nnamdi_Azikiwe"
+   },
+   {
+    "label": "Wikipedia — List of Lincoln University (Pennsylvania) alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Lincoln_University_(Pennsylvania)_alumni"
+   },
+   {
+    "label": "Wikipedia — Storer College",
+    "url": "https://en.wikipedia.org/wiki/Storer_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-pennsylvania",
+    "type": "alumni",
+    "label": "B.A. 1930"
+   },
+   {
+    "id": "storer-college",
+    "type": "alumni",
+    "label": "attended 1925–27"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "attended"
+   }
+  ]
+ },
+ {
+  "id": "kweisi-mfume",
+  "name": "Kweisi Mfume",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1948",
+  "base": "Baltimore, MD",
+  "industry": "Politics / Civil Rights",
+  "originBadge": "Baltimore Streets",
+  "engineBadge": "Civil Rights Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Morgan State in 1976.",
+  "humbleBeginnings": "Grew up in West Baltimore and turned his life around after a rough youth.",
+  "breakthrough": "Elected to Congress from Maryland and later president of the NAACP.",
+  "legacy": "Returned to Congress representing Baltimore.",
+  "breakthroughDetail": [
+   {
+    "t": "NAACP president.",
+    "d": "Led the NAACP after leaving Congress in 1996.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Congress.",
+    "d": "Represents Maryland's 7th district.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Kweisi Mfume",
+    "url": "https://en.wikipedia.org/wiki/Kweisi_Mfume"
+   },
+   {
+    "label": "Wikipedia — List of Morgan State University alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Morgan_State_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.S. 1976"
+   }
+  ]
+ },
+ {
+  "id": "parren-mitchell",
+  "name": "Parren Mitchell",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1922–2007",
+  "base": "Baltimore, MD",
+  "industry": "Politics / Minority Business Policy",
+  "originBadge": "WWII Officer",
+  "engineBadge": "Minority Contracting Law",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Morgan State College in 1950.",
+  "humbleBeginnings": "Baltimore native and World War II officer.",
+  "breakthrough": "Maryland's first Black congressman (1971–1987); wrote the 10% minority set-aside for federal public-works contracts.",
+  "legacy": "Champion of Black-owned business as chair of the House Small Business Committee.",
+  "breakthroughDetail": [
+   {
+    "t": "Set-aside law.",
+    "d": "His 1977 amendment reserved a share of federal public-works dollars for minority businesses.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Small Business Committee chair.",
+    "d": "First Black chair of the committee.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Parren Mitchell",
+    "url": "https://en.wikipedia.org/wiki/Parren_Mitchell"
+   },
+   {
+    "label": "Wikipedia — List of Morgan State University alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Morgan_State_University_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.A. 1950"
+   }
+  ]
+ },
+ {
+  "id": "valerie-thomas",
+  "name": "Valerie L. Thomas",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1943",
+  "base": "Maryland",
+  "industry": "Space Science / Imaging",
+  "originBadge": "Physics Major",
+  "engineBadge": "NASA Imaging",
+  "capitalBadge": "Federal Career",
+  "hbcuStory": "Earned a physics degree from Morgan State in 1964.",
+  "humbleBeginnings": "One of very few women physics majors of her era.",
+  "breakthrough": "At NASA she developed image-processing systems for Landsat and patented the illusion transmitter.",
+  "legacy": "Often called a pioneer of 3D imaging.",
+  "breakthroughDetail": [
+   {
+    "t": "Illusion transmitter.",
+    "d": "Patented 3D-imaging technology.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NASA career.",
+    "d": "Long career at Goddard Space Flight Center.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Valerie Thomas",
+    "url": "https://en.wikipedia.org/wiki/Valerie_Thomas"
+   },
+   {
+    "label": "Morgan State — Morgan State is Black History!",
+    "url": "https://www.morgan.edu/about/blackhistorymonth"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "alumni",
+    "label": "B.S. Physics 1964"
+   }
+  ]
+ },
+ {
+  "id": "ed-bradley",
+  "name": "Ed Bradley",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1941–2006",
+  "base": "New York, NY",
+  "industry": "Broadcast Journalism",
+  "originBadge": "Philly Teacher",
+  "engineBadge": "Network News",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Graduated from Cheyney State College in 1964 with an education degree.",
+  "humbleBeginnings": "Taught school in Philadelphia while working nights at a radio station.",
+  "breakthrough": "Joined CBS News and became a long-running correspondent on 60 Minutes.",
+  "legacy": "Won numerous Emmys and a Peabody.",
+  "breakthroughDetail": [
+   {
+    "t": "60 Minutes.",
+    "d": "Correspondent from 1981 until his death.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Broadcast pioneer.",
+    "d": "One of the first Black network TV correspondents.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ed Bradley",
+    "url": "https://en.wikipedia.org/wiki/Ed_Bradley"
+   },
+   {
+    "label": "Wikipedia — List of Cheyney University of Pennsylvania alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Cheyney_University_of_Pennsylvania_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "alumni",
+    "label": "B.S. Education 1964"
+   }
+  ]
+ },
+ {
+  "id": "bayard-rustin",
+  "name": "Bayard Rustin",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1912–1987",
+  "base": "New York, NY",
+  "industry": "Civil Rights",
+  "originBadge": "Quaker-Raised Activist",
+  "engineBadge": "Movement Strategy",
+  "capitalBadge": "Movement Organizing",
+  "hbcuStory": "Attended Cheyney (then a state teachers college) in the 1930s.",
+  "humbleBeginnings": "Raised by Quaker-influenced grandparents in West Chester, Pennsylvania.",
+  "breakthrough": "Chief organizer of the 1963 March on Washington.",
+  "legacy": "Awarded the Presidential Medal of Freedom posthumously (2013).",
+  "breakthroughDetail": [
+   {
+    "t": "March on Washington.",
+    "d": "Organized the 1963 march.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Nonviolence strategist.",
+    "d": "Adviser to Martin Luther King Jr.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Bayard Rustin",
+    "url": "https://en.wikipedia.org/wiki/Bayard_Rustin"
+   },
+   {
+    "label": "Wikipedia — List of Cheyney University of Pennsylvania alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Cheyney_University_of_Pennsylvania_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "attended"
+   }
+  ]
+ },
+ {
+  "id": "octavius-catto",
+  "name": "Octavius Catto",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1839–1871",
+  "base": "Philadelphia, PA",
+  "industry": "Education / Civil Rights",
+  "originBadge": "ICY Valedictorian",
+  "engineBadge": "Civil Rights Organizing",
+  "capitalBadge": "Teaching Salary",
+  "hbcuStory": "Valedictorian of the Institute for Colored Youth in 1858 and later a teacher there.",
+  "humbleBeginnings": "Son of a Presbyterian minister in Philadelphia.",
+  "breakthrough": "Fought to desegregate Philadelphia streetcars and founded the Pythians baseball club.",
+  "legacy": "Murdered on Election Day 1871 while defending Black voting rights.",
+  "breakthroughDetail": [
+   {
+    "t": "Streetcar desegregation.",
+    "d": "Helped win Pennsylvania's 1867 ban on streetcar segregation.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Statue at City Hall.",
+    "d": "Philadelphia's first public statue of an individual African American (2017).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Octavius Catto",
+    "url": "https://en.wikipedia.org/wiki/Octavius_Catto"
+   },
+   {
+    "label": "Wikipedia — List of Cheyney University of Pennsylvania alumni",
+    "url": "https://en.wikipedia.org/wiki/List_of_Cheyney_University_of_Pennsylvania_alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "alumni",
+    "label": "ICY 1858"
+   },
+   {
+    "id": "cheyney-university-of-pennsylvania",
+    "type": "faculty",
+    "label": "ICY teacher"
+   }
+  ]
+ },
+ {
+  "id": "katherine-johnson",
+  "name": "Katherine Johnson",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1918–2020",
+  "base": "Hampton, VA",
+  "industry": "Aerospace Mathematics",
+  "originBadge": "Prodigy",
+  "engineBadge": "NASA Orbital Math",
+  "capitalBadge": "Federal Career",
+  "hbcuStory": "Graduated from West Virginia State College in 1937 with degrees in mathematics and French; a campus statue honors her.",
+  "humbleBeginnings": "A math prodigy from White Sulphur Springs, West Virginia, who entered college at 14.",
+  "breakthrough": "Calculated trajectories for NASA's early crewed missions, including John Glenn's orbit.",
+  "legacy": "Awarded the Presidential Medal of Freedom (2015); subject of 'Hidden Figures.'",
+  "breakthroughDetail": [
+   {
+    "t": "Glenn's orbit.",
+    "d": "Verified the computer's calculations for Friendship 7.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Medal of Freedom.",
+    "d": "Awarded 2015.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Katherine Johnson",
+    "url": "https://en.wikipedia.org/wiki/Katherine_Johnson"
+   },
+   {
+    "label": "Wikipedia — West Virginia State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/West_Virginia_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "west-virginia-state-university",
+    "type": "alumni",
+    "label": "B.S. 1937"
+   }
+  ]
+ },
+ {
+  "id": "earl-lloyd",
+  "name": "Earl Lloyd",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1928–2015",
+  "base": "Detroit, MI",
+  "industry": "Professional Basketball",
+  "originBadge": "Alexandria Native",
+  "engineBadge": "NBA Integration",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Starred for West Virginia State, graduating in 1950; a statue of him stands in the campus convocation center.",
+  "humbleBeginnings": "Grew up in segregated Alexandria, Virginia.",
+  "breakthrough": "In 1950 became the first African American to play in an NBA game.",
+  "legacy": "Later a pioneering Black NBA assistant coach and Basketball Hall of Fame inductee (2003).",
+  "breakthroughDetail": [
+   {
+    "t": "NBA first.",
+    "d": "Played for the Washington Capitols on October 31, 1950.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Inducted as a contributor, 2003.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Earl Lloyd",
+    "url": "https://en.wikipedia.org/wiki/Earl_Lloyd"
+   },
+   {
+    "label": "Wikipedia — West Virginia State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/West_Virginia_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "west-virginia-state-university",
+    "type": "alumni",
+    "label": "B.S. 1950"
+   }
+  ]
+ },
+ {
+  "id": "damon-keith",
+  "name": "Damon Keith",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1922–2019",
+  "base": "Detroit, MI",
+  "industry": "Federal Judiciary",
+  "originBadge": "Grandson of Slaves",
+  "engineBadge": "Civil Liberties Law",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from West Virginia State College in 1943, then Howard Law.",
+  "humbleBeginnings": "Grandson of enslaved people, raised in Detroit.",
+  "breakthrough": "Appointed to the federal bench in 1967 and the Sixth Circuit in 1977.",
+  "legacy": "Wrote 'Democracies die behind closed doors' in a landmark 2002 opinion.",
+  "breakthroughDetail": [
+   {
+    "t": "Sixth Circuit.",
+    "d": "Served more than 40 years as a federal judge.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Civil liberties.",
+    "d": "Known for rulings against warrantless wiretaps and secret deportation hearings.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Damon Keith",
+    "url": "https://en.wikipedia.org/wiki/Damon_Keith"
+   },
+   {
+    "label": "Wikipedia — West Virginia State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/West_Virginia_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "west-virginia-state-university",
+    "type": "alumni",
+    "label": "B.A. 1943"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "LL.B."
+   }
+  ]
+ },
+ {
+  "id": "art-shell",
+  "name": "Art Shell",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1946",
+  "base": "Oakland, CA",
+  "industry": "Professional Football",
+  "originBadge": "Charleston Lineman",
+  "engineBadge": "NFL Coaching",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Graduated from Maryland State College (now UMES) in 1968.",
+  "humbleBeginnings": "Grew up in North Charleston, South Carolina.",
+  "breakthrough": "Hall of Fame offensive tackle for the Raiders; in 1989 became the NFL's first Black head coach of the modern era.",
+  "legacy": "Pro Football Hall of Fame (1989).",
+  "breakthroughDetail": [
+   {
+    "t": "Coaching first.",
+    "d": "Named Los Angeles Raiders head coach in 1989.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Inducted 1989.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Art Shell",
+    "url": "https://en.wikipedia.org/wiki/Art_Shell"
+   },
+   {
+    "label": "Wikipedia — University of Maryland Eastern Shore (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/University_of_Maryland_Eastern_Shore"
+   }
+  ],
+  "connections": [
+   {
+    "id": "university-of-maryland-eastern-shore",
+    "type": "alumni",
+    "label": "1968"
+   }
+  ]
+ },
+ {
+  "id": "earl-s-richardson",
+  "name": "Earl S. Richardson",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1943",
+  "base": "Baltimore, MD",
+  "industry": "Higher Education",
+  "originBadge": "Eastern Shore Native",
+  "engineBadge": "University Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Maryland State College (now UMES) in 1965.",
+  "humbleBeginnings": "Grew up on Maryland's Eastern Shore.",
+  "breakthrough": "President of Morgan State University from 1984 to 2010.",
+  "legacy": "Oversaw major campus growth at Morgan.",
+  "breakthroughDetail": [
+   {
+    "t": "Morgan president.",
+    "d": "Led Morgan for 26 years.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Two-campus link.",
+    "d": "A UMES alumnus leading UMES's parent institution.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Earl S. Richardson",
+    "url": "https://en.wikipedia.org/wiki/Earl_S._Richardson"
+   },
+   {
+    "label": "Wikipedia — University of Maryland Eastern Shore (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/University_of_Maryland_Eastern_Shore"
+   }
+  ],
+  "connections": [
+   {
+    "id": "university-of-maryland-eastern-shore",
+    "type": "alumni",
+    "label": "1965"
+   },
+   {
+    "id": "morgan-state-university",
+    "type": "faculty",
+    "label": "president 1984–2010"
+   }
+  ]
+ },
+ {
+  "id": "christa-mcauliffe",
+  "name": "Christa McAuliffe",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1948–1986",
+  "base": "Concord, NH",
+  "industry": "Education / Spaceflight",
+  "originBadge": "Social Studies Teacher",
+  "engineBadge": "Teacher in Space",
+  "capitalBadge": "Public Service",
+  "hbcuStory": "Earned an M.A. in education from Bowie State in 1978.",
+  "humbleBeginnings": "A high-school social studies teacher.",
+  "breakthrough": "Selected for NASA's Teacher in Space Project.",
+  "legacy": "Died in the Space Shuttle Challenger disaster (1986).",
+  "breakthroughDetail": [
+   {
+    "t": "Teacher in Space.",
+    "d": "Chosen from more than 11,000 applicants.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Legacy.",
+    "d": "Schools and a planetarium bear her name.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Christa McAuliffe",
+    "url": "https://en.wikipedia.org/wiki/Christa_McAuliffe"
+   },
+   {
+    "label": "Wikipedia — Bowie State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Bowie_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bowie-state-university",
+    "type": "alumni",
+    "label": "M.A. 1978"
+   }
+  ]
+ },
+ {
+  "id": "toni-braxton",
+  "name": "Toni Braxton",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1967",
+  "base": "Los Angeles, CA",
+  "industry": "Music",
+  "originBadge": "Maryland Preacher's Daughter",
+  "engineBadge": "R&B Recording",
+  "capitalBadge": "Royalties",
+  "hbcuStory": "Attended Bowie State but did not graduate.",
+  "humbleBeginnings": "Grew up in Severn, Maryland, the daughter of a minister.",
+  "breakthrough": "Multi-Grammy-winning R&B singer ('Un-Break My Heart').",
+  "legacy": "Co-starred with her sisters (also Bowie State attendees) in the reality series Braxton Family Values.",
+  "breakthroughDetail": [
+   {
+    "t": "Grammys.",
+    "d": "Seven-time Grammy winner.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family franchise.",
+    "d": "Built a family entertainment brand with her sisters.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Toni Braxton",
+    "url": "https://en.wikipedia.org/wiki/Toni_Braxton"
+   },
+   {
+    "label": "Wikipedia — Bowie State University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Bowie_State_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bowie-state-university",
+    "type": "alumni",
+    "label": "attended"
+   }
+  ]
+ },
+ {
+  "id": "don-redman",
+  "name": "Don Redman",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1900–1964",
+  "base": "New York, NY",
+  "industry": "Jazz",
+  "originBadge": "Child Prodigy",
+  "engineBadge": "Big-Band Arranging",
+  "capitalBadge": "Royalties",
+  "hbcuStory": "Graduated from Storer College in 1920; Harpers Ferry National Historical Park honors him with an annual jazz concert.",
+  "humbleBeginnings": "A musical prodigy from Piedmont, West Virginia.",
+  "breakthrough": "Arranger for the Fletcher Henderson Orchestra who helped invent big-band swing arranging.",
+  "legacy": "Called 'The Little Giant of Jazz.'",
+  "breakthroughDetail": [
+   {
+    "t": "Swing architect.",
+    "d": "His Henderson arrangements shaped big-band jazz.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NPS tribute.",
+    "d": "Annual Don Redman Heritage concert at Harpers Ferry.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Don Redman",
+    "url": "https://en.wikipedia.org/wiki/Don_Redman"
+   },
+   {
+    "label": "Wikipedia — Storer College",
+    "url": "https://en.wikipedia.org/wiki/Storer_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "storer-college",
+    "type": "alumni",
+    "label": "graduated 1920"
+   }
+  ]
+ },
+ {
+  "id": "benjamin-tucker-tanner",
+  "name": "Benjamin Tucker Tanner",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1835–1923",
+  "base": "Philadelphia, PA",
+  "industry": "Religion / Publishing",
+  "originBadge": "Pittsburgh Barber-Student",
+  "engineBadge": "Church Press",
+  "capitalBadge": "Church Office",
+  "hbcuStory": "Studied at Avery College in Allegheny City (Pittsburgh).",
+  "humbleBeginnings": "Born free in Pittsburgh.",
+  "breakthrough": "Edited the AME Church's Christian Recorder and founded the A.M.E. Church Review.",
+  "legacy": "Elected an AME bishop; father of painter Henry Ossawa Tanner.",
+  "breakthroughDetail": [
+   {
+    "t": "Church editor.",
+    "d": "Long-time editor of the Christian Recorder.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "AME bishop.",
+    "d": "Elected 1888.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Benjamin Tucker Tanner",
+    "url": "https://en.wikipedia.org/wiki/Benjamin_Tucker_Tanner"
+   },
+   {
+    "label": "Wikipedia — Avery College",
+    "url": "https://en.wikipedia.org/wiki/Avery_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "avery-college",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "ame-church",
+    "type": "civic",
+    "label": "bishop and editor"
+   }
+  ]
+ },
+ {
+  "id": "black-enterprise",
+  "name": "Black Enterprise (Earl G. Graves, Ltd.)",
+  "type": "entity",
+  "kind": "Media / Publishing Company",
+  "description": "Business magazine and media brand founded by Earl G. Graves Sr. in 1970, known for the BE 100s list of Black-owned companies.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "pepsi-cola-bottling-company-of-washington-dc",
+  "name": "Pepsi-Cola Bottling Company of Washington, D.C.",
+  "type": "entity",
+  "kind": "Bottling Franchise",
+  "description": "Pepsi bottling franchise bought in 1990 by Earl G. Graves Sr. and Magic Johnson and sold back to Pepsi in 1998.",
+  "gics": {
+   "sub": "Soft Drinks & Non-alcoholic Beverages",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "def-jam-recordings",
+  "name": "Def Jam Recordings",
+  "type": "entity",
+  "kind": "Record Label",
+  "description": "Hip-hop record label where Kevin Liles rose from intern to president.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "warner-music-group",
+  "name": "Warner Music Group",
+  "type": "entity",
+  "kind": "Music Company",
+  "description": "Major music company (NASDAQ: WMG).",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "300-entertainment",
+  "name": "300 Entertainment",
+  "type": "entity",
+  "kind": "Record Label",
+  "description": "Record label co-founded in 2012 by Kevin Liles, Lyor Cohen, Roger Gold and Todd Moscowitz.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-harbor-bank-of-maryland",
+  "name": "The Harbor Bank of Maryland",
+  "type": "entity",
+  "kind": "Black-Owned Commercial Bank",
+  "description": "Baltimore Minority Depository Institution and CDFI founded in 1982.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "first-union-securities",
+  "name": "First Union Securities",
+  "type": "entity",
+  "kind": "Brokerage",
+  "description": "Securities arm of First Union Corp. (later part of Wells Fargo), where Willie Lanier was vice-chairman.",
+  "gics": {
+   "sub": "Investment Banking & Brokerage",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "lanier-group",
+  "name": "Lanier Group LLC",
+  "type": "entity",
+  "kind": "Investment Firm",
+  "description": "Virginia-based investment firm directed by Willie Lanier.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "greyhound-lines",
+  "name": "Greyhound Lines",
+  "type": "entity",
+  "kind": "Intercity Bus Company",
+  "description": "U.S. intercity bus carrier where Joe Black became a vice president.",
+  "gics": {
+   "sub": "Passenger Ground Transportation",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "united-parcel-service",
+  "name": "United Parcel Service (UPS)",
+  "type": "entity",
+  "kind": "Package Delivery Company",
+  "description": "Global package-delivery company (NYSE: UPS).",
+  "gics": {
+   "sub": "Air Freight & Logistics",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "combs-enterprises",
+  "name": "Combs Enterprises",
+  "type": "entity",
+  "kind": "Holding Company",
+  "description": "Sean Combs' holding company spanning spirits, fashion, media and schools; Dia Simms was its first president.",
+  "gics": {
+   "sub": "Multi-Sector Holdings",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "lobos-1707",
+  "name": "Lobos 1707 Tequila & Mezcal",
+  "type": "entity",
+  "kind": "Spirits Brand",
+  "description": "Tequila and mezcal brand founded by Diego Osorio and backed by LeBron James.",
+  "gics": {
+   "sub": "Distillers & Vintners",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "netflix",
+  "name": "Netflix",
+  "type": "entity",
+  "kind": "Streaming Studio",
+  "description": "Streaming entertainment company (NASDAQ: NFLX).",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "altus-technology-solutions",
+  "name": "Altus Technology Solutions",
+  "type": "entity",
+  "kind": "Federal Contractor",
+  "description": "Engineering, IT and range-operations contractor to the federal government, founded in 2004.",
+  "gics": {
+   "sub": "IT Consulting & Other Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "smoot-construction",
+  "name": "Smoot Construction Company",
+  "type": "entity",
+  "kind": "General Contractor",
+  "description": "Washington, D.C.-area construction firm.",
+  "gics": {
+   "sub": "Construction & Engineering",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "nellons-paige-group",
+  "name": "Nellons-Paige Group",
+  "type": "entity",
+  "kind": "Strategic Advisory Firm",
+  "description": "National strategic advisory firm co-founded by Stephanie D. Nellons-Paige.",
+  "gics": {
+   "sub": "IT Consulting & Other Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-philadelphia-tribune",
+  "name": "The Philadelphia Tribune",
+  "type": "entity",
+  "kind": "Newspaper",
+  "description": "Philadelphia's Black newspaper, founded 1884, led by Robert W. Bogle since 1989.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rap-snacks",
+  "name": "Rap Snacks",
+  "type": "entity",
+  "kind": "Snack Food Brand",
+  "description": "Hip-hop–themed snack brand founded by James Lindsay in 1994.",
+  "gics": {
+   "sub": "Packaged Foods & Meats",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "wade-ford",
+  "name": "Wade Ford",
+  "type": "entity",
+  "kind": "Auto Dealership",
+  "description": "Ford dealership in Smyrna, Georgia, owned by Steve Ewing from 2002.",
+  "gics": {
+   "sub": "Automotive Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "georgia-power",
+  "name": "Georgia Power",
+  "type": "entity",
+  "kind": "Electric Utility",
+  "description": "Electric utility subsidiary of Southern Company.",
+  "gics": {
+   "sub": "Electric Utilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rock-solid-construction",
+  "name": "Rock Solid Construction",
+  "type": "entity",
+  "kind": "Contractor",
+  "description": "Wilmington, Delaware commercial and residential contractor owned by Norman Oliver.",
+  "gics": {
+   "sub": "Construction & Engineering",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "new-york-amsterdam-news",
+  "name": "New York Amsterdam News",
+  "type": "entity",
+  "kind": "Newspaper",
+  "description": "Harlem-based Black weekly owned by the Tatum family.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "alexander-funeral-home",
+  "name": "Alexander Funeral Home",
+  "type": "entity",
+  "kind": "Funeral Home",
+  "description": "Charlotte family funeral business founded by Zechariah Alexander.",
+  "gics": {
+   "sub": "Specialized Consumer Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "mosaic-global-transportation",
+  "name": "Mosaic Global Transportation",
+  "type": "entity",
+  "kind": "Ground Transportation Company",
+  "description": "Minority-owned corporate shuttle and event-transport firm in California.",
+  "gics": {
+   "sub": "Passenger Ground Transportation",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "progress-investment-associates",
+  "name": "Progress Investment Associates",
+  "type": "entity",
+  "kind": "Community Development Company",
+  "description": "For-profit arm of Leon Sullivan's 10-36 Plan that developed Progress Plaza (1968).",
+  "gics": {
+   "sub": "Real Estate Development",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "opportunities-industrialization-centers",
+  "name": "Opportunities Industrialization Centers (OIC)",
+  "type": "entity",
+  "kind": "Job-Training Nonprofit",
+  "description": "National job-training network founded by Leon Sullivan in Philadelphia in 1964.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "general-motors",
+  "name": "General Motors",
+  "type": "entity",
+  "kind": "Automaker",
+  "description": "U.S. automaker (NYSE: GM); Leon Sullivan joined its board in 1971.",
+  "gics": {
+   "sub": "Automobile Manufacturers",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "palmer-pharmacy",
+  "name": "Palmer Pharmacy",
+  "type": "entity",
+  "kind": "Pharmacy",
+  "description": "Lexington, Kentucky pharmacy and Rexall franchise opened by Zirl A. Palmer.",
+  "gics": {
+   "sub": "Consumer Staples Merchandise Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "hbcu-buzz",
+  "name": "HBCU Buzz",
+  "type": "entity",
+  "kind": "Digital Media Outlet",
+  "description": "Digital media outlet covering HBCUs, founded by Luke Lawal Jr. at Bowie State.",
+  "gics": {
+   "sub": "Interactive Media & Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-pioneer-press",
+  "name": "The Pioneer Press",
+  "type": "entity",
+  "kind": "Newspaper",
+  "description": "Martinsburg, West Virginia Black weekly published by J. R. Clifford, 1882–1917.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ }
+]

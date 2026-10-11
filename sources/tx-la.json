@@ -1,0 +1,6250 @@
+[
+ {
+  "id": "prairie-view-a-and-m-university",
+  "name": "Prairie View A&M University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1876,
+  "closed": null,
+  "location": "Prairie View, TX",
+  "state": "TX",
+  "affiliation": "State of Texas (Texas A&M University System); 1890 land-grant",
+  "formerNames": [
+   "Alta Vista Agricultural and Mechanical College of Texas for Colored Youth",
+   "Prairie View State Normal School",
+   "Prairie View State Normal & Industrial College",
+   "Prairie View University",
+   "Prairie View A&M College of Texas"
+  ],
+  "fate": "",
+  "description": "Authorized by the Texas Legislature in 1876 as the Black branch of the Agricultural and Mechanical College of Texas, Prairie View opened in 1878 as Alta Vista Agricultural College with eight students. It became Texas' second-oldest public university and a pipeline of Black teachers, engineers and military officers. Its MBA program produced oil executive Kase Lawal, and its engineering school produced founder-engineers such as Freweini Mebrahtu.",
+  "facts": [
+   {
+    "t": "Second-oldest public university in Texas.",
+    "d": "Authorized in 1876 under the Morrill Act framework; eight students enrolled at Alta Vista Agricultural College in March 1878.",
+    "basis": "documented"
+   },
+   {
+    "t": "Renamed Prairie View A&M University in 1973.",
+    "d": "Earlier names include Prairie View State Normal & Industrial College and Prairie View A&M College of Texas.",
+    "basis": "documented"
+   },
+   {
+    "t": "Presidents with national profiles.",
+    "d": "Retired Lt. Gen. Julius Becton (1989–1994) and former Brown University president Ruth Simmons (2017–2023) both led the school.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Prairie View A&M University",
+    "url": "https://www.tshaonline.org/handbook/entries/prairie-view-a-m-university"
+   },
+   {
+    "label": "Wikipedia — Prairie View A&M University",
+    "url": "https://en.wikipedia.org/wiki/Prairie_View_A%26M_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member school"
+   }
+  ]
+ },
+ {
+  "id": "texas-southern-university",
+  "name": "Texas Southern University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Research university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1927,
+  "closed": null,
+  "location": "Houston, TX",
+  "state": "TX",
+  "affiliation": "State of Texas",
+  "formerNames": [
+   "Houston Colored Junior College",
+   "Houston College for Negroes",
+   "Texas State University for Negroes"
+  ],
+  "fate": "",
+  "description": "Begun in 1927 as Houston Colored Junior College holding evening classes at Jack Yates High School, the school became Houston College for Negroes and was taken over by the state in 1947 as Texas State University for Negroes — a response to Heman Sweatt's lawsuit against the University of Texas law school. It is home to the Thurgood Marshall School of Law and the Jesse H. Jones School of Business, and its alumni include Barbara Jordan, Mickey Leland, oil executive Kase Lawal and investment manager Gerald B. Smith.",
+  "facts": [
+   {
+    "t": "Born of a desegregation lawsuit.",
+    "d": "In 1947, amid Sweatt v. Painter, the Texas Legislature passed Senate Bill 140 creating Texas State University for Negroes and took over Houston College for Negroes as its base.",
+    "basis": "documented"
+   },
+   {
+    "t": "Land from an oilman.",
+    "d": "Hugh Roy Cullen donated the current campus site.",
+    "basis": "documented"
+   },
+   {
+    "t": "Business school legacy.",
+    "d": "The Jesse H. Jones School of Business hosts the Gerald B. Smith Center for Entrepreneurship and Innovation, endowed by alumnus Gerald B. Smith.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Texas Southern University",
+    "url": "https://en.wikipedia.org/wiki/Texas_Southern_University"
+   },
+   {
+    "label": "Texas Southern University — Jesse H. Jones School of Business alumni",
+    "url": "https://tsu.edu/academics/colleges-and-schools/jesse-h-jones-school-of-business/alumni"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member school"
+   }
+  ]
+ },
+ {
+  "id": "huston-tillotson-university",
+  "name": "Huston–Tillotson University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1875,
+  "closed": null,
+  "location": "Austin, TX",
+  "state": "TX",
+  "affiliation": "United Methodist Church; United Church of Christ",
+  "formerNames": [
+   "Huston–Tillotson College"
+  ],
+  "fate": "",
+  "description": "Austin's oldest institution of higher learning, Huston–Tillotson was formed on October 24, 1952 by the merger of Tillotson College (an American Missionary Association school) and Samuel Huston College (a Methodist Episcopal school). It became a university in 2005. Its alumni include U.S. Treasurer Azie Taylor Morton.",
+  "facts": [
+   {
+    "t": "1952 merger.",
+    "d": "Tillotson College and Samuel Huston College merged to form Huston–Tillotson College; it became Huston–Tillotson University on February 28, 2005.",
+    "basis": "documented"
+   },
+   {
+    "t": "Jackie Robinson connection.",
+    "d": "Before joining the Kansas City Monarchs, Jackie Robinson served as athletic director at Samuel Huston College and coached its 1944–45 basketball team.",
+    "basis": "documented"
+   },
+   {
+    "t": "U.S. Treasurer alumna.",
+    "d": "Azie Taylor Morton (B.S. 1956) became the only African American to serve as Treasurer of the United States.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Huston–Tillotson University",
+    "url": "https://en.wikipedia.org/wiki/Huston%E2%80%93Tillotson_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "Samuel Huston College roots (Methodist Episcopal)"
+   },
+   {
+    "id": "american-missionary-association",
+    "type": "origin",
+    "label": "Tillotson College roots (AMA)"
+   },
+   {
+    "id": "united-church-of-christ",
+    "type": "civic",
+    "label": "affiliated"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "samuel-huston-college",
+  "name": "Samuel Huston College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Methodist college",
+  "status": "Merged",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1876,
+  "closed": 1952,
+  "location": "Austin, TX",
+  "state": "TX",
+  "affiliation": "Methodist Episcopal Church (Freedmen's Aid Society)",
+  "formerNames": [],
+  "fate": "Merged with Tillotson College in 1952 to form Huston–Tillotson College.",
+  "description": "Samuel Huston College grew out of an 1876 Methodist Episcopal conference and was developed under an 1883 agreement with the Freedmen's Aid Society; it was named for Iowa donor Samuel Huston. Jackie Robinson worked there as athletic director and basketball coach in 1944–45 before his professional baseball career.",
+  "facts": [
+   {
+    "t": "Named for an Iowa benefactor.",
+    "d": "Named for Samuel Huston of Marengo, Iowa.",
+    "basis": "documented"
+   },
+   {
+    "t": "Jackie Robinson coached here.",
+    "d": "Robinson took the athletic director job at the invitation of college president Rev. Karl Downs.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Huston–Tillotson University (history)",
+    "url": "https://en.wikipedia.org/wiki/Huston%E2%80%93Tillotson_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded via Methodist Episcopal conference / Freedmen's Aid Society"
+   },
+   {
+    "id": "huston-tillotson-university",
+    "type": "lineage",
+    "label": "merged into Huston–Tillotson, 1952"
+   }
+  ]
+ },
+ {
+  "id": "tillotson-college",
+  "name": "Tillotson College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AMA college",
+  "status": "Merged",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1877,
+  "closed": 1952,
+  "location": "Austin, TX",
+  "state": "TX",
+  "affiliation": "American Missionary Association (Congregational)",
+  "formerNames": [
+   "Tillotson Collegiate and Normal Institute"
+  ],
+  "fate": "Merged with Samuel Huston College in 1952 to form Huston–Tillotson College.",
+  "description": "Chartered in 1877 by the American Missionary Association and named for Congregational minister George Jeffrey Tillotson, the school opened on January 17, 1881. It operated as a women's college from 1926 to 1935 before merging with Samuel Huston College in 1952.",
+  "facts": [
+   {
+    "t": "Opened in 1881.",
+    "d": "Tillotson Collegiate and Normal Institute opened January 17, 1881 after its 1877 charter.",
+    "basis": "documented"
+   },
+   {
+    "t": "Women's college era.",
+    "d": "It was a women's college from 1926 to 1935.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Huston–Tillotson University (history)",
+    "url": "https://en.wikipedia.org/wiki/Huston%E2%80%93Tillotson_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-missionary-association",
+    "type": "origin",
+    "label": "founded by"
+   },
+   {
+    "id": "huston-tillotson-university",
+    "type": "lineage",
+    "label": "merged into Huston–Tillotson, 1952"
+   }
+  ]
+ },
+ {
+  "id": "paul-quinn-college",
+  "name": "Paul Quinn College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Urban work college",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1872,
+  "closed": null,
+  "location": "Dallas, TX",
+  "state": "TX",
+  "affiliation": "African Methodist Episcopal Church",
+  "formerNames": [
+   "Connectional School for the Education of Negro Youth",
+   "Waco College"
+  ],
+  "fate": "",
+  "description": "Founded in Austin in 1872 by AME preachers, the school moved to Waco in 1877 and was chartered as Paul Quinn College in 1881. In 1990 it moved to Dallas onto the former Bishop College campus, acquired from businessman Comer Cottrell. Under president Michael Sorrell it became the nation's first urban work college and turned its football field into the WE over ME Farm with PepsiCo.",
+  "facts": [
+   {
+    "t": "Early HBCU west of the Mississippi.",
+    "d": "AME preachers founded it in Austin on April 4, 1872; it is described as the first HBCU established west of the Mississippi River.",
+    "basis": "documented"
+   },
+   {
+    "t": "Took over Bishop College's campus.",
+    "d": "Relocated to southeast Dallas in 1990 on the former Bishop College grounds.",
+    "basis": "documented"
+   },
+   {
+    "t": "Football field to farm.",
+    "d": "Sorrell ended football in 2007; the WE over ME Farm, created with PepsiCo, was dedicated in 2010.",
+    "basis": "documented"
+   },
+   {
+    "t": "Accreditation fight.",
+    "d": "SACS moved against its accreditation in 2009; the college joined TRACS in 2011.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Paul Quinn College",
+    "url": "https://en.wikipedia.org/wiki/Paul_Quinn_College"
+   },
+   {
+    "label": "Handbook of Texas — Bishop College (Paul Quinn occupies campus)",
+    "url": "https://www.tshaonline.org/handbook/entries/bishop-college"
+   }
+  ],
+  "connections": [
+   {
+    "id": "ame-church",
+    "type": "origin",
+    "label": "founded by AME preachers"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member (current or former)"
+   }
+  ]
+ },
+ {
+  "id": "wiley-university",
+  "name": "Wiley University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1873,
+  "closed": null,
+  "location": "Marshall, TX",
+  "state": "TX",
+  "affiliation": "United Methodist Church",
+  "formerNames": [
+   "Wiley College"
+  ],
+  "fate": "",
+  "description": "Founded in 1873 in Marshall by the Freedmen's Aid Society of the Methodist Episcopal Church and credited to Bishop Isaac Wiley, it is one of the oldest Black colleges west of the Mississippi. Melvin B. Tolson's debate teams — dramatized in The Great Debaters — beat national champion USC in 1935. Alumni include CORE co-founder James Farmer, Heman Sweatt, Opal Lee, and early Black bank founder H. Claude Hudson.",
+  "facts": [
+   {
+    "t": "The Great Debaters.",
+    "d": "Tolson's teams lost only 1 of 75 debates over 15 years; Denzel Washington gave $1 million in 2007 to restore the program.",
+    "basis": "documented"
+   },
+   {
+    "t": "Name restored in 2023.",
+    "d": "Known as Wiley College from 1929 to 2023, it returned to the Wiley University name with new graduate programs.",
+    "basis": "documented"
+   },
+   {
+    "t": "Oil money alumni.",
+    "d": "Alumnus Lee Wilder Thomas struck oil in the 1920 Mexia boom and later co-built Simmons Royalty Co. in Oklahoma.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Wiley University",
+    "url": "https://en.wikipedia.org/wiki/Wiley_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded by Freedmen's Aid Society of the M.E. Church"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "jarvis-christian-university",
+  "name": "Jarvis Christian University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Disciples of Christ",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1912,
+  "closed": null,
+  "location": "Hawkins, TX",
+  "state": "TX",
+  "affiliation": "Christian Church (Disciples of Christ)",
+  "formerNames": [
+   "Jarvis Christian Institute",
+   "Jarvis Christian College"
+  ],
+  "fate": "",
+  "description": "Planned by the Negro Disciples of Christ of Texas, the school was built on 456 acres donated by Major James Jones Jarvis and Ida Van Zandt Jarvis to the Christian Women's Board of Missions, on condition it remain a school for Black students. Instruction began in 1913. It is the only surviving HBCU of the twelve founded by the Disciples of Christ.",
+  "facts": [
+   {
+    "t": "Land-gift founding.",
+    "d": "The Jarvises donated 456 acres to the Christian Women's Board of Missions.",
+    "basis": "documented"
+   },
+   {
+    "t": "Last of the Disciples' Black colleges.",
+    "d": "Only HBCU remaining of the twelve founded by the Disciples of Christ.",
+    "basis": "documented"
+   },
+   {
+    "t": "University status in 2022–23.",
+    "d": "Renamed from Jarvis Christian College and added graduate programs in 2023.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Jarvis Christian University",
+    "url": "https://en.wikipedia.org/wiki/Jarvis_Christian_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "disciples-of-christ",
+    "type": "origin",
+    "label": "founded by"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "texas-college",
+  "name": "Texas College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · CME college",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1894,
+  "closed": null,
+  "location": "Tyler, TX",
+  "state": "TX",
+  "affiliation": "Christian Methodist Episcopal Church",
+  "formerNames": [
+   "Phillips University"
+  ],
+  "fate": "",
+  "description": "Founded January 9, 1894 in Tyler by ministers of the Colored (now Christian) Methodist Episcopal Church to serve Black students excluded from Texas' segregated universities. Briefly called Phillips University (1909–1912). Alumna Mildred Fay Jefferson became the first Black woman to graduate from Harvard Medical School.",
+  "facts": [
+   {
+    "t": "CME founding.",
+    "d": "Established by a group of CME ministers in 1894.",
+    "basis": "documented"
+   },
+   {
+    "t": "Phillips University interlude.",
+    "d": "Named for Bishop Henry Phillips 1909–1912 before becoming Texas College.",
+    "basis": "documented"
+   },
+   {
+    "t": "Historic library.",
+    "d": "The D.R. Glass Library (1948) is listed on the National Register of Historic Places.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Texas College",
+    "url": "https://en.wikipedia.org/wiki/Texas_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "cme-church",
+    "type": "origin",
+    "label": "founded by CME ministers"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "southwestern-christian-college",
+  "name": "Southwestern Christian College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Churches of Christ",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1948,
+  "closed": null,
+  "location": "Terrell, TX",
+  "state": "TX",
+  "affiliation": "Churches of Christ",
+  "formerNames": [
+   "Southern Bible Institute"
+  ],
+  "fate": "",
+  "description": "Founded in Fort Worth in 1948 as Southern Bible Institute by educator-minister G. P. Bowser, the school moved to Terrell in 1949 onto the former Texas Military College campus. Jack Evans Sr., its first Black president, led it for fifty years (1967–2017).",
+  "facts": [
+   {
+    "t": "Bought a military college campus.",
+    "d": "Moved to Terrell in fall 1949 after buying the closed Texas Military College campus.",
+    "basis": "documented"
+   },
+   {
+    "t": "Half-century presidency.",
+    "d": "Jack Evans Sr. served 1967–2017.",
+    "basis": "documented"
+   },
+   {
+    "t": "Accredited 1973.",
+    "d": "SACS accreditation to award associate and bachelor's degrees.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Southwestern Christian College",
+    "url": "https://en.wikipedia.org/wiki/Southwestern_Christian_College"
+   }
+  ],
+  "connections": [
+   {
+    "id": "churches-of-christ",
+    "type": "origin",
+    "label": "founded within"
+   }
+  ]
+ },
+ {
+  "id": "st-philips-college",
+  "name": "St. Philip's College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Community college",
+  "status": "Operating",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1898,
+  "closed": null,
+  "location": "San Antonio, TX",
+  "state": "TX",
+  "affiliation": "Founded by Episcopal Diocese of West Texas; now Alamo Colleges District",
+  "formerNames": [
+   "St. Philip's Normal and Industrial School",
+   "St. Philip's Junior College"
+  ],
+  "fate": "",
+  "description": "Founded March 1, 1898 by Episcopal Bishop James Steptoe Johnston as a weekend sewing class for six Black girls, St. Philip's grew under Artemisia Bowden — administrator for 52 years — into a high school and junior college. It joined San Antonio's public junior college system in 1942 and is the westernmost HBCU in the United States.",
+  "facts": [
+   {
+    "t": "Sewing class origins.",
+    "d": "Began with missionary Alice G. Cowan teaching six girls.",
+    "basis": "documented"
+   },
+   {
+    "t": "Artemisia Bowden era.",
+    "d": "Daughter of a formerly enslaved man, she led the school from 1902 for 52 years.",
+    "basis": "documented"
+   },
+   {
+    "t": "Westernmost HBCU.",
+    "d": "Public historically Black community college on San Antonio's East Side.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — St. Philip's College",
+    "url": "https://en.wikipedia.org/wiki/St._Philip%27s_College_(United_States)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "episcopal-church",
+    "type": "origin",
+    "label": "founded by Episcopal Bishop of West Texas"
+   }
+  ]
+ },
+ {
+  "id": "bishop-college",
+  "name": "Bishop College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist college",
+  "status": "Closed",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1881,
+  "closed": 1988,
+  "location": "Marshall, TX (later Dallas, TX)",
+  "state": "TX",
+  "affiliation": "American Baptist Home Mission Society",
+  "formerNames": [],
+  "fate": "Lost SACS accreditation in December 1986 under federal debt and falling enrollment, filed Chapter 11 in 1987 and closed in 1988; Paul Quinn College later took over the campus.",
+  "description": "Founded in Marshall in 1881 by the Baptist Home Mission Society and named for Nathan Bishop, the college moved to South Dallas in 1961 and became a major training ground for Black Baptist preachers. Alumni include publishing-and-banking pioneer R. H. Boyd, insurance and funeral magnate Mack H. Hannah Jr., novelist-publisher Sutton E. Griggs and Dallas pastor Frederick Haynes III.",
+  "facts": [
+   {
+    "t": "Moved to Dallas in 1961.",
+    "d": "Relocated from Marshall to a new South Dallas campus.",
+    "basis": "documented"
+   },
+   {
+    "t": "Collapse in the 1980s.",
+    "d": "SACS revoked accreditation in Dec. 1986, cutting off federal programs and UNCF funds; bankruptcy failed and the college closed in 1988.",
+    "basis": "documented"
+   },
+   {
+    "t": "Business alumni.",
+    "d": "R. H. Boyd built the National Baptist Publishing Board and a Nashville bank; Mack H. Hannah Jr. became perhaps the wealthiest Black Texan of his era.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Bishop College",
+    "url": "https://www.tshaonline.org/handbook/entries/bishop-college"
+   },
+   {
+    "label": "Wikipedia — List of HBCUs (defunct)",
+    "url": "https://en.wikipedia.org/wiki/List_of_historically_black_colleges_and_universities"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "founded by"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "former UNCF member"
+   },
+   {
+    "id": "paul-quinn-college",
+    "type": "parallel",
+    "label": "campus taken over by Paul Quinn, 1990"
+   }
+  ]
+ },
+ {
+  "id": "mary-allen-college",
+  "name": "Mary Allen College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Women's seminary / junior college",
+  "status": "Closed",
+  "control": "Private",
+  "level": "2-year",
+  "founded": 1886,
+  "closed": 1977,
+  "location": "Crockett, TX",
+  "state": "TX",
+  "affiliation": "Presbyterian Board of Missions for Freedmen; later General Missionary Baptist Convention of Texas",
+  "formerNames": [
+   "Mary Allen Seminary"
+  ],
+  "fate": "Closed in 1943 when Presbyterian funding ended, revived in 1944 under Black Baptist ownership, and finally closed after operating as a junior college until 1977.",
+  "description": "Rooted in Rev. Samuel Fisher Tenney's 1871 Crockett Presbyterian Sabbath School, Mary Allen opened in 1886 as a seminary for Black women, named for Mary Esther Allen of the Board of Missions for Freedmen's Women's Executive Committee. It educated thousands of Black women and later men for nearly nine decades.",
+  "facts": [
+   {
+    "t": "Named for a missions leader.",
+    "d": "Mary Esther Allen chaired the Women's Executive Committee of the Board of Missions for Freedmen from 1884.",
+    "basis": "documented"
+   },
+   {
+    "t": "Baptist revival.",
+    "d": "After a 1943 closure, the General Missionary Baptist Convention of Texas owned and ran it from 1944.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Amistad Research Center — Mary Allen College records",
+    "url": "https://amistadresearchcenter.org/blog/50-years-50-collections-the-mary-allen-college-records-1929-1977"
+   }
+  ],
+  "connections": [
+   {
+    "id": "presbyterian-board-of-missions-for-freedmen",
+    "type": "origin",
+    "label": "founded by"
+   },
+   {
+    "id": "national-baptist-convention",
+    "type": "civic",
+    "label": "operated by Texas Black Baptist convention from 1944"
+   }
+  ]
+ },
+ {
+  "id": "butler-college",
+  "name": "Butler College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist junior college",
+  "status": "Closed",
+  "control": "Private",
+  "level": "2-year",
+  "founded": 1905,
+  "closed": 1972,
+  "location": "Tyler, TX",
+  "state": "TX",
+  "affiliation": "East Texas Baptist Association (Black Baptist)",
+  "formerNames": [
+   "Texas Baptist Academy"
+  ],
+  "fate": "Closed in summer 1972 after enrollment fell to 58 students in 1968; it never achieved four-year accreditation.",
+  "description": "Founded in 1905 by the East Texas Baptist Association as Texas Baptist Academy, the coeducational school was renamed Butler College in 1924 for its president C. M. Butler. The Texas Baptist Convention helped operate it from 1932.",
+  "facts": [
+   {
+    "t": "Renamed for its president.",
+    "d": "Became Butler College in 1924, honoring C. M. Butler.",
+    "basis": "documented"
+   },
+   {
+    "t": "Enrollment collapse.",
+    "d": "Fell to 58 students by 1968; closed 1972.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Butler College",
+    "url": "https://www.tshaonline.org/handbook/entries/butler-college"
+   }
+  ],
+  "connections": [
+   {
+    "id": "national-baptist-convention",
+    "type": "origin",
+    "label": "founded by East Texas Baptist Association"
+   }
+  ]
+ },
+ {
+  "id": "guadalupe-college",
+  "name": "Guadalupe College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist college",
+  "status": "Closed",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1884,
+  "closed": 1936,
+  "location": "Seguin, TX",
+  "state": "TX",
+  "affiliation": "Guadalupe Baptist Association (Black Baptist)",
+  "formerNames": [
+   "College of the Guadalupe Baptist Association"
+  ],
+  "fate": "Reverted to junior-college status in 1931; a fire destroyed its main building on February 9, 1936 and efforts to restore it failed.",
+  "description": "Founded in 1884 by the Guadalupe Baptist Association of Black congregations, it was the only Black Baptist institution of higher learning in South Texas. Philanthropist George W. Brackenridge funded buildings and land, and enrollment peaked above 450 in 1907.",
+  "facts": [
+   {
+    "t": "South Texas' Black Baptist college.",
+    "d": "The only Black Baptist institution of higher learning in South Texas.",
+    "basis": "documented"
+   },
+   {
+    "t": "Fire ended it.",
+    "d": "The main building burned in 1936.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Guadalupe College",
+    "url": "https://www.tshaonline.org/handbook/entries/guadalupe-college"
+   }
+  ],
+  "connections": [
+   {
+    "id": "national-baptist-convention",
+    "type": "origin",
+    "label": "founded by Guadalupe Baptist Association"
+   }
+  ]
+ },
+ {
+  "id": "conroe-college",
+  "name": "Conroe College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Normal & industrial / Bible college",
+  "status": "Closed",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1903,
+  "closed": 2011,
+  "location": "Conroe, TX",
+  "state": "TX",
+  "affiliation": "American Baptist Convention of Texas (Black Baptist)",
+  "formerNames": [
+   "Conroe Normal and Industrial College",
+   "Conroe Bible College",
+   "Conroe Baptist Theological Institute"
+  ],
+  "fate": "Declined through financial mismanagement and competition and closed in 2011; the site was sold in 2014 and preservationists are working to save the building.",
+  "description": "Opened in April 1903 by Dr. Jimmie Johnson and his wife Chaney, who sold their own farm to fund a school for African Americans less than 40 years after the Civil War. Its religious program was funded by the Houston-based American Baptist Convention of Texas.",
+  "facts": [
+   {
+    "t": "Founders sold their farm.",
+    "d": "The Johnsons funded the school with proceeds from their farm.",
+    "basis": "documented"
+   },
+   {
+    "t": "Preservation effort.",
+    "d": "A nonprofit is working to restore the deteriorating building.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Houston Landing — Nonprofit works to restore historic Conroe College",
+    "url": "https://houstonlanding.org/its-so-important-to-remember-and-honor-our-history-nonprofit-works-to-restore-historic-conroe-college/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "national-baptist-convention",
+    "type": "origin",
+    "label": "supported by American Baptist Convention of Texas"
+   }
+  ]
+ },
+ {
+  "id": "southern-university-and-a-and-m-college",
+  "name": "Southern University and A&M College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · 1890 land-grant flagship",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1880,
+  "closed": null,
+  "location": "Baton Rouge, LA",
+  "state": "LA",
+  "affiliation": "State of Louisiana (Southern University System); 1890 land-grant",
+  "formerNames": [
+   "Southern University for Colored Students"
+  ],
+  "fate": "",
+  "description": "Chartered by the Louisiana General Assembly in 1880 in New Orleans and opened in 1881 with 12 students, Southern became the state's Black land-grant college in 1890 and moved to Scotlandville above Baton Rouge in 1914. It is the flagship of the only HBCU system in the U.S. Alumni include Zenith Bank founder Jim Ovia, music executive Randy Jackson and NASA engineer-turned-founder Morgan Watson.",
+  "facts": [
+   {
+    "t": "Opened in a former synagogue.",
+    "d": "Early classes met in the former Israel Sinai Temple on Calliope Street, New Orleans.",
+    "basis": "documented"
+   },
+   {
+    "t": "Moved upriver in 1914.",
+    "d": "Relocated to Scott's Bluff in Scotlandville.",
+    "basis": "documented"
+   },
+   {
+    "t": "Only HBCU system.",
+    "d": "A 1974 special legislative session created the Southern University System.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Southern University",
+    "url": "https://en.wikipedia.org/wiki/Southern_University"
+   },
+   {
+    "label": "Southern University — 144 years",
+    "url": "https://www.subr.edu/news/southern-university-celebrates-144-years"
+   }
+  ],
+  "connections": [
+   {
+    "id": "second-morrill-act-1890",
+    "type": "origin",
+    "label": "1890 land-grant institution"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member school"
+   }
+  ]
+ },
+ {
+  "id": "southern-university-at-new-orleans",
+  "name": "Southern University at New Orleans",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Regional university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1956,
+  "closed": null,
+  "location": "New Orleans, LA",
+  "state": "LA",
+  "affiliation": "State of Louisiana (Southern University System)",
+  "formerNames": [],
+  "fate": "",
+  "description": "Created by Act 28 of a 1956 extraordinary legislative session as a branch of Southern University, SUNO opened in Pontchartrain Park in 1959 and became a center of student civil-rights activism, home to CORE leader Oretha Castle Haley. All 11 buildings were damaged by Hurricanes Katrina and Rita in 2005.",
+  "facts": [
+   {
+    "t": "Born in the segregation era.",
+    "d": "Established September 4, 1956; opened September 21, 1959.",
+    "basis": "documented"
+   },
+   {
+    "t": "Katrina damage.",
+    "d": "All 11 Park Campus buildings were damaged in 2005.",
+    "basis": "documented"
+   },
+   {
+    "t": "Museum studies niche.",
+    "d": "Only Louisiana institution offering an advanced degree in museum studies.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Southern University at New Orleans",
+    "url": "https://en.wikipedia.org/wiki/Southern_University_at_New_Orleans"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "origin",
+    "label": "branch of Southern University System"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member school"
+   }
+  ]
+ },
+ {
+  "id": "southern-university-at-shreveport",
+  "name": "Southern University at Shreveport",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Community college",
+  "status": "Operating",
+  "control": "Public",
+  "level": "2-year",
+  "founded": 1967,
+  "closed": null,
+  "location": "Shreveport, LA",
+  "state": "LA",
+  "affiliation": "State of Louisiana (Southern University System)",
+  "formerNames": [],
+  "fate": "",
+  "description": "Southern University at Shreveport opened September 19, 1967 as a junior college of the Southern University System, offering associate degrees, technical diplomas and certificates in allied health, business and STEM to northwest Louisiana.",
+  "facts": [
+   {
+    "t": "Opened 1967.",
+    "d": "Instruction began September 19, 1967.",
+    "basis": "documented"
+   },
+   {
+    "t": "Workforce focus.",
+    "d": "Divisions in Allied Health & Nursing and in Business, Science, Technology, Engineering and Math.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Southern University at Shreveport",
+    "url": "https://en.wikipedia.org/wiki/Southern_University_at_Shreveport"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "origin",
+    "label": "branch of Southern University System"
+   },
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member school"
+   }
+  ]
+ },
+ {
+  "id": "grambling-state-university",
+  "name": "Grambling State University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Public HBCU · Regional university",
+  "status": "Operating",
+  "control": "Public",
+  "level": "4-year",
+  "founded": 1901,
+  "closed": null,
+  "location": "Grambling, LA",
+  "state": "LA",
+  "affiliation": "State of Louisiana (University of Louisiana System)",
+  "formerNames": [
+   "Colored Industrial and Agricultural School",
+   "North Louisiana Agricultural and Industrial School",
+   "Louisiana Negro Normal and Industrial Institute",
+   "Grambling College"
+  ],
+  "fate": "",
+  "description": "Opened November 1, 1901 under founder Charles P. Adams as the Colored Industrial and Agricultural School, Grambling became nationally famous through coach Eddie Robinson's 57-year football dynasty. Its alumni run from Packers great-turned-broadcasting owner Willie Davis to music executive Tina Davis, CPA firm leader Wayne McConnell and rapper-entrepreneur E-40.",
+  "facts": [
+   {
+    "t": "Eddie Robinson's dynasty.",
+    "d": "Robinson coached football 1941–1997 and won 408 games.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sent dozens to the NFL.",
+    "d": "Hall of Famers include Willie Davis, Buck Buchanan, Willie Brown and Charlie Joiner; Doug Williams was Super Bowl XXII MVP.",
+    "basis": "documented"
+   },
+   {
+    "t": "Became a university in 1974.",
+    "d": "Earned university status when graduate education programs were added.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Grambling State University",
+    "url": "https://en.wikipedia.org/wiki/Grambling_State_University"
+   },
+   {
+    "label": "Grambling State — Business notable alumni",
+    "url": "https://gram.edu/academics/majors/business/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "thurgood-marshall-college-fund",
+    "type": "civic",
+    "label": "TMCF member school"
+   }
+  ]
+ },
+ {
+  "id": "dillard-university",
+  "name": "Dillard University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Liberal arts",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1869,
+  "closed": null,
+  "location": "New Orleans, LA",
+  "state": "LA",
+  "affiliation": "United Methodist Church; United Church of Christ",
+  "formerNames": [],
+  "fate": "",
+  "description": "Chartered June 6, 1930 through the union of Straight College (American Missionary Association) and New Orleans University (Methodist Freedmen's Aid Society), Dillard carries a lineage back to 1868–69. Graduates include Brown University president Ruth Simmons, corporate executive Joyce Roché and musician-label founder Harold Battiste.",
+  "facts": [
+   {
+    "t": "A merger of two Reconstruction schools.",
+    "d": "Straight College and New Orleans University jointly chartered Dillard in 1930.",
+    "basis": "documented"
+   },
+   {
+    "t": "Straight's famous alumni.",
+    "d": "P.B.S. Pinchback and Louis A. Martinet, organizer of the Plessy challenge, studied law at Straight.",
+    "basis": "documented"
+   },
+   {
+    "t": "Corporate alumni.",
+    "d": "Joyce Roché ('70) became president of Carson Inc. and served on the AT&T board.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Dillard University",
+    "url": "https://en.wikipedia.org/wiki/Dillard_University"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni",
+    "url": "https://www.dillard.edu/?p=2032"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "via New Orleans University (Freedmen's Aid Society)"
+   },
+   {
+    "id": "american-missionary-association",
+    "type": "origin",
+    "label": "via Straight College"
+   },
+   {
+    "id": "united-church-of-christ",
+    "type": "civic",
+    "label": "affiliated"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "straight-university",
+  "name": "Straight University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · AMA university",
+  "status": "Merged",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1868,
+  "closed": 1930,
+  "location": "New Orleans, LA",
+  "state": "LA",
+  "affiliation": "American Missionary Association",
+  "formerNames": [
+   "Straight College"
+  ],
+  "fate": "Renamed Straight College in 1915 and merged with New Orleans University in 1930 to form Dillard University.",
+  "description": "Founded by the American Missionary Association in 1868–69, Straight ran a law department that trained Reconstruction-era leaders including Governor P.B.S. Pinchback and Louis A. Martinet, publisher of The Crusader and organizer of the Comité des Citoyens behind Plessy v. Ferguson. Businessman Walter L. Cohen, founder of People's Life Insurance, also studied there.",
+  "facts": [
+   {
+    "t": "A Reconstruction law school.",
+    "d": "Martinet earned his law degree in 1876; Pinchback graduated in 1885.",
+    "basis": "documented"
+   },
+   {
+    "t": "Became Straight College in 1915.",
+    "d": "Merged into Dillard in 1930.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Dillard University (predecessors)",
+    "url": "https://en.wikipedia.org/wiki/Dillard_University"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni (Straight College entries)",
+    "url": "https://www.dillard.edu/?p=2032"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-missionary-association",
+    "type": "origin",
+    "label": "founded by"
+   },
+   {
+    "id": "dillard-university",
+    "type": "lineage",
+    "label": "merged into Dillard, 1930"
+   }
+  ]
+ },
+ {
+  "id": "new-orleans-university",
+  "name": "New Orleans University",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Methodist university",
+  "status": "Merged",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1868,
+  "closed": 1930,
+  "location": "New Orleans, LA",
+  "state": "LA",
+  "affiliation": "Methodist Episcopal Church (Freedmen's Aid Society)",
+  "formerNames": [
+   "Union Normal School"
+  ],
+  "fate": "Merged with Straight College in 1930 to form Dillard University.",
+  "description": "Established July 8, 1868 as Union Normal School by the Methodist Freedmen's Aid Society, it grew into New Orleans University, whose Flint Medical College (closed 1911) gave rise to Flint-Goodridge Hospital. It merged with Straight College in 1930 to form Dillard.",
+  "facts": [
+   {
+    "t": "Medical school and hospital.",
+    "d": "Flint Medical College closed in 1911; Flint-Goodridge Hospital continued nurse training.",
+    "basis": "documented"
+   },
+   {
+    "t": "Early Black Ph.D.",
+    "d": "Alumnus John W. E. Bowen Sr. (1878) was among the first African Americans to earn a Ph.D.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Dillard University (predecessors)",
+    "url": "https://en.wikipedia.org/wiki/Dillard_University"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni",
+    "url": "https://www.dillard.edu/?p=2032"
+   }
+  ],
+  "connections": [
+   {
+    "id": "methodist-episcopal-church",
+    "type": "origin",
+    "label": "founded by Freedmen's Aid Society"
+   },
+   {
+    "id": "dillard-university",
+    "type": "lineage",
+    "label": "merged into Dillard, 1930"
+   }
+  ]
+ },
+ {
+  "id": "xavier-university-of-louisiana",
+  "name": "Xavier University of Louisiana",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Catholic university",
+  "status": "Operating",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1925,
+  "closed": null,
+  "location": "New Orleans, LA",
+  "state": "LA",
+  "affiliation": "Catholic Church (Sisters of the Blessed Sacrament)",
+  "formerNames": [
+   "Xavier University Preparatory School (1915 high school)"
+  ],
+  "fate": "",
+  "description": "The only historically Black Catholic university in the U.S., Xavier was founded by St. Katharine Drexel and the Sisters of the Blessed Sacrament (high school 1915, college 1925). Led for 47 years by alumnus Norman C. Francis, it is a leading producer of Black pharmacists and medical school applicants. Business alumni include Harold Doley, the first Black individual to buy a New York Stock Exchange seat.",
+  "facts": [
+   {
+    "t": "Founded by a saint.",
+    "d": "St. Katharine Drexel founded it through the Sisters of the Blessed Sacrament.",
+    "basis": "documented"
+   },
+   {
+    "t": "Pharmacy pipeline.",
+    "d": "Its College of Pharmacy trained entrepreneurs such as Lexington's Zirl Palmer, first Black Rexall franchise owner.",
+    "basis": "documented"
+   },
+   {
+    "t": "Norman Francis era.",
+    "d": "Alumnus Norman C. Francis was president 1968–2015.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Xavier University of Louisiana",
+    "url": "https://en.wikipedia.org/wiki/Xavier_University_of_Louisiana"
+   },
+   {
+    "label": "Xavier University of Louisiana — About",
+    "url": "https://www.xula.edu/about/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "catholic-church",
+    "type": "origin",
+    "label": "founded by St. Katharine Drexel & Sisters of the Blessed Sacrament"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "UNCF member"
+   }
+  ]
+ },
+ {
+  "id": "leland-college",
+  "name": "Leland College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist college",
+  "status": "Closed",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1870,
+  "closed": 1960,
+  "location": "New Orleans, LA (later Baker, LA)",
+  "state": "LA",
+  "affiliation": "Baptist (Christian college founded by Holbrook Chamberlain)",
+  "formerNames": [
+   "Leland University"
+  ],
+  "fate": "After a 1915 hurricane wrecked University Hall the New Orleans campus was sold; it reopened near Baker in 1923 but, never accredited and short of funds, closed in 1960.",
+  "description": "Founded in 1870 by Brooklyn philanthropist Holbrook Chamberlain on St. Charles Avenue in New Orleans, Leland admitted students regardless of race. Its most famous graduate, Eddie Robinson (1941), became Grambling's legendary football coach.",
+  "facts": [
+   {
+    "t": "St. Charles Avenue origins.",
+    "d": "Original campus sat across from Audubon Park.",
+    "basis": "documented"
+   },
+   {
+    "t": "Eddie Robinson's alma mater.",
+    "d": "Robinson earned his bachelor's degree at Leland in 1941.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Leland University",
+    "url": "https://en.wikipedia.org/wiki/Leland_University"
+   }
+  ],
+  "connections": []
+ },
+ {
+  "id": "coleman-college",
+  "name": "Coleman College",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Baptist college",
+  "status": "Closed",
+  "control": "Private",
+  "level": "4-year",
+  "founded": 1887,
+  "closed": 1944,
+  "location": "Gibsland, LA (later Shreveport, LA)",
+  "state": "LA",
+  "affiliation": "Black Baptist (Springfield Baptist Association; American Baptist Home Mission Societies funding)",
+  "formerNames": [],
+  "fate": "Crippled by a 1926 fire and founder Oliver Coleman's 1927 death, the Gibsland school closed (dates given as 1937 or 1944), moved to Shreveport as a Bible college and faded by the mid-1950s.",
+  "description": "Begun in 1887 by Oliver Lewis Coleman with eight students at Palestine Baptist Church in Gibsland, Coleman College is described as the first Black institution of higher learning in North Louisiana. Local farmers donated crops and lumber; it was Grambling's chief early athletic rival.",
+  "facts": [
+   {
+    "t": "First in North Louisiana.",
+    "d": "Often called the first college for African Americans in North Louisiana.",
+    "basis": "documented"
+   },
+   {
+    "t": "Site lives on.",
+    "d": "The campus became Gibsland-Coleman High School; a marker was unveiled in 2014.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Lost Colleges — Coleman College",
+    "url": "https://www.lostcolleges.com/coleman-college"
+   },
+   {
+    "label": "Wikipedia — Coleman College (Louisiana)",
+    "url": "https://en.wikipedia.org/wiki/Coleman_College_(Louisiana)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-home-mission-society",
+    "type": "origin",
+    "label": "principal funder"
+   },
+   {
+    "id": "national-baptist-convention",
+    "type": "civic",
+    "label": "supported by local Black Baptist association"
+   }
+  ]
+ },
+ {
+  "id": "luther-college-louisiana",
+  "name": "Luther College (New Orleans)",
+  "type": "entity",
+  "hbcu": true,
+  "kind": "Private HBCU · Lutheran normal school & seminary",
+  "status": "Closed",
+  "control": "Private",
+  "level": "Normal school/Institute",
+  "founded": 1903,
+  "closed": 1925,
+  "location": "New Orleans, LA",
+  "state": "LA",
+  "affiliation": "Evangelical Lutheran Synodical Conference (Lutheran Church–Missouri Synod)",
+  "formerNames": [],
+  "fate": "The Synodical Conference closed it in 1925 (some sources say 1932), citing the failed seminary and high building costs; funds went to Alabama Lutheran College in Selma.",
+  "description": "Founded in 1903 by the Evangelical Lutheran Synodical Conference as a secondary school, normal school and seminary for African Americans, Luther College was the sister school of Immanuel Lutheran College in North Carolina.",
+  "facts": [
+   {
+    "t": "Short-lived seminary.",
+    "d": "The seminary closed in 1910 after graduating one student.",
+    "basis": "documented"
+   },
+   {
+    "t": "Funds moved to Selma.",
+    "d": "Resources were diverted to Alabama Lutheran College (now Concordia College Alabama).",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Luther College (Louisiana)",
+    "url": "https://en.wikipedia.org/wiki/Luther_College_(Louisiana)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lutheran-church-missouri-synod",
+    "type": "origin",
+    "label": "founded by Synodical Conference"
+   }
+  ]
+ },
+ {
+  "id": "kase-lukman-lawal",
+  "name": "Kase Lukman Lawal",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1954",
+  "base": "Houston, TX",
+  "industry": "Oil & Gas",
+  "originBadge": "Chemist's Path",
+  "engineBadge": "African Oil Exploration",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Earned a B.S. in chemistry from Texas Southern University in 1976, then an MBA from Prairie View A&M University in 1978 — a rare double-HBCU path into the energy business.",
+  "humbleBeginnings": "Born in Ibadan, Nigeria, he came to Texas for university and stayed in Houston.",
+  "breakthrough": "Built CAMAC (led as CEO and president from 1986) into an energy group with Nigerian oil interests, and served as chairman of Allied Energy (from 1991) and chairman-CEO of NYSE-listed Erin Energy Corporation.",
+  "legacy": "A long-serving commissioner and vice chairman of the Port of Houston Authority, he became one of the most prominent African-born business leaders in Texas.",
+  "breakthroughDetail": [
+   {
+    "t": "CAMAC chief executive.",
+    "d": "CEO and president of CAMAC Holdings from 1986.",
+    "basis": "documented"
+   },
+   {
+    "t": "Public oil company.",
+    "d": "Chairman and CEO of Erin Energy Corporation (formerly CAMAC Energy).",
+    "basis": "documented"
+   },
+   {
+    "t": "Port of Houston.",
+    "d": "Commissioner from 2000 and later vice chairman of the Port of Houston Authority.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Two Texas HBCUs.",
+    "d": "Holds degrees from both Texas Southern and Prairie View A&M.",
+    "basis": "documented"
+   },
+   {
+    "t": "Transatlantic energy bridge.",
+    "d": "His companies linked Houston capital and expertise with Nigerian upstream assets.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Kase Lukman Lawal",
+    "url": "https://en.wikipedia.org/wiki/Kase_Lukman_Lawal"
+   },
+   {
+    "label": "Upstream (via CAMAC) profile, 2008",
+    "url": "https://web.archive.org/web/20101030081930/http://camac.com/downloads/Upstream_Magazine_11_07_08.pdf"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "B.S. chemistry 1976"
+   },
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "MBA 1978"
+   },
+   {
+    "id": "camac-international",
+    "type": "executive",
+    "label": "CEO & president, from 1986"
+   },
+   {
+    "id": "erin-energy-corporation",
+    "type": "executive",
+    "label": "chairman & CEO"
+   },
+   {
+    "id": "allied-energy-corporation",
+    "type": "executive",
+    "label": "chairman, from 1991"
+   },
+   {
+    "id": "port-of-houston-authority",
+    "type": "board",
+    "label": "commissioner from 2000; vice chairman"
+   }
+  ]
+ },
+ {
+  "id": "gerald-b-smith",
+  "name": "Gerald B. Smith",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Houston, TX",
+  "industry": "Investment Management",
+  "originBadge": "Finance Major",
+  "engineBadge": "Fixed-Income Management",
+  "capitalBadge": "Institutional Mandates",
+  "hbcuStory": "Earned a BBA in finance from Texas Southern University, which later gave him an honorary doctorate; he chairs the TSU Foundation and endowed TSU's Gerald B. Smith Center for Entrepreneurship and Innovation.",
+  "humbleBeginnings": "A Houston finance professional who built his firm in a field where Black-owned managers were rare.",
+  "breakthrough": "Founded and leads Smith Graham & Co., a Houston investment management firm, as chairman and CEO.",
+  "legacy": "Sits on the boards of New York Life Insurance and the Federal Reserve Bank of Dallas; inducted into the Texas Business Hall of Fame in 2021, the only person of color in that class.",
+  "breakthroughDetail": [
+   {
+    "t": "Smith Graham & Co.",
+    "d": "Chairman and CEO of the Houston investment management firm.",
+    "basis": "documented"
+   },
+   {
+    "t": "Texas Business Hall of Fame.",
+    "d": "Inducted in 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "Blue-chip boards.",
+    "d": "Director of New York Life Insurance and the Federal Reserve Bank of Dallas.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Giving back to TSU.",
+    "d": "Chairs the TSU Foundation and created the Gerald B. Smith Center for Entrepreneurship and Innovation.",
+    "basis": "documented"
+   },
+   {
+    "t": "Family philanthropy.",
+    "d": "Houston proclaimed a Gerald B. Smith and Anita Webber Smith Day for the couple's philanthropy.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "InnovationMap — Gerald Smith, Texas Business Hall of Fame",
+    "url": "https://houston.innovationmap.com/gerald-smith-houston-texas-business-hall-of-fame-houston-business-2655522812.html"
+   },
+   {
+    "label": "CultureMap Houston — Texas Business Hall of Fame",
+    "url": "https://houston.culturemap.com/news/innovation/11-08-21-gerald-smith-housotn-texas-business-hall-of-fame-houston-business/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "BBA finance; honorary doctorate"
+   },
+   {
+    "id": "smith-graham-and-co",
+    "type": "ownership",
+    "label": "founder, chairman & CEO"
+   },
+   {
+    "id": "new-york-life-insurance-company",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "federal-reserve-bank-of-dallas",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "michael-strahan",
+  "name": "Michael Strahan",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on a 15-year NFL career and a long-running network TV contract; no audited figure is published.",
+  "lifespan": "b. 1971",
+  "base": "New York, NY",
+  "industry": "Media & Sports Business",
+  "originBadge": "Small-College Star",
+  "engineBadge": "TV & Brand Empire",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Played at Texas Southern University (1989–1992), where his pass-rush records got him drafted by the New York Giants; he was inducted into the Black College Football Hall of Fame in 2014.",
+  "humbleBeginnings": "Raised partly in Germany as the son of an Army major, he arrived at TSU largely unrecruited.",
+  "breakthrough": "After a Hall of Fame NFL career he moved into television — co-host of Live! and then Good Morning America — and built a business around his brand, including a menswear line launched with JCPenney in 2015 and his SMAC Entertainment company.",
+  "legacy": "Became one of the most recognizable HBCU alumni in media, flying to space on Blue Origin in 2021.",
+  "breakthroughDetail": [
+   {
+    "t": "From TSU to the Giants.",
+    "d": "Drafted after a record-setting TSU career.",
+    "basis": "documented"
+   },
+   {
+    "t": "Morning-TV anchor.",
+    "d": "Full-time Good Morning America co-host from 2016.",
+    "basis": "documented"
+   },
+   {
+    "t": "Apparel line.",
+    "d": "Men's clothing line launched exclusively with JCPenney on September 8, 2015.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Media brand company.",
+    "d": "Co-founded SMAC Entertainment to manage talent and brand deals.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Michael Strahan",
+    "url": "https://en.wikipedia.org/wiki/Michael_Strahan"
+   },
+   {
+    "label": "Texas Southern football media guide (archived)",
+    "url": "https://web.archive.org/web/20130616080933/http://www.tsu.edu/pdffiles/athletics/mens-sports/football/media/2007FootballMediaGuide.pdf"
+   },
+   {
+    "label": "USA Today — Strahan wants to dress you (2015)",
+    "url": "https://www.usatoday.com/story/life/style/2015/09/08/listen-up-fellas-strahan-wants-dress-you/71668064/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "attended 1989–1992 (football)"
+   },
+   {
+    "id": "smac-entertainment",
+    "type": "ownership",
+    "label": "co-founder"
+   }
+  ]
+ },
+ {
+  "id": "megan-thee-stallion",
+  "name": "Megan Thee Stallion",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate from multi-platinum recording and endorsement career; no audited figure.",
+  "lifespan": "b. 1995",
+  "base": "Houston, TX",
+  "industry": "Music & Entertainment",
+  "originBadge": "Houston Student-Artist",
+  "engineBadge": "Music & Brand Deals",
+  "capitalBadge": "Independent Label Equity",
+  "hbcuStory": "Earned a B.S. in health administration from Texas Southern University on December 11, 2021, finishing her degree while already a Grammy-winning star.",
+  "humbleBeginnings": "Born Megan Pete in Houston, she studied while freestyling online, building a following before signing a record deal.",
+  "breakthrough": "Broke out with chart hits and Grammy wins, trademarked “hot girl summer” in 2019, and after leaving her label launched her own Hot Girl Productions in 2023.",
+  "legacy": "Founded the Pete and Thomas Foundation in 2022 for education, housing and health in Houston, and extended her brand into consumer products such as a fragrance with Coty.",
+  "breakthroughDetail": [
+   {
+    "t": "TSU graduate.",
+    "d": "Completed her health administration degree in December 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "Own company.",
+    "d": "Founded Hot Girl Productions after her 1501 Certified Entertainment dispute ended in 2023.",
+    "basis": "documented"
+   },
+   {
+    "t": "Trademark play.",
+    "d": "Registered “hot girl summer” as a trademark in 2019.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Foundation.",
+    "d": "Pete and Thomas Foundation launched February 15, 2022.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Megan Thee Stallion",
+    "url": "https://en.wikipedia.org/wiki/Megan_Thee_Stallion"
+   },
+   {
+    "label": "Texas Southern University — notable alumni (Transfer Connect)",
+    "url": "https://police.tsu.edu/admissions/transferconnect.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "B.S. health administration 2021"
+   },
+   {
+    "id": "hot-girl-productions",
+    "type": "ownership",
+    "label": "founder, 2023"
+   }
+  ]
+ },
+ {
+  "id": "vivian-stephens",
+  "name": "Vivian Stephens",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1932",
+  "base": "Houston, TX",
+  "industry": "Book Publishing",
+  "originBadge": "Home-Ec Graduate",
+  "engineBadge": "Romance Publishing",
+  "capitalBadge": "Corporate Imprints",
+  "hbcuStory": "Graduated from Texas Southern University in 1955 with a degree in home economics, clothing and textiles.",
+  "humbleBeginnings": "A Houston native who entered New York publishing as one of very few Black editors in mass-market fiction.",
+  "breakthrough": "At Dell she rose to editor-in-chief of Candlelight Romance and created the Candlelight Ecstasy line (1980); at Harlequin she launched the Harlequin American line (1983).",
+  "legacy": "Credited as founder of Romance Writers of America (organized in Houston in 1980), and later became a literary agent, representing Beverly Jenkins.",
+  "breakthroughDetail": [
+   {
+    "t": "Created a bestselling line.",
+    "d": "Candlelight Ecstasy launched in 1980.",
+    "basis": "documented"
+   },
+   {
+    "t": "Harlequin American.",
+    "d": "Launched the line, which debuted in 1983.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Founded an industry body.",
+    "d": "Romance Writers of America grew from a December 1980 meeting in Houston.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Vivian Stephens",
+    "url": "https://en.wikipedia.org/wiki/Vivian_Stephens"
+   },
+   {
+    "label": "Bowling Green State University — Vivian Stephens collection",
+    "url": "https://www.bgsu.edu/library/pcl/named/stephens.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "B.S. 1955"
+   },
+   {
+    "id": "harlequin-enterprises",
+    "type": "executive",
+    "label": "editorial director, early 1980s"
+   },
+   {
+    "id": "romance-writers-of-america",
+    "type": "origin",
+    "label": "founder, 1980"
+   }
+  ]
+ },
+ {
+  "id": "percy-sutton",
+  "name": "Percy Sutton",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1920–2009",
+  "base": "New York, NY",
+  "industry": "Broadcasting",
+  "originBadge": "Texas Preacher's Son",
+  "engineBadge": "Black-Owned Radio",
+  "capitalBadge": "Investor Syndicate",
+  "hbcuStory": "Attended Prairie View A&M (then Prairie View State Normal & Industrial College), Tuskegee and Hampton without taking a degree before Brooklyn Law School (LL.B. 1950).",
+  "humbleBeginnings": "Youngest of 15 children of a San Antonio educator-farmer; his brother G. J. Sutton also became a businessman and legislator.",
+  "breakthrough": "In 1971 he co-founded Inner City Broadcasting Corporation, which bought WLIB-AM and WBLS-FM — making WBLS New York's first African-American-owned radio station.",
+  "legacy": "Also invested in the New York Amsterdam News, bought and revived Harlem's Apollo Theater and produced It's Showtime at the Apollo; he was Manhattan Borough President and Malcolm X's attorney.",
+  "breakthroughDetail": [
+   {
+    "t": "Inner City Broadcasting.",
+    "d": "Co-founded in 1971; acquired WLIB and WBLS.",
+    "basis": "documented"
+   },
+   {
+    "t": "Apollo Theater.",
+    "d": "Invested in and revived the Harlem landmark; It's Showtime at the Apollo premiered in 1987.",
+    "basis": "documented"
+   },
+   {
+    "t": "Political power base.",
+    "d": "Manhattan Borough President and a member of Harlem's ‘Gang of Four’.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Media ownership as civil rights.",
+    "d": "Built one of the most important Black-owned broadcast groups in the country.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Percy Sutton",
+    "url": "https://en.wikipedia.org/wiki/Percy_Sutton"
+   },
+   {
+    "label": "BlackPast — Percy Sutton",
+    "url": "https://www.blackpast.org/african-american-history/sutton-percy-1920/"
+   },
+   {
+    "label": "The Guardian — Percy Sutton obituary",
+    "url": "https://www.theguardian.com/theguardian/2010/mar/08/percy-sutton-obituary"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "attended (no degree)"
+   },
+   {
+    "id": "tuskegee-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "hampton-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "inner-city-broadcasting-corporation",
+    "type": "ownership",
+    "label": "co-founder, 1971"
+   },
+   {
+    "id": "g-j-sutton",
+    "type": "family",
+    "label": "brother"
+   }
+  ]
+ },
+ {
+  "id": "calvin-rolark",
+  "name": "Calvin Rolark",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1927–1994",
+  "base": "Washington, DC",
+  "industry": "Newspaper Publishing",
+  "originBadge": "Texarkana Native",
+  "engineBadge": "Community Newspaper",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a bachelor's degree in business administration from Prairie View College (now Prairie View A&M); he also attended Tennessee State, Michigan State and Cornell.",
+  "humbleBeginnings": "Born in Texarkana, Texas, he worked as an editor of the Memphis World in the 1940s before moving to Washington.",
+  "breakthrough": "Founded The Washington Informer newspaper in 1962, giving D.C.'s Black community its own weekly voice.",
+  "legacy": "Founded the United Black Fund in 1969 as a Black-led alternative to United Way; the Informer remains in his family's hands.",
+  "breakthroughDetail": [
+   {
+    "t": "The Washington Informer.",
+    "d": "Founded 1962.",
+    "basis": "documented"
+   },
+   {
+    "t": "United Black Fund.",
+    "d": "Founded 1969 to fund Black and Latino community organizations.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Enduring family business.",
+    "d": "The Informer continued under his family after his 1994 death.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Calvin Rolark",
+    "url": "https://en.wikipedia.org/wiki/Calvin_Rolark"
+   },
+   {
+    "label": "Washington Post — Crusading publisher Calvin Rolark dies (1994)",
+    "url": "https://www.washingtonpost.com/archive/politics/1994/10/25/crusading-publisher-calvin-rolark-dies/659662d5-9743-47e7-afce-3d3f0ea4c1ab/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "B.B.A."
+   },
+   {
+    "id": "tennessee-state-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "the-washington-informer",
+    "type": "ownership",
+    "label": "founder, 1962"
+   },
+   {
+    "id": "united-black-fund",
+    "type": "origin",
+    "label": "founder, 1969"
+   }
+  ]
+ },
+ {
+  "id": "jecaryous-johnson",
+  "name": "Je'Caryous Johnson",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1977",
+  "base": "Houston, TX",
+  "industry": "Live Theater Production",
+  "originBadge": "Houston Fifth Ward Roots",
+  "engineBadge": "Touring Stage Plays",
+  "capitalBadge": "Ticket Revenue",
+  "hbcuStory": "Attended Prairie View A&M University before finishing a BFA at the University of Houston.",
+  "humbleBeginnings": "Born in Houston, he started a production company with his uncle Gary Guidry.",
+  "breakthrough": "Built I'm Ready Productions — later Je'Caryous Johnson Entertainment — into a leading producer of touring Black stage plays, from Men Cry in the Dark (2002) to New Jack City: Live on Stage.",
+  "legacy": "Develops stage adaptations of Black film and music catalogs, a niche business model in live entertainment.",
+  "breakthroughDetail": [
+   {
+    "t": "Touring hits.",
+    "d": "Productions include The Maintenance Man, Two Can Play That Game and Set It Off: Live on Stage.",
+    "basis": "documented"
+   },
+   {
+    "t": "Recognition.",
+    "d": "Honored at the NAACP Theatre Awards (2007).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "IP adaptations.",
+    "d": "Turning ’90s Black films into live shows created a repeatable product line.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Je'Caryous Johnson",
+    "url": "https://en.wikipedia.org/wiki/Je%27Caryous_Johnson"
+   },
+   {
+    "label": "Encyclopedia.com — Johnson, Je'Caryous",
+    "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/johnson-jecaryous"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "jecaryous-johnson-entertainment",
+    "type": "ownership",
+    "label": "co-founder (as I'm Ready Productions)"
+   }
+  ]
+ },
+ {
+  "id": "dj-premier",
+  "name": "DJ Premier",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1966",
+  "base": "New York, NY",
+  "industry": "Music Production",
+  "originBadge": "Campus DJ",
+  "engineBadge": "Hip-Hop Production",
+  "capitalBadge": "Royalties & Label Equity",
+  "hbcuStory": "Attended Prairie View A&M University, where he was the campus DJ and occasionally performed with the Marching Storm band.",
+  "humbleBeginnings": "Born Christopher Martin in Houston's Fifth Ward.",
+  "breakthrough": "As half of Gang Starr and producer for Nas, Jay-Z and The Notorious B.I.G., he became one of hip-hop's most influential producers.",
+  "legacy": "Founded his own label, Year Round Records, in 2010.",
+  "breakthroughDetail": [
+   {
+    "t": "Gang Starr.",
+    "d": "Co-led the influential duo with Guru.",
+    "basis": "documented"
+   },
+   {
+    "t": "Own label.",
+    "d": "Year Round Records founded 2010.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Catalog value.",
+    "d": "His production catalog underpins a long-running royalty business.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — DJ Premier",
+    "url": "https://en.wikipedia.org/wiki/DJ_Premier"
+   },
+   {
+    "label": "Red Bull Music Academy — DJ Premier lecture",
+    "url": "https://www.redbullmusicacademy.com/lectures/dj-premier-you-know-my-steez"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "year-round-records",
+    "type": "ownership",
+    "label": "founder, 2010"
+   }
+  ]
+ },
+ {
+  "id": "freweini-mebrahtu",
+  "name": "Freweini Mebrahtu",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1965",
+  "base": "Mekelle, Ethiopia",
+  "industry": "Personal Care Manufacturing",
+  "originBadge": "Chemical Engineer",
+  "engineBadge": "Reusable Menstrual Products",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. in chemical engineering from Prairie View A&M University in 1992.",
+  "humbleBeginnings": "Grew up in Ethiopia's Tigray region, where lack of menstrual products kept girls out of school.",
+  "breakthrough": "Founded Mariam Seba Sanitary Products Factory in 2009, manufacturing reusable sanitary pads sold in ‘dignity packs’ and employing local women.",
+  "legacy": "Named 2019 CNN Hero of the Year for keeping girls in school through her factory and education work.",
+  "breakthroughDetail": [
+   {
+    "t": "Factory founder.",
+    "d": "Mariam Seba Sanitary Products Factory, founded 2009.",
+    "basis": "documented"
+   },
+   {
+    "t": "CNN Hero of the Year.",
+    "d": "2019.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Women's employment.",
+    "d": "Employs dozens of local women.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Freweini Mebrahtu",
+    "url": "https://en.wikipedia.org/wiki/Freweini_Mebrahtu"
+   },
+   {
+    "label": "CNN — 2019 CNN Hero of the Year",
+    "url": "https://www.cnn.com/2019/12/08/world/freweini-mebrahtu-2019-cnn-hero-of-the-year/index.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. chemical engineering 1992"
+   },
+   {
+    "id": "mariam-seba-sanitary-products-factory",
+    "type": "ownership",
+    "label": "founder, 2009"
+   }
+  ]
+ },
+ {
+  "id": "willie-davis",
+  "name": "Willie Davis",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on ownership of a multi-station radio group and decades of public-company board fees; no published figure.",
+  "lifespan": "1934–2020",
+  "base": "Los Angeles, CA",
+  "industry": "Radio Broadcasting",
+  "originBadge": "Packers Lineman",
+  "engineBadge": "Radio Station Group",
+  "capitalBadge": "Football Savings & MBA",
+  "hbcuStory": "Played football at Grambling (1954–1957) under coach Eddie Robinson before the NFL; later earned an MBA from the University of Chicago (1968).",
+  "humbleBeginnings": "Born in Lisbon, Louisiana, and raised in Texarkana, Arkansas, by a single mother.",
+  "breakthrough": "After a Hall of Fame career with the Green Bay Packers he became president of All-Pro Broadcasting (from 1976), owning radio stations in Los Angeles, Milwaukee and elsewhere.",
+  "legacy": "Became one of the most sought-after Black corporate directors of his era — Sara Lee, MGM, Manpower, Dow Chemical, Johnson Controls, Kmart and others.",
+  "breakthroughDetail": [
+   {
+    "t": "All-Pro Broadcasting.",
+    "d": "President from 1976; stations included KHTI, WLUM-FM and WZTI.",
+    "basis": "documented"
+   },
+   {
+    "t": "MBA after football.",
+    "d": "University of Chicago MBA, 1968.",
+    "basis": "documented"
+   },
+   {
+    "t": "Board portfolio.",
+    "d": "Directorships at Sara Lee (1983–2020), MGM (1999–2020), Manpower (2001–2020) and more.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Corporate boardroom pioneer.",
+    "d": "Long tenures on Fortune 500 boards opened doors for later Black directors.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Willie Davis",
+    "url": "https://en.wikipedia.org/wiki/Willie_Davis_(defensive_end)"
+   },
+   {
+    "label": "Investor's Business Daily — It's been all business for Packers great Willie Davis",
+    "url": "https://www.investors.com/news/management/leaders-and-success/its-been-all-business-for-packers-great-entrepreneur-willie-davis/"
+   },
+   {
+    "label": "Packers.com — Packers legend Willie Davis dies at 85",
+    "url": "https://www.packers.com/news/packers-legend-willie-davis-dies-at-85"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "football 1954–1957"
+   },
+   {
+    "id": "all-pro-broadcasting",
+    "type": "ownership",
+    "label": "president/owner, from 1976"
+   },
+   {
+    "id": "sara-lee-corporation",
+    "type": "board",
+    "label": "director 1983–2020"
+   },
+   {
+    "id": "metro-goldwyn-mayer",
+    "type": "board",
+    "label": "director 1999–2020"
+   },
+   {
+    "id": "manpowergroup",
+    "type": "board",
+    "label": "director 2001–2020"
+   },
+   {
+    "id": "eddie-robinson",
+    "type": "mentorship",
+    "label": "coached by at Grambling"
+   }
+  ]
+ },
+ {
+  "id": "e-40",
+  "name": "E-40",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate from three decades of independent record sales plus beverage brands; no published audited figure.",
+  "lifespan": "b. 1967",
+  "base": "Vallejo, CA",
+  "industry": "Music & Beverages",
+  "originBadge": "Bay Area Hustler",
+  "engineBadge": "Indie Label & Spirits",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Enrolled at Grambling State University in 1986 with his cousin and attended for one year.",
+  "humbleBeginnings": "Born Earl Stevens in Vallejo, California, he sold tapes out of car trunks with his family.",
+  "breakthrough": "Founded the independent label Sick Wid It Records (1989) and later built a beverage portfolio — Earl Stevens Selections wines, the Sluricane premixed cocktail and E-40 malt liquor.",
+  "legacy": "Diversified into franchises (a Fatburger with Chester McGlockton) and early-stage tech investments such as Clubhouse.",
+  "breakthroughDetail": [
+   {
+    "t": "Sick Wid It Records.",
+    "d": "Independent label founded 1989.",
+    "basis": "documented"
+   },
+   {
+    "t": "Wine brand.",
+    "d": "Earl Stevens Selections wines including ‘Function’ and ‘Mangoscato’.",
+    "basis": "documented"
+   },
+   {
+    "t": "Beverage line extensions.",
+    "d": "Sluricane (2014) and E-40 malt liquor (2015).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Independent ownership.",
+    "d": "Kept masters and brands in-house rather than relying solely on major labels.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [
+   "Earl Stevens"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — E-40",
+    "url": "https://en.wikipedia.org/wiki/E-40"
+   },
+   {
+    "label": "SFGate — Bay Area rap legend E-40 finds success in wine",
+    "url": "https://www.sfgate.com/food/article/Bay-Area-rap-legend-E-40-finds-success-in-6769298.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "attended 1986–87"
+   },
+   {
+    "id": "sick-wid-it-records",
+    "type": "ownership",
+    "label": "founder, 1989"
+   },
+   {
+    "id": "earl-stevens-selections",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "tina-davis",
+  "name": "Tina Davis",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "San Francisco Bay Area, CA",
+  "industry": "Music Industry",
+  "originBadge": "Vallejo Native",
+  "engineBadge": "Record Label Leadership",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "A Grambling State University alumna from Vallejo, California.",
+  "humbleBeginnings": "Started in the music business and rose through A&R.",
+  "breakthrough": "Became the first woman to head A&R at Def Jam, founded artist-management firm Phase Too (2008) — managing Chris Brown among others — and in June 2023 was named president of independent label and distributor EMPIRE.",
+  "legacy": "One of the most senior women executives in independent music.",
+  "breakthroughDetail": [
+   {
+    "t": "Def Jam first.",
+    "d": "First woman to head Def Jam's A&R department.",
+    "basis": "documented"
+   },
+   {
+    "t": "EMPIRE president.",
+    "d": "Joined 2018, SVP 2021, president June 2023.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Management firm.",
+    "d": "Founded Phase Too in 2008.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Billboard — Tina Davis named president of EMPIRE",
+    "url": "https://www.billboard.com/pro/tina-davis-named-president-empire/"
+   },
+   {
+    "label": "Variety — Empire names Tina Davis president",
+    "url": "https://variety.com/2023/music/news/empire-tina-davis-president-1235650276/"
+   },
+   {
+    "label": "Wikipedia — Tina Davis (music industry executive)",
+    "url": "https://en.wikipedia.org/wiki/Tina_Davis_(music_industry_executive)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "empire-distribution",
+    "type": "executive",
+    "label": "president, 2023–"
+   },
+   {
+    "id": "def-jam-recordings",
+    "type": "executive",
+    "label": "head of A&R"
+   },
+   {
+    "id": "phase-too",
+    "type": "ownership",
+    "label": "founder, 2008"
+   }
+  ]
+ },
+ {
+  "id": "wayne-mcconnell",
+  "name": "Wayne McConnell",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Houston, TX",
+  "industry": "Accounting & Advisory",
+  "originBadge": "Accounting Graduate",
+  "engineBadge": "CPA Firm Partnership",
+  "capitalBadge": "Partner Capital",
+  "hbcuStory": "Earned his accounting degree at Grambling State University in 1972; Grambling lists him among its notable business alumni.",
+  "humbleBeginnings": "Entered public accounting at a time when very few Black CPAs led firms.",
+  "breakthrough": "As longtime managing partner of Houston-based McConnell & Jones LLP, he built what the firm calls the largest majority African-American-owned CPA firm in the U.S., with offices in seven cities.",
+  "legacy": "Is transitioning from managing partner to chairman, handing day-to-day leadership to William A. Taylor Jr.",
+  "breakthroughDetail": [
+   {
+    "t": "Largest Black-owned CPA firm.",
+    "d": "McConnell & Jones describes itself as the largest majority African-American-owned and controlled CPA firm in the US.",
+    "basis": "documented"
+   },
+   {
+    "t": "National footprint.",
+    "d": "Offices in Houston, Durham, Washington, Atlanta, Austin, Columbus (GA) and Dallas.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Succession planned.",
+    "d": "Moving to chairman after a two-year transition.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Grambling State — Business notable alumni",
+    "url": "https://gram.edu/academics/majors/business/alumni.php"
+   },
+   {
+    "label": "McConnell & Jones LLP",
+    "url": "https://mcconnelljones.com/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "accounting 1972"
+   },
+   {
+    "id": "mcconnell-and-jones-llp",
+    "type": "ownership",
+    "label": "managing partner"
+   }
+  ]
+ },
+ {
+  "id": "joyce-m-roche",
+  "name": "Joyce M. Roché",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1947",
+  "base": "New York, NY",
+  "industry": "Consumer Products",
+  "originBadge": "Louisiana Parish Roots",
+  "engineBadge": "Consumer Marketing",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from Dillard University in 1970 and later earned an MBA from Columbia; she became the first woman to chair Dillard's board of trustees.",
+  "humbleBeginnings": "Born in Iberville Parish, Louisiana, one of eight children.",
+  "breakthrough": "Rose through marketing at Avon to become president and chief operating officer of Carson, Inc., the ethnic hair-care company.",
+  "legacy": "Led Girls Incorporated as president and CEO, and served on boards including AT&T, Macy's, Tupperware, Anheuser-Busch and Dr Pepper Snapple Group; wrote The Empress Has No Clothes (2013) on impostor syndrome.",
+  "breakthroughDetail": [
+   {
+    "t": "Carson, Inc.",
+    "d": "President and COO of the hair-care maker.",
+    "basis": "documented"
+   },
+   {
+    "t": "AT&T director.",
+    "d": "Joined via SNET in 1997 and retired from AT&T's board in 2018.",
+    "basis": "documented"
+   },
+   {
+    "t": "Girls Inc.",
+    "d": "President and CEO.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Dillard trustee chair.",
+    "d": "First female chair of Dillard's Board of Trustees.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Joyce M. Roché",
+    "url": "https://en.wikipedia.org/wiki/Joyce_M._Roche"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni",
+    "url": "https://www.dillard.edu/?p=2032"
+   },
+   {
+    "label": "Wikipedia — Dillard University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Dillard_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.A. 1970"
+   },
+   {
+    "id": "carson-inc",
+    "type": "executive",
+    "label": "president & COO"
+   },
+   {
+    "id": "avon-products",
+    "type": "executive",
+    "label": "marketing executive"
+   },
+   {
+    "id": "att-inc",
+    "type": "board",
+    "label": "director 1998–2018"
+   },
+   {
+    "id": "macys-inc",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "dr-pepper-snapple-group",
+    "type": "board",
+    "label": "director 2011–2017"
+   }
+  ]
+ },
+ {
+  "id": "harold-battiste",
+  "name": "Harold Battiste",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1931–2015",
+  "base": "New Orleans, LA",
+  "industry": "Record Label",
+  "originBadge": "Music Educator",
+  "engineBadge": "Musician-Owned Label",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. in music from Dillard University in 1953 (Dillard lists him with the class of ’52).",
+  "humbleBeginnings": "A New Orleans saxophonist and schoolteacher before moving into recording.",
+  "breakthrough": "Founded All For One (AFO) Records in 1961 — described as the first African-American musician-owned record label in the American South — and later spent 15 years with Sonny & Cher, arranging “I Got You Babe” and earning six gold records.",
+  "legacy": "Mentored generations of New Orleans musicians and documented the city's modern-jazz history.",
+  "breakthroughDetail": [
+   {
+    "t": "AFO Records.",
+    "d": "Founded 1961 as a musician-owned label.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sonny & Cher.",
+    "d": "Musical director and arranger; six gold records.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Ownership by musicians.",
+    "d": "AFO pioneered artists owning their own label in the South.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "New York Times — Harold Battiste obituary",
+    "url": "https://www.nytimes.com/2015/06/26/arts/music/harold-battiste-musician-mentor-and-arranger-dies-at-83.html"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni",
+    "url": "https://www.dillard.edu/?p=2032"
+   },
+   {
+    "label": "Wikipedia — Harold Battiste",
+    "url": "https://en.wikipedia.org/wiki/Harold_Battiste"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.S. music 1953"
+   },
+   {
+    "id": "afo-records",
+    "type": "ownership",
+    "label": "founder, 1961"
+   },
+   {
+    "id": "ellis-marsalis-jr",
+    "type": "parallel",
+    "label": "fellow Dillard-trained New Orleans modern-jazz musician"
+   }
+  ]
+ },
+ {
+  "id": "harold-doley",
+  "name": "Harold Doley",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1947",
+  "base": "New Orleans, LA",
+  "industry": "Investment Banking & Brokerage",
+  "originBadge": "Creole New Orleans",
+  "engineBadge": "Brokerage & Investment Banking",
+  "capitalBadge": "Self-Financed Exchange Seat",
+  "hbcuStory": "Earned a B.S. from Xavier University of Louisiana in 1968, double-majoring in accounting and business.",
+  "humbleBeginnings": "Born in New Orleans; started in brokerage in the South when Black stockbrokers were rare.",
+  "breakthrough": "In 1973 he bought a seat on the New York Stock Exchange — the first African American individual to do so — and founded his own investment banking firm (Doley Securities), taking emeritus status in 2003.",
+  "legacy": "Served as U.S. Executive Director to the African Development Bank with ambassadorial rank (1983–85), founding director of the Interior Department's Minerals Management Service, and co-founder of the U.S.–Africa Chamber of Commerce.",
+  "breakthroughDetail": [
+   {
+    "t": "NYSE seat, 1973.",
+    "d": "First individual African American to own a seat.",
+    "basis": "documented"
+   },
+   {
+    "t": "Firm founder.",
+    "d": "Founded an investment banking firm; emeritus from 2003.",
+    "basis": "documented"
+   },
+   {
+    "t": "Government finance roles.",
+    "d": "African Development Bank representative and founding director of the Minerals Management Service.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Taught at SUNO.",
+    "d": "Instructor at Southern University at New Orleans, 1970–1977.",
+    "basis": "documented"
+   },
+   {
+    "t": "HBCU advisor.",
+    "d": "Appointed to the President's Board of Advisors on HBCUs under George W. Bush.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Harold Doley",
+    "url": "https://en.wikipedia.org/wiki/Harold_Doley"
+   },
+   {
+    "label": "BlackPast — Harold Doley Jr.",
+    "url": "https://www.blackpast.org/?q=aah/doley-harold-jr-1947"
+   },
+   {
+    "label": "New York Times — Spotlight: A Deep South broker (1976)",
+    "url": "https://www.nytimes.com/1976/12/26/archives/spotlight-a-deep-south-broker.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "B.S. 1968"
+   },
+   {
+    "id": "doley-securities",
+    "type": "ownership",
+    "label": "founder"
+   },
+   {
+    "id": "new-york-stock-exchange",
+    "type": "deal",
+    "label": "bought seat, 1973"
+   },
+   {
+    "id": "southern-university-at-new-orleans",
+    "type": "faculty",
+    "label": "instructor 1970–1977"
+   }
+  ]
+ },
+ {
+  "id": "zirl-a-palmer",
+  "name": "Zirl A. Palmer",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1919–1982",
+  "base": "Lexington, KY",
+  "industry": "Retail Pharmacy",
+  "originBadge": "Barred from Home-State Schools",
+  "engineBadge": "Neighborhood Pharmacy",
+  "capitalBadge": "Franchise & Cashflow",
+  "hbcuStory": "Because West Virginia's professional schools barred Black students, he studied at Xavier University of Louisiana's College of Pharmacy, where he was first president of the student branch of the American Pharmaceutical Association.",
+  "humbleBeginnings": "Born in Bluefield, West Virginia.",
+  "breakthrough": "Opened Palmer Pharmacy in Lexington's East End in the early 1950s — the first Black-owned store in the Rexall chain — and later a modernist West End building housing his pharmacy, luncheonette and a doctor's office.",
+  "legacy": "Became the first Black member of the University of Kentucky Board of Trustees; after his business was bombed in 1968 he sold it, and the Palmer Pharmacy building is now a preserved landmark.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black Rexall store.",
+    "d": "Palmer Pharmacy was a Rexall franchise.",
+    "basis": "documented"
+   },
+   {
+    "t": "Expansion.",
+    "d": "Built a mid-century modern pharmacy, luncheonette and clinic building in the West End.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "UK trustee.",
+    "d": "First Black member of the University of Kentucky Board of Trustees.",
+    "basis": "documented"
+   },
+   {
+    "t": "Preserved landmark.",
+    "d": "The Palmer Pharmacy building is the focus of preservation efforts.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Zirl A. Palmer",
+    "url": "https://en.wikipedia.org/wiki/Zirl_A._Palmer"
+   },
+   {
+    "label": "UKNow — UK honors Zirl Palmer",
+    "url": "http://uknow.uky.edu/campus-news/uk-honors-zirl-palmer-former-uk-trustee-pharmacist-and-advocate-african-american"
+   },
+   {
+    "label": "Notable Kentucky African Americans — Zirl A. Palmer",
+    "url": "https://nkaa.uky.edu/nkaa/items/show/829"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "College of Pharmacy graduate"
+   },
+   {
+    "id": "palmer-pharmacy",
+    "type": "ownership",
+    "label": "founder, early 1950s"
+   }
+  ]
+ },
+ {
+  "id": "joy-harden-bradford",
+  "name": "Joy Harden Bradford",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1979",
+  "base": "Atlanta, GA",
+  "industry": "Mental-Health Media",
+  "originBadge": "Psychology Student",
+  "engineBadge": "Therapist Directory & Podcast",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned her bachelor's degree at Xavier University of Louisiana before a Ph.D. in counseling psychology.",
+  "humbleBeginnings": "A licensed psychologist who saw how few resources were aimed at Black women.",
+  "breakthrough": "Founded Therapy for Black Girls in 2014, growing it into a therapist directory, podcast and media brand.",
+  "legacy": "Built one of the best-known Black mental-health platforms, featured by Black Enterprise and the American Psychological Association.",
+  "breakthroughDetail": [
+   {
+    "t": "Founded 2014.",
+    "d": "Therapy for Black Girls began as a blog and grew into a directory and podcast.",
+    "basis": "documented"
+   },
+   {
+    "t": "Media reach.",
+    "d": "Profiled by Black Enterprise and the APA.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Platform business.",
+    "d": "Combines directory listings, sponsorship and audio media.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Black Enterprise — Therapy for Black Girls",
+    "url": "https://www.blackenterprise.com/therapy-for-black-girls/"
+   },
+   {
+    "label": "American Psychological Association — Joy Harden Bradford",
+    "url": "https://www.apa.org/members/content/bradford-embrace-psychology.aspx"
+   },
+   {
+    "label": "Wikipedia — Joy Harden Bradford",
+    "url": "https://en.wikipedia.org/wiki/Joy_Harden_Bradford"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "B.A."
+   },
+   {
+    "id": "therapy-for-black-girls",
+    "type": "ownership",
+    "label": "founder, 2014"
+   }
+  ]
+ },
+ {
+  "id": "diane-anderson-minshall",
+  "name": "Diane Anderson-Minshall",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Portland, OR",
+  "industry": "Magazine Publishing",
+  "originBadge": "New Orleans Student Journalist",
+  "engineBadge": "LGBTQ Media",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Studied mass communications at Xavier University of Louisiana (after Tulane) before completing a B.A. at New College of California.",
+  "humbleBeginnings": "Began as editor of the Crescent City Star, a New Orleans weekly, in 1990.",
+  "breakthrough": "Co-founded Girlfriends magazine (1994), founded Alice (1999), ran Curve as editor-in-chief, and in 2020 became the first woman CEO of Pride Media, publisher of The Advocate and Out.",
+  "legacy": "Named executive director of GALECA (Dorian Awards) in 2025.",
+  "breakthroughDetail": [
+   {
+    "t": "Pride Media CEO.",
+    "d": "First female CEO, 2020.",
+    "basis": "documented"
+   },
+   {
+    "t": "Magazine founder.",
+    "d": "Co-founded Girlfriends and founded Alice.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Author.",
+    "d": "Co-wrote the Blind Eye mystery series and Queerly Beloved.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "The Advocate — Diane Anderson-Minshall named first woman CEO of Pride Media",
+    "url": "https://www.advocate.com/media/2020/1/15/diane-anderson-minshall-named-first-woman-ceo-pride-media"
+   },
+   {
+    "label": "LiveAbout — Diane Anderson-Minshall bio",
+    "url": "https://www.liveabout.com/diane-anderson-minshall-bio-2873042"
+   },
+   {
+    "label": "Wikipedia — Diane Anderson-Minshall",
+    "url": "https://en.wikipedia.org/wiki/Diane_Anderson-Minshall"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "attended (mass communications)"
+   },
+   {
+    "id": "pride-media",
+    "type": "executive",
+    "label": "CEO, 2020"
+   }
+  ]
+ },
+ {
+  "id": "jim-ovia",
+  "name": "Jim Ovia",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "$500M-$1B",
+  "tierBasis": "reported",
+  "peakWealth": "$550M (Forbes, 2015)",
+  "wealthNote": "Forbes Africa's 50 Richest, 2015.",
+  "lifespan": "b. 1951",
+  "base": "Lagos, Nigeria",
+  "industry": "Banking",
+  "originBadge": "Business Student Abroad",
+  "engineBadge": "Commercial Banking",
+  "capitalBadge": "Founder Equity",
+  "hbcuStory": "Earned a B.Sc. in business administration from Southern University in Baton Rouge in 1977, then an MBA from the University of Louisiana at Monroe (1979).",
+  "humbleBeginnings": "Born in Agbor, Delta State, Nigeria; studied in Louisiana before returning home.",
+  "breakthrough": "Founded Zenith Bank in 1990; it became one of Nigeria's largest commercial banks, listed in Lagos and London.",
+  "legacy": "Remains Zenith's chairman and largest individual shareholder; also founded mobile operator Visafone and owns prime Nigerian real estate.",
+  "breakthroughDetail": [
+   {
+    "t": "Zenith Bank founder.",
+    "d": "Founded 1990.",
+    "basis": "documented"
+   },
+   {
+    "t": "Forbes Africa rich list.",
+    "d": "Forbes put his net worth at $550 million in 2015.",
+    "basis": "documented"
+   },
+   {
+    "t": "Telecom.",
+    "d": "Founded Visafone Communications.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Largest individual stake.",
+    "d": "Holds slightly more than 9% of Zenith Bank (Forbes).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Forbes — Jim Ovia profile",
+    "url": "https://www.forbes.com/profile/jim-ovia/"
+   },
+   {
+    "label": "Wikipedia — Jim Ovia",
+    "url": "https://en.wikipedia.org/wiki/Jim_Ovia"
+   },
+   {
+    "label": "Vanguard — Okowa salutes Jim Ovia at 70",
+    "url": "https://www.vanguardngr.com/2021/11/okowa-salutes-jim-ovia-at-70/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "B.Sc. business administration 1977"
+   },
+   {
+    "id": "zenith-bank",
+    "type": "ownership",
+    "label": "founder, 1990; chairman"
+   },
+   {
+    "id": "visafone-communications",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "randy-jackson",
+  "name": "Randy Jackson",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on a decade-plus as a network TV judge plus label-executive career; no audited figure.",
+  "lifespan": "b. 1956",
+  "base": "Los Angeles, CA",
+  "industry": "Music & Television",
+  "originBadge": "Baton Rouge Bassist",
+  "engineBadge": "A&R & TV Judging",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from Southern University in 1979 with a bachelor's degree in music.",
+  "humbleBeginnings": "Born in Baton Rouge, he became an in-demand session bassist and toured with Journey.",
+  "breakthrough": "Spent eight years as vice president of A&R at Columbia Records and four years heading A&R at MCA, then became a household name as an American Idol judge (2002–2013) and mentor.",
+  "legacy": "Ran his own Dream Merchant 21 label and production ventures.",
+  "breakthroughDetail": [
+   {
+    "t": "Columbia Records VP.",
+    "d": "Eight years as VP of A&R.",
+    "basis": "documented"
+   },
+   {
+    "t": "MCA A&R head.",
+    "d": "Four years.",
+    "basis": "documented"
+   },
+   {
+    "t": "American Idol.",
+    "d": "Judge 2002–2013.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Label owner.",
+    "d": "Released music through his Dream Merchant 21 label.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Randy Jackson",
+    "url": "https://en.wikipedia.org/wiki/Randy_Jackson"
+   },
+   {
+    "label": "AllMusic — Randy Jackson biography",
+    "url": "https://www.allmusic.com/artist/randy-jackson-mn0000866743/biography"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "B.Mus. 1979"
+   },
+   {
+    "id": "columbia-records",
+    "type": "executive",
+    "label": "VP of A&R"
+   }
+  ]
+ },
+ {
+  "id": "david-banner",
+  "name": "David Banner",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1974",
+  "base": "Atlanta, GA",
+  "industry": "Music Production",
+  "originBadge": "Business Student President",
+  "engineBadge": "Production & Label",
+  "capitalBadge": "Independent Sales",
+  "hbcuStory": "Earned a bachelor's degree in business from Southern University, where he was student government president.",
+  "humbleBeginnings": "Born Levell Crump in Jackson, Mississippi.",
+  "breakthrough": "Sold independent records before a major-label deal, then became a sought-after producer for T.I., Lil Wayne and others.",
+  "legacy": "Runs his own A Banner Vision label/production company and is an outspoken advocate for Black economic self-reliance.",
+  "breakthroughDetail": [
+   {
+    "t": "Producer.",
+    "d": "Credits with T.I., Trick Daddy, Lil Boosie and Lil Wayne.",
+    "basis": "documented"
+   },
+   {
+    "t": "Own company.",
+    "d": "A Banner Vision.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Ownership message.",
+    "d": "Frequently urges HBCU audiences toward Black business ownership.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — David Banner",
+    "url": "https://en.wikipedia.org/wiki/David_Banner"
+   },
+   {
+    "label": "Jackson Free Press — Tough questions for David Banner",
+    "url": "https://www.jacksonfreepress.com/news/2003/may/19/tough-questions-for-david-banner/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "B.S. business"
+   },
+   {
+    "id": "a-banner-vision",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "morgan-watson",
+  "name": "Morgan Watson",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Baton Rouge, LA",
+  "industry": "Engineering Consulting",
+  "originBadge": "Cotton Fields to NASA",
+  "engineBadge": "Engineering Consulting",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Majored in engineering at Southern University, taking the school's first computer programming class; he later returned to teach thermodynamics (1968) and received Southern's President's Medal of Honor in 2016.",
+  "humbleBeginnings": "Grew up in rural Louisiana working cotton fields.",
+  "breakthrough": "Worked as a NASA engineer on the Apollo program, then returned to Louisiana and founded Minority Engineers of Louisiana — described as the first Black-run engineering consulting company in the Deep South.",
+  "legacy": "His path from Southern to Apollo to entrepreneurship is celebrated as a model for Black engineers.",
+  "breakthroughDetail": [
+   {
+    "t": "Apollo engineer.",
+    "d": "Worked on NASA's Apollo program.",
+    "basis": "documented"
+   },
+   {
+    "t": "Firm founder.",
+    "d": "Founded Minority Engineers of Louisiana.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Southern professor.",
+    "d": "Taught thermodynamics at Southern from 1968.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Southern University — Watson news",
+    "url": "http://www.subr.edu/news/2889"
+   },
+   {
+    "label": "BRProud — Southern alum recounts working on Apollo 11",
+    "url": "https://www.brproud.com/news/from-cotton-fields-to-nasa-southern-alum-and-professor-recounts-working-on-apollo-11-mission/"
+   },
+   {
+    "label": "Wikipedia — Morgan Watson",
+    "url": "https://en.wikipedia.org/wiki/Morgan_Watson"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "engineering"
+   },
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "faculty",
+    "label": "professor of thermodynamics, from 1968"
+   },
+   {
+    "id": "minority-engineers-of-louisiana",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "r-h-boyd",
+  "name": "R. H. Boyd",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1843–1922",
+  "base": "Nashville, TN",
+  "industry": "Publishing & Banking",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "Religious Publishing",
+  "capitalBadge": "Church Network Capital",
+  "hbcuStory": "Enrolled at Bishop College in Marshall, Texas, around 1869–70 and studied there for two years without graduating.",
+  "humbleBeginnings": "Born enslaved in Noxubee County, Mississippi; worked as a cowboy and laborer in Texas before becoming a Baptist minister.",
+  "breakthrough": "Founded the National Baptist Publishing Board in Nashville (1896), supplying Sunday-school literature to Black Baptist churches nationwide, plus the National Baptist Church Supply Company (1902).",
+  "legacy": "Co-founded and was first president of One-Cent Savings Bank (1904), still operating as Citizens Savings Bank and Trust — one of the oldest Black-owned banks — and launched the National Negro Doll Company.",
+  "breakthroughDetail": [
+   {
+    "t": "Publishing empire.",
+    "d": "National Baptist Publishing Board established 1896, chartered 1898.",
+    "basis": "documented"
+   },
+   {
+    "t": "Bank founder.",
+    "d": "One-Cent Savings Bank (1904) became Citizens Savings Bank and Trust.",
+    "basis": "documented"
+   },
+   {
+    "t": "Black dolls.",
+    "d": "Sold and then manufactured Black dolls (1908–c.1915).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family enterprise.",
+    "d": "The publishing house continues as R.H. Boyd Publishing; his son Henry Allen Boyd co-founded the Nashville Globe.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Boyd, Richard Henry",
+    "url": "http://www.tshaonline.org/handbook/online/articles/fbo60"
+   },
+   {
+    "label": "Tennessee State University — Citizens Savings Bank and Trust",
+    "url": "http://www.tnstate.edu/library/digital/CITIZEN.HTM"
+   },
+   {
+    "label": "Wikipedia — R. H. Boyd",
+    "url": "https://en.wikipedia.org/wiki/R._H._Boyd"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "attended c.1869–1871"
+   },
+   {
+    "id": "national-baptist-publishing-board",
+    "type": "ownership",
+    "label": "founder, 1896"
+   },
+   {
+    "id": "citizens-savings-bank-and-trust-company",
+    "type": "ownership",
+    "label": "co-founder & first president, 1904"
+   },
+   {
+    "id": "national-negro-doll-company",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "mack-h-hannah-jr",
+  "name": "Mack H. Hannah Jr.",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1904–1994",
+  "base": "Port Arthur, TX",
+  "industry": "Insurance & Funeral Services",
+  "originBadge": "Small-College All-American",
+  "engineBadge": "Burial Insurance & Funerals",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Graduated from Bishop College in 1927, earning All-American honors in football; he later served as a Bishop College trustee and chairman of the Texas Southern University board, where Hannah Hall bears his name.",
+  "humbleBeginnings": "Born in Brenham, Texas, he started as a casket salesman (1930–1944).",
+  "breakthrough": "Organized Metropolitan Service Life Insurance Company (1939), became sole owner of a casket company, ran Mack H. Hannah and Sons Funeral Home, organized a savings and loan, and developed real estate.",
+  "legacy": "Described by the Handbook of Texas as probably the wealthiest Black Texan of his time; founded the Texas Federation of Burial Associations and served as U.S. consul to Liberia.",
+  "breakthroughDetail": [
+   {
+    "t": "Insurance founder.",
+    "d": "Metropolitan Service Life Insurance Company, 1939.",
+    "basis": "documented"
+   },
+   {
+    "t": "Diversified holdings.",
+    "d": "Casket manufacturing, savings and loan, real estate, even a shrimping venture.",
+    "basis": "documented"
+   },
+   {
+    "t": "Political influence.",
+    "d": "Influenced Jefferson County Black voters for Allan Shivers and Lyndon Johnson.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "TSU board chairman.",
+    "d": "TSU's Mack H. Hannah Hall (1950) is named for him.",
+    "basis": "documented"
+   },
+   {
+    "t": "Family ties.",
+    "d": "Cousin of Houston taxi-and-insurance millionaire Hobart T. Taylor Sr.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Hannah, Mack Henry Jr.",
+    "url": "https://www.tshaonline.org/handbook/entries/hannah-mack-henry-jr"
+   },
+   {
+    "label": "Wikipedia — Texas Southern University (Mack H. Hannah Hall)",
+    "url": "https://en.wikipedia.org/wiki/Texas_Southern_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "B.A. 1927"
+   },
+   {
+    "id": "bishop-college",
+    "type": "board",
+    "label": "trustee"
+   },
+   {
+    "id": "texas-southern-university",
+    "type": "board",
+    "label": "chairman of the board"
+   },
+   {
+    "id": "metropolitan-service-life-insurance-company",
+    "type": "ownership",
+    "label": "organizer, 1939"
+   }
+  ]
+ },
+ {
+  "id": "h-claude-hudson",
+  "name": "H. Claude Hudson",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1886–1989",
+  "base": "Los Angeles, CA",
+  "industry": "Savings & Loan Banking",
+  "originBadge": "Louisiana Dentist",
+  "engineBadge": "Community Savings & Loan",
+  "capitalBadge": "Depositor Capital",
+  "hbcuStory": "Studied at Wiley College in Marshall, Texas, before earning his dental degree at Howard University (1913); he later became the first African-American graduate of Loyola Law School in Los Angeles (1931).",
+  "humbleBeginnings": "Born in Marksville, Louisiana; practiced dentistry in Shreveport before moving to Los Angeles.",
+  "breakthrough": "Helped found Broadway Federal Savings and Loan Association in 1946 and chaired it from 1949 to 1972, financing home ownership for Black Angelenos shut out by redlining.",
+  "legacy": "Broadway Federal grew into one of the nation's best-known Black-owned banks; Hudson was a longtime leader of the Los Angeles NAACP.",
+  "breakthroughDetail": [
+   {
+    "t": "Broadway Federal founder.",
+    "d": "Helped found it in 1946; chairman 1949–1972.",
+    "basis": "documented"
+   },
+   {
+    "t": "Lawyer too.",
+    "d": "First Black graduate of Loyola Law School (1931).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Civil rights leader.",
+    "d": "President of the Los Angeles NAACP branch.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Los Angeles Times — H. Claude Hudson dies at 102",
+    "url": "https://www.latimes.com/archives/la-xpm-1989-01-28-mn-1131-story.html"
+   },
+   {
+    "label": "Broadway Federal Bank — History (archived)",
+    "url": "https://web.archive.org/web/20100918143328/http://broadwayfederalbank.com/history.htm"
+   },
+   {
+    "label": "Wikipedia — H. Claude Hudson",
+    "url": "https://en.wikipedia.org/wiki/H._Claude_Hudson"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "D.D.S. 1913"
+   },
+   {
+    "id": "broadway-federal-bank",
+    "type": "ownership",
+    "label": "co-founder 1946; chairman 1949–1972"
+   }
+  ]
+ },
+ {
+  "id": "lee-wilder-thomas",
+  "name": "Lee Wilder Thomas",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1873–1953",
+  "base": "Muskogee, OK",
+  "industry": "Oil Royalties & Real Estate",
+  "originBadge": "Limestone County Farmer",
+  "engineBadge": "Oil & Mineral Royalties",
+  "capitalBadge": "Oil Strike Windfall",
+  "hbcuStory": "Attended and graduated from Wiley College in Marshall, Texas.",
+  "humbleBeginnings": "Born in Limestone County, Texas; acquired farmland near Mexia.",
+  "breakthrough": "His land sat in the Mexia oil field; in the 1920 boom he was among the owners who struck oil, with ten producing wells on his property.",
+  "legacy": "Partnered with Jake Simmons Jr. in the early 1930s to build Simmons Royalty Co., a leading Black-owned oil royalty company in Oklahoma, and invested over $100,000 in Muskogee County real estate to build the Black ‘model community’ of Summit.",
+  "breakthroughDetail": [
+   {
+    "t": "Mexia oil strike.",
+    "d": "Ten producing wells on his land after the 1920 boom.",
+    "basis": "documented"
+   },
+   {
+    "t": "Simmons Royalty Co.",
+    "d": "Co-built with Jake Simmons Jr.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Town builder.",
+    "d": "Planned Summit, Oklahoma, with a store, real estate office and cotton gin.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Lee Wilder Thomas",
+    "url": "https://en.wikipedia.org/wiki/Lee_Wilder_Thomas"
+   },
+   {
+    "label": "Oklahoma SHPO — National Register record (archived)",
+    "url": "https://web.archive.org/web/20100621070147/http://www.ocgi.okstate.edu/shpo/shpopic.asp?id=04000123"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "graduate"
+   },
+   {
+    "id": "simmons-royalty-company",
+    "type": "ownership",
+    "label": "partner, early 1930s"
+   }
+  ]
+ },
+ {
+  "id": "g-j-sutton",
+  "name": "G. J. Sutton",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1909–1976",
+  "base": "San Antonio, TX",
+  "industry": "Funeral Services",
+  "originBadge": "San Antonio Family Business",
+  "engineBadge": "Mortuary & Cemetery",
+  "capitalBadge": "Family Business Capital",
+  "hbcuStory": "Attended Wiley College in Marshall, Texas, before earning his bachelor's degree at Wilberforce University (1932) and a mortuary science degree in Cincinnati.",
+  "humbleBeginnings": "One of the Sutton siblings of San Antonio; brother of Percy Sutton.",
+  "breakthrough": "Joined his brother in running Sutton and Sutton Mortuary in 1938 — still operating — and founded Gates of Heaven Memorial Gardens Cemetery.",
+  "legacy": "Became the first Black official elected in San Antonio (Texas House, 1972), serving until his death; his wife Lou Nelle Sutton succeeded him.",
+  "breakthroughDetail": [
+   {
+    "t": "Sutton and Sutton Mortuary.",
+    "d": "Co-ran from 1938.",
+    "basis": "documented"
+   },
+   {
+    "t": "Cemetery founder.",
+    "d": "Gates of Heaven Memorial Gardens.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Political first.",
+    "d": "First Black elected official from San Antonio.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Legislative Reference Library of Texas — G. J. Sutton",
+    "url": "https://lrl.texas.gov/legeleaders/members/memberdisplay.cfm?memberID=673"
+   },
+   {
+    "label": "Wikipedia — G. J. Sutton",
+    "url": "https://en.wikipedia.org/wiki/G._J._Sutton"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "wilberforce-university",
+    "type": "alumni",
+    "label": "B.A. 1932"
+   },
+   {
+    "id": "sutton-and-sutton-mortuary",
+    "type": "ownership",
+    "label": "co-operator from 1938"
+   }
+  ]
+ },
+ {
+  "id": "walter-l-cohen",
+  "name": "Walter L. Cohen",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1860–1930",
+  "base": "New Orleans, LA",
+  "industry": "Life Insurance",
+  "originBadge": "Free Man of Color",
+  "engineBadge": "Black Life Insurance",
+  "capitalBadge": "Policyholder Premiums",
+  "hbcuStory": "Attended Straight College (Straight University) in New Orleans after St. Louis Catholic School.",
+  "humbleBeginnings": "Born a free man of color in New Orleans.",
+  "breakthrough": "Founded People's Life Insurance Company of Louisiana and served as its president, one of the significant Black-owned insurers in the state.",
+  "legacy": "Chaired the Louisiana Republican Party (1892–1930) and was appointed by McKinley, Theodore Roosevelt and Harding to federal posts, ending as Comptroller of Customs at New Orleans.",
+  "breakthroughDetail": [
+   {
+    "t": "Insurance founder.",
+    "d": "Founded People's Life Insurance Co. and served as president.",
+    "basis": "documented"
+   },
+   {
+    "t": "Patronage power.",
+    "d": "Held federal posts under three presidents.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Benevolent societies.",
+    "d": "Active in New Orleans benevolent and fraternal organizations.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "African American Registry — Walter Cohen",
+    "url": "https://aaregistry.org/story/a-spokesman-for-his-people-walter-cohen/"
+   },
+   {
+    "label": "Wikipedia — Walter L. Cohen",
+    "url": "https://en.wikipedia.org/wiki/Walter_L._Cohen"
+   }
+  ],
+  "connections": [
+   {
+    "id": "straight-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "peoples-life-insurance-company",
+    "type": "ownership",
+    "label": "founder & president"
+   }
+  ]
+ },
+ {
+  "id": "tony-wyllie",
+  "name": "Tony Wyllie",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1967",
+  "base": "Washington, DC",
+  "industry": "Sports Business & Communications",
+  "originBadge": "Journalism Graduate",
+  "engineBadge": "NFL Communications",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a journalism degree at Texas Southern University; he was later inducted into the National Black College Alumni Hall of Fame.",
+  "humbleBeginnings": "Born in Brooklyn, New York.",
+  "breakthrough": "Built an NFL front-office career with the Rams, Oilers/Titans and Texans before becoming senior vice president of communications for Washington's NFL franchise.",
+  "legacy": "Led Special Olympics North America as regional president, and founded and runs The Collective Engine.",
+  "breakthroughDetail": [
+   {
+    "t": "NFL senior VP.",
+    "d": "SVP of communications for Washington's franchise.",
+    "basis": "documented"
+   },
+   {
+    "t": "Special Olympics.",
+    "d": "Regional president and managing director, North America.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Own firm.",
+    "d": "Founder and CEO of The Collective Engine.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Andscape — Tony Wyllie, National Black College Alumni Hall of Fame",
+    "url": "https://andscape.com/features/redskins-svp-tony-wyllie-national-black-college-alumni-hall-of-fame/"
+   },
+   {
+    "label": "Andscape — Wyllie heads to Special Olympics",
+    "url": "https://andscape.com/features/redskins-pr-exec-tony-wyllie-says-its-a-privilege-to-head-to-special-olympics/"
+   },
+   {
+    "label": "Wikipedia — Tony Wyllie",
+    "url": "https://en.wikipedia.org/wiki/Tony_Wyllie"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "B.A. journalism"
+   },
+   {
+    "id": "washington-commanders",
+    "type": "executive",
+    "label": "SVP communications"
+   }
+  ]
+ },
+ {
+  "id": "dick-campbell",
+  "name": "Dick Campbell",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1903–1994",
+  "base": "New York, NY",
+  "industry": "Theater Production",
+  "originBadge": "Beaumont Native",
+  "engineBadge": "Black Theater Companies",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Attended Paul Quinn College in Waco from 1922 to 1926.",
+  "humbleBeginnings": "Born Cornelius Coleridge Campbell in Beaumont, Texas; worked vaudeville in Los Angeles.",
+  "breakthrough": "Co-founded the Negro People's Theatre with Rose McClendon in 1935 and, with his wife Muriel Rahn, the Rose McClendon Players (1937), producing only works by Black playwrights.",
+  "legacy": "Expanded the range of roles and ownership available to Black theater artists in Harlem and on Broadway.",
+  "breakthroughDetail": [
+   {
+    "t": "Negro People's Theatre.",
+    "d": "Co-founded 1935.",
+    "basis": "documented"
+   },
+   {
+    "t": "Rose McClendon Players.",
+    "d": "Founded 1937.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Producer for Black playwrights.",
+    "d": "Company produced only plays by Black writers.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "New York Times — Dick Campbell, 91, producer active in causes",
+    "url": "https://www.nytimes.com/1994/12/23/obituaries/dick-campbell-91-producer-active-in-causes.html"
+   },
+   {
+    "label": "Wikipedia — Dick Campbell (producer)",
+    "url": "https://en.wikipedia.org/wiki/Dick_Campbell_(producer)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "paul-quinn-college",
+    "type": "alumni",
+    "label": "attended 1922–1926"
+   },
+   {
+    "id": "rose-mcclendon-players",
+    "type": "ownership",
+    "label": "co-founder, 1937"
+   }
+  ]
+ },
+ {
+  "id": "sutton-e-griggs",
+  "name": "Sutton E. Griggs",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1872–1933",
+  "base": "Memphis, TN",
+  "industry": "Book Publishing",
+  "originBadge": "Texas Baptist Preacher",
+  "engineBadge": "Self-Publishing House",
+  "capitalBadge": "Church & Subscriber Sales",
+  "hbcuStory": "Attended Bishop College in Marshall, Texas, before seminary.",
+  "humbleBeginnings": "Born in Chatfield, Texas, the son of a Baptist minister.",
+  "breakthrough": "Founded Orion Publishing Company in 1901 to sell books to the African-American market, publishing his own novels including Imperium in Imperio (1899) and The Hindered Hand (1905).",
+  "legacy": "One of the most widely read Black novelists of his era and a prominent Baptist pastor in Nashville and Memphis.",
+  "breakthroughDetail": [
+   {
+    "t": "Orion Publishing.",
+    "d": "Founded 1901.",
+    "basis": "documented"
+   },
+   {
+    "t": "Bestselling author.",
+    "d": "Imperium in Imperio imagined a secret Black nation in Texas.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Pastor.",
+    "d": "Led Tabernacle Baptist Church in Memphis for 19 years.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Griggs, Sutton Elbert",
+    "url": "https://www.tshaonline.org/handbook/entries/griggs-sutton-elbert"
+   },
+   {
+    "label": "Texas Observer — Imagining Texas as a Black utopia",
+    "url": "https://www.texasobserver.org/1585-imagining-texas-as-black-utopia/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "orion-publishing-company",
+    "type": "ownership",
+    "label": "founder, 1901"
+   }
+  ]
+ },
+ {
+  "id": "barbara-jordan",
+  "name": "Barbara Jordan",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1936–1996",
+  "base": "Houston, TX",
+  "industry": "Politics & Law",
+  "originBadge": "Fifth Ward Debater",
+  "engineBadge": "Legislative Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated magna cum laude from Texas Southern University in 1956, where she starred on the debate team, before Boston University law school.",
+  "humbleBeginnings": "Raised in Houston's Fifth Ward, daughter of a Baptist minister.",
+  "breakthrough": "First African American elected to the Texas Senate since Reconstruction (1966) and first Southern Black woman elected to Congress (1972); her 1974 Watergate impeachment speech made her a national figure.",
+  "legacy": "Chaired the U.S. Commission on Immigration Reform until her death and taught at UT's LBJ School.",
+  "breakthroughDetail": [
+   {
+    "t": "Texas Senate.",
+    "d": "Served 1967–1973; acting governor for a day in 1972.",
+    "basis": "documented"
+   },
+   {
+    "t": "Congress.",
+    "d": "Represented Texas' 18th District 1973–1979.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Successor.",
+    "d": "Fellow TSU alumnus Mickey Leland succeeded her in the 18th District.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "U.S. House History — Barbara Jordan",
+    "url": "https://history.house.gov/People/Detail/16031"
+   },
+   {
+    "label": "Wikipedia — Barbara Jordan",
+    "url": "https://en.wikipedia.org/wiki/Barbara_Jordan"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "B.A. 1956"
+   }
+  ]
+ },
+ {
+  "id": "mickey-leland",
+  "name": "Mickey Leland",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1944–1989",
+  "base": "Houston, TX",
+  "industry": "Politics",
+  "originBadge": "Pharmacist Activist",
+  "engineBadge": "Anti-Hunger Policy",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a pharmacy degree from Texas Southern University in 1970 and was a campus civil-rights activist.",
+  "humbleBeginnings": "Born in Lubbock and raised in Houston's Fifth Ward.",
+  "breakthrough": "Served in the Texas House (1973–1979) and then succeeded Barbara Jordan in Congress (1979–1989), chairing the Congressional Black Caucus and the House Select Committee on Hunger.",
+  "legacy": "Died in a plane crash in Ethiopia while on a famine-relief mission; Houston's international airport terminal bears his name.",
+  "breakthroughDetail": [
+   {
+    "t": "Congressional Black Caucus chair.",
+    "d": "1985–1987.",
+    "basis": "documented"
+   },
+   {
+    "t": "Hunger committee.",
+    "d": "Led the House Select Committee on Hunger.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Died on mission.",
+    "d": "Killed in Gambela, Ethiopia, on August 7, 1989.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Biographical Directory of the U.S. Congress — Leland",
+    "url": "http://bioguide.congress.gov/scripts/biodisplay.pl?index=L000237"
+   },
+   {
+    "label": "Wikipedia — Mickey Leland",
+    "url": "https://en.wikipedia.org/wiki/Mickey_Leland"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "B.S. pharmacy 1970"
+   },
+   {
+    "id": "barbara-jordan",
+    "type": "parallel",
+    "label": "succeeded her in TX-18"
+   }
+  ]
+ },
+ {
+  "id": "rodney-ellis",
+  "name": "Rodney Ellis",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1954",
+  "base": "Houston, TX",
+  "industry": "Politics & Public Finance",
+  "originBadge": "TSU Political Scientist",
+  "engineBadge": "Legislation & Public Finance",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.A. in political science at Texas Southern University before a master's from UT's LBJ School and a UT law degree.",
+  "humbleBeginnings": "Grew up in Houston.",
+  "breakthrough": "Served on Houston City Council (1983–1988) and in the Texas Senate (1990–2016), acting as governor for 45 days as president pro tempore; became Harris County Commissioner in 2017.",
+  "legacy": "Combined politics with finance work — advising on the Telkom South Africa privatization and serving as a senior advisor at law firm Dentons.",
+  "breakthroughDetail": [
+   {
+    "t": "Texas Senate.",
+    "d": "District 13, 1990–2016.",
+    "basis": "documented"
+   },
+   {
+    "t": "Harris County Commissioner.",
+    "d": "Precinct 1 since 2017.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Finance advisory.",
+    "d": "Senior advisor in Dentons' public policy practice.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Texas Tribune — Ellis wins nomination for Harris County commissioner",
+    "url": "https://www.texastribune.org/2016/06/25/ellis-wins-democratic-nomination-harris-county-com/"
+   },
+   {
+    "label": "Dentons — Rodney Ellis",
+    "url": "https://www.dentons.com/en/rodney-ellis"
+   },
+   {
+    "label": "Wikipedia — Rodney Ellis",
+    "url": "https://en.wikipedia.org/wiki/Rodney_Ellis"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-southern-university",
+    "type": "alumni",
+    "label": "B.A. political science"
+   }
+  ]
+ },
+ {
+  "id": "hobart-taylor-jr",
+  "name": "Hobart Taylor Jr.",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1920–1981",
+  "base": "Washington, DC",
+  "industry": "Law, Government & Corporate Boards",
+  "originBadge": "Taxi Millionaire's Son",
+  "engineBadge": "Federal Policy & Boards",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a bachelor's in economics from Prairie View in 1939, then a master's from Howard (1941) and a Michigan law degree.",
+  "humbleBeginnings": "Son of Hobart T. Taylor Sr., a self-made Houston millionaire in insurance, taxicabs and real estate.",
+  "breakthrough": "As a Lyndon Johnson aide he helped draft Executive Order 10925 and is credited with coining the phrase “affirmative action”; Johnson named him a director of the Export-Import Bank (1965–1968).",
+  "legacy": "Became one of the first Black directors of major corporations, sitting on the boards of Aetna, Westinghouse, Burroughs, Eastern Air Lines, A&P and Standard Oil of Ohio.",
+  "breakthroughDetail": [
+   {
+    "t": "Coined “affirmative action.”",
+    "d": "Credited with the phrase while drafting EO 10925.",
+    "basis": "documented"
+   },
+   {
+    "t": "Ex-Im Bank director.",
+    "d": "1965–1968.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Corporate boardroom pioneer.",
+    "d": "Multiple Fortune 500 directorships.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Washington Post — Hobart Taylor dies (1981)",
+    "url": "https://www.washingtonpost.com/archive/local/1981/04/06/hobart-taylor-dies/0123121c-ebab-4ae6-bbe9-6f50452726d1/"
+   },
+   {
+    "label": "Handbook of Texas — Taylor, Hobart Jr.",
+    "url": "https://www.tshaonline.org/handbook/online/articles/fta77"
+   },
+   {
+    "label": "Wikipedia — Hobart Taylor Jr.",
+    "url": "https://en.wikipedia.org/wiki/Hobart_Taylor_Jr."
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "B.A. economics 1939"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "M.A. 1941"
+   },
+   {
+    "id": "export-import-bank-of-the-united-states",
+    "type": "executive",
+    "label": "director 1965–1968"
+   },
+   {
+    "id": "aetna",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "westinghouse-electric-corporation",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "julius-w-becton-jr",
+  "name": "Julius W. Becton Jr.",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1926–2023",
+  "base": "Springfield, VA",
+  "industry": "Military & Public Administration",
+  "originBadge": "Army Private to General",
+  "engineBadge": "Military Command",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a bachelor's in mathematics from Prairie View A&M in 1960 while an Army officer, and later served as the university's president (1989–1994).",
+  "humbleBeginnings": "Born in Bryn Mawr, Pennsylvania; enlisted in a segregated Army in World War II.",
+  "breakthrough": "Rose to lieutenant general commanding VII Corps, then directed FEMA (1985–1989).",
+  "legacy": "Led Prairie View as president and later served as superintendent of D.C. Public Schools.",
+  "breakthroughDetail": [
+   {
+    "t": "Three-star general.",
+    "d": "Commanded VII Corps.",
+    "basis": "documented"
+   },
+   {
+    "t": "FEMA director.",
+    "d": "1985–1989.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "PVAMU president.",
+    "d": "1989–1994.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "New York Times — Julius W. Becton Jr. obituary",
+    "url": "https://www.nytimes.com/2023/12/05/us/julius-w-becton-jr-dead.html"
+   },
+   {
+    "label": "Wikipedia — Julius W. Becton Jr.",
+    "url": "https://en.wikipedia.org/wiki/Julius_W._Becton_Jr."
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. mathematics 1960"
+   },
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "faculty",
+    "label": "president 1989–1994"
+   }
+  ]
+ },
+ {
+  "id": "frederick-d-patterson",
+  "name": "Frederick D. Patterson",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1901–1988",
+  "base": "Tuskegee, AL",
+  "industry": "Education & Philanthropy",
+  "originBadge": "Orphan Scholar",
+  "engineBadge": "College Fundraising",
+  "capitalBadge": "Pooled Philanthropy",
+  "hbcuStory": "Studied agriculture at Prairie View Normal and Industrial Institute, where he first became interested in veterinary medicine, before veterinary and doctoral degrees at Iowa State and Cornell.",
+  "humbleBeginnings": "Orphaned young and raised by his older sister, who taught in Texas.",
+  "breakthrough": "As president of Tuskegee Institute (1935–1953) he founded the United Negro College Fund in 1944, pooling fundraising for private Black colleges.",
+  "legacy": "UNCF has since raised billions for HBCU students; he received the Presidential Medal of Freedom.",
+  "breakthroughDetail": [
+   {
+    "t": "Founded UNCF.",
+    "d": "1944.",
+    "basis": "documented"
+   },
+   {
+    "t": "Tuskegee president.",
+    "d": "1935–1953; also launched its veterinary school.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Collective capital model.",
+    "d": "UNCF pioneered joint fundraising across many colleges.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "UNCF — Frederick Douglass Patterson biography",
+    "url": "https://uncf.org/pages/frederick-douglass-patterson-main"
+   },
+   {
+    "label": "Wikipedia — Frederick D. Patterson",
+    "url": "https://en.wikipedia.org/wiki/Frederick_D._Patterson"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "studied agriculture"
+   },
+   {
+    "id": "tuskegee-university",
+    "type": "faculty",
+    "label": "president 1935–1953"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "founder, 1944"
+   }
+  ]
+ },
+ {
+  "id": "ruth-simmons",
+  "name": "Ruth Simmons",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1945",
+  "base": "Houston, TX",
+  "industry": "Higher Education",
+  "originBadge": "Sharecropper's Daughter",
+  "engineBadge": "University Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Dillard University in 1967, then earned a Harvard Ph.D. in Romance languages.",
+  "humbleBeginnings": "Youngest of 12 children of East Texas sharecroppers, raised in Houston's Fifth Ward.",
+  "breakthrough": "President of Smith College (1995–2001) and Brown University (2001–2012) — the first Black president of an Ivy League school — then of Prairie View A&M (2017–2023).",
+  "legacy": "Served on the Goldman Sachs board (2000–2009).",
+  "breakthroughDetail": [
+   {
+    "t": "Ivy League first.",
+    "d": "Brown president 2001–2012.",
+    "basis": "documented"
+   },
+   {
+    "t": "Returned to an HBCU.",
+    "d": "Prairie View A&M president 2017–2023.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Corporate director.",
+    "d": "Goldman Sachs board 2000–2009.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Brown University — Simmons era news",
+    "url": "https://news.brown.edu/articles/2012/05/simmonsquad"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni",
+    "url": "https://www.dillard.edu/?p=2032"
+   },
+   {
+    "label": "Wikipedia — Ruth Simmons",
+    "url": "https://en.wikipedia.org/wiki/Ruth_Simmons"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.A. 1967"
+   },
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "faculty",
+    "label": "president 2017–2023"
+   },
+   {
+    "id": "goldman-sachs",
+    "type": "board",
+    "label": "director 2000–2009"
+   }
+  ]
+ },
+ {
+  "id": "norman-francis",
+  "name": "Norman Francis",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1931–2026",
+  "base": "New Orleans, LA",
+  "industry": "Higher Education & Banking",
+  "originBadge": "Lafayette Working Family",
+  "engineBadge": "University Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. from Xavier University of Louisiana in 1952, became the first Black graduate of Loyola New Orleans' law school (1955), and led Xavier as president from 1968 to 2015.",
+  "humbleBeginnings": "Born in Lafayette, Louisiana, son of a barber.",
+  "breakthrough": "Over 47 years he made Xavier a national leader in sending Black students to medical school; he received the Presidential Medal of Freedom in 2006.",
+  "legacy": "Was a founder and chairman of Liberty Bank and Trust (1972), one of the largest Black-owned banks in the U.S.",
+  "breakthroughDetail": [
+   {
+    "t": "Longest-serving president.",
+    "d": "Led Xavier 1968–2015.",
+    "basis": "documented"
+   },
+   {
+    "t": "Medal of Freedom.",
+    "d": "2006.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Bank founder.",
+    "d": "Co-founded Liberty Bank & Trust in 1972 and served as chairman.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Washington Informer — Longest-serving college president to retire",
+    "url": "https://www.washingtoninformer.com/longest-serving-college-president-to-retire/"
+   },
+   {
+    "label": "Verite News — Norman C. Francis obituary",
+    "url": "https://veritenews.org/2026/02/18/norman-c-francis-xavier-liberty-obituary/"
+   },
+   {
+    "label": "MarketScreener — Norman Francis insider profile",
+    "url": "https://ca.marketscreener.com/insider/NORMAN-FRANCIS-A008W3/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "B.S. 1952"
+   },
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "faculty",
+    "label": "president 1968–2015"
+   },
+   {
+    "id": "liberty-bank-and-trust",
+    "type": "ownership",
+    "label": "co-founder & chairman, 1972"
+   }
+  ]
+ },
+ {
+  "id": "alexis-herman",
+  "name": "Alexis Herman",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1947–2025",
+  "base": "Washington, DC",
+  "industry": "Government & Corporate Boards",
+  "originBadge": "Mobile Activist",
+  "engineBadge": "Labor Policy & Boards",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.A. in sociology from Xavier University of Louisiana in 1969.",
+  "humbleBeginnings": "Born in Mobile, Alabama.",
+  "breakthrough": "Became the first African-American U.S. Secretary of Labor (1997–2001) after directing the White House Office of Public Liaison.",
+  "legacy": "After government she chaired and ran New Ventures, Inc., and sat on the boards of Coca-Cola, Cummins, MGM Resorts and Entergy.",
+  "breakthroughDetail": [
+   {
+    "t": "Labor Secretary.",
+    "d": "1997–2001.",
+    "basis": "documented"
+   },
+   {
+    "t": "Coca-Cola director.",
+    "d": "Joined the board in 2002.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Consultancy.",
+    "d": "Chair and CEO of New Ventures, Inc.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "U.S. Department of Labor — Hall of Secretaries: Alexis Herman",
+    "url": "https://www.dol.gov/general/aboutdol/history/herman"
+   },
+   {
+    "label": "Xavier University — community mourns Alexis Herman",
+    "url": "https://www.xula.edu/news//20251/05/the-xavier-community-mourns-the-passing-of-alexis-herman-69.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "B.A. 1969"
+   },
+   {
+    "id": "new-ventures-inc",
+    "type": "ownership",
+    "label": "chair & CEO"
+   },
+   {
+    "id": "coca-cola-company",
+    "type": "board",
+    "label": "director from 2002"
+   },
+   {
+    "id": "cummins-inc",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "mgm-resorts-international",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "entergy",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "regina-benjamin",
+  "name": "Regina Benjamin",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1956",
+  "base": "Bayou La Batre, AL",
+  "industry": "Medicine",
+  "originBadge": "Rural Physician",
+  "engineBadge": "Community Health",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. in chemistry from Xavier University of Louisiana before medical school.",
+  "humbleBeginnings": "Born in Mobile, Alabama.",
+  "breakthrough": "Built a rural health clinic in Bayou La Batre, Alabama — later earning a MacArthur fellowship and an MBA from Tulane.",
+  "legacy": "Served as the 18th U.S. Surgeon General (2009–2013).",
+  "breakthroughDetail": [
+   {
+    "t": "Surgeon General.",
+    "d": "2009–2013.",
+    "basis": "documented"
+   },
+   {
+    "t": "MacArthur fellow.",
+    "d": "Recognized for her rural clinic.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Clinic entrepreneur.",
+    "d": "Converted her practice into a rural health clinic.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "New York Times — A doctor from the bayou (2009)",
+    "url": "https://www.nytimes.com/2009/07/14/health/policy/14surgeon.html"
+   },
+   {
+    "label": "Wikipedia — Regina Benjamin",
+    "url": "https://en.wikipedia.org/wiki/Regina_Benjamin"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "B.S."
+   }
+  ]
+ },
+ {
+  "id": "ernest-n-morial",
+  "name": "Ernest N. Morial",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1929–1989",
+  "base": "New Orleans, LA",
+  "industry": "Politics & Law",
+  "originBadge": "Creole Seventh Ward",
+  "engineBadge": "Civil Rights Law",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Xavier University of Louisiana in 1951, then became the first African American to earn a law degree from LSU (1954).",
+  "humbleBeginnings": "Born in New Orleans' Seventh Ward to a cigar-maker father.",
+  "breakthrough": "Became the first Black mayor of New Orleans (1978–1986).",
+  "legacy": "Founded a political dynasty: son Marc Morial also served as mayor and leads the National Urban League.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black mayor of New Orleans.",
+    "d": "1978–1986.",
+    "basis": "documented"
+   },
+   {
+    "t": "LSU law first.",
+    "d": "1954.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Dynasty.",
+    "d": "Son Marc Morial became mayor and National Urban League president.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Dutch Morial"
+  ],
+  "sources": [
+   {
+    "label": "Los Angeles Times — Ernest Morial obituary (1989)",
+    "url": "https://www.latimes.com/archives/la-xpm-1989-12-25-mn-678-story.html"
+   },
+   {
+    "label": "Wikipedia — Ernest Nathan Morial",
+    "url": "https://en.wikipedia.org/wiki/Ernest_Nathan_Morial"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "B.A. 1951"
+   }
+  ]
+ },
+ {
+  "id": "p-b-s-pinchback",
+  "name": "P. B. S. Pinchback",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1837–1921",
+  "base": "New Orleans, LA",
+  "industry": "Politics & Publishing",
+  "originBadge": "Riverboat Steward",
+  "engineBadge": "Reconstruction Politics",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a law degree from Straight University in 1885 and was admitted to the Louisiana bar in 1886.",
+  "humbleBeginnings": "Born in Macon, Georgia, to a white planter father and a formerly enslaved mother; worked as a cabin boy and steward on riverboats.",
+  "breakthrough": "Served as acting governor of Louisiana (December 1872–January 1873), widely cited as the first African-American governor of a U.S. state.",
+  "legacy": "Co-founded and edited The Louisianian newspaper (1870–1882).",
+  "breakthroughDetail": [
+   {
+    "t": "Acting governor.",
+    "d": "After Henry Warmoth's impeachment.",
+    "basis": "documented"
+   },
+   {
+    "t": "Newspaper founder.",
+    "d": "Helped found The Louisianian in 1870.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Straight law graduate.",
+    "d": "Completed law studies late in life.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Library of Congress — The Weekly Louisianian",
+    "url": "https://chroniclingamerica.loc.gov/lccn/sn83016632/"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni (Straight College 1885)",
+    "url": "https://www.dillard.edu/?p=2032"
+   },
+   {
+    "label": "Wikipedia — P. B. S. Pinchback",
+    "url": "https://en.wikipedia.org/wiki/P._B._S._Pinchback"
+   }
+  ],
+  "connections": [
+   {
+    "id": "straight-university",
+    "type": "alumni",
+    "label": "LL.B. 1885"
+   }
+  ]
+ },
+ {
+  "id": "louis-a-martinet",
+  "name": "Louis A. Martinet",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1849–1917",
+  "base": "New Orleans, LA",
+  "industry": "Law & Publishing",
+  "originBadge": "St. Martinville Creole",
+  "engineBadge": "Civil Rights Litigation",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a first-class law degree from Straight University's law school in 1876.",
+  "humbleBeginnings": "Born in St. Martinville, Louisiana.",
+  "breakthrough": "Published The New Orleans Crusader (1889–1896) and was a leading member of the Comité des Citoyens, which organized Homer Plessy's test case against segregated railcars.",
+  "legacy": "The Plessy challenge, though lost in 1896, became a landmark of civil rights strategy.",
+  "breakthroughDetail": [
+   {
+    "t": "The Crusader.",
+    "d": "Published 1889–1896.",
+    "basis": "documented"
+   },
+   {
+    "t": "Plessy organizer.",
+    "d": "Comité des Citoyens staged the test arrest.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Legal strategy legacy.",
+    "d": "Pioneered organized test-case litigation.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Dillard University — Distinguished alumni (Straight College 1876)",
+    "url": "https://www.dillard.edu/?p=2032"
+   },
+   {
+    "label": "Wikipedia — Louis A. Martinet",
+    "url": "https://en.wikipedia.org/wiki/Louis_A._Martinet"
+   }
+  ],
+  "connections": [
+   {
+    "id": "straight-university",
+    "type": "alumni",
+    "label": "law degree 1876"
+   }
+  ]
+ },
+ {
+  "id": "ellis-marsalis-jr",
+  "name": "Ellis Marsalis Jr.",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1934–2020",
+  "base": "New Orleans, LA",
+  "industry": "Music & Education",
+  "originBadge": "Band Director",
+  "engineBadge": "Jazz Education",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a bachelor's in music education from Dillard University in 1955.",
+  "humbleBeginnings": "Born in New Orleans, where his father ran a motel.",
+  "breakthrough": "A modern-jazz pianist who shaped generations through teaching at NOCCA, the University of New Orleans and Xavier.",
+  "legacy": "Patriarch of the Marsalis family of musicians, including Wynton and Branford.",
+  "breakthroughDetail": [
+   {
+    "t": "Educator.",
+    "d": "Taught at NOCCA, UNO and Xavier.",
+    "basis": "documented"
+   },
+   {
+    "t": "Jazz pianist.",
+    "d": "Leading figure in New Orleans modern jazz.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family legacy.",
+    "d": "Father of Branford, Wynton, Delfeayo and Jason Marsalis.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "New York Times — Ellis Marsalis obituary",
+    "url": "https://www.nytimes.com/2020/04/01/arts/music/ellis-marsalis-dead-virus.html"
+   },
+   {
+    "label": "Dillard University — Distinguished alumni",
+    "url": "https://www.dillard.edu/?p=2032"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.Mus.Ed. 1955"
+   },
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "faculty",
+    "label": "music educator"
+   }
+  ]
+ },
+ {
+  "id": "james-farmer",
+  "name": "James Farmer",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1920–1999",
+  "base": "Fredericksburg, VA",
+  "industry": "Civil Rights",
+  "originBadge": "Teenage Prodigy",
+  "engineBadge": "Nonviolent Direct Action",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. from Wiley College in 1938, where he debated under Melvin B. Tolson.",
+  "humbleBeginnings": "Born in Marshall, Texas, son of a Wiley professor.",
+  "breakthrough": "Co-founded the Congress of Racial Equality (CORE) in Chicago in 1942 and organized the 1961 Freedom Rides.",
+  "legacy": "Awarded the Presidential Medal of Freedom in 1998.",
+  "breakthroughDetail": [
+   {
+    "t": "CORE co-founder.",
+    "d": "1942.",
+    "basis": "documented"
+   },
+   {
+    "t": "Freedom Rides.",
+    "d": "Organized in 1961.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Medal of Freedom.",
+    "d": "1998.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Encyclopedia Virginia — James Farmer",
+    "url": "http://www.encyclopediavirginia.org/Farmer_James_1920-1999"
+   },
+   {
+    "label": "Wikipedia — James L. Farmer Jr.",
+    "url": "https://en.wikipedia.org/wiki/James_L._Farmer_Jr."
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "B.S. 1938"
+   },
+   {
+    "id": "congress-of-racial-equality",
+    "type": "civic",
+    "label": "co-founder, 1942"
+   }
+  ]
+ },
+ {
+  "id": "heman-marion-sweatt",
+  "name": "Heman Marion Sweatt",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1912–1982",
+  "base": "Atlanta, GA",
+  "industry": "Civil Rights",
+  "originBadge": "Houston Mail Carrier",
+  "engineBadge": "Desegregation Litigation",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Wiley College in 1934 with a B.A.",
+  "humbleBeginnings": "A Houston postal worker who applied to the University of Texas School of Law in 1946.",
+  "breakthrough": "His lawsuit, Sweatt v. Painter (1950), forced UT to admit him and became a key precedent for Brown v. Board of Education.",
+  "legacy": "Texas' attempt to avoid admitting him led the state to create what became Texas Southern University in 1947.",
+  "breakthroughDetail": [
+   {
+    "t": "Supreme Court victory.",
+    "d": "Sweatt v. Painter, June 1950.",
+    "basis": "documented"
+   },
+   {
+    "t": "Registered at UT law.",
+    "d": "September 19, 1950.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "TSU's origin story.",
+    "d": "The state founded Texas State University for Negroes amid his case.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Handbook of Texas — Sweatt, Heman Marion",
+    "url": "http://www.tshaonline.org/handbook/online/articles/fsw23"
+   },
+   {
+    "label": "Wikipedia — Heman Marion Sweatt",
+    "url": "https://en.wikipedia.org/wiki/Heman_Marion_Sweatt"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "B.A. 1934"
+   },
+   {
+    "id": "texas-southern-university",
+    "type": "civic",
+    "label": "his lawsuit spurred Texas to create TSU, 1947"
+   }
+  ]
+ },
+ {
+  "id": "opal-lee",
+  "name": "Opal Lee",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1926",
+  "base": "Fort Worth, TX",
+  "industry": "Civic Activism",
+  "originBadge": "Marshall-Born Teacher",
+  "engineBadge": "Juneteenth Advocacy",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a bachelor's in elementary education from Wiley College in 1952.",
+  "humbleBeginnings": "Born in Marshall, Texas; her family's Fort Worth home was attacked by a white mob in 1939.",
+  "breakthrough": "Known as the “grandmother of Juneteenth,” she campaigned for decades until Juneteenth became a federal holiday on June 17, 2021.",
+  "legacy": "Received the Presidential Medal of Freedom in 2024.",
+  "breakthroughDetail": [
+   {
+    "t": "Federal holiday.",
+    "d": "Juneteenth signed into law 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "Medal of Freedom.",
+    "d": "2024.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Teacher and counselor.",
+    "d": "Long career in Fort Worth schools.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "NPR — How Juneteenth became a national holiday",
+    "url": "https://www.npr.org/2021/06/17/1007498876/how-juneteenth-became-national-holiday"
+   },
+   {
+    "label": "Wikipedia — Opal Lee",
+    "url": "https://en.wikipedia.org/wiki/Opal_Lee"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "B.S. elementary education 1952"
+   }
+  ]
+ },
+ {
+  "id": "azie-taylor-morton",
+  "name": "Azie Taylor Morton",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1936–2003",
+  "base": "Austin, TX",
+  "industry": "Public Finance",
+  "originBadge": "Dale Farm Girl",
+  "engineBadge": "U.S. Treasury",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. in commercial education from Huston–Tillotson College in 1956.",
+  "humbleBeginnings": "Born in Dale, Texas; rejected by the University of Texas graduate school because of her race.",
+  "breakthrough": "Served as Treasurer of the United States (1977–1981) under President Carter — the only African American to hold the post — with her signature on U.S. currency.",
+  "legacy": "Her signature on the nation's money made her a symbol for Black women in finance.",
+  "breakthroughDetail": [
+   {
+    "t": "U.S. Treasurer.",
+    "d": "September 1977–January 1981.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Signature on currency.",
+    "d": "Her name appeared on U.S. paper money.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "BlackPast — Azie Taylor Morton",
+    "url": "https://www.blackpast.org/african-american-history/morton-azie-taylor-1936-2003/"
+   },
+   {
+    "label": "Wikipedia — Azie Taylor Morton",
+    "url": "https://en.wikipedia.org/wiki/Azie_Taylor_Morton"
+   }
+  ],
+  "connections": [
+   {
+    "id": "huston-tillotson-university",
+    "type": "alumni",
+    "label": "B.S. 1956"
+   }
+  ]
+ },
+ {
+  "id": "frederick-haynes-iii",
+  "name": "Frederick Haynes III",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1960",
+  "base": "Dallas, TX",
+  "industry": "Ministry & Community Development",
+  "originBadge": "Dallas Preacher's Kid",
+  "engineBadge": "Megachurch Leadership",
+  "capitalBadge": "Congregation Giving",
+  "hbcuStory": "Earned a B.A. from Bishop College in Dallas.",
+  "humbleBeginnings": "Born in Dallas in 1960.",
+  "breakthrough": "Became senior pastor of Friendship-West Baptist Church in 1983, growing it from about 100 members to over 13,000.",
+  "legacy": "A national social-justice preacher who in 2026 ran for Congress in Dallas.",
+  "breakthroughDetail": [
+   {
+    "t": "Friendship-West.",
+    "d": "Senior pastor from 1983.",
+    "basis": "documented"
+   },
+   {
+    "t": "Growth.",
+    "d": "From ~100 to 13,000+ members.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Political run.",
+    "d": "Sought a Dallas House seat in 2026.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "The Intercept — Haynes runs for Jasmine Crockett's seat (2026)",
+    "url": "https://theintercept.com/2026/02/04/texas-jasmine-crockett-house-primary-frederick-haynes/"
+   },
+   {
+    "label": "Wikipedia — Frederick Haynes III",
+    "url": "https://en.wikipedia.org/wiki/Frederick_Haynes_III"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "B.A."
+   }
+  ]
+ },
+ {
+  "id": "mildred-fay-jefferson",
+  "name": "Mildred Fay Jefferson",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1927–2010",
+  "base": "Boston, MA",
+  "industry": "Surgery",
+  "originBadge": "Pittsburg, Texas Prodigy",
+  "engineBadge": "Surgery & Medicine",
+  "capitalBadge": "Scholarships",
+  "hbcuStory": "Graduated summa cum laude from Texas College in three years.",
+  "humbleBeginnings": "Born in Pittsburg, Texas, daughter of a Methodist minister.",
+  "breakthrough": "Became the first African-American woman to graduate from Harvard Medical School (1951) and the first woman to graduate in surgery there.",
+  "legacy": "Later became a nationally known activist and president of the National Right to Life Committee.",
+  "breakthroughDetail": [
+   {
+    "t": "Harvard Medical School first.",
+    "d": "1951.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Surgical pioneer.",
+    "d": "First woman surgical graduate at Harvard.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "The HistoryMakers — Dr. Mildred Jefferson",
+    "url": "https://www.thehistorymakers.org/biography/dr-mildred-jefferson-41"
+   },
+   {
+    "label": "Wikipedia — Mildred Fay Jefferson",
+    "url": "https://en.wikipedia.org/wiki/Mildred_Fay_Jefferson"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-college",
+    "type": "alumni",
+    "label": "B.A. summa cum laude"
+   }
+  ]
+ },
+ {
+  "id": "david-fathead-newman",
+  "name": "David “Fathead” Newman",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1933–2009",
+  "base": "Kingston, NY",
+  "industry": "Jazz & R&B",
+  "originBadge": "Corsicana Saxophonist",
+  "engineBadge": "Recording & Touring",
+  "capitalBadge": "Performance Fees",
+  "hbcuStory": "Attended Jarvis Christian College on a music and theology scholarship for three years before leaving to play professionally.",
+  "humbleBeginnings": "Born in Corsicana, Texas, raised in Dallas.",
+  "breakthrough": "Joined Ray Charles's band in 1954 and became its principal saxophone soloist until 1964.",
+  "legacy": "Recorded dozens of albums as a leader.",
+  "breakthroughDetail": [
+   {
+    "t": "Ray Charles band.",
+    "d": "1954–1964, rejoined 1970–71.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Leader career.",
+    "d": "Long solo recording career.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Los Angeles Times — David ‘Fathead’ Newman obituary",
+    "url": "http://www.latimes.com/local/obituaries/la-me-newman23-2009jan23-story.html"
+   },
+   {
+    "label": "Wikipedia — David “Fathead” Newman",
+    "url": "https://en.wikipedia.org/wiki/David_%22Fathead%22_Newman"
+   }
+  ],
+  "connections": [
+   {
+    "id": "jarvis-christian-university",
+    "type": "alumni",
+    "label": "attended ~3 years"
+   }
+  ]
+ },
+ {
+  "id": "oretha-castle-haley",
+  "name": "Oretha Castle Haley",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1939–1987",
+  "base": "New Orleans, LA",
+  "industry": "Civil Rights",
+  "originBadge": "Restaurant Family",
+  "engineBadge": "Direct-Action Organizing",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Enrolled at Southern University at New Orleans, a hub of student activism, and returned in 1966 to complete her degree.",
+  "humbleBeginnings": "Born in Oakland, Tennessee; raised in New Orleans.",
+  "breakthrough": "Became president of New Orleans CORE in 1961; her family home served as Freedom Riders headquarters.",
+  "legacy": "A New Orleans boulevard bears her name and her family home is on the National Register of Historic Places.",
+  "breakthroughDetail": [
+   {
+    "t": "CORE chapter president.",
+    "d": "From late 1961.",
+    "basis": "documented"
+   },
+   {
+    "t": "Freedom Riders.",
+    "d": "Her home was their headquarters.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Honored on a boulevard.",
+    "d": "Oretha Castle Haley Boulevard, New Orleans.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "AP — Oretha Castle Haley family home listed on National Register",
+    "url": "https://apnews.com/article/oretha-castle-haley-national-register-historic-designation-d26617e29618bad308e91907ac346620"
+   },
+   {
+    "label": "Wikipedia — Oretha Castle Haley",
+    "url": "https://en.wikipedia.org/wiki/Oretha_Castle_Haley"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-at-new-orleans",
+    "type": "alumni",
+    "label": "degree completed after 1966"
+   },
+   {
+    "id": "congress-of-racial-equality",
+    "type": "civic",
+    "label": "New Orleans chapter president"
+   }
+  ]
+ },
+ {
+  "id": "eddie-robinson",
+  "name": "Eddie Robinson",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1919–2007",
+  "base": "Grambling, LA",
+  "industry": "College Football",
+  "originBadge": "Leland Graduate",
+  "engineBadge": "Football Dynasty",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a bachelor's degree in English at Leland College in 1941.",
+  "humbleBeginnings": "Born in Jackson, Louisiana, son of a sharecropper.",
+  "breakthrough": "Coached Grambling football from 1941 to 1997, winning 408 games and sending scores of players to the NFL.",
+  "legacy": "Made Grambling a national brand and a pipeline to pro football.",
+  "breakthroughDetail": [
+   {
+    "t": "408 wins.",
+    "d": "Once the most in college football history.",
+    "basis": "documented"
+   },
+   {
+    "t": "57 seasons.",
+    "d": "1941–1997 at Grambling.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NFL pipeline.",
+    "d": "Coached Willie Davis, Buck Buchanan and Doug Williams.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Sports Illustrated Vault — Eddie Robinson 1919–2007",
+    "url": "https://web.archive.org/web/20211208032612/https://vault.si.com/vault/2007/04/16/eddie-robinson-19192007"
+   },
+   {
+    "label": "Wikipedia — Leland University (notable alumni)",
+    "url": "https://en.wikipedia.org/wiki/Leland_University"
+   }
+  ],
+  "connections": [
+   {
+    "id": "leland-college",
+    "type": "alumni",
+    "label": "B.A. English 1941"
+   },
+   {
+    "id": "grambling-state-university",
+    "type": "faculty",
+    "label": "head football coach 1941–1997"
+   }
+  ]
+ },
+ {
+  "id": "doug-williams",
+  "name": "Doug Williams",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1955",
+  "base": "Washington, DC",
+  "industry": "Pro Football",
+  "originBadge": "Zachary, Louisiana",
+  "engineBadge": "Football & Front Office",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Earned a bachelor's in education at Grambling, where he played quarterback (1974–1977) for Eddie Robinson.",
+  "humbleBeginnings": "Born in Zachary, Louisiana.",
+  "breakthrough": "Became the first Black quarterback to start and win a Super Bowl, MVP of Super Bowl XXII.",
+  "legacy": "Later coached Grambling and became a senior vice president in Washington's NFL front office.",
+  "breakthroughDetail": [
+   {
+    "t": "Super Bowl XXII MVP.",
+    "d": "1988.",
+    "basis": "documented"
+   },
+   {
+    "t": "NFL executive.",
+    "d": "Washington SVP of player personnel 2017–2019.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Grambling head coach.",
+    "d": "1998–2003 and 2011–2013.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Washington Commanders — Doug Williams front office",
+    "url": "https://www.commanders.com/team/front-office-roster/doug-williams"
+   },
+   {
+    "label": "Pro-Football-Reference — Doug Williams",
+    "url": "https://www.pro-football-reference.com/players/W/WillDo01.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "B.S. education"
+   },
+   {
+    "id": "grambling-state-university",
+    "type": "faculty",
+    "label": "head football coach"
+   },
+   {
+    "id": "washington-commanders",
+    "type": "executive",
+    "label": "senior VP, 2017–2020"
+   },
+   {
+    "id": "eddie-robinson",
+    "type": "mentorship",
+    "label": "coached by"
+   }
+  ]
+ },
+ {
+  "id": "willis-reed",
+  "name": "Willis Reed",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1942–2023",
+  "base": "Houston, TX",
+  "industry": "Pro Basketball",
+  "originBadge": "Hico, Louisiana",
+  "engineBadge": "Basketball & Front Office",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Played at Grambling (1960–1964), winning an NAIA title and three SWAC championships.",
+  "humbleBeginnings": "Born in Hico, Louisiana.",
+  "breakthrough": "Hall of Fame center and two-time NBA champion with the New York Knicks.",
+  "legacy": "Became a front-office executive — Nets GM and senior VP, then Hornets VP of basketball operations.",
+  "breakthroughDetail": [
+   {
+    "t": "Knicks legend.",
+    "d": "Two NBA titles.",
+    "basis": "documented"
+   },
+   {
+    "t": "Executive.",
+    "d": "Nets general manager and senior VP; Hornets VP 2004–2007.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NBA 75th team.",
+    "d": "Named among the league's greatest.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "New York Times — Willis Reed obituary",
+    "url": "https://www.nytimes.com/2023/03/21/sports/basketball/willis-reed-dead.html"
+   },
+   {
+    "label": "Wikipedia — Willis Reed",
+    "url": "https://en.wikipedia.org/wiki/Willis_Reed"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "1960–1964"
+   },
+   {
+    "id": "brooklyn-nets",
+    "type": "executive",
+    "label": "GM / senior VP basketball operations"
+   }
+  ]
+ },
+ {
+  "id": "buck-buchanan",
+  "name": "Buck Buchanan",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1940–1992",
+  "base": "Kansas City, MO",
+  "industry": "Pro Football & Small Business",
+  "originBadge": "Birmingham Lineman",
+  "engineBadge": "Football, then Small Business",
+  "capitalBadge": "Football Savings",
+  "hbcuStory": "Attended Grambling (1959–1962) on a scholarship from Eddie Robinson, earning Academic All-American honors.",
+  "humbleBeginnings": "Born in Gainesville, Alabama, raised in Birmingham.",
+  "breakthrough": "First overall pick of the 1963 AFL draft and Hall of Fame defensive tackle for the Kansas City Chiefs.",
+  "legacy": "After football he ran construction and advertising businesses and a restaurant, and served as president of Kansas City's Black Chamber of Commerce (1986–1989).",
+  "breakthroughDetail": [
+   {
+    "t": "Pro Football Hall of Fame.",
+    "d": "Inducted 1990.",
+    "basis": "documented"
+   },
+   {
+    "t": "Business owner.",
+    "d": "Construction, advertising and restaurant ventures.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Black Chamber president.",
+    "d": "1986–1989.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Pro Football Hall of Fame — Buck Buchanan",
+    "url": "https://www.profootballhof.com/players/junious-buck-buchanan/"
+   },
+   {
+    "label": "Alabama Sports Hall of Fame — Buck Buchanan",
+    "url": "https://ashof.org/inductees/buck-buchanan/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "1959–1962"
+   },
+   {
+    "id": "eddie-robinson",
+    "type": "mentorship",
+    "label": "recruited and coached by"
+   }
+  ]
+ },
+ {
+  "id": "ronnie-coleman",
+  "name": "Ronnie Coleman",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1964",
+  "base": "Arlington, TX",
+  "industry": "Bodybuilding & Supplements",
+  "originBadge": "Accounting Graduate",
+  "engineBadge": "Supplement Brand",
+  "capitalBadge": "Prize Money & Reinvestment",
+  "hbcuStory": "Earned a B.S. in accounting, cum laude, from Grambling State University in 1989, where he also played football.",
+  "humbleBeginnings": "Born in Monroe, Louisiana; worked as an Arlington, Texas police officer.",
+  "breakthrough": "Won Mr. Olympia eight times (1998–2005).",
+  "legacy": "Founded the supplement company Ronnie Coleman Signature Series in 2011.",
+  "breakthroughDetail": [
+   {
+    "t": "Eight-time Mr. Olympia.",
+    "d": "Tied the all-time record.",
+    "basis": "documented"
+   },
+   {
+    "t": "Supplement company.",
+    "d": "Ronnie Coleman Signature Series, 2011.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Brand owner.",
+    "d": "Turned athletic fame into a consumer brand.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Bodybuilding.com — Ronnie Coleman",
+    "url": "https://www.bodybuilding.com/fun/bodybuilders-ronnie.htm"
+   },
+   {
+    "label": "BarBend — Ronnie Coleman",
+    "url": "https://barbend.com/ronnie-coleman/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "B.S. accounting 1989"
+   },
+   {
+    "id": "ronnie-coleman-signature-series",
+    "type": "ownership",
+    "label": "founder, 2011"
+   }
+  ]
+ },
+ {
+  "id": "russel-l-honore",
+  "name": "Russel L. Honoré",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1947",
+  "base": "Baton Rouge, LA",
+  "industry": "Military",
+  "originBadge": "Creole Farm Family",
+  "engineBadge": "Disaster Command",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. in vocational agriculture from Southern University in 1971 and was commissioned through its ROTC.",
+  "humbleBeginnings": "Born in Lakeland, Louisiana, one of 12 children in a farming family.",
+  "breakthrough": "As commander of Joint Task Force Katrina from August 31, 2005, he became the face of the military's Gulf Coast relief.",
+  "legacy": "A lieutenant general turned environmental and preparedness advocate.",
+  "breakthroughDetail": [
+   {
+    "t": "JTF Katrina.",
+    "d": "Designated commander August 31, 2005.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Green Army.",
+    "d": "Founded an environmental coalition in Louisiana.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "NPR — Gen. Russel Honoré",
+    "url": "https://www.npr.org/templates/story/story.php?storyId=14018130"
+   },
+   {
+    "label": "Wikipedia — Russel L. Honoré",
+    "url": "https://en.wikipedia.org/wiki/Russel_L._Honor%C3%A9"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "B.S. 1971"
+   }
+  ]
+ },
+ {
+  "id": "lou-brock",
+  "name": "Lou Brock",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1939–2020",
+  "base": "St. Louis, MO",
+  "industry": "Baseball & Retail",
+  "originBadge": "Scholarship Student",
+  "engineBadge": "Baseball, then Florist",
+  "capitalBadge": "Salary & Reinvestment",
+  "hbcuStory": "Attended Southern University on academic aid, then won an athletic scholarship; Southern won the NAIA baseball title in his junior year.",
+  "humbleBeginnings": "Born in El Dorado, Arkansas, to a sharecropping family.",
+  "breakthrough": "Hall of Fame outfielder who set the career stolen-base record with the St. Louis Cardinals.",
+  "legacy": "Became a successful St. Louis-area florist and lent his name to the Brockabrella rain hat.",
+  "breakthroughDetail": [
+   {
+    "t": "Stolen-base king.",
+    "d": "Career record when he retired.",
+    "basis": "documented"
+   },
+   {
+    "t": "Businessman.",
+    "d": "Florist business in the St. Louis area.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Brockabrella.",
+    "d": "Licensed novelty product.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "National Baseball Hall of Fame — Lou Brock",
+    "url": "https://baseballhall.org/hof/brock-lou"
+   },
+   {
+    "label": "Wikipedia — Lou Brock",
+    "url": "https://en.wikipedia.org/wiki/Lou_Brock"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "attended"
+   }
+  ]
+ },
+ {
+  "id": "camac-international",
+  "name": "CAMAC International",
+  "type": "entity",
+  "kind": "Energy holding company",
+  "description": "Houston-based energy group led by Kase Lawal with oil interests in Nigeria.",
+  "gics": {
+   "sub": "Oil & Gas Exploration & Production",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "erin-energy-corporation",
+  "name": "Erin Energy Corporation",
+  "type": "entity",
+  "kind": "Oil & gas exploration company",
+  "description": "Formerly CAMAC Energy; NYSE American-listed explorer with Nigerian offshore assets, chaired by Kase Lawal.",
+  "gics": {
+   "sub": "Oil & Gas Exploration & Production",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "camac-international",
+    "type": "origin",
+    "label": "spun out of CAMAC (as CAMAC Energy)"
+   }
+  ]
+ },
+ {
+  "id": "allied-energy-corporation",
+  "name": "Allied Energy Corporation",
+  "type": "entity",
+  "kind": "Energy company",
+  "description": "Houston energy company chaired by Kase Lawal from 1991.",
+  "gics": {
+   "sub": "Oil & Gas Exploration & Production",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "port-of-houston-authority",
+  "name": "Port of Houston Authority",
+  "type": "entity",
+  "kind": "Public port authority",
+  "description": "Governmental authority that operates public terminals of the Port of Houston.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "smith-graham-and-co",
+  "name": "Smith Graham & Co.",
+  "type": "entity",
+  "kind": "Investment management firm",
+  "description": "Houston investment management firm led by founder Gerald B. Smith.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "new-york-life-insurance-company",
+  "name": "New York Life Insurance Company",
+  "type": "entity",
+  "kind": "Mutual life insurer",
+  "description": "Largest U.S. mutual life insurance company.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "federal-reserve-bank-of-dallas",
+  "name": "Federal Reserve Bank of Dallas",
+  "type": "entity",
+  "kind": "Central bank (regional)",
+  "description": "Eleventh District bank of the Federal Reserve System.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "smac-entertainment",
+  "name": "SMAC Entertainment",
+  "type": "entity",
+  "kind": "Talent management & production company",
+  "description": "Entertainment company co-founded by Michael Strahan.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "hot-girl-productions",
+  "name": "Hot Girl Productions",
+  "type": "entity",
+  "kind": "Independent music & entertainment company",
+  "description": "Megan Thee Stallion's own entertainment company, launched in 2023.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "harlequin-enterprises",
+  "name": "Harlequin Enterprises",
+  "type": "entity",
+  "kind": "Book publisher",
+  "description": "Romance-fiction publisher where Vivian Stephens launched Harlequin American.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "romance-writers-of-america",
+  "name": "Romance Writers of America",
+  "type": "entity",
+  "kind": "Professional association",
+  "description": "Trade association for romance writers, organized in Houston in 1980.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "inner-city-broadcasting-corporation",
+  "name": "Inner City Broadcasting Corporation",
+  "type": "entity",
+  "kind": "Radio broadcaster",
+  "description": "Black-owned broadcaster co-founded in 1971 by Percy Sutton; owned WBLS and WLIB in New York.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-washington-informer",
+  "name": "The Washington Informer",
+  "type": "entity",
+  "kind": "Weekly newspaper",
+  "description": "Black-owned D.C. weekly founded by Calvin Rolark in 1962.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "united-black-fund",
+  "name": "United Black Fund",
+  "type": "entity",
+  "kind": "Charitable federation",
+  "description": "D.C.-area fund founded by Calvin Rolark in 1969 to support Black and Latino community groups.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "jecaryous-johnson-entertainment",
+  "name": "Je'Caryous Johnson Entertainment",
+  "type": "entity",
+  "kind": "Theater production company",
+  "description": "Houston-born producer of touring Black stage plays, originally I'm Ready Productions.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "year-round-records",
+  "name": "Year Round Records",
+  "type": "entity",
+  "kind": "Record label",
+  "description": "Independent hip-hop label founded by DJ Premier in 2010.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "mariam-seba-sanitary-products-factory",
+  "name": "Mariam Seba Sanitary Products Factory",
+  "type": "entity",
+  "kind": "Manufacturer",
+  "description": "Ethiopian maker of reusable sanitary pads founded by Freweini Mebrahtu in 2009.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "all-pro-broadcasting",
+  "name": "All-Pro Broadcasting",
+  "type": "entity",
+  "kind": "Radio station group",
+  "description": "Radio company led by Willie Davis from 1976, with stations in Los Angeles and Milwaukee.",
+  "gics": {
+   "sub": "Broadcasting",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "sara-lee-corporation",
+  "name": "Sara Lee Corporation",
+  "type": "entity",
+  "kind": "Consumer packaged goods company",
+  "description": "Chicago-based food and consumer products maker (split up in 2012).",
+  "gics": {
+   "sub": "Packaged Foods & Meats",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "metro-goldwyn-mayer",
+  "name": "Metro-Goldwyn-Mayer",
+  "type": "entity",
+  "kind": "Film & TV studio",
+  "description": "Hollywood studio, now part of Amazon.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "manpowergroup",
+  "name": "ManpowerGroup",
+  "type": "entity",
+  "kind": "Staffing company",
+  "description": "Milwaukee-based global workforce solutions company.",
+  "gics": {
+   "sub": "Human Resource & Employment Services",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "sick-wid-it-records",
+  "name": "Sick Wid It Records",
+  "type": "entity",
+  "kind": "Independent record label",
+  "description": "Bay Area hip-hop label founded by E-40 in 1989.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "earl-stevens-selections",
+  "name": "Earl Stevens Selections",
+  "type": "entity",
+  "kind": "Wine brand",
+  "description": "E-40's wine and spirits brand.",
+  "gics": {
+   "sub": "Distillers & Vintners",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "empire-distribution",
+  "name": "EMPIRE",
+  "type": "entity",
+  "kind": "Independent record label & distributor",
+  "description": "San Francisco-based independent label, distribution and publishing company.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "def-jam-recordings",
+  "name": "Def Jam Recordings",
+  "type": "entity",
+  "kind": "Record label",
+  "description": "Hip-hop label, part of Universal Music Group.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "phase-too",
+  "name": "Phase Too",
+  "type": "entity",
+  "kind": "Artist management firm",
+  "description": "Management company founded by Tina Davis in 2008.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "mcconnell-and-jones-llp",
+  "name": "McConnell & Jones LLP",
+  "type": "entity",
+  "kind": "CPA firm",
+  "description": "Houston-based firm describing itself as the largest majority African-American-owned CPA firm in the U.S.",
+  "gics": {
+   "sub": "IT Consulting & Other Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "carson-inc",
+  "name": "Carson, Inc.",
+  "type": "entity",
+  "kind": "Hair-care products company",
+  "description": "Maker of ethnic hair-care products (Dark & Lovely), later acquired by L'Oréal.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "avon-products",
+  "name": "Avon Products",
+  "type": "entity",
+  "kind": "Beauty company",
+  "description": "Direct-selling cosmetics company.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "att-inc",
+  "name": "AT&T Inc.",
+  "type": "entity",
+  "kind": "Telecommunications company",
+  "description": "U.S. telecommunications giant.",
+  "gics": {
+   "sub": "Integrated Telecommunication Services",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "macys-inc",
+  "name": "Macy's, Inc.",
+  "type": "entity",
+  "kind": "Department store retailer",
+  "description": "Formerly Federated Department Stores.",
+  "gics": {
+   "sub": "Broadline Retail",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "dr-pepper-snapple-group",
+  "name": "Dr Pepper Snapple Group",
+  "type": "entity",
+  "kind": "Beverage company",
+  "description": "Soft-drink maker, merged into Keurig Dr Pepper in 2018.",
+  "gics": {
+   "sub": "Soft Drinks & Non-alcoholic Beverages",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "afo-records",
+  "name": "AFO Records",
+  "type": "entity",
+  "kind": "Record label",
+  "description": "All For One Records, founded in New Orleans in 1961 by Harold Battiste as a musician-owned label.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "doley-securities",
+  "name": "Doley Securities",
+  "type": "entity",
+  "kind": "Investment banking & brokerage firm",
+  "description": "New Orleans-rooted firm founded by Harold Doley, first Black individual NYSE seat owner.",
+  "gics": {
+   "sub": "Investment Banking & Brokerage",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "new-york-stock-exchange",
+  "name": "New York Stock Exchange",
+  "type": "entity",
+  "kind": "Stock exchange",
+  "description": "World's largest stock exchange.",
+  "gics": {
+   "sub": "Financial Exchanges & Data",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "palmer-pharmacy",
+  "name": "Palmer Pharmacy",
+  "type": "entity",
+  "kind": "Retail pharmacy",
+  "description": "Lexington, Kentucky pharmacy founded by Zirl Palmer; first Black-owned Rexall store.",
+  "gics": {
+   "sub": "Consumer Staples Merchandise Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "therapy-for-black-girls",
+  "name": "Therapy for Black Girls",
+  "type": "entity",
+  "kind": "Mental-health media platform",
+  "description": "Therapist directory and podcast founded by Joy Harden Bradford in 2014.",
+  "gics": {
+   "sub": "Health Care Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "pride-media",
+  "name": "Pride Media",
+  "type": "entity",
+  "kind": "Magazine & digital publisher",
+  "description": "Publisher of The Advocate and Out.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "zenith-bank",
+  "name": "Zenith Bank",
+  "type": "entity",
+  "kind": "Commercial bank",
+  "description": "Lagos-based bank founded by Jim Ovia in 1990; listed on the Nigerian Exchange and London Stock Exchange.",
+  "gics": {
+   "sub": "Diversified Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "visafone-communications",
+  "name": "Visafone Communications",
+  "type": "entity",
+  "kind": "Mobile operator",
+  "description": "Nigerian mobile network founded by Jim Ovia.",
+  "gics": {
+   "sub": "Wireless Telecommunication Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "columbia-records",
+  "name": "Columbia Records",
+  "type": "entity",
+  "kind": "Record label",
+  "description": "Major label owned by Sony Music.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "a-banner-vision",
+  "name": "A Banner Vision",
+  "type": "entity",
+  "kind": "Record label & production company",
+  "description": "David Banner's music and media company.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "minority-engineers-of-louisiana",
+  "name": "Minority Engineers of Louisiana",
+  "type": "entity",
+  "kind": "Engineering consulting firm",
+  "description": "Founded by Morgan Watson; described as the first Black-run engineering consulting firm in the Deep South.",
+  "gics": {
+   "sub": "Construction & Engineering",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-baptist-publishing-board",
+  "name": "National Baptist Publishing Board",
+  "type": "entity",
+  "kind": "Religious publisher",
+  "description": "Nashville publisher founded by R. H. Boyd in 1896; continues as R.H. Boyd Publishing.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "citizens-savings-bank-and-trust-company",
+  "name": "Citizens Savings Bank and Trust Company",
+  "type": "entity",
+  "kind": "Black-owned bank",
+  "description": "Nashville bank founded in 1904 as One-Cent Savings Bank; among the oldest Black-owned banks.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-negro-doll-company",
+  "name": "National Negro Doll Company",
+  "type": "entity",
+  "kind": "Toy company",
+  "description": "R. H. Boyd's maker and seller of Black dolls (c.1908–1915).",
+  "gics": {
+   "sub": "Leisure Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "metropolitan-service-life-insurance-company",
+  "name": "Metropolitan Service Life Insurance Company",
+  "type": "entity",
+  "kind": "Life insurer",
+  "description": "Insurance company organized by Mack H. Hannah Jr. in 1939.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "broadway-federal-bank",
+  "name": "Broadway Federal Bank",
+  "type": "entity",
+  "kind": "Black-owned savings bank",
+  "description": "Los Angeles savings institution co-founded in 1946 by H. Claude Hudson.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "simmons-royalty-company",
+  "name": "Simmons Royalty Co.",
+  "type": "entity",
+  "kind": "Oil & mineral royalty company",
+  "description": "Oklahoma Black-owned oil royalty firm built by Jake Simmons Jr. and Lee Wilder Thomas.",
+  "gics": {
+   "sub": "Oil & Gas Exploration & Production",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "sutton-and-sutton-mortuary",
+  "name": "Sutton and Sutton Mortuary",
+  "type": "entity",
+  "kind": "Funeral home",
+  "description": "San Antonio funeral business run by the Sutton family since the 1930s.",
+  "gics": {
+   "sub": "Specialized Consumer Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "peoples-life-insurance-company",
+  "name": "People's Life Insurance Company",
+  "type": "entity",
+  "kind": "Life insurer",
+  "description": "Louisiana Black-owned insurer founded by Walter L. Cohen.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "washington-commanders",
+  "name": "Washington Commanders",
+  "type": "entity",
+  "kind": "NFL franchise",
+  "description": "Washington, D.C.-area NFL team (formerly Redskins).",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rose-mcclendon-players",
+  "name": "Rose McClendon Players",
+  "type": "entity",
+  "kind": "Theater company",
+  "description": "Harlem theater company founded in 1937 by Dick Campbell and Muriel Rahn.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "orion-publishing-company",
+  "name": "Orion Publishing Company",
+  "type": "entity",
+  "kind": "Book publisher",
+  "description": "Founded by Sutton E. Griggs in 1901 to sell books to Black readers.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "export-import-bank-of-the-united-states",
+  "name": "Export-Import Bank of the United States",
+  "type": "entity",
+  "kind": "Federal export credit agency",
+  "description": "U.S. government export credit agency.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "aetna",
+  "name": "Aetna",
+  "type": "entity",
+  "kind": "Insurer",
+  "description": "Hartford-based insurer (Aetna Life & Casualty), now part of CVS Health.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "westinghouse-electric-corporation",
+  "name": "Westinghouse Electric Corporation",
+  "type": "entity",
+  "kind": "Industrial conglomerate",
+  "description": "Pittsburgh-based electrical and industrial manufacturer.",
+  "gics": {
+   "sub": "Industrial Conglomerates",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "goldman-sachs",
+  "name": "Goldman Sachs",
+  "type": "entity",
+  "kind": "Investment bank",
+  "description": "Global investment banking and securities firm.",
+  "gics": {
+   "sub": "Investment Banking & Brokerage",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "liberty-bank-and-trust",
+  "name": "Liberty Bank and Trust",
+  "type": "entity",
+  "kind": "Black-owned bank",
+  "description": "New Orleans bank founded in 1972; one of the largest Black-owned banks in the U.S.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "new-ventures-inc",
+  "name": "New Ventures, Inc.",
+  "type": "entity",
+  "kind": "Consulting firm",
+  "description": "Corporate consulting firm chaired by Alexis Herman.",
+  "gics": {
+   "sub": "IT Consulting & Other Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "coca-cola-company",
+  "name": "The Coca-Cola Company",
+  "type": "entity",
+  "kind": "Beverage company",
+  "description": "Atlanta-based global beverage maker.",
+  "gics": {
+   "sub": "Soft Drinks & Non-alcoholic Beverages",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "cummins-inc",
+  "name": "Cummins Inc.",
+  "type": "entity",
+  "kind": "Engine & power manufacturer",
+  "description": "Columbus, Indiana-based engine and power systems maker.",
+  "gics": {
+   "sub": "Construction Machinery & Heavy Transportation Equipment",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "mgm-resorts-international",
+  "name": "MGM Resorts International",
+  "type": "entity",
+  "kind": "Casino & resort operator",
+  "description": "Las Vegas-based casino resort company (formerly MGM Mirage).",
+  "gics": {
+   "sub": "Casinos & Gaming",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "entergy",
+  "name": "Entergy",
+  "type": "entity",
+  "kind": "Electric utility",
+  "description": "New Orleans-based electric utility.",
+  "gics": {
+   "sub": "Electric Utilities",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "brooklyn-nets",
+  "name": "Brooklyn Nets",
+  "type": "entity",
+  "kind": "NBA franchise",
+  "description": "NBA team, formerly the New Jersey Nets.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "ronnie-coleman-signature-series",
+  "name": "Ronnie Coleman Signature Series",
+  "type": "entity",
+  "kind": "Supplement company",
+  "description": "Sports nutrition brand founded by Ronnie Coleman in 2011.",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "congress-of-racial-equality",
+  "name": "Congress of Racial Equality",
+  "type": "entity",
+  "kind": "Civil rights organization",
+  "description": "CORE, founded in Chicago in 1942.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ }
+]

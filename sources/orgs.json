@@ -1,0 +1,275 @@
+[
+ {
+  "id": "american-missionary-association",
+  "name": "American Missionary Association",
+  "type": "entity",
+  "network": true,
+  "kind": "Abolitionist missionary society",
+  "description": "Protestant abolitionist society (1846) that founded or co-founded more Black colleges after the Civil War than any other body, including Fisk, Hampton, Talladega, Tougaloo, Dillard's predecessor Straight, LeMoyne and Tillotson.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "freedmens-bureau",
+  "name": "Freedmen's Bureau",
+  "type": "entity",
+  "network": true,
+  "kind": "Federal Reconstruction agency",
+  "description": "Bureau of Refugees, Freedmen, and Abandoned Lands (1865–1872). It funded buildings, land and teachers for many early Black colleges, and Howard University is named for its commissioner, Gen. Oliver O. Howard.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "ame-church",
+  "name": "African Methodist Episcopal Church",
+  "type": "entity",
+  "network": true,
+  "kind": "Historically Black denomination",
+  "description": "The first independent Black denomination in the U.S. (1816). It founded Wilberforce, Allen, Morris Brown, Paul Quinn, Edward Waters and Shorter, among others, entirely with Black-raised money.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "ame-zion-church",
+  "name": "AME Zion Church",
+  "type": "entity",
+  "network": true,
+  "kind": "Historically Black denomination",
+  "description": "African Methodist Episcopal Zion Church (1821). It sponsors Livingstone College and Clinton College and founded Lomax-Hannon.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "cme-church",
+  "name": "Christian Methodist Episcopal Church",
+  "type": "entity",
+  "network": true,
+  "kind": "Historically Black denomination",
+  "description": "Founded in 1870 as the Colored Methodist Episcopal Church. Its schools include Lane, Miles, Paine (with the Methodists) and Texas College.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "methodist-episcopal-church",
+  "name": "Methodist Episcopal Church / Freedmen's Aid Society",
+  "type": "entity",
+  "network": true,
+  "kind": "Denominational mission board",
+  "description": "Northern Methodists' Freedmen's Aid Society (1866) and its United Methodist successor founded or supported Clark, Claflin, Rust, Wiley, Bennett, Philander Smith, Dillard's predecessor New Orleans University, Bethune-Cookman, Huston-Tillotson and Meharry.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "american-baptist-home-mission-society",
+  "name": "American Baptist Home Mission Society",
+  "type": "entity",
+  "network": true,
+  "kind": "Denominational mission board",
+  "description": "Northern Baptist society that founded Morehouse, Spelman, Shaw, Virginia Union, Benedict, Bishop and Florida Memorial's predecessors.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-baptist-convention",
+  "name": "Black Baptist conventions",
+  "type": "entity",
+  "network": true,
+  "kind": "Historically Black denomination",
+  "description": "The National Baptist Convention and state Black Baptist conventions, which founded and ran colleges such as Selma University, Arkansas Baptist, Simmons College of Kentucky and Morris College.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "presbyterian-board-of-missions-for-freedmen",
+  "name": "Presbyterian Board of Missions for Freedmen",
+  "type": "entity",
+  "network": true,
+  "kind": "Denominational mission board",
+  "description": "Northern Presbyterian mission board behind Johnson C. Smith, Barber-Scotia, Knoxville College, Stillman (Southern Presbyterian), Mary Holmes and Swift Memorial.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "episcopal-church",
+  "name": "Episcopal Church / American Church Institute",
+  "type": "entity",
+  "network": true,
+  "kind": "Denominational mission board",
+  "description": "Through the American Church Institute for Negroes (1906), the Episcopal Church supported Saint Augustine's, Saint Paul's and Voorhees.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "lutheran-church-missouri-synod",
+  "name": "Lutheran Church–Missouri Synod",
+  "type": "entity",
+  "network": true,
+  "kind": "Denominational mission board",
+  "description": "Through the Synodical Conference's Black mission, the Lutherans ran Immanuel Lutheran College (Greensboro) and Alabama Lutheran Academy, later Concordia College Alabama.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "catholic-church",
+  "name": "Catholic Church / Sisters of the Blessed Sacrament",
+  "type": "entity",
+  "network": true,
+  "kind": "Religious order",
+  "description": "St. Katharine Drexel's Sisters of the Blessed Sacrament founded Xavier University of Louisiana (1915/1925), the only Catholic HBCU.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "seventh-day-adventist-church",
+  "name": "Seventh-day Adventist Church",
+  "type": "entity",
+  "network": true,
+  "kind": "Denomination",
+  "description": "Founded Oakwood University in Huntsville, Alabama (1896).",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "churches-of-christ",
+  "name": "Churches of Christ",
+  "type": "entity",
+  "network": true,
+  "kind": "Denomination",
+  "description": "Sponsors Southwestern Christian College in Terrell, Texas.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "society-of-friends",
+  "name": "Religious Society of Friends (Quakers)",
+  "type": "entity",
+  "network": true,
+  "kind": "Religious society",
+  "description": "Quaker philanthropist Richard Humphreys's 1837 bequest founded the Institute for Colored Youth, now Cheyney University, the oldest HBCU.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "disciples-of-christ",
+  "name": "Christian Church (Disciples of Christ)",
+  "type": "entity",
+  "network": true,
+  "kind": "Denomination",
+  "description": "Sponsors Jarvis Christian University in Texas.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "united-church-of-christ",
+  "name": "United Church of Christ",
+  "type": "entity",
+  "network": true,
+  "kind": "Denomination",
+  "description": "Successor to the Congregational churches behind the American Missionary Association. Historically affiliated with Fisk, Dillard, Huston-Tillotson, Talladega, Tougaloo and LeMoyne-Owen.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "second-morrill-act-1890",
+  "name": "Second Morrill Act (1890)",
+  "type": "entity",
+  "network": true,
+  "kind": "Federal land-grant law",
+  "description": "Required states that segregated their land-grant colleges to fund a Black land-grant institution. It created or designated the 19 \"1890 land-grant\" HBCUs, including NC A&T, FAMU, Prairie View, Alcorn and Tennessee State.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "uncf",
+  "name": "UNCF (United Negro College Fund)",
+  "type": "entity",
+  "network": true,
+  "kind": "Collective fundraising consortium",
+  "description": "Founded in 1944 by Tuskegee president Frederick D. Patterson so private HBCUs could raise money together. Its member colleges form the largest network on this map.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "thurgood-marshall-college-fund",
+  "name": "Thurgood Marshall College Fund",
+  "type": "entity",
+  "network": true,
+  "kind": "Public-HBCU consortium",
+  "description": "Founded in 1987 to support the public HBCUs and predominantly Black institutions with scholarships, capacity building and corporate partnerships.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "rosenwald-fund",
+  "name": "Julius Rosenwald Fund",
+  "type": "entity",
+  "network": true,
+  "kind": "Philanthropic foundation",
+  "description": "The Sears, Roebuck president's fund (1917–1948) built Rosenwald schools across the South and funded Black colleges, fellowships and Dillard University.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ }
+]
