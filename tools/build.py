@@ -14,7 +14,7 @@ SRC = os.path.join(ROOT, 'sources')
 CATS = {'Founders & Owners', 'Corporate Executives', 'Finance & Investors', 'Media & Entertainment',
         'Science & Medicine', 'Public Service', 'Arts & Athletics'}
 TIERS = {'Undisclosed', '$500K-$5M', '$5M-$100M', '$100M-$500M', '$500M-$1B', '$1B+'}
-EDGES = {'alumni', 'ownership', 'executive', 'supply', 'capital', 'board', 'mentorship', 'civic', 'family',
+EDGES = {'member', 'alumni', 'ownership', 'executive', 'supply', 'capital', 'board', 'mentorship', 'civic', 'family',
          'deal', 'origin', 'lineage', 'faculty', 'parallel'}
 STATUS = {'Operating', 'Closed', 'Merged'}
 # the same person or school recorded under two ids: alias -> canonical

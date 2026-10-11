@@ -820,7 +820,7 @@
   "name": "Conroe College",
   "type": "entity",
   "hbcu": true,
-  "kind": "Private HBCU · Normal & industrial / Bible college",
+  "kind": "Private historically Black normal & industrial school / Baptist Bible college",
   "status": "Closed",
   "control": "Private",
   "level": "Normal school/Institute",
@@ -834,17 +834,22 @@
    "Conroe Bible College",
    "Conroe Baptist Theological Institute"
   ],
-  "fate": "Declined through financial mismanagement and competition and closed in 2011; the site was sold in 2014 and preservationists are working to save the building.",
-  "description": "Opened in April 1903 by Dr. Jimmie Johnson and his wife Chaney, who sold their own farm to fund a school for African Americans less than 40 years after the Civil War. Its religious program was funded by the Houston-based American Baptist Convention of Texas.",
+  "fate": "Regular college-level classes faded as enrollment fell (Wikipedia dates the college to 1903–1981); it continued as a small Baptist Bible college until it shut in 2011, and the campus was sold to a private investor around 2014.",
+  "description": "Opened in April 1903 by Dr. Jimmie Johnson and his wife Chaney as Conroe Normal and Industrial College, a private Baptist school for African Americans offering academic, vocational and agricultural training, later renamed Conroe College and Conroe Baptist Theological Institute. It is historically Black by founding and mission and is listed among Texas's historically Black colleges, but it was a small unaccredited normal/Bible school and is not on the U.S. Department of Education's list of federally recognized HBCUs.",
   "facts": [
    {
     "t": "Founders sold their farm.",
-    "d": "The Johnsons funded the school with proceeds from their farm.",
+    "d": "The Johnsons funded the school with proceeds from their farm and by soliciting Black churches and conventions.",
     "basis": "documented"
    },
    {
+    "t": "Not a federally designated HBCU.",
+    "d": "Counted here as historically Black by origin; it never appeared on the Department of Education HBCU list.",
+    "basis": "pattern"
+   },
+   {
     "t": "Preservation effort.",
-    "d": "A nonprofit is working to restore the deteriorating building.",
+    "d": "Local groups have worked to turn the 10th Street building into a youth and community center.",
     "basis": "documented"
    }
   ],
@@ -852,6 +857,14 @@
    {
     "label": "Houston Landing — Nonprofit works to restore historic Conroe College",
     "url": "https://houstonlanding.org/its-so-important-to-remember-and-honor-our-history-nonprofit-works-to-restore-historic-conroe-college/"
+   },
+   {
+    "label": "Wikipedia — Conroe Normal and Industrial College",
+    "url": "https://en.wikipedia.org/wiki/Conroe_Normal_and_Industrial_College"
+   },
+   {
+    "label": "Community Impact — Historic Black college in Conroe to become youth community center (2021)",
+    "url": "https://communityimpact.com/houston/conroe-montgomery/government/2021/03/25/historic-black-college-in-conroe-to-become-youth-community-center/"
    }
   ],
   "connections": [
@@ -1631,7 +1644,7 @@
   "capitalBadge": "Salary & Equity",
   "hbcuStory": "Played at Texas Southern University (1989–1992), where his pass-rush records got him drafted by the New York Giants; he was inducted into the Black College Football Hall of Fame in 2014.",
   "humbleBeginnings": "Raised partly in Germany as the son of an Army major, he arrived at TSU largely unrecruited.",
-  "breakthrough": "After a Hall of Fame NFL career he moved into television — co-host of Live! and then Good Morning America — and built a business around his brand, including a menswear line launched with JCPenney in 2015 and his SMAC Entertainment company.",
+  "breakthrough": "After a Hall of Fame NFL career he moved into television — co-host of Live! and then Good Morning America — and built a business around his brand, co-founding SMAC Entertainment with Constance Schwartz-Morini in 2010 and launching a menswear line with JCPenney in 2015.",
   "legacy": "Became one of the most recognizable HBCU alumni in media, flying to space on Blue Origin in 2021.",
   "breakthroughDetail": [
    {
@@ -1652,8 +1665,8 @@
   ],
   "legacyDetail": [
    {
-    "t": "Media brand company.",
-    "d": "Co-founded SMAC Entertainment to manage talent and brand deals.",
+    "t": "SMAC Entertainment.",
+    "d": "Co-founded in 2010 with longtime manager Constance Schwartz-Morini (its CEO); the firm does talent management, branding and TV/film production (e.g. “Coach Prime”).",
     "basis": "documented"
    }
   ],
@@ -1670,6 +1683,10 @@
    {
     "label": "USA Today — Strahan wants to dress you (2015)",
     "url": "https://www.usatoday.com/story/life/style/2015/09/08/listen-up-fellas-strahan-wants-dress-you/71668064/"
+   },
+   {
+    "label": "Inc. — How Constance Schwartz-Morini built SMAC Entertainment",
+    "url": "https://www.inc.com/brit-morse/constance-schwartz-morini-smac-entertainment-michael-strahan.html"
    }
   ],
   "connections": [
@@ -1681,7 +1698,7 @@
    {
     "id": "smac-entertainment",
     "type": "ownership",
-    "label": "co-founder"
+    "label": "co-founder, 2010"
    }
   ]
  },
@@ -1829,7 +1846,7 @@
   "capitalBadge": "Investor Syndicate",
   "hbcuStory": "Attended Prairie View A&M (then Prairie View State Normal & Industrial College), Tuskegee and Hampton without taking a degree before Brooklyn Law School (LL.B. 1950).",
   "humbleBeginnings": "Youngest of 15 children of a San Antonio educator-farmer; his brother G. J. Sutton also became a businessman and legislator.",
-  "breakthrough": "In 1971 he co-founded Inner City Broadcasting Corporation, which bought WLIB-AM and WBLS-FM — making WBLS New York's first African-American-owned radio station.",
+  "breakthrough": "In 1971 he co-founded Inner City Broadcasting Corporation, which bought WLIB-AM — New York City's first African-American-owned radio station — and its FM sister WBLS.",
   "legacy": "Also invested in the New York Amsterdam News, bought and revived Harlem's Apollo Theater and produced It's Showtime at the Apollo; he was Manhattan Borough President and Malcolm X's attorney.",
   "breakthroughDetail": [
    {
@@ -2511,7 +2528,7 @@
     "label": "marketing executive"
    },
    {
-    "id": "att-inc",
+    "id": "att",
     "type": "board",
     "label": "director 1998–2018"
    },
@@ -2609,7 +2626,7 @@
   "capitalBadge": "Self-Financed Exchange Seat",
   "hbcuStory": "Earned a B.S. from Xavier University of Louisiana in 1968, double-majoring in accounting and business.",
   "humbleBeginnings": "Born in New Orleans; started in brokerage in the South when Black stockbrokers were rare.",
-  "breakthrough": "In 1973 he bought a seat on the New York Stock Exchange — the first African American individual to do so — and founded his own investment banking firm (Doley Securities), taking emeritus status in 2003.",
+  "breakthrough": "After starting as a broker at Bache & Co. in New Orleans in 1968, he bought a seat on the New York Stock Exchange in 1973 — the first African American to own an individual seat — and in 1975 founded Doley Securities, a New Orleans–based brokerage and investment bank; he took emeritus status in 2003.",
   "legacy": "Served as U.S. Executive Director to the African Development Bank with ambassadorial rank (1983–85), founding director of the Interior Department's Minerals Management Service, and co-founder of the U.S.–Africa Chamber of Commerce.",
   "breakthroughDetail": [
    {
@@ -2618,8 +2635,8 @@
     "basis": "documented"
    },
    {
-    "t": "Firm founder.",
-    "d": "Founded an investment banking firm; emeritus from 2003.",
+    "t": "Doley Securities, 1975.",
+    "d": "Founded the New Orleans–headquartered broker-dealer and investment bank, with a New York office; emeritus from 2003.",
     "basis": "documented"
    },
    {
@@ -2653,6 +2670,10 @@
    {
     "label": "New York Times — Spotlight: A Deep South broker (1976)",
     "url": "https://www.nytimes.com/1976/12/26/archives/spotlight-a-deep-south-broker.html"
+   },
+   {
+    "label": "Encyclopedia.com — Doley, Harold Jr. 1947–",
+    "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/doley-harold-jr-1947"
    }
   ],
   "connections": [
@@ -2664,7 +2685,7 @@
    {
     "id": "doley-securities",
     "type": "ownership",
-    "label": "founder"
+    "label": "founder, 1975"
    },
    {
     "id": "new-york-stock-exchange",
@@ -2815,7 +2836,7 @@
   "type": "alumni",
   "category": "Media & Entertainment",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living",
+  "lifespan": "b. 1968",
   "base": "Portland, OR",
   "industry": "Magazine Publishing",
   "originBadge": "New Orleans Student Journalist",
@@ -3079,7 +3100,7 @@
   "type": "alumni",
   "category": "Founders & Owners",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living",
+  "lifespan": "b. 1943",
   "base": "Baton Rouge, LA",
   "industry": "Engineering Consulting",
   "originBadge": "Cotton Fields to NASA",
@@ -4231,7 +4252,7 @@
     "label": "president 1968–2015"
    },
    {
-    "id": "liberty-bank-and-trust",
+    "id": "liberty-bank-and-trust-company",
     "type": "ownership",
     "label": "co-founder & chairman, 1972"
    }
@@ -5532,7 +5553,7 @@
   "name": "SMAC Entertainment",
   "type": "entity",
   "kind": "Talent management & production company",
-  "description": "Entertainment company co-founded by Michael Strahan.",
+  "description": "Talent-management, branding and TV/film production company co-founded in 2010 by Michael Strahan and Constance Schwartz-Morini.",
   "gics": {
    "sub": "Movies & Entertainment",
    "basis": "inferred"
@@ -5792,18 +5813,6 @@
   "connections": []
  },
  {
-  "id": "att-inc",
-  "name": "AT&T Inc.",
-  "type": "entity",
-  "kind": "Telecommunications company",
-  "description": "U.S. telecommunications giant.",
-  "gics": {
-   "sub": "Integrated Telecommunication Services",
-   "basis": "official"
-  },
-  "connections": []
- },
- {
   "id": "macys-inc",
   "name": "Macy's, Inc.",
   "type": "entity",
@@ -5844,7 +5853,7 @@
   "name": "Doley Securities",
   "type": "entity",
   "kind": "Investment banking & brokerage firm",
-  "description": "New Orleans-rooted firm founded by Harold Doley, first Black individual NYSE seat owner.",
+  "description": "New Orleans–headquartered brokerage and investment banking firm founded in 1975 by Harold Doley Jr., who left with emeritus status in 2003.",
   "gics": {
    "sub": "Investment Banking & Brokerage",
    "basis": "inferred"
@@ -6140,18 +6149,6 @@
   "connections": []
  },
  {
-  "id": "liberty-bank-and-trust",
-  "name": "Liberty Bank and Trust",
-  "type": "entity",
-  "kind": "Black-owned bank",
-  "description": "New Orleans bank founded in 1972; one of the largest Black-owned banks in the U.S.",
-  "gics": {
-   "sub": "Regional Banks",
-   "basis": "inferred"
-  },
-  "connections": []
- },
- {
   "id": "new-ventures-inc",
   "name": "New Ventures, Inc.",
   "type": "entity",
@@ -6243,6 +6240,1901 @@
   "description": "CORE, founded in Chicago in 1942.",
   "gics": {
    "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "glenda-mcneal",
+  "name": "Glenda McNeal",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "New York, NY",
+  "industry": "Payments & Financial Services",
+  "originBadge": "Accounting Grad",
+  "engineBadge": "Card-Network Partnerships",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from Dillard University in 1982 (Dillard lists her among its distinguished business alumni), then earned an MBA in finance from Wharton.",
+  "humbleBeginnings": "A New Orleans HBCU accounting graduate who joined American Express in 1989 and worked her way through sales, client management, business development and strategy roles.",
+  "breakthrough": "Rose to lead American Express's strategic partnerships business — the co-brand and enterprise partnership deals behind the company's card portfolio — as President of (Enterprise) Strategic Partnerships.",
+  "legacy": "In 2020 she became the first Black woman named to American Express's Executive Committee; she also sits on the boards of Nordstrom and RLJ Lodging Trust and has served UNCF.",
+  "breakthroughDetail": [
+   {
+    "t": "30+ years at American Express.",
+    "d": "Joined in 1989 and held sales, client-management, business-development and strategy roles.",
+    "basis": "documented"
+   },
+   {
+    "t": "Executive Committee first.",
+    "d": "Named to AmEx's Executive Committee in June 2020 — the first Black woman to sit on it.",
+    "basis": "documented"
+   },
+   {
+    "t": "Public-company director.",
+    "d": "Board member of Nordstrom Inc. and RLJ Lodging Trust.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Dillard distinguished alumna.",
+    "d": "Featured in Dillard's distinguished alumni gallery (business, class of 1982).",
+    "basis": "documented"
+   },
+   {
+    "t": "HBCU pipeline.",
+    "d": "Her rise from Dillard to a Fortune 100 executive committee is a model for HBCU corporate pipelines.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Black Enterprise — American Express makes history with first Black woman on its Executive Committee (2020)",
+    "url": "https://blackenterprise.com/american-express-makes-history-with-the-first-black-woman-on-its-executive-committee/"
+   },
+   {
+    "label": "Dillard University — Distinguished Alumni",
+    "url": "https://www.dillard.edu/about/administration/institutional-advancement/alumni-relations/distinguished-alumni/"
+   },
+   {
+    "label": "Black Enterprise — Boss Moves: Lessons from AmEx EVP Glenda McNeal",
+    "url": "https://www.blackenterprise.com/millennial-leadership-lessons-from-a-woman-of-power-american-express-glenda-mcneal/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.A. 1982"
+   },
+   {
+    "id": "american-express",
+    "type": "executive",
+    "label": "President, Strategic Partnerships; Executive Committee from 2020"
+   },
+   {
+    "id": "nordstrom",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "rlj-lodging-trust",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "uncf",
+    "type": "civic",
+    "label": "board service"
+   }
+  ]
+ },
+ {
+  "id": "vince-hudson",
+  "name": "Vince Hudson",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "New York, NY",
+  "industry": "Brand Marketing",
+  "originBadge": "SGA President",
+  "engineBadge": "Brand Strategy",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a BBA from Dillard University (1989–1993), where he was student government president; Dillard lists him (class of 1993) among its distinguished business alumni and he has served on its board of trustees.",
+  "humbleBeginnings": "Grew up in Shreveport, Louisiana (Captain Shreve High School) and started in classic consumer-goods brand management at Procter & Gamble.",
+  "breakthrough": "Built a marketing career across P&G (Crest Whitestrips launch, general manager of CoverGirl North America), Samsung, Diageo (global SVP for Smirnoff), Viacom (EVP & Chief Brand Officer of BET Networks, 2018–19) and American Express (SVP of brand strategy).",
+  "legacy": "Later led North American business marketing at Meta and wrote the 2025 marketing book Date Like a Brand; serves on the ANA Educational Foundation board.",
+  "breakthroughDetail": [
+   {
+    "t": "P&G brand builder.",
+    "d": "Brand manager on the Crest Whitestrips launch; later GM of CoverGirl North America and of P&G beauty in South Asia.",
+    "basis": "documented"
+   },
+   {
+    "t": "BET's chief brand officer.",
+    "d": "EVP & Chief Brand Officer of BET Networks (Viacom), 2018–2019.",
+    "basis": "documented"
+   },
+   {
+    "t": "AmEx and Meta.",
+    "d": "SVP of global brand strategy at American Express, then head of North America business marketing at Meta.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Dillard trustee.",
+    "d": "Member of the Dillard University Board of Trustees.",
+    "basis": "documented"
+   },
+   {
+    "t": "Author.",
+    "d": "Published Date Like a Brand (2025).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Dillard University — Distinguished Alumni",
+    "url": "https://www.dillard.edu/about/administration/institutional-advancement/alumni-relations/distinguished-alumni/"
+   },
+   {
+    "label": "The Org — Vince Hudson",
+    "url": "https://theorg.com/org/aef/org-chart/vince-hudson"
+   },
+   {
+    "label": "LeadAFI — Vince Hudson executive biography",
+    "url": "https://leadafi.com/executive-biography/vince-hudson-turning-insight-into-innovation-and-purpose-into-performance/"
+   },
+   {
+    "label": "Creativity4Better — Vince Hudson",
+    "url": "https://creativity4better.com/speakers/vince-hudson/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "BBA 1993; trustee"
+   },
+   {
+    "id": "procter-and-gamble",
+    "type": "executive",
+    "label": "brand manager to GM, CoverGirl NA"
+   },
+   {
+    "id": "bet-networks",
+    "type": "executive",
+    "label": "EVP & Chief Brand Officer, 2018–2019"
+   },
+   {
+    "id": "american-express",
+    "type": "executive",
+    "label": "SVP, brand strategy"
+   }
+  ]
+ },
+ {
+  "id": "thomas-moorehead",
+  "name": "Thomas Moorehead",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$5M-$100M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on a multi-franchise luxury dealer group plus interests in 40+ hotels; no published net-worth figure.",
+  "lifespan": "living",
+  "base": "Northern Virginia / Washington, DC",
+  "industry": "Luxury Auto Dealerships & Hotels",
+  "originBadge": "Monroe, Louisiana",
+  "engineBadge": "Luxury Auto Franchises",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Graduated from Grambling State University with a business degree in the mid-1960s; in 2025 he and his wife Joyce made a $2 million anchor gift (a $10 million total partnership) that created Grambling's Thomas and Joyce Moorehead College of Business and Entrepreneurship, the university's first named college.",
+  "humbleBeginnings": "Rose from humble beginnings in Monroe, Louisiana, graduating with honors from a segregated high school; worked as a systems analyst at Mobil and Chrysler, then earned a master's in social work from the University of Michigan (1971).",
+  "breakthrough": "Graduated from General Motors' first in-house dealer training program in 1985 and opened Moorehead Sentry Buick/Isuzu in Omaha; built Sterling Motorcars in Northern Virginia, becoming the first African American BMW (1998 award), Rolls-Royce (2013), Lamborghini and McLaren (2016) dealer.",
+  "legacy": "Expanded into Harley-Davidson of Washington, D.C., hotels (ownership interests in 40+ properties, including the Residence Inn at National Harbor) and wine; stepped down as CEO in 2019 while remaining owner and chairman.",
+  "breakthroughDetail": [
+   {
+    "t": "Luxury-brand firsts.",
+    "d": "First African American franchisee for BMW, Rolls-Royce, Lamborghini and McLaren; Bugatti later granted him a franchise.",
+    "basis": "documented"
+   },
+   {
+    "t": "Multi-brand dealer group.",
+    "d": "Dealerships in Omaha (Buick/Isuzu), Decatur, Illinois (Buick, GMC, BMW) and Sterling, Virginia (BMW, MINI, Rolls-Royce, Lamborghini, McLaren).",
+    "basis": "documented"
+   },
+   {
+    "t": "Hospitality developer.",
+    "d": "Partnered with Marriott and Integrated Capital on the Residence Inn at National Harbor; holds interests in more than 43 hotels.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Named college at Grambling.",
+    "d": "Moorehead Family Foundation's $2 million anchor gift established the Thomas and Joyce Moorehead College of Business and Entrepreneurship (2025).",
+    "basis": "documented"
+   },
+   {
+    "t": "Philanthropy.",
+    "d": "Co-founded the African American Network Against Alzheimer's.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Johns Hopkins Carey — Virtual Celebration of Black History with Thomas Moorehead",
+    "url": "https://events.jhu.edu/node/710"
+   },
+   {
+    "label": "Lincoln Parish Journal — GSU names College of Business for Thomas and Joyce Moorehead (2025)",
+    "url": "https://lincolnparishjournal.com/2025/10/27/gsu-names-college-of-business-in-honor-of-thomas-and-joyce-moorehead/"
+   },
+   {
+    "label": "Grambling State — Moorehead 2016 Spring Commencement speaker",
+    "url": "https://gram.edu/news/?p=1275"
+   },
+   {
+    "label": "Grambling State — College of Business notable alumni",
+    "url": "https://gram.edu/academics/majors/business/alumni.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "B.A. business"
+   },
+   {
+    "id": "sterling-motorcars",
+    "type": "ownership",
+    "label": "founder/owner & chairman"
+   },
+   {
+    "id": "marriott-international",
+    "type": "deal",
+    "label": "Residence Inn at National Harbor partner"
+   },
+   {
+    "id": "general-motors",
+    "type": "origin",
+    "label": "GM dealer-training graduate, 1985"
+   }
+  ]
+ },
+ {
+  "id": "nathelyne-a-kennedy",
+  "name": "Nathelyne A. Kennedy",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$500K-$5M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate for the founder of a long-running mid-size engineering firm sold in 2019; terms undisclosed.",
+  "lifespan": "living",
+  "base": "Houston, TX",
+  "industry": "Civil Engineering Consulting",
+  "originBadge": "First Woman Engineer",
+  "engineBadge": "Bridge & Transit Design",
+  "capitalBadge": "Public-Works Contracts",
+  "hbcuStory": "Earned a B.S. in architectural engineering from Prairie View A&M in 1959 — the school's first female engineering graduate; PVAMU named its Nathelyne Archie Kennedy Building (School of Architecture and Art) for her in 2006.",
+  "humbleBeginnings": "Began as a bridge design engineer at firms in Chicago and then Houston, at a time when Black women were almost absent from engineering.",
+  "breakthrough": "Became the first African American woman registered as a professional engineer in Texas (1979) and in 1981 founded Nathelyne A. Kennedy & Associates, a Houston civil engineering firm that designed bridges on most of Houston's freeways and worked on METRORail, the city's three pro-sports venues and the Port of Houston's Bayport Terminal.",
+  "legacy": "Led the firm for nearly four decades until its acquisition by WSB in 2019; served on the Texas Turnpike Authority board and advisory boards at Prairie View, TSU and UH-Downtown.",
+  "breakthroughDetail": [
+   {
+    "t": "Texas PE first.",
+    "d": "First African American female professional engineer registered in Texas (1979).",
+    "basis": "documented"
+   },
+   {
+    "t": "Founded NAK, 1981.",
+    "d": "Civil consulting firm for highways, bridges, transit, ports, aviation and campus projects.",
+    "basis": "documented"
+   },
+   {
+    "t": "Houston landmarks.",
+    "d": "Bridge design on most of Houston's freeways; work on light rail and the city's sports arenas.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Engineer of the Year.",
+    "d": "First woman named Engineer of the Year by Houston's Engineers Week committee (2016).",
+    "basis": "documented"
+   },
+   {
+    "t": "Exit to WSB.",
+    "d": "WSB acquired Nathelyne A. Kennedy & Associates in 2019.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Prairie View A&M Foundation — Nathelyne A. Kennedy (emeritus)",
+    "url": "https://www.pvamf.org/emeritus/4"
+   },
+   {
+    "label": "Zweig Group — A true role model: Nathelyne A. Kennedy",
+    "url": "https://zweiggroup.com/blogs/the-zweig-letter/a-true-role-model-nathelyne-a-kennedy"
+   },
+   {
+    "label": "WSB — News: Nathelyne Kennedy",
+    "url": "https://www.wsbeng.com/?p=5014"
+   },
+   {
+    "label": "Top 30 Women — Nathelyne Archie Kennedy",
+    "url": "https://top30women.com/nathelyne-archie-kennedy/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. architectural engineering 1959"
+   },
+   {
+    "id": "nathelyne-a-kennedy-and-associates",
+    "type": "ownership",
+    "label": "founder & president, 1981"
+   }
+  ]
+ },
+ {
+  "id": "american-express",
+  "name": "American Express",
+  "type": "entity",
+  "kind": "Payments & card network",
+  "description": "Global payments, card-issuing and travel company.",
+  "gics": {
+   "sub": "Consumer Finance",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "nordstrom",
+  "name": "Nordstrom",
+  "type": "entity",
+  "kind": "Department store chain",
+  "description": "Seattle-based fashion department store retailer.",
+  "gics": {
+   "sub": "Broadline Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "sterling-motorcars",
+  "name": "Sterling Motorcars",
+  "type": "entity",
+  "kind": "Luxury auto dealer group",
+  "description": "Northern Virginia luxury dealer group (BMW, MINI, Rolls-Royce, Lamborghini, McLaren of Sterling) built by Thomas Moorehead.",
+  "gics": {
+   "sub": "Automotive Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "nathelyne-a-kennedy-and-associates",
+  "name": "Nathelyne A. Kennedy & Associates",
+  "type": "entity",
+  "kind": "Civil engineering consulting firm",
+  "description": "Houston civil engineering firm founded in 1981 by Nathelyne Kennedy; acquired by WSB in 2019.",
+  "gics": {
+   "sub": "Construction & Engineering",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "tramell-tillman",
+  "name": "Tramell Tillman",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1985",
+  "base": "New York, NY",
+  "industry": "Film & Television",
+  "originBadge": "Pre-Med Turned Actor",
+  "engineBadge": "Prestige TV",
+  "capitalBadge": "Studio Contracts",
+  "hbcuStory": "Started at Xavier University of Louisiana as a pre-med student; after Hurricane Katrina in 2005 he transferred to Jackson State University, switched to mass communications and graduated summa cum laude in 2008.",
+  "humbleBeginnings": "Born in Washington, D.C., to a federal-government worker and an Amtrak employee, and raised in Largo, Maryland.",
+  "breakthrough": "Became the first African American man to earn an MFA in acting from the University of Tennessee (2014) and broke out as Seth Milchick in Apple TV+'s Severance.",
+  "legacy": "Became the first Black and first openly gay winner of the Emmy for Outstanding Supporting Actor in a Drama Series.",
+  "breakthroughDetail": [
+   {
+    "t": "Severance.",
+    "d": "Plays Seth Milchick in the Apple TV+ series (2022– ).",
+    "basis": "documented"
+   },
+   {
+    "t": "Emmy history.",
+    "d": "First Black and first openly gay winner of the supporting-actor drama Emmy.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Two-HBCU path.",
+    "d": "Xavier, then Jackson State after Katrina.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Tramell Tillman",
+    "url": "https://en.wikipedia.org/wiki/Tramell_Tillman"
+   },
+   {
+    "label": "The Cut — Tramell Tillman interview",
+    "url": "https://www.thecut.com/article/tramell-tillman-severance-apple-tv-interview.html"
+   },
+   {
+    "label": "Mr. Feelgood — Severance star Tramell Tillman",
+    "url": "https://mrfeelgood.com/articles/severance-star-tramell-tillman-talks-worklife-balance/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "xavier-university-of-louisiana",
+    "type": "alumni",
+    "label": "attended (pre-med), 2003–2005"
+   },
+   {
+    "id": "jackson-state-university",
+    "type": "alumni",
+    "label": "B.S. mass communications 2008, summa cum laude"
+   }
+  ]
+ },
+ {
+  "id": "william-nickerson-jr",
+  "name": "William Nickerson Jr.",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1879–1945",
+  "base": "Los Angeles, CA",
+  "industry": "Life Insurance",
+  "originBadge": "Texas Farm Boy",
+  "engineBadge": "Black-Owned Life Insurance",
+  "capitalBadge": "Policyholder Premiums",
+  "hbcuStory": "After high school he attended Bishop College in Marshall, Texas, where he studied economics; he later earned a teacher's certificate at Prairie View and taught school for four years in San Jacinto County.",
+  "humbleBeginnings": "Born on a farm near Coldspring, Texas; a chance 1905 job offer made him an agent for the Dallas-based Southern Mutual Benefit Association.",
+  "breakthrough": "In 1908 he co-chartered the American Mutual Benefit Association in Houston, which became one of the largest Black-owned businesses west of the Mississippi; moving to Los Angeles, he filed articles of incorporation for Golden State Guarantee Fund Insurance Company on February 24, 1925 — later Golden State Mutual Life Insurance Company.",
+  "legacy": "Golden State Mutual, founded with Norman O. Houston and George A. Beavers Jr., grew into the largest Black-owned business in the West and a pillar of Black Los Angeles.",
+  "breakthroughDetail": [
+   {
+    "t": "American Mutual Benefit Association, 1908.",
+    "d": "Co-founded in Houston; Nickerson served as secretary.",
+    "basis": "documented"
+   },
+   {
+    "t": "Golden State, 1925.",
+    "d": "Started in a one-room office at 1435 Central Avenue, Los Angeles.",
+    "basis": "documented"
+   },
+   {
+    "t": "Largest Black business in the West.",
+    "d": "Golden State Mutual became the largest Black-owned business west of the Mississippi.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Institution builder.",
+    "d": "Golden State Mutual operated for more than 80 years.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — William Nickerson Jr.",
+    "url": "https://en.wikipedia.org/wiki/William_Nickerson_Jr."
+   },
+   {
+    "label": "William Nickerson Jr. Project (archived)",
+    "url": "https://web.archive.org/web/20100930093934/http://www.williamnickersonjrproject.com/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "attended (economics)"
+   },
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "teacher's certificate"
+   },
+   {
+    "id": "golden-state-mutual-life-insurance-company",
+    "type": "ownership",
+    "label": "founder, 1925"
+   },
+   {
+    "id": "american-mutual-benefit-association",
+    "type": "ownership",
+    "label": "co-founder, 1908"
+   }
+  ]
+ },
+ {
+  "id": "freddye-scarborough-henderson",
+  "name": "Freddye Scarborough Henderson",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1917–2007",
+  "base": "Atlanta, GA",
+  "industry": "Travel Agency",
+  "originBadge": "Franklinton Valedictorian",
+  "engineBadge": "Black Travel Market",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. in home economics from Southern University in 1937, then became the first African American to earn a degree in fashion merchandising from New York University (1950).",
+  "humbleBeginnings": "Born in Franklinton, Louisiana, where she was valedictorian of Booker T. Washington High School; taught fashion and textiles at Spelman College and ran an Atlanta dress shop (1944–1950).",
+  "breakthrough": "In 1955 she and her husband Jacob founded Henderson Travel Service in Atlanta — the first African American travel agency in the Southeast and the first fully accredited Black-owned travel agency in the U.S.",
+  "legacy": "Organized the first group of American tourists to West Africa for Ghana's 1957 independence and planned Martin Luther King Jr.'s trip to Oslo for the Nobel Peace Prize; SCLC and the King family booked travel through her agency.",
+  "breakthroughDetail": [
+   {
+    "t": "Henderson Travel Service, 1955.",
+    "d": "First fully accredited Black-owned travel agency in America.",
+    "basis": "documented"
+   },
+   {
+    "t": "Ghana 1957.",
+    "d": "Chartered a plane from Paris to bring the first American tour group to Ghana's independence.",
+    "basis": "documented"
+   },
+   {
+    "t": "King's Nobel trip.",
+    "d": "Planned and accompanied Dr. King's 1964 trip to Oslo.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Fashion journalism.",
+    "d": "Fashion editor for the Associated Negro Press; wrote “Travel by Freddye” for the Pittsburgh Courier.",
+    "basis": "documented"
+   },
+   {
+    "t": "Archive.",
+    "d": "Her papers are held at Emory University's Rose Library.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Freddye Scarborough Henderson",
+    "url": "https://en.wikipedia.org/wiki/Freddye_Scarborough_Henderson"
+   },
+   {
+    "label": "BlackPast — Henderson, Freddye Scarborough (1917–2007)",
+    "url": "https://blackpast.org/african-american-history/henderson-freddye-scarborough-1917-2007/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "B.S. home economics 1937"
+   },
+   {
+    "id": "henderson-travel-service",
+    "type": "ownership",
+    "label": "co-founder, 1955"
+   },
+   {
+    "id": "martin-luther-king-jr",
+    "type": "deal",
+    "label": "planned his Nobel trip, 1964"
+   }
+  ]
+ },
+ {
+  "id": "eugene-winslow",
+  "name": "Eugene Winslow",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1919–2001",
+  "base": "Chicago, IL",
+  "industry": "Educational Publishing",
+  "originBadge": "Tuskegee Airman",
+  "engineBadge": "Black History Publishing",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Graduated cum laude from Dillard University in 1943 with a degree in fine arts and literature.",
+  "humbleBeginnings": "Born in Dayton, Ohio, to college-educated parents; after Dillard he served as a lieutenant in the Tuskegee Airmen's 477th Bomber Group.",
+  "breakthrough": "In 1963 co-founded Chicago's Afro-Am Publishing, illustrating its breakout Great Negroes Past and Present, which became a pioneering supplementary text for Black Studies.",
+  "legacy": "As Afro-Am's president from 1978 he shifted it to a mail-order catalog of Black-interest educational materials, selling the company in 1993; the DuSable Museum honored him as a Chicago Black design pioneer.",
+  "breakthroughDetail": [
+   {
+    "t": "Afro-Am Publishing, 1963.",
+    "d": "Co-founder, treasurer, vice president and later president.",
+    "basis": "documented"
+   },
+   {
+    "t": "Great Negroes Past and Present.",
+    "d": "Illustrated the 1963 bestseller adopted by California schools by 1972.",
+    "basis": "documented"
+   },
+   {
+    "t": "Catalog model.",
+    "d": "Moved the business from direct sales to mail order for schools and libraries.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Sold 1993.",
+    "d": "Sold the company in 1993; papers at the Chicago Public Library's Harsh Collection.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Eugene Winslow",
+    "url": "https://en.wikipedia.org/wiki/Eugene_Winslow"
+   },
+   {
+    "label": "Chicago Tribune — Eugene Winslow, 81 (2001)",
+    "url": "https://www.chicagotribune.com/2001/07/11/eugene-winslow-81/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.A. 1943, cum laude"
+   },
+   {
+    "id": "afro-am-publishing",
+    "type": "ownership",
+    "label": "co-founder 1963; president from 1978"
+   }
+  ]
+ },
+ {
+  "id": "denise-young-smith",
+  "name": "Denise Young Smith",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1955",
+  "base": "San Francisco Bay Area, CA",
+  "industry": "Technology / Human Resources",
+  "originBadge": "Journalism Major",
+  "engineBadge": "Tech HR Leadership",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a bachelor's in journalism and communications and a master's in organizational management from Grambling State University; she chose Grambling over Juilliard.",
+  "humbleBeginnings": "A classically trained singer who went into corporate HR instead of music.",
+  "breakthrough": "Spent two decades at Apple, joining in 1997 and rising to lead worldwide human resources, then became the company's first vice president of diversity and inclusion in 2017.",
+  "legacy": "Left Apple in late 2017 after controversial remarks on diversity; later chaired the SFJAZZ board, founded Blue Organza Productions and recorded as a soprano.",
+  "breakthroughDetail": [
+   {
+    "t": "Apple HR leader.",
+    "d": "Senior HR leadership at Apple from 1997, including head of worldwide people.",
+    "basis": "documented"
+   },
+   {
+    "t": "First diversity VP.",
+    "d": "Apple's first vice president of diversity and inclusion (2017).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "SFJAZZ.",
+    "d": "Named SFJAZZ board chair in 2020.",
+    "basis": "documented"
+   },
+   {
+    "t": "Cooper Union.",
+    "d": "Delivered Cooper Union's 2016 commencement address.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Denise S. Young"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Denise S. Young",
+    "url": "https://en.wikipedia.org/wiki/Denise_S._Young"
+   },
+   {
+    "label": "Black Enterprise — Apple's Denise Young Smith",
+    "url": "https://www.blackenterprise.com/apple-denise-young-smith-own-voice/"
+   },
+   {
+    "label": "Cooper Union — Denise Young Smith to deliver 2016 commencement",
+    "url": "https://cooper.edu/about/news/denise-young-smith-deliver-2016-commencement-address"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "B.A. journalism; M.S. organizational management"
+   },
+   {
+    "id": "apple-inc",
+    "type": "executive",
+    "label": "HR leader 1997–2017; VP diversity & inclusion 2017"
+   }
+  ]
+ },
+ {
+  "id": "sybil-collins-mobley",
+  "name": "Sybil Collins Mobley",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1925–2015",
+  "base": "Tallahassee, FL",
+  "industry": "Business Education",
+  "originBadge": "Shreveport Publisher's Daughter",
+  "engineBadge": "Business School Builder",
+  "capitalBadge": "Corporate Board Fees",
+  "hbcuStory": "Earned her bachelor's degree at Bishop College in Texas, then became the first African American to earn an MBA from Wharton (1961) and completed doctoral work at the University of Illinois.",
+  "humbleBeginnings": "Grew up in Shreveport, where her father Melvin Collins founded the Shreveport Sun newspaper; she started at FAMU in 1945 as a secretary.",
+  "breakthrough": "Founded Florida A&M's School of Business and Industry and served as its dean from 1974 to 2003, building a famous corporate-recruiting pipeline and the endowed “SBI Big Board.”",
+  "legacy": "A CPA who sat on the boards of Anheuser-Busch, Sears Roebuck, Hershey Foods, Champion International, Southwestern Bell, Dean Witter and Discover — an early Black woman director in major corporate boardrooms.",
+  "breakthroughDetail": [
+   {
+    "t": "Founding dean.",
+    "d": "Built FAMU's School of Business and Industry, 1974–2003.",
+    "basis": "documented"
+   },
+   {
+    "t": "Wharton first.",
+    "d": "First African American to earn a Wharton MBA (1961).",
+    "basis": "documented"
+   },
+   {
+    "t": "Corporate director.",
+    "d": "Boards of Anheuser-Busch, Sears, Hershey, Southwestern Bell and others.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Accounting Hall of Fame.",
+    "d": "Inducted into The Accounting Hall of Fame; Florida Women's Hall of Fame member.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Sybil Collins Mobley",
+    "url": "https://en.wikipedia.org/wiki/Sybil_Collins_Mobley"
+   },
+   {
+    "label": "Wharton Magazine — Dr. Sybil C. Mobley WG61",
+    "url": "https://magazine.wharton.upenn.edu/obituaries/dr-sybil-c-mobley-wg61/"
+   },
+   {
+    "label": "WFSU — Legendary FAMU business school dean Mobley dies (2015)",
+    "url": "https://news.wfsu.org/wfsu-local-news/2015-09-29/legendary-famu-business-school-dean-mobley-dies"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "B.A."
+   },
+   {
+    "id": "florida-a-and-m-university",
+    "type": "faculty",
+    "label": "founding dean, School of Business and Industry, 1974–2003"
+   },
+   {
+    "id": "anheuser-busch",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "sears-roebuck-and-company",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "garrett-morris",
+  "name": "Garrett Morris",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1937",
+  "base": "Los Angeles, CA",
+  "industry": "Television & Film",
+  "originBadge": "New Orleans Choirboy",
+  "engineBadge": "Sketch Comedy & Sitcoms",
+  "capitalBadge": "Talent Contracts",
+  "hbcuStory": "Graduated from Dillard University in 1958; Dillard lists him among its distinguished alumni and celebrated his Hollywood Walk of Fame star.",
+  "humbleBeginnings": "Raised in New Orleans, he trained as a singer before turning to acting and writing.",
+  "breakthrough": "Became the first Black cast member of Saturday Night Live as part of its original 1975 cast.",
+  "legacy": "Built a five-decade TV career including The Jeffersons, Martin, The Jamie Foxx Show and 2 Broke Girls.",
+  "breakthroughDetail": [
+   {
+    "t": "SNL original.",
+    "d": "Original cast member, 1975–1980.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sitcom veteran.",
+    "d": "Martin (1992–95), The Jamie Foxx Show (1996–2001), 2 Broke Girls (2011–17).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Walk of Fame.",
+    "d": "Honored with a star on the Hollywood Walk of Fame.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Garrett Morris",
+    "url": "https://en.wikipedia.org/wiki/Garrett_Morris"
+   },
+   {
+    "label": "Dillard University — Celebrating alumnus Garrett Morris",
+    "url": "https://www.dillard.edu/du-news/celebrating-garrett-morris/"
+   },
+   {
+    "label": "Dillard University — Distinguished Alumni",
+    "url": "https://www.dillard.edu/about/administration/institutional-advancement/alumni-relations/distinguished-alumni/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.A. 1958"
+   }
+  ]
+ },
+ {
+  "id": "emmitt-thomas",
+  "name": "Emmitt Thomas",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1943",
+  "base": "Kansas City, MO",
+  "industry": "Pro Football",
+  "originBadge": "Undrafted Free Agent",
+  "engineBadge": "NFL Playing & Coaching",
+  "capitalBadge": "Player & Coach Salary",
+  "hbcuStory": "Played college football at Bishop College in Dallas and made the Kansas City Chiefs as an undrafted free agent.",
+  "humbleBeginnings": "An overlooked small-college player from a Texas HBCU.",
+  "breakthrough": "Set the Chiefs' all-time interception record (58) and won Super Bowl IV; later won Super Bowls XXII and XXVI as a Washington assistant coach.",
+  "legacy": "Inducted into the Pro Football Hall of Fame (2008) — Bishop College's most decorated athlete.",
+  "breakthroughDetail": [
+   {
+    "t": "Chiefs record.",
+    "d": "58 interceptions, a franchise record.",
+    "basis": "documented"
+   },
+   {
+    "t": "Three rings.",
+    "d": "One as a player, two as an assistant coach.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Enshrined in Canton in 2008.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Emmitt Thomas",
+    "url": "https://en.wikipedia.org/wiki/Emmitt_Thomas"
+   },
+   {
+    "label": "Pro-Football-Reference — Emmitt Thomas",
+    "url": "https://www.pro-football-reference.com/players/T/ThomEm00.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "football; class of 1966"
+   }
+  ]
+ },
+ {
+  "id": "irma-p-hall",
+  "name": "Irma P. Hall",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1935",
+  "base": "Dallas, TX",
+  "industry": "Film & Television",
+  "originBadge": "Teacher Turned Actor",
+  "engineBadge": "Character Acting",
+  "capitalBadge": "Talent Contracts",
+  "hbcuStory": "Graduated from Texas College in Tyler in 1956 before teaching school.",
+  "humbleBeginnings": "Born in Beaumont, Texas; taught for years before acting professionally.",
+  "breakthrough": "Known for matriarch roles — Big Mama Joe in Soul Food (film and TV), A Family Thing, Collateral.",
+  "legacy": "Won the Jury Prize at the 2004 Cannes Film Festival for The Ladykillers.",
+  "breakthroughDetail": [
+   {
+    "t": "Soul Food.",
+    "d": "NAACP Image Award nomination for Big Mama Joe.",
+    "basis": "documented"
+   },
+   {
+    "t": "Cannes 2004.",
+    "d": "Jury Prize for The Ladykillers.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Texas College's best-known actor.",
+    "d": "Listed among the college's notable alumni.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Irma P. Hall",
+    "url": "https://en.wikipedia.org/wiki/Irma_P._Hall"
+   },
+   {
+    "label": "Texas Monthly — Fame of Hall",
+    "url": "https://www.texasmonthly.com/articles/fame-of-hall/"
+   },
+   {
+    "label": "Washington Informer — Irma P. Hall reflects on 40 years in drama",
+    "url": "https://www.washingtoninformer.com/the-original-big-mama-actress-irma-p-hall-reflects-on-40-years-in-drama/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "texas-college",
+    "type": "alumni",
+    "label": "B.A. 1956"
+   }
+  ]
+ },
+ {
+  "id": "juanita-craft",
+  "name": "Juanita Craft",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1902–1985",
+  "base": "Dallas, TX",
+  "industry": "Civil Rights",
+  "originBadge": "Maid Turned Organizer",
+  "engineBadge": "NAACP Youth Councils",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Studied sewing and millinery at Prairie View for two years after 1919, then earned her teaching certificate from Samuel Huston College in Austin (now Huston–Tillotson University).",
+  "humbleBeginnings": "Born in Round Rock, Texas, the only child of schoolteachers; worked as a maid at Dallas's Adolphus Hotel in the 1920s.",
+  "breakthrough": "Organized NAACP branches and youth councils across Texas and led efforts to desegregate the State Fair of Texas and Dallas lunch counters.",
+  "legacy": "Elected to the Dallas City Council in her 70s; her Dallas home is a civil rights house museum.",
+  "breakthroughDetail": [
+   {
+    "t": "NAACP organizer.",
+    "d": "Built youth councils and branches statewide.",
+    "basis": "documented"
+   },
+   {
+    "t": "City council.",
+    "d": "Served on the Dallas City Council.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "House museum.",
+    "d": "The Juanita J. Craft Civil Rights House honors her.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Juanita Craft",
+    "url": "https://en.wikipedia.org/wiki/Juanita_Craft"
+   },
+   {
+    "label": "Texas State Historical Association — Craft, Juanita Jewel Shanks",
+    "url": "https://tshaonline.org/handbook/online/articles/fcr59"
+   },
+   {
+    "label": "Women in Texas History — Juanita Craft",
+    "url": "https://www.womenintexashistory.org/biographies/juanita-craft/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "attended (sewing & millinery), c. 1919–21"
+   },
+   {
+    "id": "samuel-huston-college",
+    "type": "alumni",
+    "label": "teacher's certificate"
+   },
+   {
+    "id": "naacp",
+    "type": "civic",
+    "label": "Texas organizer"
+   }
+  ]
+ },
+ {
+  "id": "golden-state-mutual-life-insurance-company",
+  "name": "Golden State Mutual Life Insurance Company",
+  "type": "entity",
+  "kind": "Black-owned life insurer",
+  "description": "Los Angeles insurer founded in 1925 by William Nickerson Jr., Norman O. Houston and George A. Beavers Jr.; long the largest Black-owned business in the West.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "american-mutual-benefit-association",
+  "name": "American Mutual Benefit Association",
+  "type": "entity",
+  "kind": "Black-owned fraternal insurer",
+  "description": "Houston benefit association chartered in 1908 by Black insurance agents including William Nickerson Jr.",
+  "gics": {
+   "sub": "Life & Health Insurance",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "henderson-travel-service",
+  "name": "Henderson Travel Service",
+  "type": "entity",
+  "kind": "Travel agency",
+  "description": "Atlanta agency founded in 1955; the first fully accredited Black-owned travel agency in the U.S.",
+  "gics": {
+   "sub": "Hotels, Resorts & Cruise Lines",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "afro-am-publishing",
+  "name": "Afro-Am Publishing",
+  "type": "entity",
+  "kind": "Educational publisher",
+  "description": "Chicago publisher of Black-history educational materials, co-founded in 1963.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "apple-inc",
+  "name": "Apple Inc.",
+  "type": "entity",
+  "kind": "Consumer technology company",
+  "description": "Cupertino maker of the iPhone, Mac and related services.",
+  "gics": {
+   "sub": "Technology Hardware, Storage & Peripherals",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "anheuser-busch",
+  "name": "Anheuser-Busch",
+  "type": "entity",
+  "kind": "Brewer",
+  "description": "St. Louis brewer, now part of AB InBev.",
+  "gics": {
+   "sub": "Distillers & Vintners",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "sears-roebuck-and-company",
+  "name": "Sears, Roebuck and Company",
+  "type": "entity",
+  "kind": "Department-store retailer",
+  "description": "Chicago-based retailer, once the largest in the U.S.",
+  "gics": {
+   "sub": "Broadline Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "shirley-j-allen",
+  "name": "Shirley J. Allen",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1941",
+  "base": "Rochester, NY",
+  "industry": "Deaf Education",
+  "originBadge": "Nacogdoches Native",
+  "engineBadge": "Deaf Education",
+  "capitalBadge": "Academic Salary",
+  "hbcuStory": "Was a student at Jarvis Christian College when she lost her hearing; she later earned a B.A. from Gallaudet (1966) and an M.A. from Howard, and has served on Jarvis's board of visitors.",
+  "humbleBeginnings": "Born in Nacogdoches, Texas.",
+  "breakthrough": "In 1992 became the first Black deaf woman to earn a doctorate.",
+  "legacy": "Longtime professor at the Rochester Institute of Technology's deaf-education programs.",
+  "breakthroughDetail": [
+   {
+    "t": "Doctoral first.",
+    "d": "First Black deaf woman to earn a doctorate (1992).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "RIT professor.",
+    "d": "Long career at Rochester Institute of Technology.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Shirley J. Allen",
+    "url": "https://en.wikipedia.org/wiki/Shirley_J._Allen"
+   },
+   {
+    "label": "WRLC — Shirley J. Allen biography",
+    "url": "https://liblists.wrlc.org/biographies/52955"
+   }
+  ],
+  "connections": [
+   {
+    "id": "jarvis-christian-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "M.A."
+   }
+  ]
+ },
+ {
+  "id": "louis-westerfield",
+  "name": "Louis Westerfield",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1949–1996",
+  "base": "Oxford, MS",
+  "industry": "Legal Education",
+  "originBadge": "Sharecropper's Son",
+  "engineBadge": "Law School Leadership",
+  "capitalBadge": "Academic Salary",
+  "hbcuStory": "Graduated from Southern University at New Orleans, then Columbia Law School.",
+  "humbleBeginnings": "Born in DeKalb, Mississippi, the son of a sharecropper.",
+  "breakthrough": "Served as law dean at North Carolina Central (1986–90) and Loyola New Orleans (1990–94), the first Black dean there.",
+  "legacy": "Became the first African American dean of the University of Mississippi School of Law in 1994.",
+  "breakthroughDetail": [
+   {
+    "t": "Ole Miss first.",
+    "d": "First Black dean of the University of Mississippi School of Law.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Three deanships.",
+    "d": "NCCU, Loyola New Orleans and Ole Miss.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Louis Westerfield",
+    "url": "https://en.wikipedia.org/wiki/Louis_Westerfield"
+   },
+   {
+    "label": "New York Times — Louis Westerfield, 47, law dean (1996)",
+    "url": "https://query.nytimes.com/gst/fullpage.html?res=9F05E4D81539F935A1575BC0A960958260"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-at-new-orleans",
+    "type": "alumni",
+    "label": "graduate"
+   }
+  ]
+ },
+ {
+  "id": "alice-dunbar-nelson",
+  "name": "Alice Dunbar Nelson",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1875–1935",
+  "base": "Wilmington, DE",
+  "industry": "Literature & Journalism",
+  "originBadge": "Born-Free Generation",
+  "engineBadge": "Poetry & Journalism",
+  "capitalBadge": "Writing & Teaching",
+  "hbcuStory": "Graduated from Straight University (now Dillard University) in New Orleans in 1892.",
+  "humbleBeginnings": "Born Alice Ruth Moore in New Orleans among the first generation of Black Southerners born free.",
+  "breakthrough": "Became a poet, short-story writer and journalist of the Harlem Renaissance era; married poet Paul Laurence Dunbar.",
+  "legacy": "Also a suffrage and anti-lynching activist; Dillard counts her among its distinguished alumni.",
+  "breakthroughDetail": [
+   {
+    "t": "Writer.",
+    "d": "Poems, stories and columns across Black newspapers.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Activist.",
+    "d": "Campaigned for women's suffrage and the Dyer anti-lynching bill.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Alice Dunbar Nelson",
+    "url": "https://en.wikipedia.org/wiki/Alice_Dunbar_Nelson"
+   },
+   {
+    "label": "University of Delaware — Mighty Oaks: Alice Dunbar-Nelson",
+    "url": "https://www1.udel.edu/BlackHistory/mightyoaks.html"
+   },
+   {
+    "label": "Dillard University — Distinguished Alumni",
+    "url": "https://www.dillard.edu/about/administration/institutional-advancement/alumni-relations/distinguished-alumni/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "straight-university",
+    "type": "alumni",
+    "label": "graduate, 1892"
+   }
+  ]
+ },
+ {
+  "id": "loni-love",
+  "name": "Loni Love",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1971",
+  "base": "Los Angeles, CA",
+  "industry": "Television & Comedy",
+  "originBadge": "Detroit Projects",
+  "engineBadge": "TV Hosting & Stand-Up",
+  "capitalBadge": "Talent Contracts",
+  "hbcuStory": "Earned a B.S. in electrical engineering from Prairie View A&M University on scholarship.",
+  "humbleBeginnings": "Raised in Detroit's Brewster-Douglass projects.",
+  "breakthrough": "Left an engineering job for stand-up comedy, finishing runner-up on Star Search and becoming a co-host of the daytime talk show The Real.",
+  "legacy": "Won a Daytime Emmy as a co-host of The Real and wrote a memoir.",
+  "breakthroughDetail": [
+   {
+    "t": "The Real.",
+    "d": "Co-host of the syndicated talk show.",
+    "basis": "documented"
+   },
+   {
+    "t": "Engineer turned comic.",
+    "d": "Worked as an electrical engineer before comedy.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Daytime Emmy.",
+    "d": "Shared the 2018 Daytime Emmy for talk show host.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Loni Love",
+    "url": "https://en.wikipedia.org/wiki/Loni_Love"
+   },
+   {
+    "label": "The Weekly Challenger — Her university discovery",
+    "url": "http://theweeklychallenger.com/her-university-discovery/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. electrical engineering"
+   }
+  ]
+ },
+ {
+  "id": "mel-blount",
+  "name": "Mel Blount",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1948",
+  "base": "Pittsburgh, PA",
+  "industry": "Pro Football",
+  "originBadge": "Georgia Farm Family",
+  "engineBadge": "NFL Defense",
+  "capitalBadge": "Player Salary",
+  "hbcuStory": "Played at Southern University in Baton Rouge; the Steelers took him in the third round in 1970.",
+  "humbleBeginnings": "Grew up on a farm in Vidalia, Georgia, the youngest of eleven children.",
+  "breakthrough": "Won four Super Bowls as a Steelers cornerback and led the NFL with 11 interceptions in 1975; his physical play prompted the NFL's contact rule change of the late 1970s (the “Mel Blount Rule”).",
+  "legacy": "Hall of Fame (1989); runs the Mel Blount Youth Home.",
+  "breakthroughDetail": [
+   {
+    "t": "Four rings.",
+    "d": "Super Bowl champion with the 1970s Steelers.",
+    "basis": "documented"
+   },
+   {
+    "t": "Rule change.",
+    "d": "Catalyst for the NFL's 1977–78 pass-coverage rule change.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Youth homes.",
+    "d": "Founded the Mel Blount Youth Home.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Mel Blount",
+    "url": "https://en.wikipedia.org/wiki/Mel_Blount"
+   },
+   {
+    "label": "NFL 100 — Game changers: Mel Blount",
+    "url": "https://www.nfl.com/100/originals/100-greatest/game-changers-46"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "football; drafted 1970"
+   }
+  ]
+ },
+ {
+  "id": "charles-m-blow",
+  "name": "Charles M. Blow",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1970",
+  "base": "New York, NY",
+  "industry": "Journalism",
+  "originBadge": "Gibsland, Louisiana",
+  "engineBadge": "Opinion Journalism",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Attended Grambling State University on scholarship, graduating in 1991 with a degree in mass communications.",
+  "humbleBeginnings": "Raised in Gibsland, Louisiana; salutatorian of his high school.",
+  "breakthrough": "Rose from graphics editor to long-running New York Times op-ed columnist and TV commentator.",
+  "legacy": "Wrote the memoir Fire Shut Up in My Bones, adapted into the first opera by a Black composer staged at the Metropolitan Opera.",
+  "breakthroughDetail": [
+   {
+    "t": "NYT columnist.",
+    "d": "Op-ed columnist for The New York Times.",
+    "basis": "documented"
+   },
+   {
+    "t": "Memoir.",
+    "d": "Fire Shut Up in My Bones (2014).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Met Opera adaptation.",
+    "d": "Adapted by Terence Blanchard for the Met (2021).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Charles M. Blow",
+    "url": "https://en.wikipedia.org/wiki/Charles_M._Blow"
+   },
+   {
+    "label": "BlackPast — Charles Blow (1970– )",
+    "url": "https://www.blackpast.org/african-american-history/charles-blow-1970/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "grambling-state-university",
+    "type": "alumni",
+    "label": "B.A. mass communications 1991"
+   }
+  ]
+ },
+ {
+  "id": "ike-leggett",
+  "name": "Ike Leggett",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1944",
+  "base": "Montgomery County, MD",
+  "industry": "County Government",
+  "originBadge": "Deweyville, Texas",
+  "engineBadge": "County Executive",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Attended Southern University in Baton Rouge as an Army ROTC cadet, earning a B.A. before serving in Vietnam; later earned an M.A. and J.D. from Howard and an LL.M. from George Washington.",
+  "humbleBeginnings": "Born in Deweyville, Texas.",
+  "breakthrough": "Taught law at Howard and served on the Montgomery County Council before being elected county executive.",
+  "legacy": "Served as Montgomery County Executive, Maryland's most populous county, from 2006 to 2018.",
+  "breakthroughDetail": [
+   {
+    "t": "County executive.",
+    "d": "Led Montgomery County, Maryland, 2006–2018.",
+    "basis": "documented"
+   },
+   {
+    "t": "Vietnam veteran.",
+    "d": "Army officer commissioned through Southern's ROTC.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Law professor.",
+    "d": "Long career on Howard University's law faculty.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Isiah Leggett"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Ike Leggett",
+    "url": "https://en.wikipedia.org/wiki/Ike_Leggett"
+   },
+   {
+    "label": "The Gazette — Leggett profile (archived 2010)",
+    "url": "https://web.archive.org/web/20131109130650/http://ww2.gazette.net/stories/06242010/montnew92844_32566.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "B.A.; ROTC"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "M.A., J.D."
+   }
+  ]
+ },
+ {
+  "id": "carl-e-stewart",
+  "name": "Carl E. Stewart",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1950",
+  "base": "Shreveport, LA",
+  "industry": "Federal Judiciary",
+  "originBadge": "Civil-Rights-Era Youth",
+  "engineBadge": "Federal Appellate Bench",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated magna cum laude from Dillard University in 1971, then earned his J.D. at Loyola University New Orleans (1974).",
+  "humbleBeginnings": "Grew up in Louisiana during the civil rights era, which drew him to law.",
+  "breakthrough": "Appointed to the U.S. Court of Appeals for the Fifth Circuit by President Clinton in 1994 after serving on the Louisiana Second Circuit Court of Appeal.",
+  "legacy": "Served as the Fifth Circuit's first Black chief judge, 2012–2019.",
+  "breakthroughDetail": [
+   {
+    "t": "Fifth Circuit.",
+    "d": "Circuit judge since 1994.",
+    "basis": "documented"
+   },
+   {
+    "t": "Chief judge.",
+    "d": "Chief Judge of the Fifth Circuit, 2012–2019.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Dillard distinguished alumnus.",
+    "d": "Featured in Dillard's distinguished alumni gallery.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Carl E. Stewart",
+    "url": "https://en.wikipedia.org/wiki/Carl_E._Stewart"
+   },
+   {
+    "label": "ABA Journal — Meet the chief judge of the nation's most divisive court",
+    "url": "https://www.abajournal.com/magazine/article/meet_the_chief_judge_of_the_nations_most_divisive_controversial/"
+   },
+   {
+    "label": "Dillard University — Distinguished Alumni",
+    "url": "https://www.dillard.edu/about/administration/institutional-advancement/alumni-relations/distinguished-alumni/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.A. 1971, magna cum laude"
+   }
+  ]
+ },
+ {
+  "id": "jules-bledsoe",
+  "name": "Jules Bledsoe",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1897–1943",
+  "base": "New York, NY",
+  "industry": "Opera & Broadway",
+  "originBadge": "Waco Valedictorian",
+  "engineBadge": "Concert & Stage",
+  "capitalBadge": "Performance Fees",
+  "hbcuStory": "Earned a B.A. from Bishop College in Marshall, Texas, in 1918, graduating magna cum laude after studying liberal arts and music.",
+  "humbleBeginnings": "Born in Waco, Texas; valedictorian of Central Texas Academy in 1914.",
+  "breakthrough": "Originated the role of Joe and sang “Ol' Man River” in the original 1927 Broadway production of Show Boat.",
+  "legacy": "Regarded as the first major Black opera singer in the U.S. and a leading Harlem Renaissance artist.",
+  "breakthroughDetail": [
+   {
+    "t": "Show Boat.",
+    "d": "Created Joe in the 1927 original production.",
+    "basis": "documented"
+   },
+   {
+    "t": "Opera.",
+    "d": "Sang leading roles in Europe and the U.S.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Bishop College's star.",
+    "d": "The college's most famous musician.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Jules Bledsoe",
+    "url": "https://en.wikipedia.org/wiki/Jules_Bledsoe"
+   },
+   {
+    "label": "Texas State Historical Association — Bledsoe, Julius Lorenzo Cobb",
+    "url": "https://www.tshaonline.org/handbook/online/articles/fbl22"
+   }
+  ],
+  "connections": [
+   {
+    "id": "bishop-college",
+    "type": "alumni",
+    "label": "B.A. 1918, magna cum laude"
+   }
+  ]
+ },
+ {
+  "id": "johnnie-colemon",
+  "name": "Johnnie Colemon",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1920–2014",
+  "base": "Chicago, IL",
+  "industry": "Religious Institutions",
+  "originBadge": "Mississippi Upbringing",
+  "engineBadge": "Megachurch & Ministry",
+  "capitalBadge": "Congregant Giving",
+  "hbcuStory": "Graduated from Wiley College in Marshall, Texas, with a B.A. in 1943.",
+  "humbleBeginnings": "Born in Alabama and raised in Mississippi; trained at Missouri's Unity School of Christianity.",
+  "breakthrough": "Founded Chicago's Christ Universal Temple — the South Side's first megachurch — and the Universal Foundation for Better Living, an association of New Thought churches.",
+  "legacy": "Known as the “First Lady of New Thought”; built a large religious institution and campus on Chicago's South Side.",
+  "breakthroughDetail": [
+   {
+    "t": "Christ Universal Temple.",
+    "d": "Grew into one of Chicago's largest churches.",
+    "basis": "documented"
+   },
+   {
+    "t": "UFBL.",
+    "d": "Founded the Universal Foundation for Better Living.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Institution builder.",
+    "d": "Built a lasting church organization and campus.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Johnnie Colemon",
+    "url": "https://en.wikipedia.org/wiki/Johnnie_Colemon"
+   },
+   {
+    "label": "Chicago Sun-Times — Rev. Johnnie Colemon dies (archived 2014)",
+    "url": "https://web.archive.org/web/20141227002226/http://chicago.suntimes.com/news-chicago/7/71/233316/233316"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "B.A. 1943"
+   },
+   {
+    "id": "christ-universal-temple",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "dorothea-towles-church",
+  "name": "Dorothea Towles Church",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1922–2006",
+  "base": "Los Angeles, CA",
+  "industry": "Fashion Modeling",
+  "originBadge": "Texarkana Farm Family",
+  "engineBadge": "Fashion Modeling",
+  "capitalBadge": "Modeling & Training Fees",
+  "hbcuStory": "Studied biology at Wiley College in Marshall, Texas, graduating in 1945 with plans to practice medicine.",
+  "humbleBeginnings": "Born in Texarkana, Texas, the seventh of eight children in a farming family.",
+  "breakthrough": "On a 1949 trip to Paris she was hired by Christian Dior, becoming the first successful Black fashion model in Paris.",
+  "legacy": "Later trained models and staged fashion shows that raised funds for Black causes in the U.S.",
+  "breakthroughDetail": [
+   {
+    "t": "Dior model.",
+    "d": "Hired by Christian Dior in 1949.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Model trainer.",
+    "d": "Trained other Black models and organized charity shows.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Dorothea Church",
+    "url": "https://en.wikipedia.org/wiki/Dorothea_Church"
+   },
+   {
+    "label": "Texas State Historical Association — Church, Dorothea Towles",
+    "url": "https://www.tshaonline.org/handbook/entries/church-dorothea-towles"
+   },
+   {
+    "label": "New York Times — Dorothea Towles Church obituary (2006)",
+    "url": "https://www.nytimes.com/2006/07/23/nyregion/23church.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "wiley-university",
+    "type": "alumni",
+    "label": "B.S. biology 1945"
+   }
+  ]
+ },
+ {
+  "id": "christia-adair",
+  "name": "Christia Adair",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1893–1989",
+  "base": "Houston, TX",
+  "industry": "Civil Rights & Suffrage",
+  "originBadge": "Edna, Texas",
+  "engineBadge": "Voting Rights",
+  "capitalBadge": "Volunteer & Dues",
+  "hbcuStory": "Went to Austin in 1910 to attend the high-school program at Samuel Huston College (now Huston–Tillotson), then Prairie View State Normal and Industrial College.",
+  "humbleBeginnings": "Grew up in South Texas, attending a small school in Edna before moving to Austin with her brother in 1910.",
+  "breakthrough": "A suffragist who became executive secretary of the Houston NAACP (c. 1949–1959) during the fight that followed Smith v. Allwright.",
+  "legacy": "Co-founded the Harris County Democrats; a Harris County park bears her name.",
+  "breakthroughDetail": [
+   {
+    "t": "Houston NAACP.",
+    "d": "Executive secretary through the 1950s.",
+    "basis": "documented"
+   },
+   {
+    "t": "Suffragist.",
+    "d": "Campaigned for women's suffrage in Texas.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Christia V. Adair Park.",
+    "d": "Harris County park and mural honor her.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Christia Adair",
+    "url": "https://en.wikipedia.org/wiki/Christia_Adair"
+   },
+   {
+    "label": "Texas State Historical Association — Adair, Christia V. Daniels",
+    "url": "https://tshaonline.org/handbook/online/articles/fad19"
+   }
+  ],
+  "connections": [
+   {
+    "id": "samuel-huston-college",
+    "type": "alumni",
+    "label": "attended (high-school program), from 1910"
+   },
+   {
+    "id": "prairie-view-a-and-m-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "naacp",
+    "type": "executive",
+    "label": "Houston branch executive secretary"
+   }
+  ]
+ },
+ {
+  "id": "christ-universal-temple",
+  "name": "Christ Universal Temple",
+  "type": "entity",
+  "kind": "Church",
+  "description": "Chicago South Side New Thought megachurch founded by Johnnie Colemon.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "c-j-bland",
+  "name": "C. J. Bland",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Atlanta, GA",
+  "industry": "Diversity Recruiting & HR Consulting",
+  "originBadge": "Single-Mother Household",
+  "engineBadge": "DE&I Human-Capital Consulting",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. in physics from Dillard University (class of 1986) and a B.S. in electrical engineering from Southern University and A&M College, later adding an MBA from the University of Houston–Clear Lake; Dillard invited him back as its 2022 Founders' Day keynote speaker.",
+  "humbleBeginnings": "Grew up in New Orleans, raised by his mother after his father left when he was five.",
+  "breakthrough": "Worked in engineering, IT and consulting roles at companies including AT&T, NASA and Verizon Wireless before co-founding Minority Professional Network (MPN), an online career and recruiting network for professionals of color.",
+  "legacy": "Leads MPN as co-founder and CEO, positioning it as a diversity, equity and inclusion human-capital consulting firm.",
+  "breakthroughDetail": [
+   {
+    "t": "Engineer first.",
+    "d": "Engineering, IT and program-management roles at AT&T, NASA and Verizon Wireless.",
+    "basis": "documented"
+   },
+   {
+    "t": "Minority Professional Network.",
+    "d": "Co-founded the national online career and economic network for minority professionals (company profiles date it to 2001).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Dillard keynote.",
+    "d": "Delivered Dillard's Founders' Day Convocation address in October 2022.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Dillard University — Alumnus C.J. Bland to deliver Founders' Day keynote (2022)",
+    "url": "https://www.dillard.edu/du-news/dillard-alumnus-to-deliver-keynote-address-during-founders-day-convocation/"
+   },
+   {
+    "label": "VoyageATL — Meet CJ Bland of Minority Professional Network",
+    "url": "https://voyageatl.com/interview/meet-cj-bland-minority-professional-network-downtown/"
+   },
+   {
+    "label": "Minority Professional Network — Press Room",
+    "url": "https://www.minorityprofessionalnetwork.com/Press_Room.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "dillard-university",
+    "type": "alumni",
+    "label": "B.S. physics 1986"
+   },
+   {
+    "id": "southern-university-and-a-and-m-college",
+    "type": "alumni",
+    "label": "B.S. electrical engineering"
+   },
+   {
+    "id": "minority-professional-network",
+    "type": "ownership",
+    "label": "co-founder & CEO"
+   }
+  ]
+ },
+ {
+  "id": "minority-professional-network",
+  "name": "Minority Professional Network",
+  "type": "entity",
+  "kind": "Online career network & DE&I consultancy",
+  "description": "Atlanta-based online career/recruiting network and diversity human-capital consulting firm co-founded by C. J. Bland.",
+  "gics": {
+   "sub": "Human Resource & Employment Services",
    "basis": "inferred"
   },
   "connections": []

@@ -2015,6 +2015,10 @@
    {
     "label": "Wikipedia — Villa Lewaro",
     "url": "https://en.wikipedia.org/wiki/Villa_Lewaro"
+   },
+   {
+    "label": "AIA — Pioneering architects: Vertner Woodson Tandy (archived)",
+    "url": "https://web.archive.org/web/20221219181652/https://www.aia.org/articles/6409616-pioneering-architects-vertner-woodson-tand"
    }
   ],
   "connections": [
@@ -2466,6 +2470,10 @@
    {
     "label": "Wikipedia — Tuskegee Airmen",
     "url": "https://en.wikipedia.org/wiki/Tuskegee_Airmen"
+   },
+   {
+    "label": "Air & Space Power Chronicles — Daniel \"Chappie\" James Jr. (archived)",
+    "url": "https://web.archive.org/web/20110507031347/http://www.airpower.maxwell.af.mil/airchronicles/cc/james.html"
    }
   ],
   "connections": [
@@ -2515,6 +2523,10 @@
    {
     "label": "Wikipedia — Invisible Man",
     "url": "https://en.wikipedia.org/wiki/Invisible_Man"
+   },
+   {
+    "label": "Britannica — Ralph Ellison",
+    "url": "https://www.britannica.com/biography/Ralph-Ellison"
    }
   ],
   "connections": [
@@ -3120,6 +3132,14 @@
    {
     "label": "Wikipedia — List of mayors of Chicago",
     "url": "https://en.wikipedia.org/wiki/List_of_mayors_of_Chicago"
+   },
+   {
+    "label": "New York Times — Man in the news: Eugene Sawyer Jr. (1987)",
+    "url": "https://www.nytimes.com/1987/12/03/us/man-in-the-news-a-calm-voice-for-chicago-eugene-sawyer-jr.html"
+   },
+   {
+    "label": "Chicago Tribune — Eugene Sawyer, 1934–2008",
+    "url": "https://www.chicagotribune.com/2008/01/21/eugene-sawyer-1934-2008/"
    }
   ],
   "connections": [
@@ -3169,6 +3189,10 @@
    {
     "label": "Wikipedia — Alabama State University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Alabama_State_University"
+   },
+   {
+    "label": "The HistoryMakers — Rickey Smiley",
+    "url": "https://www.thehistorymakers.org/biography/rickey-smiley"
    }
   ],
   "connections": [
@@ -3730,8 +3754,8 @@
   "originBadge": "Farm Family",
   "engineBadge": "City Government",
   "capitalBadge": "Public Office",
-  "hbcuStory": "Graduated from Oakwood College (B.A. 1964) before law school at Temple.",
-  "humbleBeginnings": "Raised on a farm in Norristown, Pennsylvania, in an Adventist family.",
+  "hbcuStory": "Worked his way through Oakwood College in Huntsville, Alabama, earning a B.A. in English, before a J.D. from Temple University's law school in 1975.",
+  "humbleBeginnings": "Born in Norristown, Pennsylvania, and grew up in a farming household; graduated from Conshohocken High School.",
   "breakthrough": "Served as Philadelphia City Council president and as mayor (2000–2008).",
   "legacy": "Launched the Neighborhood Transformation Initiative.",
   "breakthroughDetail": [
@@ -3757,13 +3781,17 @@
    {
     "label": "Wikipedia — List of mayors of Philadelphia",
     "url": "https://en.wikipedia.org/wiki/List_of_mayors_of_Philadelphia"
+   },
+   {
+    "label": "City of Philadelphia — Biography of Mayor John F. Street (archived 2004)",
+    "url": "https://web.archive.org/web/2004/http://www.phila.gov/mayor/bio.html"
    }
   ],
   "connections": [
    {
     "id": "oakwood-university",
     "type": "alumni",
-    "label": "B.A., 1964"
+    "label": "B.A. English"
    }
   ]
  },
@@ -3806,6 +3834,14 @@
    {
     "label": "Wikipedia — Stillman College",
     "url": "https://en.wikipedia.org/wiki/Stillman_College"
+   },
+   {
+    "label": "U.S. Marine Corps — Top Marine Corps adviser to retire (archived)",
+    "url": "https://web.archive.org/web/20210622010141/https://www.hqmc.marines.mil/News/News-Article-Display/Article/553451/top-marine-corps-adviser-to-retire-july-10/"
+   },
+   {
+    "label": "Military Times — Marine Corps No. 3 general to retire (2013)",
+    "url": "https://www.militarytimes.com/2013/04/01/marine-corps-no-3-general-to-retire/"
    }
   ],
   "connections": [
@@ -4240,6 +4276,14 @@
    {
     "label": "Wikipedia — California State University, Fullerton",
     "url": "https://en.wikipedia.org/wiki/California_State_University,_Fullerton"
+   },
+   {
+    "label": "New York Times — Jewel Plummer Cobb, 92, dies (2017)",
+    "url": "https://www.nytimes.com/2017/01/11/obituaries/jewel-plummer-cobb-92-dies-led-a-california-campus.html"
+   },
+   {
+    "label": "Caltech — Caltech mourns passing of Jewel Plummer Cobb",
+    "url": "https://www.caltech.edu/about/news/caltech-mourns-passing-jewel-plummer-cobb-53495"
    }
   ],
   "connections": [
@@ -4262,7 +4306,7 @@
   "originBadge": "Army Depot Worker",
   "engineBadge": "Federal Workforce Union",
   "capitalBadge": "Member Dues",
-  "hbcuStory": "Earned a bachelor's degree in theology from Selma University after an associate degree from Central Alabama Community College.",
+  "hbcuStory": "After an associate degree from Central Alabama Community College, he went on to Selma University; accounts differ on where his theology degrees were conferred — one says a Bachelor of Theology from Selma, AFGE's own bio says his bachelor's and master's in theology came from Rushing Springs School of Theology.",
   "humbleBeginnings": "Born in Goodwater, Alabama; joined AFGE in 1981 while working at the Anniston Army Depot.",
   "breakthrough": "Rose through AFGE ranks to become national president of the American Federation of Government Employees (Wikipedia dates his presidency from 2020).",
   "legacy": "Leads the largest federal-employee union.",
@@ -4276,7 +4320,7 @@
   "legacyDetail": [
    {
     "t": "Selma alum.",
-    "d": "Listed among Selma University alumni.",
+    "d": "AFGE's official biography says he matriculated to Selma University.",
     "basis": "documented"
    }
   ],
@@ -4289,13 +4333,21 @@
    {
     "label": "Wikipedia — American Federation of Government Employees",
     "url": "https://en.wikipedia.org/wiki/American_Federation_of_Government_Employees"
+   },
+   {
+    "label": "AFGE — National President Everett Kelley bio",
+    "url": "https://www.afge.org/about-us/afge-national-leadership/national-officers-executive-bios/Everett-Kelley/"
+   },
+   {
+    "label": "St. Louis Labor Tribune — CBTU honors AFGE’s Everett Kelley",
+    "url": "https://labortribune.com/cbtu-honors-missouri-afl-cios-merri-berry-afges-everett-kelley-at-37th-annual-ernest-and-de-verne-calloway-awards/"
    }
   ],
   "connections": [
    {
     "id": "selma-university",
     "type": "alumni",
-    "label": "B.A. Theology"
+    "label": "attended (theology)"
    }
   ]
  },
@@ -5291,6 +5343,10 @@
    {
     "label": "Wikipedia — Farish Street Neighborhood Historic District",
     "url": "https://en.wikipedia.org/wiki/Farish_Street_Neighborhood_Historic_District"
+   },
+   {
+    "label": "WLBT — Unsung Hero: Dr. Sidney Dillon Redmond (2023)",
+    "url": "https://www.wlbt.com/2023/02/17/unsung-hero-honoring-life-legacy-dr-sidney-dillon-redmond-believed-be-richest-man-ms-time-his-death/"
    }
   ],
   "connections": [
@@ -6641,5 +6697,1453 @@
    "basis": "inferred"
   },
   "connections": []
+ },
+ {
+  "id": "victor-taylor",
+  "name": "Victor Taylor",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Franklin, TN",
+  "industry": "Automotive Manufacturing",
+  "originBadge": "Industrial Engineer",
+  "engineBadge": "Vehicle Assembly Operations",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a bachelor's degree in industrial engineering from Alcorn State University; Alcorn publicized his 2025 promotion as an alumnus milestone.",
+  "humbleBeginnings": "Trained as an industrial engineer and built more than 20 years of manufacturing experience, adding an MBA from California State University, Stanislaus, an executive MBA from Millsaps College and Six Sigma Black Belt certification.",
+  "breakthrough": "Joined Nissan in 2016, became vice president of manufacturing at the Canton (Mississippi) Vehicle Assembly Plant in December 2023, and in December 2025 was named division vice president for U.S. manufacturing, supply chain management and production engineering.",
+  "legacy": "Now oversees all three Nissan U.S. plants — Canton, Smyrna and Decherd — plus U.S. supply chain and production engineering, one of the most senior Black manufacturing executives in the U.S. auto industry.",
+  "breakthroughDetail": [
+   {
+    "t": "Canton plant chief.",
+    "d": "Vice president of manufacturing at Nissan's Canton Vehicle Assembly Plant from December 2023.",
+    "basis": "documented"
+   },
+   {
+    "t": "All U.S. plants.",
+    "d": "Division VP, U.S. Manufacturing, Supply Chain Management & Production Engineering from December 2025.",
+    "basis": "documented"
+   },
+   {
+    "t": "Credentials.",
+    "d": "B.S. industrial engineering (Alcorn), MBA (Cal State Stanislaus), EMBA (Millsaps), Six Sigma Black Belt.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Mississippi-built leader.",
+    "d": "An Alcorn engineer running the Mississippi plant that anchors Nissan's U.S. footprint.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Nissan USA — Victor Taylor executive bio",
+    "url": "https://usa.nissannews.com/en-US/releases/victor-taylor"
+   },
+   {
+    "label": "Alcorn State — Alumnus Victor Taylor promoted to lead all Nissan U.S. manufacturing (2026)",
+    "url": "https://www.alcorn.edu/2026/01/05/alcorn-state-alumnus-victor-taylor-promoted-to-lead-all-nissan-u-s-manufacturing-operations/"
+   },
+   {
+    "label": "Nissan USA — Changes to U.S. manufacturing leadership team",
+    "url": "https://usa.nissannews.com/en-US/releases/nissan-announces-changes-to-us-manufacturing-leadership-team-to-lead-factories-of-the-future-today"
+   }
+  ],
+  "connections": [
+   {
+    "id": "alcorn-state-university",
+    "type": "alumni",
+    "label": "B.S. industrial engineering"
+   },
+   {
+    "id": "nissan",
+    "type": "executive",
+    "label": "Division VP, U.S. Manufacturing, from Dec 2025"
+   }
+  ]
+ },
+ {
+  "id": "chris-mcnair",
+  "name": "Chris McNair",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1925–2019",
+  "base": "Birmingham, AL",
+  "industry": "Photography & Event Business",
+  "originBadge": "Arkansas Farm Family",
+  "engineBadge": "Photo Studio & Gallery",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Met his future wife Maxine Pippen while both were students at Tuskegee Institute in 1945; after Army service he earned a degree in agronomy from Tuskegee in 1949.",
+  "humbleBeginnings": "Born in Fordyce, Arkansas, the first of 12 children; taught at Birmingham's A. H. Parker High School after college.",
+  "breakthrough": "Opened a photography studio in Birmingham's Titusville in 1962 and worked as a photographer for 50 years — including as A. G. Gaston's official portrait photographer; the studio grew into a frame shop, art gallery, gift shop and event facility. His daughter Denise was killed in the 1963 16th Street Baptist Church bombing.",
+  "legacy": "Served in the Alabama House (1973–1981) and on the Jefferson County Commission (1986–2001); in 2006 he was convicted of bribery tied to the county sewer project and served prison time until a 2013 compassionate release.",
+  "breakthroughDetail": [
+   {
+    "t": "Studio founder, 1962.",
+    "d": "Photography studio in Titusville that expanded into framing, gallery, gifts and events.",
+    "basis": "documented"
+   },
+   {
+    "t": "Civil-rights-era photographer.",
+    "d": "One of few Black photographers in Birmingham in the 1960s–70s.",
+    "basis": "documented"
+   },
+   {
+    "t": "Elected official.",
+    "d": "Alabama House 1973–1981; Jefferson County Commission 1986–2001.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Bribery conviction.",
+    "d": "Convicted in 2006 in the Jefferson County sewer bribery case; released in 2013.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Chris McNair",
+    "url": "https://en.wikipedia.org/wiki/Chris_McNair"
+   },
+   {
+    "label": "Birmingham Times — Celebrating Chris McNair (2019)",
+    "url": "https://www.birminghamtimes.com/2019/05/celebrating-chris-mcnair-father-friend-husband-and-legend/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "tuskegee-university",
+    "type": "alumni",
+    "label": "agronomy degree, 1949"
+   }
+  ]
+ },
+ {
+  "id": "marion-blackburn",
+  "name": "Marion Blackburn",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "$500K-$5M",
+  "tierBasis": "estimated",
+  "wealthNote": "Estimate based on owning a single athletic club and its land; no published figure.",
+  "lifespan": "1939–2025",
+  "base": "Portland, OR",
+  "industry": "Athletic Clubs",
+  "originBadge": "Segregated Courts",
+  "engineBadge": "Tennis & Fitness Club",
+  "capitalBadge": "Federal Loan & Land",
+  "hbcuStory": "Attended Alabama A&M College in his hometown of Huntsville, where he played on what he called a “ragtag” tennis team.",
+  "humbleBeginnings": "Born in Huntsville in 1939, he was barred by segregation from the town's two tennis courts; he sharpened his game in the U.S. Army.",
+  "breakthrough": "Moved to Portland, Oregon, in the early 1960s, ran a wood-manufacturing shop (Wood Arts) and a tennis-teaching business, then used a federal loan to build his own club in 1977 — Tennis Town, later Raleigh Hills Racquet and Health Club and finally the Portland Athletic Club.",
+  "legacy": "Said he was the only single owner-operator of a Black-owned tennis club in the U.S. who also owned the land beneath it, and ran PAC as a club open to anyone regardless of color.",
+  "breakthroughDetail": [
+   {
+    "t": "Built a club from scratch.",
+    "d": "Opened Tennis Town on Beaverton-Hillsdale Highway in 1977 with a federal loan.",
+    "basis": "documented"
+   },
+   {
+    "t": "Expanded into fitness.",
+    "d": "Added weights, aerobics, racquetball, outdoor courts and a pool; renamed Portland Athletic Club.",
+    "basis": "documented"
+   },
+   {
+    "t": "Owned the land.",
+    "d": "Owner-operator who also owned the club's real estate.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Integrating Portland tennis.",
+    "d": "Initially refused membership at the Irvington Club before protests got his family admitted.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Marion Blackburn",
+    "url": "https://en.wikipedia.org/wiki/Marion_Blackburn"
+   },
+   {
+    "label": "Tennis Courterly — In memory of Marion Blackburn (2025)",
+    "url": "https://tenniscourterly.com/courterlies/juneteenth-issue-2025/in-memory-of-marion-blackburn"
+   },
+   {
+    "label": "USTA Pacific Northwest — Black History Month",
+    "url": "https://www.usta.com/en/home/stay-current/pacificnw/Black-History-Month.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "alabama-a-and-m-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "portland-athletic-club",
+    "type": "ownership",
+    "label": "founder & owner, 1977"
+   }
+  ]
+ },
+ {
+  "id": "janice-daniel-hodge",
+  "name": "Janice Daniel-Hodge",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1962",
+  "base": "Nevis, St. Kitts and Nevis",
+  "industry": "Banking & Environmental Consulting",
+  "originBadge": "Premier's Daughter",
+  "engineBadge": "Bank Board Leadership",
+  "capitalBadge": "Board & Consulting Fees",
+  "hbcuStory": "Earned an M.Sc. in microbiology from Alabama A&M University in 1987, after a biology degree from St. Francis College in New York; later completed a Ph.D. at the University of the Virgin Islands.",
+  "humbleBeginnings": "Born in England in 1962, the daughter of Simeon Daniel, the first Premier of Nevis.",
+  "breakthrough": "Served as a director and chairperson of The Bank of Nevis Ltd. from 2006 to 2016 and later as a director of Bank of Nevis International, alongside an environmental consulting career.",
+  "legacy": "In 2020 became the first woman to lead a political party in St. Kitts and Nevis (the Nevis Reformation Party) and won a Nevis Island Assembly seat in 2022.",
+  "breakthroughDetail": [
+   {
+    "t": "Bank chair.",
+    "d": "Chairperson of The Bank of Nevis Ltd., 2006–2016.",
+    "basis": "documented"
+   },
+   {
+    "t": "Offshore bank director.",
+    "d": "Director of Bank of Nevis International until 2021.",
+    "basis": "documented"
+   },
+   {
+    "t": "Party leader.",
+    "d": "First female leader of a political party in the federation (NRP, 2020).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Elected 2022.",
+    "d": "Won the District 4 (St. James) seat in the Nevis Island Assembly.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Janice Daniel-Hodge",
+    "url": "https://en.wikipedia.org/wiki/Janice_Daniel-Hodge"
+   },
+   {
+    "label": "Times Caribbean — Dr. Janice Daniel-Hodge new leader of NRP",
+    "url": "https://timescaribbeanonline.com/dr-janice-danieldaughter-of-national-hero-is-new-leader-of-nevis-opposition-party-nrp-first-woman-to-lead-a-political-party-in-st-kitts-and-nevis/"
+   },
+   {
+    "label": "Nevis Reformation Party — Candidates (archived 2022)",
+    "url": "https://web.archive.org/web/20220816131221/https://www.nrp2020.com/candidates"
+   }
+  ],
+  "connections": [
+   {
+    "id": "alabama-a-and-m-university",
+    "type": "alumni",
+    "label": "M.Sc. microbiology 1987"
+   },
+   {
+    "id": "bank-of-nevis",
+    "type": "executive",
+    "label": "chairperson 2006–2016"
+   }
+  ]
+ },
+ {
+  "id": "rosa-parks",
+  "name": "Rosa Parks",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1913–2005",
+  "base": "Montgomery, AL / Detroit, MI",
+  "industry": "Civil Rights",
+  "originBadge": "Seamstress",
+  "engineBadge": "Montgomery Bus Boycott",
+  "capitalBadge": "Movement Networks",
+  "hbcuStory": "Attended the laboratory high school run by Alabama State Teachers College for Negroes (now Alabama State University) in Montgomery, leaving in the 11th grade in 1929 to care for her ailing grandmother and mother.",
+  "humbleBeginnings": "Born in Tuskegee and raised in rural Pine Level, Alabama; schooled in a one-room church school and the Montgomery Industrial School for Girls.",
+  "breakthrough": "Her December 1955 arrest for refusing to give up her bus seat in Montgomery sparked the Montgomery bus boycott.",
+  "legacy": "Became an enduring symbol of the civil rights movement; she had served as secretary of the Montgomery NAACP before her arrest.",
+  "breakthroughDetail": [
+   {
+    "t": "Montgomery bus boycott.",
+    "d": "Her 1955 arrest launched the 381-day boycott.",
+    "basis": "documented"
+   },
+   {
+    "t": "NAACP organizer.",
+    "d": "Longtime secretary of the Montgomery NAACP branch.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "National icon.",
+    "d": "Honored as the “mother of the freedom movement.”",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Rosa Parks",
+    "url": "https://en.wikipedia.org/wiki/Rosa_Parks"
+   },
+   {
+    "label": "Biography.com — Rosa Parks",
+    "url": "https://www.biography.com/activists/rosa-parks"
+   },
+   {
+    "label": "Encyclopedia of Alabama — Rosa Parks",
+    "url": "https://encyclopediaofalabama.org/article/rosa-parks/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "alabama-state-university",
+    "type": "alumni",
+    "label": "attended lab high school; left 1929"
+   },
+   {
+    "id": "naacp",
+    "type": "civic",
+    "label": "Montgomery branch secretary"
+   },
+   {
+    "id": "fred-gray",
+    "type": "deal",
+    "label": "her attorney in the bus case"
+   }
+  ]
+ },
+ {
+  "id": "erskine-hawkins",
+  "name": "Erskine Hawkins",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1914–1993",
+  "base": "New York, NY",
+  "industry": "Big Band Jazz",
+  "originBadge": "Industrial High Band",
+  "engineBadge": "Big Band & Recordings",
+  "capitalBadge": "Touring Revenue",
+  "hbcuStory": "Went to State Teachers College (now Alabama State University) in Montgomery on a tennis scholarship but switched to music; he led the college band that recorded as “Erskine Hawkins and his 'Bama State Collegians.”",
+  "humbleBeginnings": "Raised in Birmingham and trained in the Industrial High School band under Fess Whatley.",
+  "breakthrough": "Co-wrote the jazz standard “Tuxedo Junction” (1939); his orchestra was a house band at Harlem's Savoy Ballroom.",
+  "legacy": "Remembered as “The 20th Century Gabriel” and as proof of the HBCU band pipeline into professional jazz.",
+  "breakthroughDetail": [
+   {
+    "t": "'Bama State Collegians.",
+    "d": "Recorded for Vocalion 1936–38 under the college band name.",
+    "basis": "documented"
+   },
+   {
+    "t": "Tuxedo Junction.",
+    "d": "Hit No. 7 for Hawkins and No. 1 for Glenn Miller.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Savoy Ballroom.",
+    "d": "His orchestra traded sets with Chick Webb at the Savoy.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Erskine Hawkins",
+    "url": "https://en.wikipedia.org/wiki/Erskine_Hawkins"
+   },
+   {
+    "label": "Encyclopedia of Alabama — Erskine Hawkins (archived)",
+    "url": "https://web.archive.org/web/20130618080500/http://www.encyclopediaofalabama.org/face/Article.jsp?id=h-1365"
+   }
+  ],
+  "connections": [
+   {
+    "id": "alabama-state-university",
+    "type": "alumni",
+    "label": "attended (music)"
+   }
+  ]
+ },
+ {
+  "id": "mandela-barnes",
+  "name": "Mandela Barnes",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1986",
+  "base": "Milwaukee, WI",
+  "industry": "State Government",
+  "originBadge": "UAW Family",
+  "engineBadge": "Statewide Office",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Attended Alabama A&M University from 2003 to 2008; after it emerged in 2019 that one class was incomplete, he finished and received his B.A. in communications media in 2020.",
+  "humbleBeginnings": "Born in Milwaukee to a public-school teacher and a United Auto Workers member.",
+  "breakthrough": "Elected to the Wisconsin State Assembly in 2012 and as Wisconsin's first African American lieutenant governor in 2018.",
+  "legacy": "Was the 2022 Democratic nominee for U.S. Senate in Wisconsin.",
+  "breakthroughDetail": [
+   {
+    "t": "Lieutenant governor.",
+    "d": "45th lieutenant governor of Wisconsin, 2019–2023.",
+    "basis": "documented"
+   },
+   {
+    "t": "Senate nominee.",
+    "d": "Narrowly lost the 2022 Senate race to Ron Johnson.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "HBCU degree finished.",
+    "d": "Completed his Alabama A&M degree in 2020.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Mandela Barnes",
+    "url": "https://en.wikipedia.org/wiki/Mandela_Barnes"
+   },
+   {
+    "label": "Isthmus — Wisconsin Lt. Gov. Mandela Barnes profile",
+    "url": "https://isthmus.com/news/cover-story/wisconsin-lt-gov-mandela-barnes-profile/"
+   },
+   {
+    "label": "Jewish Insider — Milwaukee's son makes a Senate run (2021)",
+    "url": "https://jewishinsider.com/2021/12/milwaukees-son-makes-a-senate-run"
+   }
+  ],
+  "connections": [
+   {
+    "id": "alabama-a-and-m-university",
+    "type": "alumni",
+    "label": "attended 2003–2008; B.A. 2020"
+   }
+  ]
+ },
+ {
+  "id": "nissan",
+  "name": "Nissan",
+  "type": "entity",
+  "kind": "Automaker",
+  "description": "Japanese automaker with U.S. assembly plants in Canton, Mississippi, and Smyrna and Decherd, Tennessee.",
+  "gics": {
+   "sub": "Automobile Manufacturers",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "portland-athletic-club",
+  "name": "Portland Athletic Club",
+  "type": "entity",
+  "kind": "Tennis & fitness club",
+  "description": "Portland, Oregon, club opened in 1977 as Tennis Town by Marion Blackburn.",
+  "gics": {
+   "sub": "Leisure Facilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "bank-of-nevis",
+  "name": "The Bank of Nevis",
+  "type": "entity",
+  "kind": "Commercial bank",
+  "description": "Locally owned commercial bank in Nevis, St. Kitts and Nevis.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "laphonza-butler",
+  "name": "Laphonza Butler",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1979",
+  "base": "Los Angeles, CA",
+  "industry": "Labor & Politics",
+  "originBadge": "Magnolia, Mississippi",
+  "engineBadge": "Labor Organizing",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.A. in political science from Jackson State University in 2001; she has credited JSU instructors who were civil-rights-movement veterans.",
+  "humbleBeginnings": "Born in Magnolia, Mississippi; her father died when she was 16 and her mother worked multiple jobs to support three children.",
+  "breakthrough": "Rose as a union organizer to lead the California SEIU State Council (2013–2018), then became president of EMILY's List (2021–2023).",
+  "legacy": "Appointed in 2023 to fill Dianne Feinstein's U.S. Senate seat, becoming the first openly LGBT African American senator; served until 2024.",
+  "breakthroughDetail": [
+   {
+    "t": "SEIU leader.",
+    "d": "President of California SEIU State Council, 2013–2018.",
+    "basis": "documented"
+   },
+   {
+    "t": "EMILY's List.",
+    "d": "First Black woman to lead EMILY's List (2021–2023).",
+    "basis": "documented"
+   },
+   {
+    "t": "U.S. senator.",
+    "d": "Senator from California, 2023–2024.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "UC regent.",
+    "d": "Regent of the University of California, 2018–2021.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Laphonza Butler",
+    "url": "https://en.wikipedia.org/wiki/Laphonza_Butler"
+   },
+   {
+    "label": "Los Angeles Times — Laphonza Butler first Black woman to lead EMILY's List (2021)",
+    "url": "https://www.latimes.com/politics/story/2021-11-05/laphonza-butler-first-black-woman-to-lead-emilys-list"
+   }
+  ],
+  "connections": [
+   {
+    "id": "jackson-state-university",
+    "type": "alumni",
+    "label": "B.A. political science 2001"
+   }
+  ]
+ },
+ {
+  "id": "cassandra-wilson",
+  "name": "Cassandra Wilson",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1955–2026",
+  "base": "Jackson, MS",
+  "industry": "Jazz",
+  "originBadge": "Musician's Daughter",
+  "engineBadge": "Jazz Recording",
+  "capitalBadge": "Label Contracts",
+  "hbcuStory": "Briefly attended Millsaps College, then finished at Jackson State University with a degree in mass communications.",
+  "humbleBeginnings": "Daughter of Jackson guitarist and music teacher Herman Fowlkes Jr.; studied piano from age six and taught herself guitar.",
+  "breakthrough": "Became one of the most successful jazz vocalists of her era, folding blues, country and folk into jazz; won two Grammys.",
+  "legacy": "Named “America's Best Singer” by Time in 2001.",
+  "breakthroughDetail": [
+   {
+    "t": "Two Grammys.",
+    "d": "Won Grammy Awards for jazz vocal albums.",
+    "basis": "documented"
+   },
+   {
+    "t": "Genre-blender.",
+    "d": "Known for bringing blues, country and folk into jazz.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Mississippi icon.",
+    "d": "A Jackson-born artist celebrated by her hometown.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Cassandra Wilson",
+    "url": "https://en.wikipedia.org/wiki/Cassandra_Wilson"
+   },
+   {
+    "label": "New York Times — In the studio with Cassandra Wilson (1994)",
+    "url": "https://www.nytimes.com/1994/09/29/garden/in-the-studio-with-cassandra-wilson-singing-a-song-of-the-south.html"
+   },
+   {
+    "label": "Mississippi Writers & Musicians — Cassandra Wilson",
+    "url": "https://www.mswritersandmusicians.com/mississippi-musicians/cassandra-wilson"
+   }
+  ],
+  "connections": [
+   {
+    "id": "jackson-state-university",
+    "type": "alumni",
+    "label": "degree in mass communications"
+   }
+  ]
+ },
+ {
+  "id": "carlton-w-reeves",
+  "name": "Carlton W. Reeves",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1964",
+  "base": "Jackson, MS",
+  "industry": "Federal Judiciary",
+  "originBadge": "First in Family to College",
+  "engineBadge": "Federal Bench",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "First in his family to attend a four-year college, he graduated magna cum laude from Jackson State University in 1986, then earned his law degree at the University of Virginia (1989).",
+  "humbleBeginnings": "Born at Fort Hood, Texas, raised in rural Yazoo City, Mississippi, among the first students in an integrated public-school class; as a teenager he cleaned the office of the federal judge he would later replace.",
+  "breakthrough": "Clerked for Mississippi Supreme Court Justice Reuben V. Anderson, led the civil division of the U.S. Attorney's office (1995–2001), co-founded a law firm, and became a U.S. district judge for the Southern District of Mississippi in 2010.",
+  "legacy": "Presided over the trial-court stage of Dobbs v. Jackson Women's Health Organization and became chair of the U.S. Sentencing Commission.",
+  "breakthroughDetail": [
+   {
+    "t": "Federal judge.",
+    "d": "U.S. District Court for the Southern District of Mississippi.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sentencing Commission chair.",
+    "d": "Leads the U.S. Sentencing Commission.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Landmark rulings.",
+    "d": "Known for opinions confronting Mississippi's racial history.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Carlton W. Reeves",
+    "url": "https://en.wikipedia.org/wiki/Carlton_W._Reeves"
+   },
+   {
+    "label": "NPR Code Switch — The man behind the speech: Judge Carlton Reeves (2015)",
+    "url": "https://www.npr.org/sections/codeswitch/2015/03/02/387477815/the-man-behind-the-speech-judge-carlton-reeves-takes-on-mississippis-past"
+   }
+  ],
+  "connections": [
+   {
+    "id": "jackson-state-university",
+    "type": "alumni",
+    "label": "B.A. 1986, magna cum laude"
+   },
+   {
+    "id": "reuben-v-anderson",
+    "type": "mentorship",
+    "label": "law clerk to Justice Anderson"
+   }
+  ]
+ },
+ {
+  "id": "walter-turnbull",
+  "name": "Walter Turnbull",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1944–2007",
+  "base": "New York, NY",
+  "industry": "Choral Music & Arts Education",
+  "originBadge": "Cotton-Field Childhood",
+  "engineBadge": "Choir & Academy",
+  "capitalBadge": "Grants & Touring",
+  "hbcuStory": "Graduated with honors from Tougaloo College in classical music and vocal performance.",
+  "humbleBeginnings": "Born in Greenville, Mississippi, he chopped cotton as a child before music took him to college and, in 1968, to New York.",
+  "breakthrough": "Turned a Harlem church music group into the internationally known Boys Choir of Harlem and its academy.",
+  "legacy": "Won the 1999 Heinz Award in the Arts and Humanities; his legacy was later clouded when he failed to act on a 2001 abuse report against a choir counselor.",
+  "breakthroughDetail": [
+   {
+    "t": "Boys Choir of Harlem.",
+    "d": "Founded and directed the choir, which toured internationally.",
+    "basis": "documented"
+   },
+   {
+    "t": "Heinz Award.",
+    "d": "Received the 5th Heinz Award in the Arts and Humanities (1999).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Scandal.",
+    "d": "Criticized for not reporting abuse allegations against the choir's chief counselor.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Walter Turnbull",
+    "url": "https://en.wikipedia.org/wiki/Walter_Turnbull"
+   },
+   {
+    "label": "Heinz Awards — Walter Turnbull",
+    "url": "http://www.heinzawards.net/recipients/walter-turnbull"
+   }
+  ],
+  "connections": [
+   {
+    "id": "tougaloo-college",
+    "type": "alumni",
+    "label": "B.A. music (honors)"
+   }
+  ]
+ },
+ {
+  "id": "joyce-ladner",
+  "name": "Joyce Ladner",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1943",
+  "base": "Washington, DC",
+  "industry": "Civil Rights & Sociology",
+  "originBadge": "Hattiesburg Sisters",
+  "engineBadge": "Scholarship & Activism",
+  "capitalBadge": "Academic Salary",
+  "hbcuStory": "Earned her B.A. in sociology from Tougaloo College in 1964 while active in the Mississippi movement, then a Ph.D. from Washington University in St. Louis (1968).",
+  "humbleBeginnings": "Born in Battles, Mississippi, and raised in Hattiesburg with eight siblings, including fellow activist Dorie Ladner.",
+  "breakthrough": "A SNCC veteran, she became a leading sociologist (Tomorrow's Tomorrow) and the first woman to serve as president of Howard University (interim, 1994–95).",
+  "legacy": "Later served on the D.C. Financial Control Board and as a Brookings Institution fellow.",
+  "breakthroughDetail": [
+   {
+    "t": "Movement veteran.",
+    "d": "Worked with SNCC in Mississippi in the early 1960s.",
+    "basis": "documented"
+   },
+   {
+    "t": "Howard University.",
+    "d": "Interim president of Howard, 1994–1995.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Scholar.",
+    "d": "Author of the landmark study Tomorrow's Tomorrow: The Black Woman (1971).",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Joyce Ladner",
+    "url": "https://en.wikipedia.org/wiki/Joyce_Ladner"
+   },
+   {
+    "label": "University of Mississippi — Mississippi Writers Page: Joyce Ladner (archived)",
+    "url": "https://web.archive.org/web/20061225020312/http://www.olemiss.edu/mwp/dir/ladner_joyce/index.html"
+   },
+   {
+    "label": "Columbia University — Joyce Ladner honorary degree (2023)",
+    "url": "https://secretary.columbia.edu/directory/joyce-ladner"
+   }
+  ],
+  "connections": [
+   {
+    "id": "tougaloo-college",
+    "type": "alumni",
+    "label": "B.A. sociology 1964"
+   },
+   {
+    "id": "howard-university",
+    "type": "faculty",
+    "label": "interim president 1994–1995"
+   }
+  ]
+ },
+ {
+  "id": "derrick-johnson",
+  "name": "Derrick Johnson",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Baltimore, MD / Washington, DC",
+  "industry": "Civil Rights",
+  "originBadge": "Detroit Native",
+  "engineBadge": "Civil Rights Advocacy",
+  "capitalBadge": "Member & Donor Funded",
+  "hbcuStory": "Attended Tougaloo College in Mississippi before earning a J.D. at South Texas College of Law in Houston; Tougaloo gave him its Light of Justice Award in 2024.",
+  "humbleBeginnings": "Born in Detroit, he built his activism in Mississippi, founding the nonprofit One Voice Inc.",
+  "breakthrough": "Led the Mississippi State Conference NAACP and served as national vice chair before being elected NAACP president and CEO in 2017.",
+  "legacy": "Has led the NAACP through its move of headquarters toward Washington, D.C., and national voting-rights campaigns.",
+  "breakthroughDetail": [
+   {
+    "t": "NAACP president.",
+    "d": "President and CEO of the NAACP since 2017.",
+    "basis": "documented"
+   },
+   {
+    "t": "One Voice founder.",
+    "d": "Founded the Mississippi civic-engagement nonprofit One Voice Inc.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Tougaloo honor.",
+    "d": "2024 Tougaloo College Light of Justice Award.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Derrick Johnson (activist)",
+    "url": "https://en.wikipedia.org/wiki/Derrick_Johnson_(activist)"
+   },
+   {
+    "label": "NAACP — Derrick Johnson, President and CEO",
+    "url": "https://naacp.org/people/derrick-johnson"
+   }
+  ],
+  "connections": [
+   {
+    "id": "tougaloo-college",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "naacp",
+    "type": "executive",
+    "label": "president & CEO from 2017"
+   }
+  ]
+ },
+ {
+  "id": "charles-steele-jr",
+  "name": "Charles Steele Jr.",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1946",
+  "base": "Atlanta, GA",
+  "industry": "Civil Rights & Consulting",
+  "originBadge": "Tuscaloosa Native",
+  "engineBadge": "Civil Rights Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Attended Mississippi Valley State University and Oakland University before completing a bachelor's degree at American International University (Suriname campus); Stillman College later gave him an honorary doctorate.",
+  "humbleBeginnings": "Born in Tuscaloosa, Alabama, and graduated from Druid High School there.",
+  "breakthrough": "Became the first African American elected to the Tuscaloosa City Council (1985) and one of the first Black members of the Alabama State Senate.",
+  "legacy": "Served as national president and CEO of the Southern Christian Leadership Conference (2004–2009) and founded the Atlanta firm Charles Steele and Associates.",
+  "breakthroughDetail": [
+   {
+    "t": "City council first.",
+    "d": "First Black member of the Tuscaloosa City Council.",
+    "basis": "documented"
+   },
+   {
+    "t": "SCLC president.",
+    "d": "National president and CEO of the SCLC, 2004–2009.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Business.",
+    "d": "Founder and president of Charles Steele and Associates, Atlanta.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Charles Steele Jr.",
+    "url": "https://en.wikipedia.org/wiki/Charles_Steele_Jr."
+   },
+   {
+    "label": "SCLC — Charles Steele biography (archived 2006)",
+    "url": "https://web.archive.org/web/20061231195609/http://sclcnational.org/net/content/item.aspx?s=18275.0.12.2607"
+   }
+  ],
+  "connections": [
+   {
+    "id": "mississippi-valley-state-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "southern-christian-leadership-conference",
+    "type": "executive",
+    "label": "president & CEO 2004–2009"
+   }
+  ]
+ },
+ {
+  "id": "katie-hall",
+  "name": "Katie Hall",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1938–2012",
+  "base": "Gary, IN",
+  "industry": "Congress",
+  "originBadge": "Mound Bayou Native",
+  "engineBadge": "Legislation",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. from Mississippi Valley State University in 1960, then an M.S. in education from Indiana University (1968).",
+  "humbleBeginnings": "Born in the all-Black town of Mound Bayou, Mississippi, she became a schoolteacher in Gary, Indiana.",
+  "breakthrough": "Became the first Black woman from Indiana in the U.S. House (1982–1985).",
+  "legacy": "Sponsored the 1983 bill (H.R. 3706) that made Martin Luther King Jr.'s birthday a federal holiday.",
+  "breakthroughDetail": [
+   {
+    "t": "MLK Day sponsor.",
+    "d": "Led the successful 1983 House effort for the King holiday.",
+    "basis": "documented"
+   },
+   {
+    "t": "First from Indiana.",
+    "d": "First Black woman to represent Indiana in Congress.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Gary city clerk.",
+    "d": "Later served as Gary's city clerk.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Katie Hall",
+    "url": "https://en.wikipedia.org/wiki/Katie_Hall_(American_politician)"
+   },
+   {
+    "label": "U.S. House History, Art & Archives — Katie Beatrice Hall",
+    "url": "https://history.house.gov/People/Detail/14359"
+   }
+  ],
+  "connections": [
+   {
+    "id": "mississippi-valley-state-university",
+    "type": "alumni",
+    "label": "B.S. 1960"
+   },
+   {
+    "id": "martin-luther-king-jr",
+    "type": "parallel",
+    "label": "sponsored the King holiday bill"
+   }
+  ]
+ },
+ {
+  "id": "barry-black",
+  "name": "Barry Black",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1948",
+  "base": "Washington, DC",
+  "industry": "Military & Senate Chaplaincy",
+  "originBadge": "Baltimore Projects",
+  "engineBadge": "Chaplaincy",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned his B.A. at Oakwood College (now Oakwood University), the Seventh-day Adventist HBCU in Huntsville, which he calls his alma mater.",
+  "humbleBeginnings": "Grew up in Baltimore, one of eight children.",
+  "breakthrough": "Rose to rear admiral and Chief of Navy Chaplains over a 27-year Navy career.",
+  "legacy": "Became the 62nd chaplain of the U.S. Senate in 2003 — the first African American and first Seventh-day Adventist in the post.",
+  "breakthroughDetail": [
+   {
+    "t": "Chief of Chaplains.",
+    "d": "Led the Navy Chaplain Corps as a rear admiral.",
+    "basis": "documented"
+   },
+   {
+    "t": "Senate chaplain.",
+    "d": "62nd Senate chaplain, from 2003.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Adventist HBCU pipeline.",
+    "d": "Oakwood alumnus who reached the Senate's spiritual office.",
+    "basis": "pattern"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Barry Black",
+    "url": "https://en.wikipedia.org/wiki/Barry_Black"
+   },
+   {
+    "label": "Becket — 2019 Canterbury Medal: Chaplain Barry Black (archived)",
+    "url": "https://web.archive.org/web/20190525080759/https://www.becketlaw.org/about-us/canterbury-medal-gala/2019-canterbury-medal-gala/"
+   },
+   {
+    "label": "Adventist Review — Barry Black (archived)",
+    "url": "https://web.archive.org/web/20101206010719/http://www.adventistreview.org/article.php?id=938"
+   }
+  ],
+  "connections": [
+   {
+    "id": "oakwood-university",
+    "type": "alumni",
+    "label": "B.A."
+   },
+   {
+    "id": "seventh-day-adventist-church",
+    "type": "civic",
+    "label": "Adventist minister"
+   }
+  ]
+ },
+ {
+  "id": "margaret-bush-wilson",
+  "name": "Margaret Bush Wilson",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1919–2009",
+  "base": "St. Louis, MO",
+  "industry": "Law & Civil Rights",
+  "originBadge": "Sumner High Honors",
+  "engineBadge": "Civil Rights Law",
+  "capitalBadge": "Law Practice",
+  "hbcuStory": "Earned a bachelor's degree in economics, cum laude, from Talladega College in 1940, after six months in India on the Juliette Derricotte Fellowship, where she met Gandhi, Nehru and Tagore.",
+  "humbleBeginnings": "Born in St. Louis; graduated with honors from Sumner High School.",
+  "breakthrough": "Earned her law degree at Lincoln University School of Law, ran a St. Louis law practice for 40+ years and led the St. Louis and Missouri NAACP.",
+  "legacy": "In 1975 became the first woman to chair the NAACP's national board; later a Washington University trustee.",
+  "breakthroughDetail": [
+   {
+    "t": "NAACP chair.",
+    "d": "First woman to chair the NAACP National Board (1975).",
+    "basis": "documented"
+   },
+   {
+    "t": "Jefferson Bank protests.",
+    "d": "NAACP campaigns forced St. Louis businesses to hire Black workers.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Revived Derricotte scholarship.",
+    "d": "Worked to re-establish the fellowship that had sent her to India.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Margaret Bush Wilson",
+    "url": "https://en.wikipedia.org/wiki/Margaret_Bush_Wilson"
+   },
+   {
+    "label": "Washington University — Obituary: Margaret Bush Wilson (2009)",
+    "url": "https://source.wustl.edu/2009/08/obituary-margaret-bush-wilson-wustl-trustee-emerita-civil-rights-attorney-90/"
+   },
+   {
+    "label": "St. Louis Beacon — Margaret Bush Wilson obituary (archived)",
+    "url": "https://web.archive.org/web/20090817205155/http://www.stlbeacon.org/obits/margaret_bush_wilson_obituary_"
+   }
+  ],
+  "connections": [
+   {
+    "id": "talladega-college",
+    "type": "alumni",
+    "label": "B.A. economics 1940, cum laude"
+   },
+   {
+    "id": "naacp",
+    "type": "executive",
+    "label": "national board chair from 1975"
+   }
+  ]
+ },
+ {
+  "id": "anita-ward",
+  "name": "Anita Ward",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1956",
+  "base": "Memphis, TN",
+  "industry": "Recorded Music",
+  "originBadge": "Schoolteacher",
+  "engineBadge": "Hit Single",
+  "capitalBadge": "Royalties",
+  "hbcuStory": "Earned a degree in psychology from Rust College in Holly Springs, Mississippi, where singing in the college choir led to her recording break.",
+  "humbleBeginnings": "Born in Memphis; worked as a schoolteacher before signing a recording contract.",
+  "breakthrough": "Her 1979 single “Ring My Bell” hit No. 1 on the Billboard Hot 100, R&B and dance charts and in the U.K.",
+  "legacy": "A one-hit global smash that keeps earning through licensing and covers.",
+  "breakthroughDetail": [
+   {
+    "t": "Ring My Bell.",
+    "d": "Million-selling 1979 No. 1 hit.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Rust College alumna.",
+    "d": "Listed among Rust's notable alumni.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Anita Ward",
+    "url": "https://en.wikipedia.org/wiki/Anita_Ward"
+   },
+   {
+    "label": "UWF Voyager — Revisiting “Ring My Bell” with Anita Ward",
+    "url": "https://uwfvoyager.com/1756/features/revisiting-ring-my-bell-with-anita-ward/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "rust-college",
+    "type": "alumni",
+    "label": "degree in psychology"
+   }
+  ]
+ },
+ {
+  "id": "juanita-abernathy",
+  "name": "Juanita Abernathy",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1931–2019",
+  "base": "Atlanta, GA",
+  "industry": "Civil Rights",
+  "originBadge": "Uniontown, Alabama",
+  "engineBadge": "Movement Organizing",
+  "capitalBadge": "Sales & Board Service",
+  "hbcuStory": "Attended the elementary and high-school divisions of Selma University as a boarder, then earned a degree from Tennessee State University.",
+  "humbleBeginnings": "Born in Uniontown, Alabama; married the Rev. Ralph Abernathy in 1952.",
+  "breakthrough": "Helped organize the 1955–56 Montgomery bus boycott; her home was bombed in 1957, and she marched at Washington (1963) and Selma (1965).",
+  "legacy": "Worked as an educator and Mary Kay Cosmetics saleswoman and served on the MARTA board and the Morehouse School of Religion board.",
+  "breakthroughDetail": [
+   {
+    "t": "Bus boycott organizer.",
+    "d": "Part of the team that planned the Montgomery boycott.",
+    "basis": "documented"
+   },
+   {
+    "t": "Selma to Montgomery.",
+    "d": "Marched on the front line in 1965.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Atlanta civic leader.",
+    "d": "Board service with MARTA and the League of Women Voters.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Juanita Abernathy",
+    "url": "https://en.wikipedia.org/wiki/Juanita_Abernathy"
+   },
+   {
+    "label": "National Park Service — Juanita Abernathy",
+    "url": "https://www.nps.gov/features/malu/feat0002/wof/Juanita_Abernathy.htm"
+   },
+   {
+    "label": "MSS Connect — Juanita Abernathy bio",
+    "url": "https://www.mssconnect.com/juanita-abernathy-bio.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "selma-university",
+    "type": "alumni",
+    "label": "attended (elementary & high school divisions)"
+   },
+   {
+    "id": "tennessee-state-university",
+    "type": "alumni",
+    "label": "degree"
+   },
+   {
+    "id": "ralph-abernathy",
+    "type": "family",
+    "label": "wife"
+   }
+  ]
+ },
+ {
+  "id": "alvin-childress",
+  "name": "Alvin Childress",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1907–1986",
+  "base": "Los Angeles, CA",
+  "industry": "Television & Stage",
+  "originBadge": "Mississippi Native",
+  "engineBadge": "Stage & TV Acting",
+  "capitalBadge": "Talent Contracts",
+  "hbcuStory": "Graduated from Rust College in Holly Springs, Mississippi, before moving to New York to act.",
+  "humbleBeginnings": "Born in Meridian, Mississippi.",
+  "breakthrough": "After Federal Theatre Project and stage work in New York, he played cabdriver Amos Jones in TV's Amos 'n' Andy (1951–53).",
+  "legacy": "One of the first Black leads in a network TV series, though the show drew NAACP protest over its stereotypes.",
+  "breakthroughDetail": [
+   {
+    "t": "Amos 'n' Andy.",
+    "d": "Played Amos Jones on the CBS series.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Federal Theatre Project.",
+    "d": "Appeared in the 1938 production of Haiti.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Alvin Childress",
+    "url": "https://en.wikipedia.org/wiki/Alvin_Childress"
+   },
+   {
+    "label": "Google Books — Amos 'n' Andy history (Childress, Rust College)",
+    "url": "https://books.google.com/books?id=0pQKmPSfHCQC&q=amos+n+andy&pg=PA72"
+   }
+  ],
+  "connections": [
+   {
+    "id": "rust-college",
+    "type": "alumni",
+    "label": "graduate"
+   }
+  ]
+ },
+ {
+  "id": "amos-t-hall",
+  "name": "Amos T. Hall",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1896–1971",
+  "base": "Tulsa, OK",
+  "industry": "Law & Civil Rights",
+  "originBadge": "Bastrop, Louisiana",
+  "engineBadge": "Civil Rights Litigation",
+  "capitalBadge": "Law Practice",
+  "hbcuStory": "Graduated from Rust College in Holly Springs, Mississippi, before reading law in Oklahoma.",
+  "humbleBeginnings": "Born in Bastrop, Louisiana, where he attended local schools.",
+  "breakthrough": "Became a leading Tulsa civil rights lawyer and NAACP counsel in Oklahoma's school-desegregation cases.",
+  "legacy": "Became the first African American elected a judge in Oklahoma.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black judge in Oklahoma.",
+    "d": "Elected to the bench in Tulsa County.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Civil rights lawyer.",
+    "d": "Worked on NAACP education cases in Oklahoma.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Amos T. Hall",
+    "url": "https://en.wikipedia.org/wiki/Amos_T._Hall"
+   },
+   {
+    "label": "Oklahoma Historical Society — Hall, Amos T.",
+    "url": "https://www.okhistory.org/publications/enc/entry?entry=HA006"
+   }
+  ],
+  "connections": [
+   {
+    "id": "rust-college",
+    "type": "alumni",
+    "label": "graduate"
+   }
+  ]
+ },
+ {
+  "id": "michael-figures",
+  "name": "Michael Figures",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1947–1996",
+  "base": "Mobile, AL",
+  "industry": "State Senate",
+  "originBadge": "Mobile's Youngest Son",
+  "engineBadge": "Legislative Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.A. from Stillman College in 1969 and later served on its board of trustees; he then became one of the first three African Americans to earn a J.D. from the University of Alabama.",
+  "humbleBeginnings": "Born in Mobile, the youngest of three boys; his brother Thomas Figures became a prosecutor and judge.",
+  "breakthrough": "Served in the Alabama Senate from 1978 until his death in 1996.",
+  "legacy": "Elected president pro tempore of the Alabama Senate in 1995.",
+  "breakthroughDetail": [
+   {
+    "t": "State senator.",
+    "d": "Represented Alabama's 33rd district, 1978–1996.",
+    "basis": "documented"
+   },
+   {
+    "t": "Senate leader.",
+    "d": "President pro tempore from 1995.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Stillman trustee.",
+    "d": "Joined Stillman's board of trustees in 1988.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Michael Figures",
+    "url": "https://en.wikipedia.org/wiki/Michael_Figures"
+   },
+   {
+    "label": "Alabama African American history — Michael A. Figures",
+    "url": "https://alafricanamerican.com/michael-a-figures/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "stillman-college",
+    "type": "alumni",
+    "label": "B.A. 1969; trustee"
+   }
+  ]
+ },
+ {
+  "id": "ruby-elzy",
+  "name": "Ruby Elzy",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1908–1943",
+  "base": "New York, NY",
+  "industry": "Opera",
+  "originBadge": "Pontotoc Girl",
+  "engineBadge": "Opera & Concert",
+  "capitalBadge": "Performance Fees",
+  "hbcuStory": "A Rust College freshman in 1927 when a visiting professor heard her sing and helped send her to Ohio State University (graduated 1930) and then Juilliard.",
+  "humbleBeginnings": "Born in Pontotoc, Mississippi.",
+  "breakthrough": "Originated the role of Serena in George Gershwin's Porgy and Bess (1935).",
+  "legacy": "Her early death in 1943 cut short a pioneering opera career.",
+  "breakthroughDetail": [
+   {
+    "t": "Porgy and Bess.",
+    "d": "Created the role of Serena.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Mississippi pioneer.",
+    "d": "Celebrated as a Mississippi musical trailblazer.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Ruby Elzy",
+    "url": "https://en.wikipedia.org/wiki/Ruby_Elzy"
+   },
+   {
+    "label": "Mississippi History Now — Ruby Elzy: A Mississippi jewel",
+    "url": "https://www.mshistorynow.mdah.ms.gov/issue/ruby-elzy-a-mississippi-jewel"
+   }
+  ],
+  "connections": [
+   {
+    "id": "rust-college",
+    "type": "alumni",
+    "label": "attended from 1927"
+   }
+  ]
+ },
+ {
+  "id": "trudier-harris",
+  "name": "Trudier Harris",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1948",
+  "base": "Tuscaloosa, AL",
+  "industry": "Literary Scholarship",
+  "originBadge": "Mantua, Alabama",
+  "engineBadge": "African American Literature",
+  "capitalBadge": "Academic Salary",
+  "hbcuStory": "Earned an A.B. in English from Stillman College in 1969, then an M.A. and Ph.D. from Ohio State.",
+  "humbleBeginnings": "Born in Mantua, Alabama.",
+  "breakthrough": "Became a leading scholar of African American literature and folklore, the first tenured Black faculty member at William & Mary, and a distinguished professor at UNC-Chapel Hill.",
+  "legacy": "Professor emerita at the University of Alabama.",
+  "breakthroughDetail": [
+   {
+    "t": "UNC chair.",
+    "d": "J. Carlyle Sitterson Distinguished Professor at UNC-Chapel Hill.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Author.",
+    "d": "Wrote widely on Black literature and Southern culture.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Trudier Harris",
+    "url": "https://en.wikipedia.org/wiki/Trudier_Harris"
+   },
+   {
+    "label": "UNC English & Comparative Literature — Trudier Harris",
+    "url": "http://englishcomplit.unc.edu/people/trudier-harris"
+   },
+   {
+    "label": "Encyclopedia.com — Harris, Trudier 1948–",
+    "url": "https://www.encyclopedia.com/arts/educational-magazines/harris-trudier-1948"
+   }
+  ],
+  "connections": [
+   {
+    "id": "stillman-college",
+    "type": "alumni",
+    "label": "A.B. English 1969"
+   }
+  ]
  }
 ]

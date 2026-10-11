@@ -1,0 +1,1446 @@
+[
+ {
+  "id": "national-pan-hellenic-council",
+  "name": "National Pan-Hellenic Council (NPHC)",
+  "type": "entity",
+  "network": true,
+  "kind": "Umbrella council of the Divine Nine",
+  "description": "Founded May 10, 1930, at Howard University to coordinate the nine historically Black Greek-letter fraternities and sororities that came to be called the Divine Nine.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "origin",
+    "label": "founded at, 1930"
+   }
+  ]
+ },
+ {
+  "id": "alpha-phi-alpha",
+  "name": "Alpha Phi Alpha",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine fraternity · 1906",
+  "description": "The first intercollegiate Greek-letter fraternity founded by Black men, established Dec. 4, 1906, at Cornell University by seven students later called the Jewels.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "andrew-young",
+    "type": "member",
+    "label": "member, Beta chapter (Howard University)"
+   },
+   {
+    "id": "art-shell",
+    "type": "member",
+    "label": "member, Delta Nu chapter (University of Maryland Eastern Shore)"
+   },
+   {
+    "id": "arthur-r-collins",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "arthur-shores",
+    "type": "member",
+    "label": "member, Alpha Beta chapter (Talladega College)"
+   },
+   {
+    "id": "bennett-m-stewart",
+    "type": "member",
+    "label": "member, Xi Lambda chapter"
+   },
+   {
+    "id": "charles-p-howard-sr",
+    "type": "member",
+    "label": "member, Gamma Phi chapter (Tuskegee Institute)"
+   },
+   {
+    "id": "charles-v-bush",
+    "type": "member",
+    "label": "member, inducted at Howard University"
+   },
+   {
+    "id": "clementa-c-pinckney",
+    "type": "member",
+    "label": "member, Gamma Gamma chapter (Allen University)"
+   },
+   {
+    "id": "damon-keith",
+    "type": "member",
+    "label": "member, Alpha Zeta chapter (West Virginia State University)"
+   },
+   {
+    "id": "danny-k-davis",
+    "type": "member",
+    "label": "member, Gamma Delta chapter (University of Arkansas at Pine Bluff)"
+   },
+   {
+    "id": "david-dinkins",
+    "type": "member",
+    "label": "member, Beta chapter (Howard University)"
+   },
+   {
+    "id": "david-scott",
+    "type": "member",
+    "label": "member, Beta Nu chapter (Florida A&M University)"
+   },
+   {
+    "id": "donny-hathaway",
+    "type": "member",
+    "label": "member, Beta chapter (Howard University)"
+   },
+   {
+    "id": "earl-s-richardson",
+    "type": "member",
+    "label": "member, Delta Nu chapter (University of Maryland Eastern Shore)"
+   },
+   {
+    "id": "eddie-robinson",
+    "type": "member",
+    "label": "member, Beta Iota Lambda chapter"
+   },
+   {
+    "id": "edward-brooke",
+    "type": "member",
+    "label": "member, Beta chapter (Howard University)"
+   },
+   {
+    "id": "ernest-a-finney-jr",
+    "type": "member",
+    "label": "member, Delta Alpha chapter (Claflin University)"
+   },
+   {
+    "id": "ernest-n-morial",
+    "type": "member",
+    "label": "member, Beta Tau chapter (Xavier University of Louisiana)"
+   },
+   {
+    "id": "eugene-sawyer",
+    "type": "member",
+    "label": "member, Beta Upsilon chapter (Alabama State University)"
+   },
+   {
+    "id": "fletcher-henderson",
+    "type": "member",
+    "label": "member, Alpha Phi chapter (Clark Atlanta University)"
+   },
+   {
+    "id": "floyd-flake",
+    "type": "member",
+    "label": "member, Zeta Gamma Lambda chapter"
+   },
+   {
+    "id": "floyd-mckissick",
+    "type": "member",
+    "label": "member, Alpha Rho chapter"
+   },
+   {
+    "id": "frank-yerby",
+    "type": "member",
+    "label": "member, Theta chapter (University of Chicago)"
+   },
+   {
+    "id": "frederick-d-patterson",
+    "type": "member",
+    "label": "member, Alpha Nu chapter (Iowa State University)"
+   },
+   {
+    "id": "freeman-a-hrabowski-iii",
+    "type": "member",
+    "label": "member, Gamma Iota chapter (Hampton University)"
+   },
+   {
+    "id": "heman-marion-sweatt",
+    "type": "member",
+    "label": "member, Alpha Sigma chapter (Wiley College)"
+   },
+   {
+    "id": "jethro-pugh",
+    "type": "member",
+    "label": "member, Beta Zeta chapter (Elizabeth City State University)"
+   },
+   {
+    "id": "jibreel-khazan",
+    "type": "member",
+    "label": "member, Beta Epsilon chapter (North Carolina A&T State University)"
+   },
+   {
+    "id": "joseph-lowery",
+    "type": "member",
+    "label": "member, Eta Lambda chapter"
+   },
+   {
+    "id": "joshua-i-smith",
+    "type": "member",
+    "label": "member, Delta Xi chapter (Central State University)"
+   },
+   {
+    "id": "julius-l-chambers",
+    "type": "member",
+    "label": "member, Gamma Beta chapter (North Carolina Central University)"
+   },
+   {
+    "id": "keenen-ivory-wayans",
+    "type": "member",
+    "label": "member, Gamma Phi chapter (Tuskegee University)"
+   },
+   {
+    "id": "lasalle-d-leffall-jr",
+    "type": "member",
+    "label": "member, Beta Nu chapter (Florida A&M University)"
+   },
+   {
+    "id": "leroy-tyus",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "lionel-richie",
+    "type": "member",
+    "label": "member, Alpha Nu Lambda chapter"
+   },
+   {
+    "id": "lloyd-l-gaines",
+    "type": "member",
+    "label": "member, Alpha Psi chapter (Lincoln University of Missouri)"
+   },
+   {
+    "id": "louis-w-sullivan",
+    "type": "member",
+    "label": "member, Alpha Rho chapter (Morehouse College)"
+   },
+   {
+    "id": "marion-barry",
+    "type": "member",
+    "label": "member, Beta Xi chapter (LeMoyne-Owen College)"
+   },
+   {
+    "id": "martin-luther-king-iii",
+    "type": "member",
+    "label": "member, Eta Lambda chapter"
+   },
+   {
+    "id": "martin-luther-king-jr",
+    "type": "member",
+    "label": "member, Sigma chapter"
+   },
+   {
+    "id": "maynard-jackson",
+    "type": "member",
+    "label": "member, Alpha Rho chapter (Morehouse College)"
+   },
+   {
+    "id": "michael-lomax",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "moss-h-kendrix",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "norman-francis",
+    "type": "member",
+    "label": "member, Sigma Lambda chapter"
+   },
+   {
+    "id": "norris-b-herndon",
+    "type": "member",
+    "label": "member, Sigma chapter"
+   },
+   {
+    "id": "oscar-c-brown-sr",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "percy-creuzot",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "r-roosevelt-thomas-jr",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "raphael-warnock",
+    "type": "member",
+    "label": "member, Alpha Gamma Lambda chapter"
+   },
+   {
+    "id": "raymond-v-haysbert",
+    "type": "member",
+    "label": "initiated 1950, Xi chapter (Wilberforce University)"
+   },
+   {
+    "id": "richard-arrington-jr",
+    "type": "member",
+    "label": "member, Gamma Kappa chapter (Miles College)"
+   },
+   {
+    "id": "rob-hardy",
+    "type": "member",
+    "label": "member, Beta Nu chapter (Florida A&M University)"
+   },
+   {
+    "id": "samuel-l-gravely-jr",
+    "type": "member",
+    "label": "member, Gamma chapter (Virginia Union University)"
+   },
+   {
+    "id": "theodore-colbert-iii",
+    "type": "member",
+    "label": "member, Gamma Lambda chapter"
+   },
+   {
+    "id": "thurgood-marshall",
+    "type": "member",
+    "label": "member, Nu chapter (Lincoln University)"
+   },
+   {
+    "id": "tim-reid",
+    "type": "member",
+    "label": "member, Eta Lambda chapter"
+   },
+   {
+    "id": "u-w-clemon",
+    "type": "member",
+    "label": "member, Omicron Lambda chapter"
+   },
+   {
+    "id": "vertner-woodson-tandy",
+    "type": "member",
+    "label": "co-founder (one of the seven Jewels), Alpha chapter (Cornell University)"
+   },
+   {
+    "id": "w-e-b-du-bois",
+    "type": "member",
+    "label": "honorary member, Epsilon chapter (University of Michigan)"
+   },
+   {
+    "id": "whitney-young",
+    "type": "member",
+    "label": "member, Beta Mu chapter (Kentucky State College)"
+   },
+   {
+    "id": "will-packer",
+    "type": "member",
+    "label": "member, Beta Nu chapter (Florida A&M University)"
+   },
+   {
+    "id": "william-j-powell",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "harold-ford-sr",
+    "type": "member",
+    "label": "Beta Omicron chapter (Tennessee State)"
+   },
+   {
+    "id": "c-t-vivian",
+    "type": "member",
+    "label": "Eta Lambda chapter"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Alpha Phi Alpha members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Alpha_Phi_Alpha_members"
+   },
+   {
+    "label": "Wikipedia — Arthur R. Collins",
+    "url": "https://en.wikipedia.org/wiki/Arthur_R._Collins"
+   },
+   {
+    "label": "Wikipedia — Charles V. Bush",
+    "url": "https://en.wikipedia.org/wiki/Charles_V._Bush"
+   },
+   {
+    "label": "Wikipedia — Leroy Tyus",
+    "url": "https://en.wikipedia.org/wiki/Leroy_Tyus"
+   },
+   {
+    "label": "Wikipedia — Michael Lomax",
+    "url": "https://en.wikipedia.org/wiki/Michael_Lomax"
+   },
+   {
+    "label": "Wikipedia — Moss H. Kendrix",
+    "url": "https://en.wikipedia.org/wiki/Moss_H._Kendrix"
+   },
+   {
+    "label": "Wikipedia — Oscar Brown Sr.",
+    "url": "https://en.wikipedia.org/wiki/Oscar_Brown_Sr."
+   },
+   {
+    "label": "Wikipedia — Percy Creuzot",
+    "url": "https://en.wikipedia.org/wiki/Percy_Creuzot"
+   },
+   {
+    "label": "Wikipedia — R. Roosevelt Thomas Jr.",
+    "url": "https://en.wikipedia.org/wiki/R._Roosevelt_Thomas_Jr."
+   },
+   {
+    "label": "Wikipedia — Raymond V. Haysbert",
+    "url": "https://en.wikipedia.org/wiki/Raymond_V._Haysbert"
+   },
+   {
+    "label": "Wikipedia — Will Packer",
+    "url": "https://en.wikipedia.org/wiki/Will_Packer"
+   },
+   {
+    "label": "Wikipedia — William J. Powell",
+    "url": "https://en.wikipedia.org/wiki/William_J._Powell"
+   }
+  ]
+ },
+ {
+  "id": "alpha-kappa-alpha",
+  "name": "Alpha Kappa Alpha",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine sorority · 1908",
+  "description": "The first Greek-letter sorority founded by Black college women, established Jan. 15, 1908, at Howard University under Ethel Hedgeman Lyle.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "origin",
+    "label": "founded at, 1908"
+   },
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "ada-lois-sipuel-fisher",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "alice-coachman",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "alice-walker",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "althea-gibson",
+    "type": "member",
+    "label": "member, Beta Alpha chapter"
+   },
+   {
+    "id": "anna-julia-cooper",
+    "type": "member",
+    "label": "member, Alpha chapter"
+   },
+   {
+    "id": "azie-taylor-morton",
+    "type": "member",
+    "label": "member, Beta Kappa chapter"
+   },
+   {
+    "id": "bernice-king",
+    "type": "member",
+    "label": "member, Kappa Omega chapter"
+   },
+   {
+    "id": "cathy-hughes",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "depelsha-thomas-mcgruder",
+    "type": "member",
+    "label": "member, Alpha chapter"
+   },
+   {
+    "id": "dorothy-vaughan",
+    "type": "member",
+    "label": "member, Zeta chapter (Wilberforce University)"
+   },
+   {
+    "id": "emma-rochelle-wheeler",
+    "type": "member",
+    "label": "member; organizer of Pi Omega chapter"
+   },
+   {
+    "id": "etta-moten-barnett",
+    "type": "member",
+    "label": "member, Delta chapter (University of Kansas)"
+   },
+   {
+    "id": "eva-clayton",
+    "type": "member",
+    "label": "member, Gamma Delta chapter (Johnson C. Smith University)"
+   },
+   {
+    "id": "gladys-west",
+    "type": "member",
+    "label": "member, Alpha Epsilon chapter (Virginia State University)"
+   },
+   {
+    "id": "hazel-oleary",
+    "type": "member",
+    "label": "member, Pi chapter"
+   },
+   {
+    "id": "hilda-pinnix-ragland",
+    "type": "member",
+    "label": "member, Alpha Phi chapter"
+   },
+   {
+    "id": "jessye-norman",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "jewel-plummer-cobb",
+    "type": "member",
+    "label": "member, Chi chapter (Talladega College)"
+   },
+   {
+    "id": "jo-marie-payton",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "joy-harden-bradford",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "kamala-harris",
+    "type": "member",
+    "label": "member, Alpha chapter"
+   },
+   {
+    "id": "katherine-johnson",
+    "type": "member",
+    "label": "member, Nu chapter (West Virginia State University)"
+   },
+   {
+    "id": "larzette-hale",
+    "type": "member",
+    "label": "member; international president"
+   },
+   {
+    "id": "latanya-richardson-jackson",
+    "type": "member",
+    "label": "honorary member, 2026"
+   },
+   {
+    "id": "mary-jackson",
+    "type": "member",
+    "label": "member, Gamma Theta chapter (Hampton University)"
+   },
+   {
+    "id": "patricia-bath",
+    "type": "member",
+    "label": "member, Lambda chapter"
+   },
+   {
+    "id": "phylicia-rashad",
+    "type": "member",
+    "label": "member, Alpha chapter (Howard University)"
+   },
+   {
+    "id": "ruth-simmons",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "septima-clark",
+    "type": "member",
+    "label": "member, Gamma Xi Omega chapter"
+   },
+   {
+    "id": "sharon-pratt",
+    "type": "member",
+    "label": "initiated 1964, Alpha chapter (Howard University)"
+   },
+   {
+    "id": "toni-morrison",
+    "type": "member",
+    "label": "member, Alpha chapter"
+   },
+   {
+    "id": "wanda-sykes",
+    "type": "member",
+    "label": "member, Gamma Theta chapter (Hampton University)"
+   },
+   {
+    "id": "xernona-clayton",
+    "type": "member",
+    "label": "member, Alpha Psi chapter (Tennessee State)"
+   },
+   {
+    "id": "rosa-parks",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "cassandra-wilson",
+    "type": "member",
+    "label": "Beta Delta Omega chapter (Jackson State)"
+   },
+   {
+    "id": "margaret-bush-wilson",
+    "type": "member",
+    "label": "Chi chapter"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Alpha Kappa Alpha members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Alpha_Kappa_Alpha_members"
+   },
+   {
+    "label": "Wikipedia — Emma Rochelle Wheeler",
+    "url": "https://en.wikipedia.org/wiki/Emma_Rochelle_Wheeler"
+   },
+   {
+    "label": "Wikipedia — Larzette Hale",
+    "url": "https://en.wikipedia.org/wiki/Larzette_Hale"
+   },
+   {
+    "label": "Wikipedia — LaTanya Richardson Jackson",
+    "url": "https://en.wikipedia.org/wiki/LaTanya_Richardson_Jackson"
+   }
+  ]
+ },
+ {
+  "id": "kappa-alpha-psi",
+  "name": "Kappa Alpha Psi",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine fraternity · 1911",
+  "description": "Founded Jan. 5, 1911, at Indiana University by ten Black students, at a time when Black students there were largely shut out of campus life.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "albert-bryan-jr",
+    "type": "member",
+    "label": "member, Mu Xi chapter (Wittenberg University)"
+   },
+   {
+    "id": "ben-ruffin",
+    "type": "member",
+    "label": "member; former polemarch, Winston-Salem Alumni chapter"
+   },
+   {
+    "id": "bennie-thompson",
+    "type": "member",
+    "label": "member, Gamma Rho chapter (Tougaloo College)"
+   },
+   {
+    "id": "carl-ware",
+    "type": "member",
+    "label": "member, Gamma Kappa chapter (Clark Atlanta University)"
+   },
+   {
+    "id": "daniel-james-jr",
+    "type": "member",
+    "label": "member, Nashville (TN) Alumni chapter"
+   },
+   {
+    "id": "david-castain",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "dennis-hightower",
+    "type": "member",
+    "label": "member, Xi chapter (Howard University)"
+   },
+   {
+    "id": "donald-remy",
+    "type": "member",
+    "label": "charter member, Nu Iota chapter (Louisiana State University)"
+   },
+   {
+    "id": "henry-frye",
+    "type": "member",
+    "label": "member, Alpha Nu chapter (North Carolina A&T University)"
+   },
+   {
+    "id": "james-a-dallas",
+    "type": "member",
+    "label": "member; charter member, Fort Lauderdale Alumni chapter"
+   },
+   {
+    "id": "john-f-street",
+    "type": "member",
+    "label": "member, Philadelphia (PA) Alumni chapter"
+   },
+   {
+    "id": "john-w-thompson",
+    "type": "member",
+    "label": "member, Alpha Xi chapter (Florida A&M University)"
+   },
+   {
+    "id": "kasim-reed",
+    "type": "member",
+    "label": "member, Atlanta (GA) Alumni chapter"
+   },
+   {
+    "id": "kedar-massenberg",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "leon-sullivan",
+    "type": "member",
+    "label": "member, Tau chapter (West Virginia State University)"
+   },
+   {
+    "id": "mark-mason",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "marques-haynes",
+    "type": "member",
+    "label": "member, Alpha Pi chapter (Langston University)"
+   },
+   {
+    "id": "percy-sutton",
+    "type": "member",
+    "label": "member, New York (NY) Alumni chapter"
+   },
+   {
+    "id": "ralph-abernathy",
+    "type": "member",
+    "label": "member, Beta Zeta chapter (Alabama State University)"
+   },
+   {
+    "id": "reginald-f-lewis",
+    "type": "member",
+    "label": "member, Alpha Phi chapter (Virginia State University)"
+   },
+   {
+    "id": "robert-brokenburr",
+    "type": "member",
+    "label": "member, Indianapolis (IN) Alumni chapter"
+   },
+   {
+    "id": "tony-wyllie",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "william-gaston-pearson",
+    "type": "member",
+    "label": "member, Durham (NC) Alumni chapter"
+   },
+   {
+    "id": "willie-davis",
+    "type": "member",
+    "label": "member, Gamma Psi chapter (Grambling State University)"
+   },
+   {
+    "id": "harvey-c-russell-jr",
+    "type": "member",
+    "label": "Alpha Upsilon chapter (Kentucky State)"
+   },
+   {
+    "id": "charles-m-blow",
+    "type": "member",
+    "label": "Gamma Psi chapter (Grambling State)"
+   },
+   {
+    "id": "william-grant-still",
+    "type": "member",
+    "label": "member"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Kappa Alpha Psi members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Kappa_Alpha_Psi_members"
+   },
+   {
+    "label": "Wikipedia — Ben Ruffin",
+    "url": "https://en.wikipedia.org/wiki/Ben_Ruffin"
+   },
+   {
+    "label": "Wikipedia — David Castain",
+    "url": "https://en.wikipedia.org/wiki/David_Castain"
+   },
+   {
+    "label": "Wikipedia — Donald Remy",
+    "url": "https://en.wikipedia.org/wiki/Donald_Remy"
+   },
+   {
+    "label": "Wikipedia — James A. Dallas",
+    "url": "https://en.wikipedia.org/wiki/James_A._Dallas"
+   },
+   {
+    "label": "Wikipedia — Kedar Massenberg",
+    "url": "https://en.wikipedia.org/wiki/Kedar_Massenberg"
+   },
+   {
+    "label": "Wikipedia — Mark Mason (executive)",
+    "url": "https://en.wikipedia.org/wiki/Mark_Mason_(executive)"
+   },
+   {
+    "label": "Wikipedia — Tony Wyllie",
+    "url": "https://en.wikipedia.org/wiki/Tony_Wyllie"
+   }
+  ]
+ },
+ {
+  "id": "omega-psi-phi",
+  "name": "Omega Psi Phi",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine fraternity · 1911",
+  "description": "The first fraternity founded at a historically Black university, established Nov. 17, 1911, at Howard University by three students and faculty adviser Ernest Everett Just.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "origin",
+    "label": "founded at, 1911"
+   },
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "albert-w-dent",
+    "type": "member",
+    "label": "member, Psi chapter (Morehouse College)"
+   },
+   {
+    "id": "bayard-rustin",
+    "type": "member",
+    "label": "member, Upsilon chapter (Wilberforce University)"
+   },
+   {
+    "id": "benjamin-hooks",
+    "type": "member",
+    "label": "initiated 1942, Epsilon Phi chapter"
+   },
+   {
+    "id": "bernard-kinsey",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "david-satcher",
+    "type": "member",
+    "label": "member, Psi chapter (Morehouse College)"
+   },
+   {
+    "id": "earl-g-graves-sr",
+    "type": "member",
+    "label": "member, Pi chapter"
+   },
+   {
+    "id": "ernest-everett-just",
+    "type": "member",
+    "label": "founder"
+   },
+   {
+    "id": "fred-gray",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "jesse-jackson",
+    "type": "member",
+    "label": "member, Pi Psi chapter (University of Illinois Urbana-Champaign)"
+   },
+   {
+    "id": "jim-clyburn",
+    "type": "member",
+    "label": "member, Xi Psi chapter (South Carolina State University)"
+   },
+   {
+    "id": "joe-black",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "kweisi-mfume",
+    "type": "member",
+    "label": "member, Grand Chapter (Special Intake)"
+   },
+   {
+    "id": "l-douglas-wilder",
+    "type": "member",
+    "label": "member, Zeta chapter"
+   },
+   {
+    "id": "langston-hughes",
+    "type": "member",
+    "label": "member, Beta chapter"
+   },
+   {
+    "id": "mathew-knowles",
+    "type": "member",
+    "label": "member, joined at Fisk University"
+   },
+   {
+    "id": "rayfield-wright",
+    "type": "member",
+    "label": "member, Upsilon Sigma chapter"
+   },
+   {
+    "id": "rickey-smiley",
+    "type": "member",
+    "label": "member, Psi Rho chapter"
+   },
+   {
+    "id": "ronald-mcnair",
+    "type": "member",
+    "label": "initiated 1969, Mu Psi chapter"
+   },
+   {
+    "id": "stephen-a-smith",
+    "type": "member",
+    "label": "honorary member, Grand Chapter"
+   },
+   {
+    "id": "steve-mcnair",
+    "type": "member",
+    "label": "member, Eta chapter (Alcorn State University)"
+   },
+   {
+    "id": "terrence-j",
+    "type": "member",
+    "label": "member, Mu Psi chapter (North Carolina Agricultural and Technical State University)"
+   },
+   {
+    "id": "tom-joyner",
+    "type": "member",
+    "label": "member, Lambda Epsilon chapter"
+   },
+   {
+    "id": "vernon-jordan",
+    "type": "member",
+    "label": "member, Zeta Phi chapter"
+   },
+   {
+    "id": "walter-e-massey",
+    "type": "member",
+    "label": "member, Psi chapter (Morehouse College)"
+   },
+   {
+    "id": "william-r-harvey",
+    "type": "member",
+    "label": "member, Gamma Psi chapter"
+   },
+   {
+    "id": "nathan-hare",
+    "type": "member",
+    "label": "Phi Psi chapter"
+   },
+   {
+    "id": "carl-e-stewart",
+    "type": "member",
+    "label": "Theta Sigma chapter (Dillard)"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Omega Psi Phi members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Omega_Psi_Phi_members"
+   },
+   {
+    "label": "Wikipedia — Bernard Kinsey",
+    "url": "https://en.wikipedia.org/wiki/Bernard_Kinsey"
+   },
+   {
+    "label": "Wikipedia — Fred Gray (attorney)",
+    "url": "https://en.wikipedia.org/wiki/Fred_Gray_(attorney)"
+   },
+   {
+    "label": "Wikipedia — Mathew Knowles",
+    "url": "https://en.wikipedia.org/wiki/Mathew_Knowles"
+   }
+  ]
+ },
+ {
+  "id": "delta-sigma-theta",
+  "name": "Delta Sigma Theta",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine sorority · 1913",
+  "description": "Founded Jan. 13, 1913, at Howard University by 22 women. Its first public act was marching in the 1913 Woman Suffrage Procession in Washington.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "origin",
+    "label": "founded at, 1913"
+   },
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "alexis-herman",
+    "type": "member",
+    "label": "member, Gamma Alpha chapter (Xavier University of Louisiana)"
+   },
+   {
+    "id": "barbara-jordan",
+    "type": "member",
+    "label": "member, Delta Gamma chapter (Texas Southern University)"
+   },
+   {
+    "id": "beverly-harvard",
+    "type": "member",
+    "label": "member, Gamma Zeta chapter (Morris Brown College)"
+   },
+   {
+    "id": "carrie-meek",
+    "type": "member",
+    "label": "member, Beta Alpha chapter (Florida A&M University)"
+   },
+   {
+    "id": "daisy-bates",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "dorothy-lavinia-brown",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "ida-b-wells",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "janice-bryant-howroyd",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "joyce-beatty",
+    "type": "member",
+    "label": "member, Delta Kappa chapter (Central State University)"
+   },
+   {
+    "id": "joycelyn-elders",
+    "type": "member",
+    "label": "member, Gamma Gamma chapter (Philander Smith College)"
+   },
+   {
+    "id": "keisha-lance-bottoms",
+    "type": "member",
+    "label": "member, Beta Alpha chapter (Florida A & M University)"
+   },
+   {
+    "id": "keshia-knight-pulliam",
+    "type": "member",
+    "label": "member, Eta Kappa chapter (Spelman College)"
+   },
+   {
+    "id": "leontyne-price",
+    "type": "member",
+    "label": "member, Beta chapter (Wilberforce University)"
+   },
+   {
+    "id": "lyda-moore-merrick",
+    "type": "member",
+    "label": "honorary member, 1970"
+   },
+   {
+    "id": "marian-wright-edelman",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "mary-mcleod-bethune",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "myrlie-evers-williams",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "nikki-giovanni",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "patricia-roberts-harris",
+    "type": "member",
+    "label": "member, Alpha chapter (Howard University)"
+   },
+   {
+    "id": "regina-benjamin",
+    "type": "member",
+    "label": "member, Gamma Alpha chapter (Xavier University of Louisiana)"
+   },
+   {
+    "id": "roberta-flack",
+    "type": "member",
+    "label": "member, Alpha chapter (Howard University)"
+   },
+   {
+    "id": "shirley-franklin",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "wilma-rudolph",
+    "type": "member",
+    "label": "member, Alpha Chi chapter (Tennessee State University)"
+   },
+   {
+    "id": "joyce-ladner",
+    "type": "member",
+    "label": "Gamma Psi chapter (Tougaloo)"
+   },
+   {
+    "id": "verda-welcome",
+    "type": "member",
+    "label": "Alpha Gamma chapter"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Delta Sigma Theta members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Delta_Sigma_Theta_members"
+   },
+   {
+    "label": "Wikipedia — Janice Bryant Howroyd",
+    "url": "https://en.wikipedia.org/wiki/Janice_Bryant_Howroyd"
+   },
+   {
+    "label": "Wikipedia — Lyda Moore Merrick",
+    "url": "https://en.wikipedia.org/wiki/Lyda_Moore_Merrick"
+   }
+  ]
+ },
+ {
+  "id": "phi-beta-sigma",
+  "name": "Phi Beta Sigma",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine fraternity · 1914",
+  "description": "Founded Jan. 9, 1914, at Howard University by A. Langston Taylor, Leonard F. Morse and Charles I. Brown, under the motto \"Culture for Service and Service for Humanity\".",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "origin",
+    "label": "founded at, 1914"
+   },
+   {
+    "id": "zeta-phi-beta",
+    "type": "family",
+    "label": "constitutionally bound sister sorority"
+   },
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "a-philip-randolph",
+    "type": "member",
+    "label": "member, Iota Sigma chapter"
+   },
+   {
+    "id": "armstrong-williams",
+    "type": "member",
+    "label": "member, Eta Alpha chapter (South Carolina State University)"
+   },
+   {
+    "id": "devon-henry",
+    "type": "member",
+    "label": "member, Delta Zeta chapter (Norfolk State University)"
+   },
+   {
+    "id": "elijah-cummings",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "ellis-marsalis-jr",
+    "type": "member",
+    "label": "member, Epsilon Alpha chapter (Dillard University)"
+   },
+   {
+    "id": "herman-j-russell",
+    "type": "member",
+    "label": "member, Lambda Sigma chapter"
+   },
+   {
+    "id": "hosea-williams",
+    "type": "member",
+    "label": "member, Zeta chapter (Morris Brown College)"
+   },
+   {
+    "id": "j-anthony-brown",
+    "type": "member",
+    "label": "member, Eta Beta Sigma chapter"
+   },
+   {
+    "id": "james-weldon-johnson",
+    "type": "member",
+    "label": "member, Psi chapter (Clark Atlanta University)"
+   },
+   {
+    "id": "jerry-rice",
+    "type": "member",
+    "label": "member, Delta Phi chapter (Mississippi Valley State University)"
+   },
+   {
+    "id": "joe-dudley",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "john-lewis",
+    "type": "member",
+    "label": "member, Lambda Sigma chapter"
+   },
+   {
+    "id": "kase-lukman-lawal",
+    "type": "member",
+    "label": "member, Alpha Beta Sigma chapter"
+   },
+   {
+    "id": "kwame-nkrumah",
+    "type": "member",
+    "label": "member, Mu chapter (Lincoln University)"
+   },
+   {
+    "id": "lou-brock",
+    "type": "member",
+    "label": "member, Rho chapter (Southern University)"
+   },
+   {
+    "id": "nnamdi-azikiwe",
+    "type": "member",
+    "label": "member, Mu chapter (Lincoln University)"
+   },
+   {
+    "id": "rod-paige",
+    "type": "member",
+    "label": "member, Alpha Beta chapter (Jackson State University)"
+   },
+   {
+    "id": "willie-j-williams",
+    "type": "member",
+    "label": "member, Pi Mu chapter (Western Carolina University)"
+   },
+   {
+    "id": "willis-reed",
+    "type": "member",
+    "label": "member, Xi chapter (Grambling State University)"
+   },
+   {
+    "id": "samuel-plato",
+    "type": "member",
+    "label": "Epsilon Beta Sigma chapter (Louisville)"
+   },
+   {
+    "id": "albon-holsey",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "walter-turnbull",
+    "type": "member",
+    "label": "honorary member"
+   },
+   {
+    "id": "louis-westerfield",
+    "type": "member",
+    "label": "Rho chapter (Southern University)"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Phi Beta Sigma members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Phi_Beta_Sigma_members"
+   }
+  ]
+ },
+ {
+  "id": "zeta-phi-beta",
+  "name": "Zeta Phi Beta",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine sorority · 1920",
+  "description": "Founded Jan. 16, 1920, at Howard University by five women as the sister organization of Phi Beta Sigma.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "origin",
+    "label": "founded at, 1920"
+   },
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "autherine-lucy",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "clara-luper",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "elizabeth-duncan-koontz",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "marjorie-joyner",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "opal-lee",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "zora-neale-hurston",
+    "type": "member",
+    "label": "member, Alpha chapter"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Zeta Phi Beta members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Zeta_Phi_Beta_members"
+   },
+   {
+    "label": "Wikipedia — Clara Luper",
+    "url": "https://en.wikipedia.org/wiki/Clara_Luper"
+   },
+   {
+    "label": "Wikipedia — Opal Lee",
+    "url": "https://en.wikipedia.org/wiki/Opal_Lee"
+   }
+  ]
+ },
+ {
+  "id": "sigma-gamma-rho",
+  "name": "Sigma Gamma Rho",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine sorority · 1922",
+  "description": "Founded Nov. 12, 1922, at Butler University in Indianapolis by seven schoolteachers. It is the only Divine Nine sorority founded at a predominantly white institution.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   },
+   {
+    "id": "eva-jessye",
+    "type": "member",
+    "label": "member"
+   },
+   {
+    "id": "georgia-davis-powers",
+    "type": "member",
+    "label": "honorary member, 1993"
+   }
+  ],
+  "greek": true,
+  "sources": [
+   {
+    "label": "Wikipedia — List of Sigma Gamma Rho members",
+    "url": "https://en.wikipedia.org/wiki/List_of_Sigma_Gamma_Rho_members"
+   }
+  ]
+ },
+ {
+  "id": "iota-phi-theta",
+  "name": "Iota Phi Theta",
+  "type": "entity",
+  "network": true,
+  "kind": "Divine Nine fraternity · 1963",
+  "description": "Founded Sept. 19, 1963, at Morgan State University by twelve older, often working and married students. It joined the NPHC in 1996.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "morgan-state-university",
+    "type": "origin",
+    "label": "founded at, 1963"
+   },
+   {
+    "id": "national-pan-hellenic-council",
+    "type": "civic",
+    "label": "NPHC member"
+   }
+  ],
+  "greek": true
+ }
+]

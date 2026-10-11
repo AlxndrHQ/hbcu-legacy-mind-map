@@ -1988,7 +1988,7 @@
   "netWorthTier": "$5M-$100M",
   "tierBasis": "estimated",
   "wealthNote": "Estimated from senior multinational-executive compensation; no published figure.",
-  "lifespan": "b. c. 1942",
+  "lifespan": "b. 1941",
   "base": "Washington, DC",
   "industry": "Global Consumer Products & Media",
   "originBadge": "D.C. Segregated Schools",
@@ -2058,11 +2058,11 @@
   "hbcuStory": "Earned a BBA in finance with honors from Howard (1991), then a Harvard MBA; Howard trustee since 2012 and board vice chair since 2017.",
   "humbleBeginnings": "Raised in Queens, he worked as a teenager for his grandparents' carpentry and landscaping businesses.",
   "breakthrough": "Joined Citigroup in 2001 and ran Citi Private Bank and Citi Holdings before becoming CFO of Citigroup in 2019 — one of the most senior Black executives on Wall Street.",
-  "legacy": "Later became Citi's executive vice chair and senior executive advisor; vice chair of Howard's board.",
+  "legacy": "Handed the CFO role to Gonzalo Luchetti in early 2026 to become Citi's executive vice chair and senior adviser to CEO Jane Fraser, saying he would pursue leadership roles outside the bank by the end of 2026; vice chair of Howard's board.",
   "breakthroughDetail": [
    {
     "t": "Citigroup CFO.",
-    "d": "Chief financial officer of Citigroup from 2019.",
+    "d": "Chief financial officer of Citigroup from 2019; Citi announced in November 2025 that Gonzalo Luchetti would succeed him in March 2026.",
     "basis": "documented"
    },
    {
@@ -2091,6 +2091,10 @@
    {
     "label": "Howard University — Featured people: Mark L. Mason",
     "url": "https://profiles.howard.edu/featured-people/mark-l-mason"
+   },
+   {
+    "label": "Banking Dive — Citi CFO Mark Mason to step down in March (Nov. 2025)",
+    "url": "https://www.bankingdive.com/news/citi-mark-mason-cfo-step-down-march-gonzalo-luchetti-fraser-sieg-luft-habner/806137/"
    }
   ],
   "connections": [
@@ -2107,7 +2111,7 @@
    {
     "id": "citigroup",
     "type": "executive",
-    "label": "CFO 2019–; executive vice chair"
+    "label": "CFO 2019–March 2026; then executive vice chair"
    }
   ]
  },
@@ -6629,5 +6633,720 @@
    "basis": "inferred"
   },
   "connections": []
+ },
+ {
+  "id": "rodney-williams",
+  "name": "Rodney Williams",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Cincinnati, OH",
+  "industry": "Audio Data Transmission / Fintech",
+  "originBadge": "Baltimore Scholar",
+  "engineBadge": "Data-over-Audio Platform",
+  "capitalBadge": "Venture Capital",
+  "hbcuStory": "After undergraduate degrees in finance and economics at West Virginia University, he earned a graduate business degree at Howard (WVU lists an MBA; Black Enterprise describes a master's in finance and supply-chain management). He says he chose Howard over NYU because its faculty 'believed in me', and later joined the Howard School of Business board of advisors after raising over $250,000 for its technology resources.",
+  "humbleBeginnings": "Grew up in Baltimore; finished several degrees by age 24, then worked in new-business development at Lockheed Martin.",
+  "breakthrough": "Spent four years as a Procter & Gamble brand manager — the first marketer there to co-write digital patents — before co-founding LISNR, which transmits data between devices over inaudible sound.",
+  "legacy": "As LISNR co-founder and CEO he built an ultrasonic data-transmission platform pitched as an alternative to Bluetooth and NFC, and he invests in and advises other Black-founded startups.",
+  "breakthroughDetail": [
+   {
+    "t": "LISNR co-founder & CEO.",
+    "d": "Co-founded the Cincinnati data-over-audio company with two other entrepreneurs.",
+    "basis": "documented"
+   },
+   {
+    "t": "P&G patents.",
+    "d": "First marketer at Procter & Gamble to co-write digital patents.",
+    "basis": "documented"
+   },
+   {
+    "t": "Four degrees by 24.",
+    "d": "Completed finance and economics degrees at WVU plus his Howard graduate degree by age 24.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Howard advisory board.",
+    "d": "Youngest member of the Howard University School of Business board of advisors.",
+    "basis": "documented"
+   },
+   {
+    "t": "Startup boards.",
+    "d": "Sat on the boards of venture-backed startups Wyzerr and SoLo Funds.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "West Virginia University — Roll of Distinguished Alumni: Rodney Williams",
+    "url": "https://business.wvu.edu/alumni/roll-of-distinguished-alumni/previous-inductees/rodney-williams"
+   },
+   {
+    "label": "Black Enterprise — Meet Rodney Williams",
+    "url": "https://www.blackenterprise.com/tech-titan-meet-rodney-williams/"
+   },
+   {
+    "label": "WVU Magazine — Rodney Williams (2018)",
+    "url": "https://magazine-archive.wvu.edu/stories/2018/04/12/rodney-williams"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "graduate business degree (MBA)"
+   },
+   {
+    "id": "lisnr",
+    "type": "ownership",
+    "label": "co-founder & CEO"
+   },
+   {
+    "id": "procter-and-gamble",
+    "type": "executive",
+    "label": "brand manager"
+   },
+   {
+    "id": "lockheed-martin",
+    "type": "executive",
+    "label": "new-business development"
+   }
+  ]
+ },
+ {
+  "id": "damon-lawrence",
+  "name": "Damon Lawrence",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "New Orleans, LA",
+  "industry": "Boutique Hospitality",
+  "originBadge": "Front-Desk Agent",
+  "engineBadge": "Boutique Hotels",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Worked as a hotel front-desk agent while a student at Howard University, where he met fellow Howard alumnus Marcus Carey.",
+  "humbleBeginnings": "Learned the hospitality business from the front desk up while still in college.",
+  "breakthrough": "In 2016 co-founded Homage Hospitality Group with Marcus Carey as a Black-owned boutique-hotel management company; its first property, The Moor in New Orleans' Mid-City, opened July 1, 2018.",
+  "legacy": "Positioned Homage as a culture-forward hotel brand and announced plans for further properties in Washington, D.C., Brooklyn, Detroit and Oakland.",
+  "breakthroughDetail": [
+   {
+    "t": "Homage Hospitality Group, 2016.",
+    "d": "Co-founded the Black-owned boutique hotel management company with Marcus Carey.",
+    "basis": "documented"
+   },
+   {
+    "t": "The Moor, 2018.",
+    "d": "Opened a small boutique hotel near Canal Street in New Orleans celebrating Black and Moorish culture.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Expansion plans.",
+    "d": "In 2018 the founders announced planned projects including The Town Hotel in Oakland and The Freeman in Tremé; their status is unconfirmed.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "NewsOne — Howard University alumni open The Moor hotel in New Orleans",
+    "url": "https://newsone.com/3817151/howard-university-alumni-moor-hotel-new-orleans"
+   },
+   {
+    "label": "HBCU Gameday — Howard grads launch NOLA boutique hotel with homecoming flavor",
+    "url": "https://hbcugameday.com/2018/07/03/howard-grads-launch-nola-boutique-hotel-with-homecoming-flavor"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "alumnus"
+   },
+   {
+    "id": "homage-hospitality-group",
+    "type": "ownership",
+    "label": "co-founder 2016"
+   },
+   {
+    "id": "marcus-carey",
+    "type": "deal",
+    "label": "business partner, Homage Hospitality"
+   }
+  ]
+ },
+ {
+  "id": "marcus-carey",
+  "name": "Marcus Carey",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "New Orleans, LA",
+  "industry": "Boutique Hospitality",
+  "originBadge": "Howard Network",
+  "engineBadge": "Boutique Hotels",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Howard University alumnus; partnered with fellow Howard graduate Damon Lawrence to build a hotel company.",
+  "humbleBeginnings": "Little has been published about his early life.",
+  "breakthrough": "Co-founded Homage Hospitality Group in 2016 and opened The Moor, a culture-themed boutique hotel in New Orleans, in July 2018.",
+  "legacy": "Co-leads a Black-owned boutique hospitality brand aimed at travelers seeking Black cultural experiences.",
+  "breakthroughDetail": [
+   {
+    "t": "Homage Hospitality Group.",
+    "d": "Co-founded the company with Damon Lawrence in 2016.",
+    "basis": "documented"
+   },
+   {
+    "t": "The Moor.",
+    "d": "Opened July 1, 2018, in a Spanish-colonial building in Mid-City New Orleans.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Howard-built venture.",
+    "d": "Both founders are Howard alumni, and coverage framed the hotel around a 'homecoming' spirit.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "NewsOne — Howard University alumni open The Moor hotel in New Orleans",
+    "url": "https://newsone.com/3817151/howard-university-alumni-moor-hotel-new-orleans"
+   },
+   {
+    "label": "HBCU Gameday — Howard grads launch NOLA boutique hotel with homecoming flavor",
+    "url": "https://hbcugameday.com/2018/07/03/howard-grads-launch-nola-boutique-hotel-with-homecoming-flavor"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "alumnus"
+   },
+   {
+    "id": "homage-hospitality-group",
+    "type": "ownership",
+    "label": "co-founder 2016"
+   }
+  ]
+ },
+ {
+  "id": "ed-welburn",
+  "name": "Ed Welburn",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1950",
+  "base": "Detroit, MI",
+  "industry": "Automotive Design",
+  "originBadge": "Letter to GM",
+  "engineBadge": "Global Vehicle Design",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Studied design, sculpture and painting at Howard's College of Fine Arts; an internship at GM Design after his junior year (1971) led to a job offer, and he earned his bachelor's from Howard in 1972. He returned to give Howard's 2016 commencement address.",
+  "humbleBeginnings": "A Philadelphia native who, as a boy, wrote to General Motors asking how to become a car designer and received a detailed reply urging him to go to college.",
+  "breakthrough": "Joined GM as an associate designer in 1972 and in 2003 became vice president of global design — the post once held by Harley Earl and Bill Mitchell — the first African American to lead design at a major automaker.",
+  "legacy": "Led a global network of GM design studios until retiring in 2016, and remains a prominent mentor for Black designers.",
+  "breakthroughDetail": [
+   {
+    "t": "GM global design chief.",
+    "d": "Vice president of GM Global Design from 2003 to 2016.",
+    "basis": "documented"
+   },
+   {
+    "t": "Intern to the top.",
+    "d": "Went from a 1971 GM Design intern to its head over three decades.",
+    "basis": "documented"
+   },
+   {
+    "t": "Highest-ranking Black in auto design.",
+    "d": "Recognized as the highest-ranking African American in the automobile industry's design ranks.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Howard commencement.",
+    "d": "Delivered Howard University's commencement address on May 7, 2016.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "OurWeekly — GM intern advances to highest ranking Black in automobile industry",
+    "url": "http://ourweekly.com/news/2014/may/01/gm-intern-advances-highest-ranking-black-automobil/?page=2"
+   },
+   {
+    "label": "Autoweek — GM Design boss Ed Welburn retiring July 1",
+    "url": "http://autoweek.com/article/car-news/general-motors-design-boss-ed-welburn-retire-july-1"
+   },
+   {
+    "label": "Wikipedia — Ed Welburn",
+    "url": "https://en.wikipedia.org/wiki/Ed_Welburn"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "B.F.A. 1972 (College of Fine Arts)"
+   },
+   {
+    "id": "general-motors",
+    "type": "executive",
+    "label": "VP, Global Design 2003–2016"
+   }
+  ]
+ },
+ {
+  "id": "cheick-modibo-diarra",
+  "name": "Cheick Modibo Diarra",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1952",
+  "base": "Bamako, Mali",
+  "industry": "Aerospace / Technology / Government",
+  "originBadge": "Malian Scholar",
+  "engineBadge": "Space Science & Tech",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "After a degree in Paris, earned a master's in aerospace engineering and a Ph.D. in mechanical engineering from Howard University (Ph.D. 1987).",
+  "humbleBeginnings": "Born in Nioro du Sahel in what was then French Sudan.",
+  "breakthrough": "Joined NASA's Jet Propulsion Laboratory, working on interplanetary missions and education outreach for the Mars program, and later became chairman of Microsoft Africa.",
+  "legacy": "Served as acting Prime Minister of Mali from April to December 2012 and founded a political party.",
+  "breakthroughDetail": [
+   {
+    "t": "NASA JPL.",
+    "d": "Worked on Mars exploration missions and led education and public outreach for the program.",
+    "basis": "documented"
+   },
+   {
+    "t": "Microsoft Africa chairman.",
+    "d": "Headed Microsoft's operations for Africa before entering Malian politics.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Prime Minister of Mali.",
+    "d": "Acting prime minister during the 2012 transition.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Al Jazeera — Profile: Mali's Cheick Modibo Diarra",
+    "url": "http://www.aljazeera.com/news/africa/2012/04/2012417215625215390.html"
+   },
+   {
+    "label": "Wikipedia — Cheick Modibo Diarra",
+    "url": "https://en.wikipedia.org/wiki/Cheick_Modibo_Diarra"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "M.S. aerospace eng.; Ph.D. mechanical eng. 1987"
+   },
+   {
+    "id": "microsoft",
+    "type": "executive",
+    "label": "chairman, Microsoft Africa"
+   },
+   {
+    "id": "nasa",
+    "type": "executive",
+    "label": "JPL navigator & outreach director"
+   }
+  ]
+ },
+ {
+  "id": "david-bullock",
+  "name": "David Bullock",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1993",
+  "base": "Los Angeles, CA",
+  "industry": "Digital Marketing",
+  "originBadge": "Anchorage Hooper",
+  "engineBadge": "Digital Marketing Agency",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Followed his older brother to Howard University; while a student he worked with Warner Music Group, Revolt TV, Allied Integrated Marketing and Atlantic Records.",
+  "humbleBeginnings": "Youngest of seven children, raised in Anchorage, Alaska, where he was an all-conference high-school basketball player.",
+  "breakthrough": "After working on Kanye West's Saint Pablo Tour, founded the 907 Agency, a digital-marketing firm serving music and entertainment clients.",
+  "legacy": "Named to HBCU Buzz's Top 30 Under 30 (2017) and other digital-influence lists.",
+  "breakthroughDetail": [
+   {
+    "t": "907 Agency.",
+    "d": "Founded a digital-marketing firm named for Alaska's area code.",
+    "basis": "documented"
+   },
+   {
+    "t": "Saint Pablo Tour.",
+    "d": "Traveled North America on Kanye West's 2016 tour before launching his firm.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "HBCU Top 30 Under 30.",
+    "d": "Recognized by HBCU Buzz in 2017.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — David Bullock (entrepreneur)",
+    "url": "https://en.wikipedia.org/wiki/David_Bullock_(entrepreneur)"
+   },
+   {
+    "label": "HBCU Buzz — HBCU Top 30 Under 30 2017",
+    "url": "https://hbcubuzz.com/2017/08/hbcu-top-30-under-30-2017/3/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "907-agency",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "nick-cannon",
+  "name": "Nick Cannon",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1980",
+  "base": "Los Angeles, CA",
+  "industry": "Television & Production",
+  "originBadge": "Teen Comic",
+  "engineBadge": "TV Hosting & Production",
+  "capitalBadge": "Production Company",
+  "hbcuStory": "Enrolled at Howard University as an adult while hosting network television; graduated in 2020 with a B.S. in criminology/administration of justice and a minor in Africana studies.",
+  "humbleBeginnings": "Born in San Diego; began doing stand-up as a teenager and joined Nickelodeon's All That.",
+  "breakthrough": "Created and hosts Wild 'N Out, revived on MTV2 in 2013 under his NCredible Entertainment banner, and hosted America's Got Talent and The Masked Singer.",
+  "legacy": "Owns NCredible Entertainment, which co-produced his 2020 syndicated talk show with Debmar-Mercury.",
+  "breakthroughDetail": [
+   {
+    "t": "Wild 'N Out.",
+    "d": "Created the improv franchise; its 2013 revival was produced by NCredible Entertainment.",
+    "basis": "documented"
+   },
+   {
+    "t": "Network host.",
+    "d": "Hosted America's Got Talent and The Masked Singer.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Howard graduate.",
+    "d": "Completed his Howard degree in 2020.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Nick Cannon",
+    "url": "https://en.wikipedia.org/wiki/Nick_Cannon"
+   },
+   {
+    "label": "GlobalGrind — America's Got Talent execs on Nick Cannon's departure (calls him a Howard University student)",
+    "url": "https://globalgrind.com/4217181/americas-got-talent-execs-have-this-to-say-about-nick-cannons-departure/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "B.S. 2020"
+   },
+   {
+    "id": "ncredible-entertainment",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "id": "amadou-gallo-fall",
+  "name": "Amadou Gallo Fall",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1963",
+  "base": "Dakar, Senegal",
+  "industry": "Professional Sports",
+  "originBadge": "Senegalese Center",
+  "engineBadge": "Basketball in Africa",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Recruited from Senegal to play center at the University of the District of Columbia, where he graduated magna cum laude (1993 per Senegalese press); inducted into UDC's Athletics Hall of Fame in 2020.",
+  "humbleBeginnings": "Grew up in Kaolack, Senegal, and was introduced to basketball as a teenager.",
+  "breakthrough": "Became the NBA's vice president and managing director for Africa in 2010, opening its Johannesburg office, and in 2020 was named the first president of the Basketball Africa League.",
+  "legacy": "Founded the SEED (Sports for Education and Economic Development) Project in 1998, including the SEED Academy in Thiès, Senegal.",
+  "breakthroughDetail": [
+   {
+    "t": "NBA Africa.",
+    "d": "Led the NBA's Africa business from 2010 to 2020.",
+    "basis": "documented"
+   },
+   {
+    "t": "BAL president.",
+    "d": "First president of the NBA–FIBA Basketball Africa League (2020).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "SEED Project, 1998.",
+    "d": "Founded a nonprofit that uses basketball to support education in Senegal.",
+    "basis": "documented"
+   },
+   {
+    "t": "UDC Hall of Fame.",
+    "d": "Inducted in 2020.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "NBA — NBA names Amadou Gallo Fall President of Basketball Africa League",
+    "url": "https://pr.nba.com/amadou-gallo-fall-basketball-africa-league-president/"
+   },
+   {
+    "label": "UDC Firebirds — Former UDC player Amadou Gallo Fall to head NBA Africa effort",
+    "url": "https://www.udcfirebirds.com/sports/mbkb/2009-10/releases/201002151zwin2"
+   },
+   {
+    "label": "Capital News Service — From D.C. to Dakar",
+    "url": "https://cnsmaryland.org/2024/08/07/from-d-c-to-dakar-basketball-connections-stretch-over-the-atlantic/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "university-of-the-district-of-columbia",
+    "type": "alumni",
+    "label": "B.S., magna cum laude"
+   },
+   {
+    "id": "national-basketball-association",
+    "type": "executive",
+    "label": "VP & MD, NBA Africa 2010–2020"
+   },
+   {
+    "id": "basketball-africa-league",
+    "type": "executive",
+    "label": "president 2020–"
+   }
+  ]
+ },
+ {
+  "id": "euphemia-haynes",
+  "name": "Euphemia Lofton Haynes",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1890–1980",
+  "base": "Washington, DC",
+  "industry": "Mathematics & Education",
+  "originBadge": "D.C. Native",
+  "engineBadge": "Mathematics",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from Washington's Miner Normal School in 1909 before earning a mathematics degree at Smith College (1914); she later founded the math department at Miner Teachers College.",
+  "humbleBeginnings": "Born in Washington, D.C., the daughter of a dentist and a kindergarten teacher.",
+  "breakthrough": "In 1943 became the first African American woman to earn a Ph.D. in mathematics, at Catholic University of America.",
+  "legacy": "Taught for decades in D.C. schools and at Miner Teachers College, and became the first woman to chair the D.C. Board of Education.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black woman math Ph.D.",
+    "d": "Catholic University of America, 1943.",
+    "basis": "documented"
+   },
+   {
+    "t": "Miner math department.",
+    "d": "Established the mathematics department at Miner Teachers College.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "School board chair.",
+    "d": "First woman president of the D.C. Board of Education.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "University at Buffalo — Euphemia Lofton Haynes (Mathematicians of the African Diaspora)",
+    "url": "http://www.math.buffalo.edu/mad/PEEPS/haynes.euphemia.lofton.html"
+   },
+   {
+    "label": "Agnes Scott College — Biographies of Women Mathematicians: Euphemia Lofton Haynes",
+    "url": "http://www.agnesscott.edu/lriddle/women/haynes-euphemia.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "miner-teachers-college",
+    "type": "alumni",
+    "label": "Miner Normal School, 1909"
+   },
+   {
+    "id": "miner-teachers-college",
+    "type": "faculty",
+    "label": "founded mathematics department"
+   }
+  ]
+ },
+ {
+  "id": "anthony-anderson",
+  "name": "Anthony Anderson",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1970",
+  "base": "Los Angeles, CA",
+  "industry": "Acting & Television",
+  "originBadge": "Compton Kid",
+  "engineBadge": "Film & Television",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Entered Howard's fine-arts program on scholarship but left as a junior over money problems; returned decades later and earned a B.F.A. from the Chadwick A. Boseman College of Fine Arts in May 2022, at 51.",
+  "humbleBeginnings": "Born in Compton, California; attended Hollywood High School's performing-arts magnet.",
+  "breakthrough": "Starred as Andre 'Dre' Johnson in ABC's black-ish (2014–2022), earning multiple Emmy nominations.",
+  "legacy": "Hosted the 2024 Emmy Awards and returned to finish his degree after his son was admitted to Howard.",
+  "breakthroughDetail": [
+   {
+    "t": "black-ish.",
+    "d": "Lead and executive producer of the ABC sitcom.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Degree at 51.",
+    "d": "Graduated from Howard in 2022, three decades after leaving.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "NBC Washington — Anthony Anderson celebrates graduating from Howard University at 51",
+    "url": "https://www.nbcwashington.com/entertainment/entertainment-news/anthony-anderson-celebrates-graduating-from-howard-university-at-51/3049731/?amp=1"
+   },
+   {
+    "label": "Romper — Anthony Anderson graduates Howard University",
+    "url": "https://www.romper.com/entertainment/anthony-anderson-graduates-howard-university"
+   }
+  ],
+  "connections": [
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "B.F.A. 2022"
+   }
+  ]
+ },
+ {
+  "id": "lisnr",
+  "name": "LISNR",
+  "type": "entity",
+  "kind": "Technology Company",
+  "description": "Cincinnati company whose platform transmits data between devices using inaudible sound.",
+  "gics": {
+   "sub": "Application Software",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "homage-hospitality-group",
+  "name": "Homage Hospitality Group",
+  "type": "entity",
+  "kind": "Boutique Hotel Company",
+  "description": "Black-owned boutique hotel management company founded in 2016; opened The Moor in New Orleans in 2018.",
+  "gics": {
+   "sub": "Hotels, Resorts & Cruise Lines",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "907-agency",
+  "name": "907 Agency",
+  "type": "entity",
+  "kind": "Digital Marketing Agency",
+  "description": "Digital-marketing firm founded by David Bullock serving music and entertainment clients.",
+  "gics": {
+   "sub": "Advertising",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "ncredible-entertainment",
+  "name": "NCredible Entertainment",
+  "type": "entity",
+  "kind": "Production Company",
+  "description": "Nick Cannon's production company behind the Wild 'N Out revival.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "national-basketball-association",
+  "name": "National Basketball Association",
+  "type": "entity",
+  "kind": "Professional Sports League",
+  "description": "North American men's professional basketball league.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "basketball-africa-league",
+  "name": "Basketball Africa League",
+  "type": "entity",
+  "kind": "Professional Sports League",
+  "description": "Pan-African professional league launched by the NBA and FIBA, first season 2021.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "national-basketball-association",
+    "type": "origin",
+    "label": "NBA–FIBA joint venture"
+   }
+  ]
  }
 ]

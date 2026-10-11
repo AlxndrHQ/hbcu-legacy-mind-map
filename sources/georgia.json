@@ -1254,7 +1254,7 @@
   "capitalBadge": "Bootstrapped",
   "hbcuStory": "Graduated from Morehouse in 1940 with a business administration degree; later taught at Atlanta University.",
   "humbleBeginnings": "Born in Atlanta and educated at Booker T. Washington High School.",
-  "breakthrough": "Built Q. V. Williamson & Company, a real estate brokerage, and helped develop the Black middle-class Collier Heights neighborhood; in 1965 became the first Black member of Atlanta's Board of Aldermen since Reconstruction.",
+  "breakthrough": "Built Q. V. Williamson & Company, a real estate brokerage, and helped develop the Black middle-class Collier Heights neighborhood; was elected in 1965 (taking office in January 1966) as the first Black member of Atlanta's Board of Aldermen since Reconstruction.",
   "legacy": "Chaired the National Association of Real Estate Brokers and co-chaired the Atlanta Negro Voters League, linking Black property ownership to political power.",
   "breakthroughDetail": [
    {
@@ -1263,8 +1263,8 @@
     "basis": "documented"
    },
    {
-    "t": "Alderman, 1966.",
-    "d": "First Black Atlanta alderman since Reconstruction, elected as a Republican.",
+    "t": "Alderman, elected 1965.",
+    "d": "First Black Atlanta alderman since Reconstruction, elected as a Republican; served 1966–1981.",
     "basis": "documented"
    }
   ],
@@ -1917,6 +1917,10 @@
    {
     "label": "Wikipedia — Bounce TV",
     "url": "https://en.wikipedia.org/wiki/Bounce_TV"
+   },
+   {
+    "label": "Los Angeles Times — M.L. King III: Father's path hard to follow (2001)",
+    "url": "https://www.latimes.com/archives/la-xpm-2001-aug-04-mn-30468-story.html"
    }
   ],
   "connections": [
@@ -2007,7 +2011,7 @@
   "type": "alumni",
   "category": "Finance & Investors",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living",
+  "lifespan": "b. 1990",
   "base": "Chicago, IL",
   "industry": "Fintech",
   "originBadge": "South Side Scholar",
@@ -4066,7 +4070,7 @@
   "originBadge": "Liberian Émigré",
   "engineBadge": "Global Consumer Brands",
   "capitalBadge": "Salary & Equity",
-  "hbcuStory": "After a B.S. in finance and economics at Northern Illinois University, earned an MBA in finance from Clark Atlanta University (as reported).",
+  "hbcuStory": "After a B.S. in finance and economics at Northern Illinois University, returned to the U.S. in the 1970s to earn an MBA in finance at Atlanta University (merged into Clark Atlanta University in 1988).",
   "humbleBeginnings": "Born in Monrovia; studied at Cuttington University College before leaving for the U.S.",
   "breakthrough": "Joined Pillsbury in 1982, becoming VP of finance for its international businesses, then spent 20 years at Coca-Cola, retiring in 2016 as chief administrative officer.",
   "legacy": "Returned to Liberia to lead the Alternative National Congress and chairs the Cummings Africa Foundation.",
@@ -4098,13 +4102,17 @@
    {
     "label": "Coca-Cola — Alexander B. Cummings to retire",
     "url": "http://www.coca-colacompany.com/press-center/press-releases/the-coca-cola-company-chief-administrative-officer-alexander-b-cummings-to-retire/"
+   },
+   {
+    "label": "Coca-Cola Consolidated — Cummings elected to board, 2010 (bio: MBA in Finance from Atlanta University)",
+    "url": "https://investor.cokeconsolidated.com/node/6981/pdf"
    }
   ],
   "connections": [
    {
-    "id": "clark-atlanta-university",
+    "id": "atlanta-university",
     "type": "alumni",
-    "label": "MBA in finance (reported as Clark Atlanta)"
+    "label": "MBA in finance (1970s)"
    },
    {
     "id": "coca-cola-company",
@@ -4455,7 +4463,7 @@
   "type": "alumni",
   "category": "Corporate Executives",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living",
+  "lifespan": "b. 1978",
   "base": "Washington, DC",
   "industry": "Technology / Music",
   "originBadge": "Congressman's Daughter",
@@ -5075,7 +5083,7 @@
     "label": "attended"
    },
    {
-    "id": "lincoln-university-missouri",
+    "id": "lincoln-university-of-missouri",
     "type": "alumni",
     "label": "attended"
    },
@@ -7389,6 +7397,815 @@
   "description": "Ugandan technology enterprise whose Zimba Women platform supports women entrepreneurs.",
   "gics": {
    "sub": "Interactive Media & Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "jerri-devard",
+  "name": "Jerri DeVard",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. c. 1958",
+  "base": "United States",
+  "industry": "Marketing / Retail",
+  "originBadge": "Spelman Economist",
+  "engineBadge": "Brand Marketing Leadership",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Graduated from Spelman College and earned an MBA from the Atlanta University Graduate School of Business (now part of Clark Atlanta); later served as a Spelman trustee (2005–2014).",
+  "humbleBeginnings": "Built her early marketing career at consumer brands including Pillsbury, Revlon and Harrah's Entertainment.",
+  "breakthrough": "Became a go-to chief marketing officer: SVP and CMO of The ADT Corporation (2014–2016), then EVP and CMO and later chief customer officer of Office Depot (2017–2020).",
+  "legacy": "Founded the Black Executive CMO Alliance to build a pipeline of Black C-suite marketers, and sits on public-company boards.",
+  "breakthroughDetail": [
+   {
+    "t": "ADT CMO.",
+    "d": "SVP and chief marketing officer of The ADT Corporation, March 2014–May 2016.",
+    "basis": "documented"
+   },
+   {
+    "t": "Office Depot C-suite.",
+    "d": "EVP and CMO (2017), then EVP and chief customer officer (2018–2020).",
+    "basis": "documented"
+   },
+   {
+    "t": "Blue-chip brand résumé.",
+    "d": "Senior marketing roles at Nokia, Verizon, Citibank, Revlon, Harrah's, the Minnesota Vikings and Pillsbury.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Board seats.",
+    "d": "Director of Under Armour, Cars.com and Root, Inc.",
+    "basis": "documented"
+   },
+   {
+    "t": "BECA founder.",
+    "d": "Founded the Black Executive CMO Alliance.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Root, Inc. 2021 proxy statement (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1788882/000178888221000018/root-2021annualproxystatem.htm"
+   },
+   {
+    "label": "Under Armour — DeVard nominated to board, 2017 (SEC filing)",
+    "url": "https://www.sec.gov/Archives/edgar/data/1336917/000119312517122332/d364747ddefa14a.htm"
+   }
+  ],
+  "connections": [
+   {
+    "id": "spelman-college",
+    "type": "alumni",
+    "label": "B.A.; trustee 2005–2014"
+   },
+   {
+    "id": "atlanta-university",
+    "type": "alumni",
+    "label": "MBA, Graduate School of Business"
+   },
+   {
+    "id": "office-depot",
+    "type": "executive",
+    "label": "EVP, CMO and chief customer officer 2017–2020"
+   },
+   {
+    "id": "adt",
+    "type": "executive",
+    "label": "SVP & CMO 2014–2016"
+   },
+   {
+    "id": "under-armour",
+    "type": "board",
+    "label": "director"
+   },
+   {
+    "id": "black-executive-cmo-alliance",
+    "type": "ownership",
+    "label": "founder"
+   },
+   {
+    "id": "pillsbury",
+    "type": "executive",
+    "label": "senior marketing role"
+   }
+  ]
+ },
+ {
+  "id": "veronica-biggins",
+  "name": "Veronica Biggins",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. c. 1946",
+  "base": "Atlanta, GA",
+  "industry": "Banking / Executive search",
+  "originBadge": "Spelman Graduate",
+  "engineBadge": "Executive & Board Search",
+  "capitalBadge": "Salary & Partnership",
+  "hbcuStory": "Earned a bachelor's degree at Spelman College, then an M.Ed. at Georgia State University.",
+  "humbleBeginnings": "Spent 20 years at Citizens and Southern National Bank and its successor NationsBank, rising from human resources to executive vice president.",
+  "breakthrough": "Became one of the highest-ranking women in Southern banking, then served President Clinton as Director of Presidential Personnel before building a career as an executive-search partner.",
+  "legacy": "Became the first African American on Southwest Airlines' board and a leading placer of corporate directors at Heidrick & Struggles, Hodge Partners and Diversified Search.",
+  "breakthroughDetail": [
+   {
+    "t": "C&S / NationsBank EVP.",
+    "d": "Executive vice president and director of human resources for Georgia, later EVP for corporate community relations.",
+    "basis": "documented"
+   },
+   {
+    "t": "White House personnel chief.",
+    "d": "Assistant to the President and Director of Presidential Personnel under Bill Clinton.",
+    "basis": "documented"
+   },
+   {
+    "t": "Search partner.",
+    "d": "Managing partner of Heidrick & Struggles' diversity practice (1996–2007), then Hodge Partners and Diversified Search.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Boardroom firsts.",
+    "d": "First African American director of Southwest Airlines; also served on AirTran, Avnet and Zep boards.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Certus Holdings S-1, 2012 (SEC) — director biography",
+    "url": "https://www.sec.gov/Archives/edgar/data/1492654/000110465912002055/a11-31667_1s1.htm"
+   },
+   {
+    "label": "Diversified Search Group — Veronica Biggins",
+    "url": "https://www.dsgco.com/?p=368"
+   },
+   {
+    "label": "SaportaReport — Biggins on her three careers (2012)",
+    "url": "https://saportareport.com/?p=12137"
+   }
+  ],
+  "connections": [
+   {
+    "id": "spelman-college",
+    "type": "alumni",
+    "label": "B.A."
+   },
+   {
+    "id": "bank-of-america",
+    "type": "executive",
+    "label": "EVP at C&S/NationsBank (predecessors)"
+   },
+   {
+    "id": "heidrick-and-struggles",
+    "type": "executive",
+    "label": "managing partner 1996–2007"
+   },
+   {
+    "id": "diversified-search-group",
+    "type": "executive",
+    "label": "managing director/partner"
+   },
+   {
+    "id": "southwest-airlines",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "helen-smith-price",
+  "name": "Helen Smith Price",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Atlanta, GA",
+  "industry": "Corporate philanthropy / Beverages",
+  "originBadge": "Atlanta CPA",
+  "engineBadge": "Corporate Giving Strategy",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a B.S. in chemistry at Spelman College (class of 1979) and an MBA from Clark Atlanta University; elected a Spelman trustee in 2016.",
+  "humbleBeginnings": "An Atlanta native, she began at Arthur Andersen & Co. and BellSouth in audit, tax and accounting as a licensed CPA.",
+  "breakthrough": "Joined Coca-Cola in 1993 and rose to vice president of global community affairs and president of The Coca-Cola Foundation (named 2016).",
+  "legacy": "Retired in 2021 after 28 years and serves on the boards of Coca-Cola Bottling Company UNITED and Westside Future Fund.",
+  "breakthroughDetail": [
+   {
+    "t": "Coca-Cola Foundation president.",
+    "d": "Succeeded Lisa Borders as president in 2016.",
+    "basis": "documented"
+   },
+   {
+    "t": "CPA roots.",
+    "d": "Arthur Andersen and BellSouth before Coca-Cola.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Board roles.",
+    "d": "Director of Coca-Cola Bottling Company UNITED; Spelman trustee.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Spelman College — Helen Smith Price profile",
+    "url": "http://www.spelman.edu/staff/profiles/helen-smith-price.html"
+   },
+   {
+    "label": "Metro MBA — Clark Atlanta MBA alumna named president of Coca-Cola Foundation",
+    "url": "https://www.metromba.com/2016/04/clark-atlanta-mba-alumna-named-president-coca-cola-foundation/amp/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "spelman-college",
+    "type": "alumni",
+    "label": "B.S. chemistry 1979; trustee"
+   },
+   {
+    "id": "clark-atlanta-university",
+    "type": "alumni",
+    "label": "MBA"
+   },
+   {
+    "id": "coca-cola-company",
+    "type": "executive",
+    "label": "VP global community affairs; Coca-Cola Foundation president"
+   }
+  ]
+ },
+ {
+  "id": "lamell-mcmorris",
+  "name": "Lamell McMorris",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "Washington, DC",
+  "industry": "Public affairs / Sports representation",
+  "originBadge": "Chicago Native",
+  "engineBadge": "Government Relations Firms",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.A. in religion and society at Morehouse College, then an M.Div. at Princeton Theological Seminary and a doctorate in law and policy at Northeastern.",
+  "humbleBeginnings": "A Chicago native, he came up through civil-rights organizing before moving to Washington in 2002.",
+  "breakthrough": "Founded Perennial Strategy Group, a government-relations and public-affairs firm, in 2002, followed by Perennial Sports and Entertainment (an NFL/NBA player agency) and Perennial Law Group.",
+  "legacy": "Later founded Phase 2 Consulting and in 2021 joined Edward Jones as head of policy; sits on boards including the National Urban League.",
+  "breakthroughDetail": [
+   {
+    "t": "Perennial founded 2002.",
+    "d": "Strategic advisory firm in Washington, D.C.",
+    "basis": "documented"
+   },
+   {
+    "t": "Sports agency.",
+    "d": "Led Perennial Sports, representing NFL and NBA players.",
+    "basis": "documented"
+   },
+   {
+    "t": "Edward Jones.",
+    "d": "Principal and head of policy, regulatory and government relations since 2021.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Civic boards.",
+    "d": "Trustee of the National Urban League; board roles with Rainbow/PUSH and PGA REACH.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "U.S. Chamber of Commerce Foundation — Lamell McMorris bio",
+    "url": "https://www.uschamberfoundation.org/bio/lamell-mcmorris"
+   },
+   {
+    "label": "Porchlight Books — Lamell J. McMorris author bio",
+    "url": "https://www.porchlightbooks.com/pages/author/Lamell_J_McMorris-17704647"
+   },
+   {
+    "label": "Elmhurst University — McMorris to chair Red Cross diversity council",
+    "url": "https://www.elmhurst.edu/?p=13718"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morehouse-college",
+    "type": "alumni",
+    "label": "B.A. religion and society"
+   },
+   {
+    "id": "perennial-strategy-group",
+    "type": "ownership",
+    "label": "founder, 2002"
+   },
+   {
+    "id": "edward-jones",
+    "type": "executive",
+    "label": "head of policy, 2021–"
+   },
+   {
+    "id": "national-urban-league",
+    "type": "board",
+    "label": "trustee"
+   }
+  ]
+ },
+ {
+  "id": "kenny-leon",
+  "name": "Kenny Leon",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1956",
+  "base": "Atlanta, GA",
+  "industry": "Theater / Film",
+  "originBadge": "Tallahassee Upward Bound",
+  "engineBadge": "Stage & Screen Directing",
+  "capitalBadge": "Nonprofit Theater",
+  "hbcuStory": "Earned a B.A. in political science from Clark College (now Clark Atlanta University) in 1978, then briefly attended law school before turning to theater.",
+  "humbleBeginnings": "Born in Tallahassee and raised in St. Petersburg, Florida; an Upward Bound program first put him on stage.",
+  "breakthrough": "Became artistic director of Atlanta's Alliance Theatre, then co-founded True Colors Theatre Company in 2002 and won the 2014 Tony for directing A Raisin in the Sun.",
+  "legacy": "One of Broadway's most prominent Black directors and an Atlanta cultural institution-builder.",
+  "breakthroughDetail": [
+   {
+    "t": "Alliance Theatre.",
+    "d": "Joined in 1988 and led it as artistic director.",
+    "basis": "documented"
+   },
+   {
+    "t": "True Colors.",
+    "d": "Co-founded True Colors Theatre Company in 2002.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Institution builder.",
+    "d": "True Colors remains an Atlanta-based Black theater company.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Kenny Leon",
+    "url": "https://en.wikipedia.org/wiki/Kenny_Leon"
+   },
+   {
+    "label": "Atlanta Magazine — Star turn: drama king",
+    "url": "https://www.atlantamagazine.com/southbound-articles/star-turn-drama-king/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "clark-college",
+    "type": "alumni",
+    "label": "B.A. political science 1978"
+   },
+   {
+    "id": "true-colors-theatre-company",
+    "type": "ownership",
+    "label": "co-founder 2002"
+   },
+   {
+    "id": "alliance-theatre",
+    "type": "executive",
+    "label": "artistic director"
+   }
+  ]
+ },
+ {
+  "id": "james-compton",
+  "name": "James Compton",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. 1939",
+  "base": "Chicago, IL",
+  "industry": "Civil rights / Corporate boards",
+  "originBadge": "Merrill Scholar",
+  "engineBadge": "Urban Economic Development",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Received a B.A. in political science from Morehouse College in 1961, where a Charles E. Merrill fellowship sent him to study at the University of Grenoble.",
+  "humbleBeginnings": "Born in Aurora, Illinois, and raised in Chicago; worked with Benjamin Mays at Morehouse and with Dr. King's 1966 Chicago campaign.",
+  "breakthrough": "Led the Chicago Urban League for 34 years (executive director from 1972, president and CEO 1978–2006) and its economic development corporation.",
+  "legacy": "A long-serving corporate director at ComEd/Unicom, Ariel Mutual Funds and Seaway National Bank.",
+  "breakthroughDetail": [
+   {
+    "t": "Chicago Urban League.",
+    "d": "President and CEO from 1978; executive director from 1972.",
+    "basis": "documented"
+   },
+   {
+    "t": "ComEd director.",
+    "d": "Director of ComEd 1989–2000 and again from 2006; also on Unicom's board.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Black-owned finance boards.",
+    "d": "Trustee of Ariel Mutual Funds and director of Seaway National Bank.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "ComEd news release — James W. Compton named to board, 2006 (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/22606/000095013706010277/c08664exv99w1.htm"
+   },
+   {
+    "label": "Wikipedia — James Compton",
+    "url": "https://en.wikipedia.org/wiki/James_Compton"
+   }
+  ],
+  "connections": [
+   {
+    "id": "morehouse-college",
+    "type": "alumni",
+    "label": "B.A. political science 1961"
+   },
+   {
+    "id": "chicago-urban-league",
+    "type": "executive",
+    "label": "president & CEO 1978–2006"
+   },
+   {
+    "id": "commonwealth-edison",
+    "type": "board",
+    "label": "director 1989–2000, 2006–"
+   },
+   {
+    "id": "ariel-investments",
+    "type": "board",
+    "label": "trustee, Ariel Mutual Funds"
+   },
+   {
+    "id": "seaway-national-bank",
+    "type": "board",
+    "label": "director"
+   }
+  ]
+ },
+ {
+  "id": "luther-judson-price",
+  "name": "Luther Judson Price",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1856–1936",
+  "base": "South Atlanta, GA",
+  "industry": "Retail / Postal service",
+  "originBadge": "Born Enslaved",
+  "engineBadge": "General Store",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Among the first graduates of Clark College in Atlanta.",
+  "humbleBeginnings": "Born enslaved; rose to become one of South Atlanta's leading Black citizens.",
+  "breakthrough": "Ran a general store next to his post office in South Atlanta's Brownsville area and was federally appointed postmaster of South Atlanta from 1889.",
+  "legacy": "Led Black voter-registration drives; Atlanta's Luther J. Price school is named for him, and his restored home was featured on This Old House (2022).",
+  "breakthroughDetail": [
+   {
+    "t": "Postmaster.",
+    "d": "Federally appointed postmaster of South Atlanta, 1889.",
+    "basis": "documented"
+   },
+   {
+    "t": "Storekeeper.",
+    "d": "Operated a general store beside the post office.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Named school.",
+    "d": "Luther Judson Price High School (now middle school) honors him.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "GPB — Old house restoration honors Black Atlanta postmaster (2022)",
+    "url": "https://www.gpb.org/news/2022/09/07/old-house-restoration-honors-black-atlanta-postmaster"
+   },
+   {
+    "label": "Wikipedia — Luther Judson Price",
+    "url": "https://en.wikipedia.org/wiki/Luther_Judson_Price"
+   }
+  ],
+  "connections": [
+   {
+    "id": "clark-college",
+    "type": "alumni",
+    "label": "early graduate"
+   }
+  ]
+ },
+ {
+  "id": "albon-holsey",
+  "name": "Albon Holsey",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1883–1950",
+  "base": "Tuskegee, AL",
+  "industry": "Black business advocacy / Grocery cooperative",
+  "originBadge": "Athens, Georgia",
+  "engineBadge": "Black Merchant Networks",
+  "capitalBadge": "Member Dues",
+  "hbcuStory": "Attended Knox Institute in Athens, Georgia, then Atlanta University.",
+  "humbleBeginnings": "Born in Athens, Georgia; spent 37 years at Tuskegee Institute, including as secretary to principal Robert R. Moton.",
+  "breakthrough": "As secretary of the National Negro Business League, led the effort to turn the Colored Merchants' Association grocery cooperative into a national network in about 18 cities.",
+  "legacy": "Received a Harmon Award for business achievement; the CMA collapsed around 1934 under Depression-era debts.",
+  "breakthroughDetail": [
+   {
+    "t": "NNBL secretary.",
+    "d": "Executive secretary of Booker T. Washington's National Negro Business League.",
+    "basis": "documented"
+   },
+   {
+    "t": "Colored Merchants' Association.",
+    "d": "Expanded the Black grocers' buying cooperative nationally from 1928.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Harmon Award.",
+    "d": "Honored for distinguished achievement in business.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Encyclopedia.com — Holsey, Albon L.",
+    "url": "https://www.encyclopedia.com/african-american-focus/news-wires-white-papers-and-books/holsey-albon-l"
+   },
+   {
+    "label": "Wikipedia — Albon Holsey",
+    "url": "https://en.wikipedia.org/wiki/Albon_Holsey"
+   }
+  ],
+  "connections": [
+   {
+    "id": "atlanta-university",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "national-negro-business-league",
+    "type": "executive",
+    "label": "executive secretary"
+   },
+   {
+    "id": "colored-merchants-association",
+    "type": "executive",
+    "label": "led national expansion"
+   }
+  ]
+ },
+ {
+  "id": "janet-bragg",
+  "name": "Janet Bragg",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1907–1993",
+  "base": "Chicago, IL",
+  "industry": "Aviation / Nursing homes",
+  "originBadge": "Griffin, Georgia",
+  "engineBadge": "Nursing Home Operator",
+  "capitalBadge": "Nurse's Savings",
+  "hbcuStory": "Studied nursing at Spelman Seminary (now Spelman College), qualifying as a registered nurse in 1929.",
+  "humbleBeginnings": "Born in Griffin, Georgia, the youngest of seven children; moved to Chicago and worked as a nurse.",
+  "breakthrough": "Bought the first airplane for Chicago's Black Challenger Air Pilots Association in 1934 and in 1943 became the first African American woman to earn an unlimited commercial pilot's license.",
+  "legacy": "With husband Sumner Bragg founded and ran two nursing homes for the elderly in Chicago until 1972; inducted into the Georgia Aviation Hall of Fame (2022).",
+  "breakthroughDetail": [
+   {
+    "t": "First plane.",
+    "d": "Bought a $500 airplane used by the Challenger club and its school.",
+    "basis": "documented"
+   },
+   {
+    "t": "Commercial license.",
+    "d": "First African American woman with an unlimited commercial pilot's license (1943).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Nursing homes.",
+    "d": "Co-founded and managed two Chicago nursing homes with her husband.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Smithsonian National Air and Space Museum — Janet Bragg",
+    "url": "https://airandspace.si.edu/stories/editorial/janet-bragg-first-black-woman-unlimited-commercial-pilots-license"
+   },
+   {
+    "label": "Wikipedia — Janet Bragg",
+    "url": "https://en.wikipedia.org/wiki/Janet_Bragg"
+   }
+  ],
+  "connections": [
+   {
+    "id": "spelman-college",
+    "type": "alumni",
+    "label": "nursing, RN 1929"
+   }
+  ]
+ },
+ {
+  "id": "office-depot",
+  "name": "Office Depot",
+  "type": "entity",
+  "kind": "Office Supply Retailer",
+  "description": "U.S. office-supply retailer, now part of The ODP Corporation.",
+  "gics": {
+   "sub": "Other Specialty Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "adt",
+  "name": "ADT",
+  "type": "entity",
+  "kind": "Security Services Company",
+  "description": "Home and business security and monitoring company.",
+  "gics": {
+   "sub": "Specialized Consumer Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "under-armour",
+  "name": "Under Armour",
+  "type": "entity",
+  "kind": "Athletic Apparel Company",
+  "description": "Baltimore-based sports apparel and footwear company.",
+  "gics": {
+   "sub": "Apparel, Accessories & Luxury Goods",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "black-executive-cmo-alliance",
+  "name": "Black Executive CMO Alliance",
+  "type": "entity",
+  "kind": "Professional Alliance",
+  "description": "Alliance founded by Jerri DeVard to develop Black C-suite marketing executives.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "diversified-search-group",
+  "name": "Diversified Search Group",
+  "type": "entity",
+  "kind": "Executive Search Firm",
+  "description": "Executive and board search firm.",
+  "gics": {
+   "sub": "Human Resource & Employment Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "southwest-airlines",
+  "name": "Southwest Airlines",
+  "type": "entity",
+  "kind": "Airline",
+  "description": "U.S. low-cost airline based in Dallas.",
+  "gics": {
+   "sub": "Passenger Airlines",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "perennial-strategy-group",
+  "name": "Perennial Strategy Group",
+  "type": "entity",
+  "kind": "Public Affairs Firm",
+  "description": "Washington government-relations and public-affairs firm founded by Lamell McMorris in 2002.",
+  "gics": {
+   "sub": "Advertising",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "edward-jones",
+  "name": "Edward Jones",
+  "type": "entity",
+  "kind": "Brokerage Firm",
+  "description": "St. Louis-based retail brokerage and financial-advisory firm.",
+  "gics": {
+   "sub": "Investment Banking & Brokerage",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "true-colors-theatre-company",
+  "name": "True Colors Theatre Company",
+  "type": "entity",
+  "kind": "Nonprofit Theater",
+  "description": "Atlanta theater company co-founded by Kenny Leon in 2002.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "alliance-theatre",
+  "name": "Alliance Theatre",
+  "type": "entity",
+  "kind": "Nonprofit Theater",
+  "description": "Regional theater of Atlanta's Woodruff Arts Center.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "chicago-urban-league",
+  "name": "Chicago Urban League",
+  "type": "entity",
+  "kind": "Civil Rights Organization",
+  "description": "Chicago affiliate of the National Urban League.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "commonwealth-edison",
+  "name": "Commonwealth Edison (ComEd)",
+  "type": "entity",
+  "kind": "Electric Utility",
+  "description": "Chicago-area electric utility, a unit of Exelon.",
+  "gics": {
+   "sub": "Electric Utilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "ariel-investments",
+  "name": "Ariel Investments",
+  "type": "entity",
+  "kind": "Asset Manager",
+  "description": "Chicago-based Black-owned investment firm and mutual-fund sponsor.",
+  "gics": {
+   "sub": "Asset Management & Custody Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "seaway-national-bank",
+  "name": "Seaway National Bank",
+  "type": "entity",
+  "kind": "Bank",
+  "description": "Black-owned Chicago bank founded in 1964.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "colored-merchants-association",
+  "name": "Colored Merchants' Association",
+  "type": "entity",
+  "kind": "Grocery Cooperative",
+  "description": "Buying cooperative of Black-owned grocery stores founded in 1928 and expanded by the National Negro Business League.",
+  "gics": {
+   "sub": "Food Distributors",
    "basis": "inferred"
   },
   "connections": []

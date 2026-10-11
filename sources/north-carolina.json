@@ -1374,6 +1374,10 @@
    {
     "label": "Wikipedia — North Carolina A&T State University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/North_Carolina_A%26T_State_University"
+   },
+   {
+    "label": "EdNC — Trailblazer profiles: Hilda Pinnix-Ragland",
+    "url": "https://www.ednc.org/perspective-trailblazer-profiles-hilda-pinnix-ragland/"
    }
   ],
   "connections": [
@@ -1411,9 +1415,9 @@
   "originBadge": "Engineering Aggie",
   "engineBadge": "Enterprise Technology",
   "capitalBadge": "Salary & Equity",
-  "hbcuStory": "Graduated from N.C. A&T in 1990; joined its Board of Trustees in 2023 and became chair in 2025. A&T honored her with an Alumni Achievement Award in 2025.",
+  "hbcuStory": "Earned a B.S. in electrical engineering at N.C. A&T in 1990 (interning at IBM before graduating); joined its Board of Trustees in 2023 and became chair in 2025. A&T honored her with an Alumni Achievement Award in 2025.",
   "humbleBeginnings": "Built a technical career at IBM before moving to Microsoft.",
-  "breakthrough": "Rose to chief technology officer of Microsoft U.S., retiring recently, after executive roles at IBM.",
+  "breakthrough": "Spent about 15 years at IBM, then served as vice president and chief technology officer of Microsoft U.S. (2019–2021); has since sat on corporate boards including Thoughtworks.",
   "legacy": "Now a Fortune 100 board director serving on the boards of TIAA, TTEC, Thoughtworks, Foursquare and RTI International.",
   "breakthroughDetail": [
    {
@@ -1443,6 +1447,10 @@
    {
     "label": "N.C. A&T — Honors 13 distinguished alumni (Fall 2025)",
     "url": "https://www.ncat.edu/news/2025/10/fall-2025-convocation-web-story.php"
+   },
+   {
+    "label": "Thoughtworks — Board of directors: Gina Loften",
+    "url": "https://www.thoughtworks.com/profiles/board/gina-loften"
    }
   ],
   "connections": [
@@ -1465,6 +1473,11 @@
     "id": "north-carolina-a-and-t-state-university",
     "type": "board",
     "label": "chair, Board of Trustees, 2025–"
+   },
+   {
+    "id": "thoughtworks",
+    "type": "board",
+    "label": "board of directors"
    }
   ]
  },
@@ -1510,8 +1523,8 @@
     "url": "https://www.ncat.edu/about/130th/alumni.php"
    },
    {
-    "label": "Wikipedia — Lyda Moore Merrick",
-    "url": "https://en.wikipedia.org/wiki/Lyda_Moore_Merrick"
+    "label": "Open Durham — 2008 Fayetteville Street (Merrick–Sansom House)",
+    "url": "https://www.opendurham.org/buildings/2008-fayetteville-street-merrick-sansom-house"
    }
   ],
   "connections": [
@@ -1654,6 +1667,10 @@
    {
     "label": "Wikipedia — North Carolina Central University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   },
+   {
+    "label": "Carolina Alumni (UNC GAA) — Benjamin Sylvester Ruffin '76",
+    "url": "https://alumni.unc.edu/benjamin-sylvester-ruffin-76/"
    }
   ],
   "connections": [
@@ -1964,6 +1981,10 @@
    {
     "label": "Wikipedia — Shaw University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Shaw_University"
+   },
+   {
+    "label": "Encyclopedia.com — Willie Gary",
+    "url": "https://www.encyclopedia.com/people/sports-and-games/sports-biographies/willie-gary"
    }
   ],
   "connections": [
@@ -2125,6 +2146,10 @@
    {
     "label": "Wikipedia — North Carolina Mutual Life Insurance Company",
     "url": "https://en.wikipedia.org/wiki/North_Carolina_Mutual_Life_Insurance_Company"
+   },
+   {
+    "label": "Durham County 'And Justice for All' — Dr. Aaron M. Moore",
+    "url": "http://andjusticeforall.dconc.gov/gallery_images/dr-aaron-m-moore-a-founder-of-north-carolina-mutual-life-insurance-company-lincoln-hospital-and-stanford-warren-library/"
    }
   ],
   "connections": [
@@ -2272,6 +2297,10 @@
    {
     "label": "Wikipedia — Leonard Medical School",
     "url": "https://en.wikipedia.org/wiki/Leonard_Medical_School"
+   },
+   {
+    "label": "Visit Raleigh — Pope House Museum",
+    "url": "https://www.visitraleigh.com/listing/pope-house-museum/59075/"
    }
   ],
   "connections": [
@@ -2348,6 +2377,10 @@
    {
     "label": "Wikipedia — Winston-Salem State University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Winston-Salem_State_University"
+   },
+   {
+    "label": "ClutchPoints — HBCU success stories: Stephen A. Smith, Winston-Salem State",
+    "url": "https://clutchpoints.com/hbcu-success-stories-stephen-a-smith-winston-salem-state"
    }
   ],
   "connections": [
@@ -3242,6 +3275,11 @@
     "t": "Legislative pioneer.",
     "d": "First Black N.C. House member of the 20th century.",
     "basis": "pattern"
+   },
+   {
+    "t": "Greensboro National Bank.",
+    "d": "Organized Greensboro's first Black-owned bank, which opened in November 1971 with about $700,000 in capital, and served as its president for its first decade.",
+    "basis": "documented"
    }
   ],
   "aliases": [],
@@ -3253,6 +3291,18 @@
    {
     "label": "N.C. A&T — 130th Anniversary: Prominent Alumni",
     "url": "https://www.ncat.edu/about/130th/alumni.php"
+   },
+   {
+    "label": "N.C. Highway Historical Marker (HMdb) — Henry E. Frye",
+    "url": "https://www.hmdb.org/m.asp?m=99399"
+   },
+   {
+    "label": "Documenting the American South — Henry Frye oral history (1971: organized Greensboro National Bank)",
+    "url": "https://docsouth.unc.edu/sohp/C-0091/excerpts/excerpt_4972.html"
+   },
+   {
+    "label": "NCAnchor — Henry Frye",
+    "url": "https://www.ncanchor.org/anchor/henry-frye"
    }
   ],
   "connections": [
@@ -3260,6 +3310,11 @@
     "id": "north-carolina-a-and-t-state-university",
     "type": "alumni",
     "label": "B.S., highest honors"
+   },
+   {
+    "id": "greensboro-national-bank",
+    "type": "ownership",
+    "label": "organizer & president, 1971–1981"
    }
   ]
  },
@@ -3410,6 +3465,10 @@
    {
     "label": "Wikipedia — North Carolina Central University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   },
+   {
+    "label": "New Georgia Encyclopedia — Maynard Jackson (1938–2003)",
+    "url": "https://www.georgiaencyclopedia.org/articles/government-politics/maynard-jackson-1938-2003/"
    }
   ],
   "connections": [
@@ -3464,6 +3523,10 @@
    {
     "label": "Wikipedia — North Carolina Central University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/North_Carolina_Central_University"
+   },
+   {
+    "label": "UNC-TV Biographical Conversations (archived) — Julius Chambers",
+    "url": "https://web.archive.org/web/20040918083223/http://www.unctv.org/biocon/jchambers/part1.html"
    }
   ],
   "connections": [
@@ -3523,6 +3586,10 @@
    {
     "label": "Wikipedia — Shaw University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Shaw_University"
+   },
+   {
+    "label": "Philadelphia Tribune — The work and wisdom of Ella Baker",
+    "url": "https://www.phillytrib.com/commentary/randolph-the-work-and-wisdom-of-ella-baker/article_77c3485b-eb4d-5f59-b73f-7e60bedb5b8c.html"
    }
   ],
   "connections": [
@@ -3577,6 +3644,10 @@
    {
     "label": "Wikipedia — Barber–Scotia College (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Barber%E2%80%93Scotia_College"
+   },
+   {
+    "label": "History Hit — Who was Mary McLeod Bethune?",
+    "url": "https://www.historyhit.com/who-was-mary-jane-mcleod-bethune/"
    }
   ],
   "connections": [
@@ -3636,6 +3707,10 @@
    {
     "label": "Wikipedia — List of Johnson C. Smith University alumni",
     "url": "https://en.wikipedia.org/wiki/List_of_Johnson_C._Smith_University_alumni"
+   },
+   {
+    "label": "History, Art & Archives, U.S. House — Eva M. Clayton",
+    "url": "https://history.house.gov/People/Listing/C/CLAYTON,-Eva-M--(C000494)/"
    }
   ],
   "connections": [
@@ -3695,6 +3770,10 @@
    {
     "label": "Wikipedia — List of Johnson C. Smith University alumni",
     "url": "https://en.wikipedia.org/wiki/List_of_Johnson_C._Smith_University_alumni"
+   },
+   {
+    "label": "Science History Institute — Henry Aaron Hill",
+    "url": "https://www.sciencehistory.org/historical-profile/henry-aaron-hill"
    }
   ],
   "connections": [
@@ -3749,6 +3828,10 @@
    {
     "label": "Wikipedia — Livingstone College (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Livingstone_College"
+   },
+   {
+    "label": "Encyclopedia.com — Koontz, Elizabeth Duncan",
+    "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/koontz-elizabeth-duncan-libby"
    }
   ],
   "connections": [
@@ -3916,6 +3999,10 @@
    {
     "label": "Wikipedia — Saint Augustine's University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Saint_Augustine%27s_University"
+   },
+   {
+    "label": "NCpedia — Delany, Henry Beard",
+    "url": "https://ncpedia.org/biography/delany-henry-beard"
    }
   ],
   "connections": [
@@ -4549,6 +4636,462 @@
   "description": "Largest U.S. teachers' union.",
   "gics": {
    "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "josh-parker",
+  "name": "Josh Parker",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Durham, NC",
+  "industry": "Real Estate Development",
+  "originBadge": "Business Grad",
+  "engineBadge": "Mixed-use & Life-science Development",
+  "capitalBadge": "Institutional Capital",
+  "hbcuStory": "Graduated from North Carolina Central University in 2008; appointed to the NCCU Foundation Board of Directors in January 2026.",
+  "humbleBeginnings": "Started his development career in his alma mater's hometown, Durham.",
+  "breakthrough": "Founded Ancora, where as chairman and CEO he has led more than five million square feet of development valued at over $4.5 billion.",
+  "legacy": "Projects include major Downtown Durham developments and the Cortex Innovation Community in St. Louis.",
+  "breakthroughDetail": [
+   {
+    "t": "Ancora founder.",
+    "d": "Chairman and CEO; oversees firm strategy and operations.",
+    "basis": "documented"
+   },
+   {
+    "t": "$4.5B+ portfolio.",
+    "d": "Over five million square feet developed.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NCCU Foundation board.",
+    "d": "Joined 2026.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "NCCU — Five visionary leaders join NCCU Foundation board (2026)",
+    "url": "https://www.nccu.edu/news/five-visionary-leaders-join-nccu-foundation-board-directors"
+   },
+   {
+    "label": "Delphi Economic Forum — speaker profile: Josh Parker",
+    "url": "https://def-ix.delphiforum.gr/speaker/12324643186"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-central-university",
+    "type": "alumni",
+    "label": "class of 2008"
+   },
+   {
+    "id": "north-carolina-central-university",
+    "type": "board",
+    "label": "NCCU Foundation board, 2026–"
+   },
+   {
+    "id": "ancora",
+    "type": "ownership",
+    "label": "founder, chairman & CEO"
+   }
+  ]
+ },
+ {
+  "id": "kwame-molden",
+  "name": "Kwame Molden",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Charlotte, NC",
+  "industry": "Watches & Accessories",
+  "originBadge": "IT Grad",
+  "engineBadge": "Department-store Distribution",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a B.S. in information technology at N.C. A&T in 2009 (MBA in marketing, UNC Charlotte, 2012); A&T honored him as a distinguished alumnus in 2025.",
+  "humbleBeginnings": "Grew up in Fayetteville, N.C., attending E.E. Smith High School.",
+  "breakthrough": "Co-founded SPGBK Watches and, as president, took the designer brand into more than 350 stores including Nordstrom, Macy's, Belk and Nordstrom Rack.",
+  "legacy": "Gives watches to educators through the brand's school program; NCCU's December 2024 commencement speaker.",
+  "breakthroughDetail": [
+   {
+    "t": "SPGBK Watches.",
+    "d": "Co-founder & president; 350+ retail doors.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Alumni honors.",
+    "d": "N.C. A&T Distinguished Alumni, Fall 2025 convocation keynote.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "N.C. A&T — Fall 2025 convocation honors 13 distinguished alumni",
+    "url": "https://ncat.edu/news/2025/10/fall-2025-convocation-web-story.php"
+   },
+   {
+    "label": "NCCU — SPGBK Watches co-founder & president announced as commencement speaker",
+    "url": "https://www.nccu.edu/news/spgbk-watches-co-founder-president-announced-nccu-commencement-speaker"
+   }
+  ],
+  "connections": [
+   {
+    "id": "north-carolina-a-and-t-state-university",
+    "type": "alumni",
+    "label": "B.S. information technology 2009"
+   },
+   {
+    "id": "spgbk-watches",
+    "type": "ownership",
+    "label": "co-founder & president"
+   }
+  ]
+ },
+ {
+  "id": "julia-pearl-hughes",
+  "name": "Julia Pearl Hughes",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1873–1950",
+  "base": "Washington, DC",
+  "industry": "Pharmacy & Hair Care",
+  "originBadge": "Seminary Grad Pharmacist",
+  "engineBadge": "Drugstore & Hair Products",
+  "capitalBadge": "Bootstrapped ($5 start)",
+  "hbcuStory": "Graduated from Scotia Seminary (now Barber-Scotia College) in Concord, N.C., in 1893, taught school, then earned a pharmacy degree at Howard University in 1897.",
+  "humbleBeginnings": "Born in Alamance County, N.C., the sixth of eight children.",
+  "breakthrough": "Opened Hughes Pharmacy at 937 Christian Street in Philadelphia in 1899 — cited as the first drugstore owned and operated by a Black woman pharmacist — and later ran a pharmacy in Newport News.",
+  "legacy": "With five dollars founded the Hair Care-Vim Chemical Company in Washington, D.C., which she ran for nearly 30 years; co-founded the Washington Sun with T. Thomas Fortune (1914) and was the first Black woman to run for office in New York State.",
+  "breakthroughDetail": [
+   {
+    "t": "Hughes Pharmacy, 1899.",
+    "d": "Philadelphia drugstore she owned and operated.",
+    "basis": "documented"
+   },
+   {
+    "t": "Hair Care-Vim Chemical Co.",
+    "d": "Hair and beauty products with beauty-culture schools; expanded to Baltimore in 1916.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Civil-rights litigant.",
+    "d": "Won a 1918 suit against a Maryland railway over segregated seating.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "Julia P. H. Coleman",
+   "Julia Coleman-Robinson"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Julia Pearl Hughes",
+    "url": "https://en.wikipedia.org/wiki/Julia_Pearl_Hughes"
+   },
+   {
+    "label": "BlackPast — Julia Pearl Hughes (1873–1950)",
+    "url": "https://blackpast.org/african-american-history/hughes-julia-pearl-1873-1950"
+   }
+  ],
+  "connections": [
+   {
+    "id": "barber-scotia-college",
+    "type": "alumni",
+    "label": "Scotia Seminary, graduated 1893"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "Pharm.D. 1897"
+   },
+   {
+    "id": "hair-care-vim-chemical-company",
+    "type": "ownership",
+    "label": "founder, president & manager"
+   }
+  ]
+ },
+ {
+  "id": "paulette-dillard",
+  "name": "Paulette Dillard",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "",
+  "base": "Raleigh, NC",
+  "industry": "Higher Education",
+  "originBadge": "Biology Grad",
+  "engineBadge": "University Leadership",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Earned a B.S. in biology at Barber-Scotia College, then an M.S. at Tennessee State and an MBA at Belmont University.",
+  "humbleBeginnings": "Grew up in Mount Airy, N.C.",
+  "breakthrough": "Worked as a scientist and business leader in clinical diagnostic medicine before moving into academic administration.",
+  "legacy": "Became the 18th president of Shaw University.",
+  "breakthroughDetail": [
+   {
+    "t": "Shaw University president.",
+    "d": "18th president.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Clinical diagnostics expertise.",
+    "d": "Business and laboratory leadership background.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Paulette Dillard",
+    "url": "https://en.wikipedia.org/wiki/Paulette_Dillard"
+   },
+   {
+    "label": "UNCF — Dr. Paulette Dillard",
+    "url": "https://uncf.org/gallery-entry/dr-paulette-dillard"
+   }
+  ],
+  "connections": [
+   {
+    "id": "barber-scotia-college",
+    "type": "alumni",
+    "label": "B.S. biology"
+   },
+   {
+    "id": "shaw-university",
+    "type": "faculty",
+    "label": "18th president"
+   }
+  ]
+ },
+ {
+  "id": "vivian-ayers-allen",
+  "name": "Vivian Ayers Allen",
+  "type": "alumni",
+  "category": "Arts & Athletics",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1923–2025",
+  "base": "Houston, TX",
+  "industry": "Poetry",
+  "originBadge": "Poet & Classicist",
+  "engineBadge": "Poetry & Arts Education",
+  "capitalBadge": "Family Network",
+  "hbcuStory": "Studied at Barber-Scotia College in Concord, N.C., and at Bennett College, which later gave her an honorary doctorate.",
+  "humbleBeginnings": "Raised in Chester, S.C., where she attended the Brainerd Institute in its final year.",
+  "breakthrough": "Her 1952 book-length poem Spice of Dawns was nominated for a Pulitzer Prize.",
+  "legacy": "Mother of Debbie Allen and Phylicia Rashad; founded arts-education programs in Houston and New York.",
+  "breakthroughDetail": [
+   {
+    "t": "Pulitzer nomination.",
+    "d": "For Spice of Dawns (1952).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Arts family.",
+    "d": "Mother of performers Phylicia Rashad and Debbie Allen.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Vivian Ayers Allen",
+    "url": "https://en.wikipedia.org/wiki/Vivian_Ayers_Allen"
+   },
+   {
+    "label": "Los Angeles Times — Vivian Ayers Allen obituary (2025)",
+    "url": "https://www.latimes.com/entertainment-arts/story/2025-08-22/vivian-ayers-dead-phylicia-rashad-debbie-allen-pulitzer-poet"
+   }
+  ],
+  "connections": [
+   {
+    "id": "barber-scotia-college",
+    "type": "alumni",
+    "label": "attended"
+   },
+   {
+    "id": "bennett-college",
+    "type": "alumni",
+    "label": "attended; honorary doctorate"
+   },
+   {
+    "id": "phylicia-rashad",
+    "type": "family",
+    "label": "mother"
+   },
+   {
+    "id": "debbie-allen",
+    "type": "family",
+    "label": "mother"
+   }
+  ]
+ },
+ {
+  "id": "j-e-k-aggrey",
+  "name": "J. E. K. Aggrey",
+  "type": "alumni",
+  "category": "Public Service",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1875–1927",
+  "base": "Salisbury, NC / Gold Coast",
+  "industry": "Education",
+  "originBadge": "Mission Teacher",
+  "engineBadge": "Pan-African Education",
+  "capitalBadge": "Church Support",
+  "hbcuStory": "Came from the Gold Coast to Salisbury, N.C., in 1898 to attend Livingstone College, graduated in 1902, and then taught there for about two decades.",
+  "humbleBeginnings": "Born in Anomabu in the Gold Coast (Ghana) and trained as a Methodist mission teacher.",
+  "breakthrough": "Served on the Phelps-Stokes education commissions to Africa and co-founded Achimota College in Ghana.",
+  "legacy": "Revered in Ghana as a father of modern education; a 2004 North Carolina highway marker in Salisbury honors him and his wife Rose.",
+  "breakthroughDetail": [
+   {
+    "t": "Achimota College.",
+    "d": "Co-founder and first assistant vice-principal (1920s).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "NC historical marker L-104.",
+    "d": "Erected 2004 in Salisbury.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [
+   "James Emman Kwegyir Aggrey"
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — James Emman Kwegyir Aggrey",
+    "url": "https://en.wikipedia.org/wiki/James_Emman_Kwegyir_Aggrey"
+   },
+   {
+    "label": "N.C. Dept. of Natural & Cultural Resources — marker L-104: J. E. K. Aggrey & Rose D. Aggrey",
+    "url": "https://dncr.nc.gov/blog/2024/01/16/j-e-k-aggrey-1875-1927-rose-d-aggrey-1882-1961-l-104"
+   }
+  ],
+  "connections": [
+   {
+    "id": "livingstone-college",
+    "type": "alumni",
+    "label": "B.A. 1902"
+   },
+   {
+    "id": "livingstone-college",
+    "type": "faculty",
+    "label": "professor, c. 1902–1920s"
+   }
+  ]
+ },
+ {
+  "id": "solomon-carter-fuller",
+  "name": "Solomon Carter Fuller",
+  "type": "alumni",
+  "category": "Science & Medicine",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1872–1953",
+  "base": "Framingham, MA",
+  "industry": "Psychiatry",
+  "originBadge": "Liberian Emigrant",
+  "engineBadge": "Neuropathology Research",
+  "capitalBadge": "Academic Medicine",
+  "hbcuStory": "Came to the U.S. from Liberia and graduated from Livingstone College in 1893 before earning his M.D. at Boston University.",
+  "humbleBeginnings": "Born in Monrovia, Liberia, grandson of formerly enslaved Americans who emigrated there.",
+  "breakthrough": "Became the first African American psychiatrist and did pioneering Alzheimer's research, including work in Alois Alzheimer's lab in Munich.",
+  "legacy": "Taught at Boston University for decades; Boston's Solomon Carter Fuller Mental Health Center bears his name.",
+  "breakthroughDetail": [
+   {
+    "t": "Alzheimer's research.",
+    "d": "Among the first to publish Alzheimer's case reviews in English.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Named mental-health center.",
+    "d": "Solomon Carter Fuller Mental Health Center, Boston.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Wikipedia — Solomon Carter Fuller",
+    "url": "https://en.wikipedia.org/wiki/Solomon_Carter_Fuller"
+   },
+   {
+    "label": "BlackPast — Solomon Carter Fuller (1872–1953)",
+    "url": "https://www.blackpast.org/aah/fuller-solomon-carter-1872-1953"
+   }
+  ],
+  "connections": [
+   {
+    "id": "livingstone-college",
+    "type": "alumni",
+    "label": "graduated 1893"
+   }
+  ]
+ },
+ {
+  "id": "ancora",
+  "name": "Ancora",
+  "type": "entity",
+  "kind": "Real Estate Developer",
+  "description": "Durham-based developer of innovation districts and life-science real estate founded by Josh Parker.",
+  "gics": {
+   "sub": "Real Estate Development",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "spgbk-watches",
+  "name": "SPGBK Watches",
+  "type": "entity",
+  "kind": "Consumer Brand",
+  "description": "Designer watch brand co-founded by N.C. A&T alumnus Kwame Molden.",
+  "gics": {
+   "sub": "Apparel, Accessories & Luxury Goods",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "hair-care-vim-chemical-company",
+  "name": "Hair Care-Vim Chemical Company",
+  "type": "entity",
+  "kind": "Hair-care Manufacturer",
+  "description": "Julia Pearl Hughes's Washington, D.C. maker of 'Hair-Vim' and beauty products (c. 1910s–1940s).",
+  "gics": {
+   "sub": "Personal Care Products",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "greensboro-national-bank",
+  "name": "Greensboro National Bank",
+  "type": "entity",
+  "kind": "Bank",
+  "description": "Greensboro's first Black-owned bank, organized by Henry Frye and opened in 1971.",
+  "gics": {
+   "sub": "Regional Banks",
    "basis": "inferred"
   },
   "connections": []

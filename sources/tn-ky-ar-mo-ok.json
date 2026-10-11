@@ -1689,8 +1689,8 @@
   "category": "Media & Entertainment",
   "netWorthTier": "$1B+",
   "tierBasis": "reported",
-  "peakWealth": "$2.9B+ (2014, per Wikipedia/Forbes)",
-  "wealthNote": "Forbes billionaire since 2003; Wikipedia cites net worth above $2.9B as of 2014.",
+  "peakWealth": "$3.4B (Forbes real-time, Oct. 2026)",
+  "wealthNote": "Forbes real-time net worth was $3.4B on Oct. 11, 2026; Forbes first listed her as a billionaire in 2003.",
   "lifespan": "b. 1954",
   "base": "Santa Barbara, CA / Chicago, IL",
   "industry": "Television, Film & Media",
@@ -1734,6 +1734,10 @@
    {
     "label": "Wikipedia — Tennessee State University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Tennessee_State_University"
+   },
+   {
+    "label": "Forbes — Oprah Winfrey profile",
+    "url": "https://www.forbes.com/profile/oprah-winfrey/"
    }
   ],
   "connections": [
@@ -1916,15 +1920,15 @@
   "category": "Media & Entertainment",
   "netWorthTier": "$1B+",
   "tierBasis": "reported",
-  "peakWealth": "~$10B (Forbes, 2024)",
-  "wealthNote": "Forbes figure cited by Wikipedia; Black Enterprise reported more than $4B earlier.",
+  "peakWealth": "$14.2B (Forbes real-time, Oct. 2026)",
+  "wealthNote": "Forbes real-time figure on Oct. 11, 2026; Black Enterprise reported more than $4B in an earlier article.",
   "lifespan": "b. 1948",
   "base": "Columbia, MO / Denver, CO",
   "industry": "Retail Inheritance & Sports Ownership",
   "originBadge": "Nurse by Training",
   "engineBadge": "Walmart Stock & Sports Teams",
   "capitalBadge": "Inherited Equity",
-  "hbcuStory": "Graduated from Lincoln University in Jefferson City with a nursing degree, according to Black Enterprise, which called her the HBCU world's wealthiest graduate. Wikipedia also lists Lincoln University as her alma mater.",
+  "hbcuStory": "Forbes lists her education as \"Registered Nurse, Lincoln University\", and Black Enterprise says she graduated from the nursing school at Lincoln University in Missouri, calling her the HBCU world's wealthiest graduate. Wikipedia's infobox also names Lincoln University (Missouri), though the same article tags her as a Columbia College (Missouri) alumna; no year is published.",
   "humbleBeginnings": "Daughter of James 'Bud' Walton, Sam Walton's brother and early partner in Walmart; she trained as a nurse.",
   "breakthrough": "Inherited a large block of Walmart stock from her father after his death in 1995, making her a billionaire.",
   "legacy": "Is the principal owner of the NBA's Denver Nuggets (2016–) and NHL's Colorado Avalanche (2015–), part of Kroenke Sports & Entertainment, and is married to Stan Kroenke.",
@@ -1950,12 +1954,16 @@
   "aliases": [],
   "sources": [
    {
-    "label": "Wikipedia — Ann Walton Kroenke",
-    "url": "https://en.wikipedia.org/wiki/Ann_Walton_Kroenke"
+    "label": "Forbes — Ann Walton Kroenke profile (education: Registered Nurse, Lincoln University)",
+    "url": "https://www.forbes.com/profile/ann-walton-kroenke/"
    },
    {
     "label": "Black Enterprise — HBCU's wealthiest graduate",
     "url": "https://www.blackenterprise.com/hbcu-wealthiest-graduate/"
+   },
+   {
+    "label": "Wikipedia — Ann Walton Kroenke",
+    "url": "https://en.wikipedia.org/wiki/Ann_Walton_Kroenke"
    }
   ],
   "connections": [
@@ -2176,7 +2184,7 @@
   "netWorthTier": "$5M-$100M",
   "tierBasis": "estimated",
   "wealthNote": "No published figure; estimate based on owning a 100+ unit, 4,500-employee franchise group.",
-  "lifespan": "living (birth year undisclosed)",
+  "lifespan": "living",
   "base": "Milwaukee, WI",
   "industry": "Restaurant Franchising",
   "originBadge": "Business Major",
@@ -2215,6 +2223,14 @@
    {
     "label": "Lincoln University — Founders' Day 2026 speaker",
     "url": "https://www.lincolnu.edu/news/2025/12/valerie-daniels-carter-founders-day-2026.html"
+   },
+   {
+    "label": "St. Louis American — Daniels-Carter joins National Black College Alumni Hall of Fame (Lincoln, 1978)",
+    "url": "https://www.stlamerican.com/business/people-on-the-move/valerie-daniels-carter-joins-2019-class-of-the-national-black-college-alumni-hall-of-fame/"
+   },
+   {
+    "label": "Clemson News — Valerie Daniels-Carter to speak at Ethics Day",
+    "url": "https://news.clemson.edu/entrepreneur-valerie-daniels-carter-minority-owner-of-the-milwaukee-bucks-to-speak-at-clemsons-second-annual-ethics-day/"
    }
   ],
   "connections": [
@@ -2446,23 +2462,28 @@
   "netWorthTier": "Undisclosed",
   "lifespan": "1886–1963",
   "base": "Memphis, TN",
-  "industry": "Grocery Retail",
+  "industry": "Grocery Retail, Banking & Insurance",
   "originBadge": "LeMoyne Normal Student",
   "engineBadge": "Grocery Store Chain",
   "capitalBadge": "Bootstrapped",
-  "hbcuStory": "Attended LeMoyne Normal School after his family moved to Memphis (Wikipedia lists him as class of 1910).",
+  "hbcuStory": "Attended and graduated from LeMoyne Normal Institute in Memphis after his family moved there from Arkansas (Wikipedia gives class of 1910).",
   "humbleBeginnings": "Born in Augusta, Arkansas, in 1886 to Jerry and Harriette McKenny Roddy.",
-  "breakthrough": "Founded a chain of grocery stores, becoming the first African American to own a grocery chain in Memphis.",
-  "legacy": "Co-founded a restaurant and theater and the Coloured Citizens Association, and organized and served as first president of the Memphis NAACP branch.",
+  "breakthrough": "An early stockholder of Solvent Savings Bank and Trust (cashier from 1914) and co-owner of the Iroquois Café on Beale Street, he founded Citizen's Cooperative Stores in 1920, the first Black-owned grocery chain in Memphis, which reached 14 stores with a fleet of delivery trucks.",
+  "legacy": "After the chain failed in the 1920s recession, he organized the syndicate that launched Truman K. Gibson's Supreme Life and Casualty Company and worked for Supreme Liberty Life in Chicago from 1931 to 1957. He was also first president of the Memphis NAACP branch.",
   "breakthroughDetail": [
    {
     "t": "First Black grocery chain in Memphis.",
-    "d": "Wikipedia credits him as the first Black owner of a grocery store chain in Memphis.",
+    "d": "Citizen's Cooperative Stores (1920) peaked at 14 stores with several dozen employees.",
     "basis": "documented"
    },
    {
-    "t": "Serial founder.",
-    "d": "Also organized a theater and co-founded a restaurant.",
+    "t": "Banker and restaurateur.",
+    "d": "Cashier of Solvent Savings Bank and Trust from 1914; co-opened the Iroquois Café on Beale Street.",
+    "basis": "documented"
+   },
+   {
+    "t": "Insurance organizer.",
+    "d": "Organized the syndicate behind Supreme Life and Casualty Company of Ohio, later Supreme Liberty Life.",
     "basis": "documented"
    }
   ],
@@ -2480,20 +2501,35 @@
     "url": "https://en.wikipedia.org/wiki/Bert_M._Roddy"
    },
    {
-    "label": "Wikipedia — LeMoyne–Owen College (notable alumni)",
-    "url": "https://en.wikipedia.org/wiki/LeMoyne%E2%80%93Owen_College"
+    "label": "Tennessee Encyclopedia — Bert Maynard Roddy",
+    "url": "https://tennesseeencyclopedia.net/entries/bert-maynard-roddy/"
    }
   ],
   "connections": [
    {
     "id": "lemoyne-college",
     "type": "alumni",
-    "label": "attended LeMoyne Normal (class of 1910)"
+    "label": "graduated, LeMoyne Normal Institute"
    },
    {
     "id": "naacp",
     "type": "civic",
     "label": "first president, Memphis branch"
+   },
+   {
+    "id": "citizens-cooperative-stores",
+    "type": "ownership",
+    "label": "founder, 1920"
+   },
+   {
+    "id": "solvent-savings-bank-and-trust-company",
+    "type": "executive",
+    "label": "stockholder; cashier from 1914"
+   },
+   {
+    "id": "supreme-liberty-life-insurance-company",
+    "type": "executive",
+    "label": "organized founding syndicate; assistant agency officer, 1931–1957"
    }
   ]
  },
@@ -2512,7 +2548,7 @@
   "hbcuStory": "Attended Lane College and then Lincoln University's law school in St. Louis.",
   "humbleBeginnings": "Born in Brownsville, Tennessee, in 1916 and moved to St. Louis.",
   "breakthrough": "Built a career as a St. Louis real estate developer while serving five terms in the Missouri House (1950–1961), where he pushed for school desegregation.",
-  "legacy": "Remained a 20th Ward Democratic committeeman for 23 years; Tyus Court in St. Louis bears his name. A 1984 cable-TV extortion conviction was overturned on appeal.",
+  "legacy": "Remained a 20th Ward Democratic committeeman for 23 years; Tyus Court in St. Louis bears his name. A 1984 cable-TV extortion conviction was overturned on appeal. No published source names his real estate company.",
   "breakthroughDetail": [
    {
     "t": "Developer-legislator.",
@@ -2774,7 +2810,7 @@
   "type": "alumni",
   "category": "Founders & Owners",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living (birth year undisclosed)",
+  "lifespan": "living",
   "base": "Detroit, MI",
   "industry": "Energy Efficiency Services",
   "originBadge": "Scholarship Engineer",
@@ -3140,7 +3176,7 @@
   "capitalBadge": "Professional Fees",
   "hbcuStory": "Graduated from Langston University in 1940 as valedictorian with a B.S. in business administration and secondary education; later returned as professor and, in 1998, dean of its School of Business.",
   "humbleBeginnings": "Born in Idabel, Oklahoma, in 1920.",
-  "breakthrough": "Became Georgia's first Black female CPA (1951) and in 1955 earned a Ph.D. in accounting from the University of Wisconsin—reported as the first Black woman in the U.S. to do so—then opened a public accounting practice in Atlanta.",
+  "breakthrough": "Became Georgia's first Black female CPA and in 1955 earned a Ph.D. in accounting from the University of Wisconsin, reported as the first Black woman CPA to earn one. With the degree in hand she set up her own CPA firm in Atlanta; sources do not give the firm's name.",
   "legacy": "Headed Utah State University's accountancy department (1977–1990), taught at Bethune-Cookman, Clark College and BYU, and served as international president of Alpha Kappa Alpha (1966–70).",
   "breakthroughDetail": [
    {
@@ -3150,7 +3186,7 @@
    },
    {
     "t": "Own practice.",
-    "d": "Opened a public accounting practice in Atlanta in 1955.",
+    "d": "Wisconsin's alumni magazine says she set up her own CPA firm in Atlanta after the Ph.D.; the firm's name is not published.",
     "basis": "documented"
    }
   ],
@@ -3161,15 +3197,18 @@
     "basis": "documented"
    }
   ],
-  "aliases": [],
+  "aliases": [
+   "Larzette Hale-Wilson",
+   "Larzette Golden Hale-Wilson"
+  ],
   "sources": [
    {
-    "label": "Wikipedia — Larzette Hale",
-    "url": "https://en.wikipedia.org/wiki/Larzette_Hale"
+    "label": "Wikipedia — Larzette Hale-Wilson",
+    "url": "https://en.wikipedia.org/wiki/Larzette_Hale-Wilson"
    },
    {
-    "label": "Wikipedia — Langston University (notable alumni)",
-    "url": "https://en.wikipedia.org/wiki/Langston_University"
+    "label": "On Wisconsin — On Alumnae: Larzette Hale-Wilson",
+    "url": "https://onwisconsin.uwalumni.com/on-alumnae-larzette-hale-wilson/"
    }
   ],
   "connections": [
@@ -3350,7 +3389,7 @@
   "type": "alumni",
   "category": "Corporate Executives",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living (birth year undisclosed)",
+  "lifespan": "living",
   "base": "Detroit, MI",
   "industry": "Automotive",
   "originBadge": "Business Management Grad",
@@ -3483,7 +3522,7 @@
   "type": "alumni",
   "category": "Corporate Executives",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living (birth year undisclosed)",
+  "lifespan": "living",
   "base": "Nashville, TN",
   "industry": "Payments, Airlines & HR Leadership",
   "originBadge": "Business Administration Grad",
@@ -5232,7 +5271,7 @@
   "type": "alumni",
   "category": "Corporate Executives",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living (birth year undisclosed)",
+  "lifespan": "living",
   "base": "Atlanta, GA",
   "industry": "Environmental Services",
   "originBadge": "Golden Lions Football Player",
@@ -5291,7 +5330,7 @@
   "type": "alumni",
   "category": "Founders & Owners",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living (birth year undisclosed)",
+  "lifespan": "living",
   "base": "Nashville, TN",
   "industry": "Restaurants",
   "originBadge": "TSU Football Player",
@@ -5355,7 +5394,7 @@
   "type": "alumni",
   "category": "Founders & Owners",
   "netWorthTier": "Undisclosed",
-  "lifespan": "living (birth year undisclosed)",
+  "lifespan": "living",
   "base": "Nashville, TN",
   "industry": "Restaurants",
   "originBadge": "TSU Football Player",
@@ -6172,5 +6211,1350 @@
    "basis": "inferred"
   },
   "connections": []
+ },
+ {
+  "id": "citizens-cooperative-stores",
+  "name": "Citizen's Cooperative Stores",
+  "type": "entity",
+  "kind": "Grocery Chain (historic)",
+  "description": "Memphis grocery chain founded by Bert M. Roddy in 1920, the city's first Black-owned chain; it peaked at 14 stores.",
+  "gics": {
+   "sub": "Consumer Staples Merchandise Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "solvent-savings-bank-and-trust-company",
+  "name": "Solvent Savings Bank and Trust Company",
+  "type": "entity",
+  "kind": "Black-owned Bank (historic)",
+  "description": "Black-owned Memphis bank established in 1906.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "pepsico",
+  "name": "PepsiCo",
+  "type": "entity",
+  "kind": "Beverage & Snack Company",
+  "description": "Global beverage and snack maker; Harvey C. Russell Jr. became its first Black vice president in the 1960s.",
+  "gics": {
+   "sub": "Soft Drinks & Non-alcoholic Beverages",
+   "basis": "official"
+  },
+  "connections": []
+ },
+ {
+  "id": "brown-belle-bottling-company",
+  "name": "Brown Belle Bottling Company",
+  "type": "entity",
+  "kind": "Soft-Drink Bottler (historic)",
+  "description": "Black-owned soft-drink company owned by A. G. Gaston that sold Joe Louis Punch from 1946.",
+  "gics": {
+   "sub": "Soft Drinks & Non-alcoholic Beverages",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "atlanta-inquirer",
+  "name": "The Atlanta Inquirer",
+  "type": "entity",
+  "kind": "Newspaper",
+  "description": "Black weekly newspaper founded in Atlanta in 1960 by Jesse Hill Jr., Herman J. Russell and other civil rights leaders.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "arkansas-land-and-farm-development-corporation",
+  "name": "Arkansas Land and Farm Development Corporation",
+  "type": "entity",
+  "kind": "Nonprofit Farm Development Organization",
+  "description": "Brinkley, Arkansas nonprofit founded by Calvin R. King in 1980 to stop the loss of Black-owned farmland.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "regional-one-health",
+  "name": "Regional One Health",
+  "type": "entity",
+  "kind": "Public Hospital System",
+  "description": "Memphis public health system and safety-net hospital (formerly The MED).",
+  "gics": {
+   "sub": "Health Care Facilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "signature-surgical-group",
+  "name": "Signature Surgical Group LLC",
+  "type": "entity",
+  "kind": "Surgical Practice",
+  "description": "Nashville surgical practice founded in 1995 by Dr. Reginald Coopwood and Dr. James McGriff.",
+  "gics": {
+   "sub": "Health Care Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "metropolitan-nashville-hospital-authority",
+  "name": "Metropolitan Nashville Hospital Authority",
+  "type": "entity",
+  "kind": "Public Hospital Authority",
+  "description": "Public authority that ran Nashville General Hospital at Meharry.",
+  "gics": {
+   "sub": "Health Care Facilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "matthew-walker-comprehensive-health-center",
+  "name": "Matthew Walker Comprehensive Health Center",
+  "type": "entity",
+  "kind": "Community Health Center",
+  "description": "Nashville community health center founded by Dr. Matthew Walker Sr. of Meharry.",
+  "gics": {
+   "sub": "Health Care Facilities",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "house-of-diggs",
+  "name": "House of Diggs",
+  "type": "entity",
+  "kind": "Funeral Home & Insurance Business",
+  "description": "Detroit funeral business founded by Charles Diggs Sr., once described as Michigan's largest funeral home.",
+  "gics": {
+   "sub": "Specialized Consumer Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "n-j-ford-and-sons-funeral-home",
+  "name": "N. J. Ford & Sons Funeral Home",
+  "type": "entity",
+  "kind": "Funeral Home",
+  "description": "Memphis funeral home that Newton Jackson Ford opened in 1932; the base of the Ford political family.",
+  "gics": {
+   "sub": "Specialized Consumer Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "black-action-strategies-and-information-center",
+  "name": "Black Action Strategies and Information Center (BASIC)",
+  "type": "entity",
+  "kind": "Diversity Consultancy",
+  "description": "Workplace race-relations and multicultural training consultancy founded by C. T. Vivian in 1977.",
+  "gics": {
+   "sub": "Human Resource & Employment Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "the-black-scholar",
+  "name": "The Black Scholar",
+  "type": "entity",
+  "kind": "Academic Journal",
+  "description": "Journal of Black studies founded in 1969 by Nathan Hare, Robert Chrisman and Allan Ross.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "charles-h-wright-museum-of-african-american-history",
+  "name": "Charles H. Wright Museum of African American History",
+  "type": "entity",
+  "kind": "Museum",
+  "description": "Detroit museum of African American history founded by Dr. Charles H. Wright in 1965.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "chicago-tribune",
+  "name": "Chicago Tribune",
+  "type": "entity",
+  "kind": "Newspaper",
+  "description": "Chicago daily newspaper.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "harvey-c-russell-jr",
+  "name": "Harvey C. Russell Jr.",
+  "category": "Corporate Executives",
+  "lifespan": "1918–1998",
+  "base": "Louisville, KY / New York, NY",
+  "industry": "Consumer Beverages",
+  "originBadge": "Educator's Son",
+  "engineBadge": "Corporate Planning & Marketing",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "A graduate of Kentucky State, where his father, Harvey C. Russell Sr., had been dean (graduation year not published).",
+  "humbleBeginnings": "Born in Louisville in 1918, he was the first African American commissioned officer in the U.S. Coast Guard, then worked briefly for A. G. Gaston's Black-owned Brown Belle Bottling Company, which sold Joe Louis Punch.",
+  "breakthrough": "Joined Pepsi-Cola as a field representative in 1950, became vice president of corporate planning in 1962 and vice president of PepsiCo in 1965, making him the first Black vice president of a major U.S. corporation.",
+  "legacy": "Served as PepsiCo's corporate vice president of community affairs from 1968 until he retired in 1983; PepsiCo created the Harvey C. Russell Inclusion Awards in 2003.",
+  "breakthroughDetail": [
+   {
+    "t": "First Black corporate VP.",
+    "d": "Named a PepsiCo vice president in 1965, after heading corporate planning for Pepsi-Cola from 1962.",
+    "basis": "documented"
+   },
+   {
+    "t": "33 years at Pepsi.",
+    "d": "Rose from field representative (1950) to corporate VP of community affairs (1968–1983).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Named award.",
+    "d": "PepsiCo's Global Harvey C. Russell Inclusion Awards (2003) honor employees who advance diversity.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Notable Kentucky African Americans Database — Russell, Harvey C., Jr.",
+    "url": "https://nkaa.uky.edu/nkaa/items/show/269"
+   },
+   {
+    "label": "Wikipedia — Harvey C. Russell Jr.",
+    "url": "https://en.wikipedia.org/wiki/Harvey_C._Russell_Jr."
+   }
+  ],
+  "connections": [
+   {
+    "id": "kentucky-state-university",
+    "type": "alumni",
+    "label": "graduate"
+   },
+   {
+    "id": "pepsico",
+    "type": "executive",
+    "label": "field rep 1950 → VP 1965 → corporate VP community affairs 1968–1983"
+   },
+   {
+    "id": "brown-belle-bottling-company",
+    "type": "executive",
+    "label": "early employee"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "jesse-hill-jr",
+  "name": "Jesse Hill Jr.",
+  "category": "Finance & Investors",
+  "lifespan": "1926–2012",
+  "base": "Atlanta, GA",
+  "industry": "Life Insurance",
+  "originBadge": "St. Louis Math Grad",
+  "engineBadge": "Black-Owned Life Insurance",
+  "capitalBadge": "Policyholder Premiums",
+  "hbcuStory": "Grew up poor in St. Louis and earned a bachelor's in mathematics and physics from Lincoln University in Jefferson City in 1947, then an MBA from Michigan in 1949.",
+  "humbleBeginnings": "Moved to Atlanta in 1949, lived at the Butler Street YMCA and joined Atlanta Life as assistant actuary, reportedly only the second Black actuary in the country.",
+  "breakthrough": "Rose to chief actuary and, from 1973 to 1992, served as president and CEO of Atlanta Life Insurance Company, the first leader from outside the Herndon family; it became the largest Black-owned life insurer in the nation.",
+  "legacy": "Co-founded the Atlanta Inquirer in 1960 with Herman J. Russell, became the first Black president of a major city's chamber of commerce (Atlanta), and used Atlanta Life to widen Black access to mortgage credit.",
+  "breakthroughDetail": [
+   {
+    "t": "Actuary to CEO.",
+    "d": "Joined Atlanta Life in 1949 and led it as president and CEO, 1973–1992.",
+    "basis": "documented"
+   },
+   {
+    "t": "Largest Black insurer.",
+    "d": "Under Hill, Atlanta Life became the largest Black-owned life insurance company in the U.S.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Media founder.",
+    "d": "Co-founded the Atlanta Inquirer newspaper in 1960.",
+    "basis": "documented"
+   },
+   {
+    "t": "Civic capital.",
+    "d": "First African American president of the Atlanta Chamber of Commerce; on the board of the 1996 Olympics.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Jesse Hill",
+    "url": "https://en.wikipedia.org/wiki/Jesse_Hill"
+   },
+   {
+    "label": "Journal of Blacks in Higher Education — In Memoriam: Jesse Hill Jr., 1926–2012",
+    "url": "https://jbhe.com/2012/12/in-memoriam-jesse-hill-jr-1926-2012"
+   },
+   {
+    "label": "New Georgia Encyclopedia — Jesse Hill",
+    "url": "https://www.georgiaencyclopedia.org/articles/business-economy/jesse-hill-1927-2012"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lincoln-university-missouri",
+    "type": "alumni",
+    "label": "B.S. mathematics & physics, 1947"
+   },
+   {
+    "id": "atlanta-life-insurance-company",
+    "type": "executive",
+    "label": "president & CEO, 1973–1992"
+   },
+   {
+    "id": "atlanta-inquirer",
+    "type": "ownership",
+    "label": "co-founder, 1960"
+   },
+   {
+    "id": "herman-j-russell",
+    "type": "deal",
+    "label": "co-founded the Atlanta Inquirer"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "samuel-plato",
+  "name": "Samuel Plato",
+  "category": "Founders & Owners",
+  "lifespan": "1882–1957",
+  "base": "Louisville, KY / Marion, IN",
+  "industry": "Architecture & Construction",
+  "originBadge": "Farmer's Son Carpenter",
+  "engineBadge": "Design-Build Contracting",
+  "capitalBadge": "Federal Contracts",
+  "hbcuStory": "Enrolled in 1898 at State University in Louisville (today Simmons College of Kentucky), worked construction sites during summer breaks, and graduated in 1902.",
+  "humbleBeginnings": "Born in 1882 in Waugh, Alabama, to a farmer who taught him carpentry; he also completed a correspondence course in architecture.",
+  "breakthrough": "Ran his own architecture and building-contracting business, first in Marion, Indiana (1902–1921) and then in Louisville, designing and building homes, churches, banks and schools.",
+  "legacy": "One of the few Black contractors awarded World War II building contracts, including Wake and Midway Halls in Washington, D.C., and builder of at least 38 U.S. post offices; several of his buildings are on the National Register of Historic Places.",
+  "breakthroughDetail": [
+   {
+    "t": "Federal contractor.",
+    "d": "Won contracts for at least 38 U.S. post offices.",
+    "basis": "documented"
+   },
+   {
+    "t": "Wartime housing.",
+    "d": "Built Wake and Midway Halls, dormitories for more than 800 Black defense workers in Washington.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Landmarks.",
+    "d": "Louisville's Broadway Temple A.M.E. Zion Church and Virginia Avenue Colored School are on the National Register.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Samuel Plato",
+    "url": "https://en.wikipedia.org/wiki/Samuel_Plato"
+   },
+   {
+    "label": "WAVE 3 — Kentucky historical marker dedicated to architect Samuel Plato",
+    "url": "https://www.wave3.com/2019/02/17/kentucky-historical-marker-dedicated-architect-samuel-plato/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "simmons-college-of-kentucky",
+    "type": "alumni",
+    "label": "graduated State University, 1902"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "calvin-r-king",
+  "name": "Calvin R. King",
+  "category": "Founders & Owners",
+  "lifespan": "b. 1953",
+  "base": "Brinkley, AR",
+  "industry": "Agriculture & Rural Development",
+  "originBadge": "Delta Farm Family",
+  "engineBadge": "Black Farmland Retention",
+  "capitalBadge": "Grants & USDA Programs",
+  "hbcuStory": "Earned a B.A. from Philander Smith College in the mid-1970s (MacArthur gives 1976; Wikipedia 1975) after attending Arkansas State.",
+  "humbleBeginnings": "Has worked his family's farm near Marianna, Arkansas, since 1978.",
+  "breakthrough": "Founded the nonprofit Arkansas Land and Farm Development Corporation in 1980 to reverse the loss of Black-owned farmland and help Black farmers stay in business.",
+  "legacy": "Named a MacArthur Fellow in 1990; ALFDC worked with the USDA's Farmers Home Administration on outreach and technical help for minority farmers.",
+  "breakthroughDetail": [
+   {
+    "t": "Founder.",
+    "d": "Started ALFDC in 1980 and leads it as president.",
+    "basis": "documented"
+   },
+   {
+    "t": "MacArthur Fellow.",
+    "d": "Received a 1990 MacArthur Fellowship for land and farm development.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Farmland as wealth.",
+    "d": "Built an organization aimed at keeping land, the main asset of rural Black families, in Black ownership.",
+    "basis": "pattern"
+   }
+  ],
+  "sources": [
+   {
+    "label": "MacArthur Foundation — Calvin R. King, Class of 1990",
+    "url": "https://www.macfound.org/fellows/class-of-1990/calvin-r-king"
+   },
+   {
+    "label": "Wikipedia — Calvin King",
+    "url": "https://en.wikipedia.org/wiki/Calvin_King"
+   }
+  ],
+  "connections": [
+   {
+    "id": "philander-smith-university",
+    "type": "alumni",
+    "label": "B.A. 1976"
+   },
+   {
+    "id": "arkansas-land-and-farm-development-corporation",
+    "type": "ownership",
+    "label": "founder & president, 1980–"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "reginald-coopwood",
+  "name": "Reginald Coopwood",
+  "category": "Corporate Executives",
+  "lifespan": "living",
+  "base": "Memphis, TN",
+  "industry": "Hospital Systems",
+  "originBadge": "Surgeon",
+  "engineBadge": "Safety-Net Hospital System",
+  "capitalBadge": "Salary & Public Funding",
+  "hbcuStory": "Earned his M.D. from Meharry Medical College in 1985 and finished a general-surgery residency in 1990.",
+  "humbleBeginnings": "Began as a general surgeon in private practice in Nashville.",
+  "breakthrough": "Co-founded Signature Surgical Group LLC in 1995, then became chief medical officer of Nashville General Hospital at Meharry (2000–2005) and CEO of the Metropolitan Nashville Hospital Authority (2005–2010).",
+  "legacy": "President and CEO of Regional One Health in Memphis since 2010, where he created the ONE Health complex-care program; inducted into the Tennessee Health Care Hall of Fame in 2022.",
+  "breakthroughDetail": [
+   {
+    "t": "Practice founder.",
+    "d": "Co-founded Signature Surgical Group LLC with Dr. James McGriff in 1995.",
+    "basis": "documented"
+   },
+   {
+    "t": "Health-system CEO.",
+    "d": "Has led Regional One Health since March 2010.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Tennessee Health Care Hall of Fame, class of 2022.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Tennessee Health Care Hall of Fame — Reginald Coopwood, M.D.",
+    "url": "https://www.tnhealthcarehall.com/2022/07/28/reginald-coopwood/"
+   },
+   {
+    "label": "Regional One Health — Reginald Coopwood, MD",
+    "url": "https://www.regionalonehealth.org/?p=15950"
+   },
+   {
+    "label": "Becker's Hospital Review — Reginald Coopwood, physician leaders to know",
+    "url": "https://www.beckershospitalreview.com/hospital-executive-moves/reginald-coopwood-16/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "meharry-medical-college",
+    "type": "alumni",
+    "label": "M.D. 1985"
+   },
+   {
+    "id": "signature-surgical-group",
+    "type": "ownership",
+    "label": "co-founder, 1995"
+   },
+   {
+    "id": "metropolitan-nashville-hospital-authority",
+    "type": "executive",
+    "label": "president & CEO, 2005–2010"
+   },
+   {
+    "id": "regional-one-health",
+    "type": "executive",
+    "label": "president & CEO, 2010–"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "matthew-walker-sr",
+  "name": "Matthew Walker Sr.",
+  "category": "Science & Medicine",
+  "lifespan": "1906–1978",
+  "base": "Nashville, TN",
+  "industry": "Surgery & Community Health",
+  "originBadge": "Pullman Porter's Son",
+  "engineBadge": "Community Health Center",
+  "capitalBadge": "Federal Health Grants",
+  "hbcuStory": "Earned an A.B. from New Orleans University (now Dillard) in 1929 and an M.D. with honors from Meharry in 1934, then spent four decades on Meharry's surgery faculty and started its surgical residency program.",
+  "humbleBeginnings": "Raised in New Orleans by a seamstress mother and a Pullman-porter father; he bused tables in hotels to pay college tuition.",
+  "breakthrough": "Became one of the first African American Fellows of the American College of Surgeons and founded the Matthew Walker Comprehensive Health Center in Nashville, funded after a direct appeal to President Nixon.",
+  "legacy": "Credited with training about half of the Black surgeons practicing in the U.S. at his death; his health center still serves Middle Tennessee.",
+  "breakthroughDetail": [
+   {
+    "t": "Health-center founder.",
+    "d": "Founded the Matthew Walker Comprehensive Health Center, Inc.",
+    "basis": "documented"
+   },
+   {
+    "t": "Surgical educator.",
+    "d": "Started Meharry's surgical residency program.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hall of Fame.",
+    "d": "Inducted into the Tennessee Health Care Hall of Fame in 2018.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Matthew Walker Sr.",
+    "url": "https://en.wikipedia.org/wiki/Matthew_Walker_Sr."
+   },
+   {
+    "label": "Tennessee Health Care Hall of Fame — Matthew Walker, Sr., M.D.",
+    "url": "https://www.tnhealthcarehall.com/2021/06/16/matthew-walker-sr/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "meharry-medical-college",
+    "type": "alumni",
+    "label": "M.D. 1934"
+   },
+   {
+    "id": "new-orleans-university",
+    "type": "alumni",
+    "label": "A.B. 1929"
+   },
+   {
+    "id": "meharry-medical-college",
+    "type": "faculty",
+    "label": "surgery professor; founded surgical residency"
+   },
+   {
+    "id": "matthew-walker-comprehensive-health-center",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "charles-diggs-jr",
+  "name": "Charles Diggs Jr.",
+  "category": "Public Service",
+  "lifespan": "1922–1998",
+  "base": "Detroit, MI",
+  "industry": "Politics; Funeral Services",
+  "originBadge": "Funeral-Home Heir",
+  "engineBadge": "Congressional Leadership",
+  "capitalBadge": "Family Business & Public Office",
+  "hbcuStory": "Attended Fisk University in 1942 after two years at the University of Michigan, before Army service in World War II.",
+  "humbleBeginnings": "Only child of Charles Diggs Sr., the state senator who founded the House of Diggs funeral business in Detroit.",
+  "breakthrough": "A licensed mortician and board chairman of the House of Diggs, he became Michigan's first Black member of Congress (1955–1980) and the founding chairman of the Congressional Black Caucus.",
+  "legacy": "Drew national attention by attending the 1955 Emmett Till murder trial; resigned in 1980 after a mail-fraud conviction.",
+  "breakthroughDetail": [
+   {
+    "t": "Family business.",
+    "d": "Board chairman of House of Diggs, Inc., once called Michigan's largest funeral home.",
+    "basis": "documented"
+   },
+   {
+    "t": "CBC founder.",
+    "d": "First chairman of the Congressional Black Caucus.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Business as political base.",
+    "d": "The family funeral business underwrote two generations of Diggs political careers.",
+    "basis": "pattern"
+   }
+  ],
+  "sources": [
+   {
+    "label": "U.S. House History — DIGGS, Charles Coles, Jr.",
+    "url": "https://history.house.gov/People/Listing/D/DIGGS,-Charles-Coles,-Jr--(D000344)/"
+   },
+   {
+    "label": "Wikipedia — Charles Diggs",
+    "url": "https://en.wikipedia.org/wiki/Charles_Diggs"
+   }
+  ],
+  "connections": [
+   {
+    "id": "fisk-university",
+    "type": "alumni",
+    "label": "attended, 1942"
+   },
+   {
+    "id": "house-of-diggs",
+    "type": "ownership",
+    "label": "board chairman; family business"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "harold-ford-sr",
+  "name": "Harold Ford Sr.",
+  "category": "Public Service",
+  "lifespan": "b. 1945",
+  "base": "Memphis, TN",
+  "industry": "Politics; Funeral Services",
+  "originBadge": "Undertaker's Son",
+  "engineBadge": "Congressional Seat",
+  "capitalBadge": "Family Business & Public Office",
+  "hbcuStory": "Earned a B.S. from Tennessee State University in 1967 and did a year of graduate work there, later adding a mortuary-science degree and a Howard MBA (1982).",
+  "humbleBeginnings": "Eighth of 15 children of Newton Jackson Ford, who opened N. J. Ford Funeral Home in Memphis in 1932.",
+  "breakthrough": "Worked as a mortician in the family business (1969–1974) before winning Memphis's congressional seat in 1974, the first Black congressman from Tennessee, serving until 1997.",
+  "legacy": "Founded the Ford political dynasty—his son Harold Ford Jr. succeeded him; a 1987 bank-fraud indictment ended in acquittal in 1993.",
+  "breakthroughDetail": [
+   {
+    "t": "Funeral-home roots.",
+    "d": "Mortician at N. J. Ford & Sons Funeral Home, 1969–1974.",
+    "basis": "documented"
+   },
+   {
+    "t": "Congress.",
+    "d": "U.S. Representative from Tennessee, 1975–1997.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Political dynasty.",
+    "d": "His son Harold Ford Jr. held the seat after him.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "BlackPast — Harold Ford Sr. (1945– )",
+    "url": "https://www.blackpast.org/aah/ford-harold-sr-1945"
+   },
+   {
+    "label": "Wikipedia — Harold Ford Sr.",
+    "url": "https://en.wikipedia.org/wiki/Harold_Ford_Sr."
+   }
+  ],
+  "connections": [
+   {
+    "id": "tennessee-state-university",
+    "type": "alumni",
+    "label": "B.S. 1967"
+   },
+   {
+    "id": "howard-university",
+    "type": "alumni",
+    "label": "MBA 1982"
+   },
+   {
+    "id": "n-j-ford-and-sons-funeral-home",
+    "type": "executive",
+    "label": "mortician, family business, 1969–1974"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "moneta-sleet-jr",
+  "name": "Moneta Sleet Jr.",
+  "category": "Media & Entertainment",
+  "lifespan": "1926–1996",
+  "base": "New York, NY",
+  "industry": "Photojournalism",
+  "originBadge": "Owensboro Student Editor",
+  "engineBadge": "Magazine Photography",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Graduated cum laude from Kentucky State College in 1947 after Army service, then earned a master's in journalism from NYU in 1950.",
+  "humbleBeginnings": "Born in Owensboro, Kentucky, where he edited his high school newspaper.",
+  "breakthrough": "As a staff photographer for Johnson Publishing's Ebony, he won the 1969 Pulitzer Prize for Feature Photography for his picture of Coretta Scott King at her husband's funeral.",
+  "legacy": "The first Black man to win a Pulitzer Prize, he documented the civil rights movement and African independence for Ebony and Jet readers.",
+  "breakthroughDetail": [
+   {
+    "t": "Pulitzer.",
+    "d": "1969 Pulitzer Prize for Feature Photography.",
+    "basis": "documented"
+   },
+   {
+    "t": "Ebony staffer.",
+    "d": "Longtime staff photographer for Ebony.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Visual record.",
+    "d": "His archive is a core record of the civil rights era.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Moneta Sleet Jr.",
+    "url": "https://en.wikipedia.org/wiki/Moneta_Sleet_Jr."
+   },
+   {
+    "label": "BBC — Moneta Sleet Jr. profile",
+    "url": "https://www.bbc.com/news/stories-50186270"
+   }
+  ],
+  "connections": [
+   {
+    "id": "kentucky-state-university",
+    "type": "alumni",
+    "label": "B.A. cum laude, 1947"
+   },
+   {
+    "id": "johnson-publishing-company",
+    "type": "executive",
+    "label": "Ebony staff photographer"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "vernon-jarrett",
+  "name": "Vernon Jarrett",
+  "category": "Media & Entertainment",
+  "lifespan": "1918–2004",
+  "base": "Chicago, IL",
+  "industry": "Journalism & Broadcasting",
+  "originBadge": "Teachers' Son",
+  "engineBadge": "Newspaper & TV Commentary",
+  "capitalBadge": "Salary",
+  "hbcuStory": "Attended Knoxville College on a football scholarship and graduated in 1941 with a bachelor's in history and sociology.",
+  "humbleBeginnings": "Born in Saulsbury, Tennessee, to two schoolteachers; served in the Navy before moving to Chicago in 1946.",
+  "breakthrough": "Started at the Chicago Defender, then in 1970 became the first Black syndicated columnist at the Chicago Tribune, hosting shows on WLS-TV, before moving to the Chicago Sun-Times in 1983.",
+  "legacy": "A founder and the second president of the National Association of Black Journalists; in 1974 he created the ACT-SO academic program, later adopted nationally by the NAACP.",
+  "breakthroughDetail": [
+   {
+    "t": "Tribune first.",
+    "d": "First African American syndicated columnist at the Chicago Tribune, from 1970.",
+    "basis": "documented"
+   },
+   {
+    "t": "Defender start.",
+    "d": "Began his career at the Chicago Defender in 1946.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Pipeline builder.",
+    "d": "Founded the NAACP ACT-SO program for Black high-school students.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Vernon Jarrett",
+    "url": "https://en.wikipedia.org/wiki/Vernon_Jarrett"
+   },
+   {
+    "label": "Chicago Public Library — Vernon Jarrett videotape collection",
+    "url": "https://www.chipublib.org/fa-vernon-jarrett-videotape-collection-2/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "knoxville-college",
+    "type": "alumni",
+    "label": "B.A. history & sociology, 1941"
+   },
+   {
+    "id": "chicago-defender",
+    "type": "executive",
+    "label": "reporter, from 1946"
+   },
+   {
+    "id": "chicago-tribune",
+    "type": "executive",
+    "label": "columnist (first Black columnist)"
+   },
+   {
+    "id": "naacp",
+    "type": "civic",
+    "label": "created ACT-SO"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "c-t-vivian",
+  "name": "C. T. Vivian",
+  "category": "Public Service",
+  "lifespan": "1924–2020",
+  "base": "Atlanta, GA",
+  "industry": "Civil Rights; Diversity Consulting",
+  "originBadge": "Seminary Student",
+  "engineBadge": "Nonviolent Direct Action",
+  "capitalBadge": "Movement & Consulting Fees",
+  "hbcuStory": "Studied for the ministry at American Baptist Theological Seminary (now American Baptist College) in Nashville, where he joined James Lawson's nonviolence workshops with John Lewis, Diane Nash and James Bevel.",
+  "humbleBeginnings": "Born Cordy Tindell Vivian in Missouri in 1924 and raised in Illinois.",
+  "breakthrough": "Became a lieutenant of Martin Luther King Jr. in the SCLC, leading campaigns from the Nashville sit-ins to Selma.",
+  "legacy": "Founded the consultancy BASIC (Black Action Strategies and Information Center) in 1977 to train workplaces on race relations, co-founded the Center for Democratic Renewal, and received the Presidential Medal of Freedom in 2013.",
+  "breakthroughDetail": [
+   {
+    "t": "Nashville movement.",
+    "d": "Part of the American Baptist–Fisk–TSU student nonviolence network.",
+    "basis": "documented"
+   },
+   {
+    "t": "SCLC.",
+    "d": "Served on King's staff in the SCLC.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Consulting firm.",
+    "d": "BASIC, run later by his son Al Vivian, trains organizations in diversity and race relations.",
+    "basis": "documented"
+   },
+   {
+    "t": "Leadership institute.",
+    "d": "Founded the C. T. Vivian Leadership Institute in Atlanta in 2008.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — C. T. Vivian",
+    "url": "https://en.wikipedia.org/wiki/C._T._Vivian"
+   },
+   {
+    "label": "Los Angeles Sentinel — Legendary civil rights icon C. T. Vivian dies at 95",
+    "url": "https://lasentinel.net/legendary-civil-rights-icon-c-t-vivian-dies-at-95.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "american-baptist-college",
+    "type": "alumni",
+    "label": "studied for the ministry"
+   },
+   {
+    "id": "black-action-strategies-and-information-center",
+    "type": "ownership",
+    "label": "founder, 1977"
+   },
+   {
+    "id": "southern-christian-leadership-conference",
+    "type": "civic",
+    "label": "staff lieutenant to King"
+   },
+   {
+    "id": "john-lewis",
+    "type": "parallel",
+    "label": "Nashville student movement, American Baptist"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "levi-watkins-jr",
+  "name": "Levi Watkins Jr.",
+  "category": "Science & Medicine",
+  "lifespan": "1944–2015",
+  "base": "Baltimore, MD",
+  "industry": "Cardiac Surgery",
+  "originBadge": "College President's Son",
+  "engineBadge": "Cardiac Surgery Innovation",
+  "capitalBadge": "Academic Medicine",
+  "hbcuStory": "A biology professor at Tennessee State steered him toward medicine; he graduated with honors in 1966, then became Vanderbilt School of Medicine's first Black student and graduate (1970).",
+  "humbleBeginnings": "Son of educator Levi Watkins Sr., who founded S. A. Owen Junior College in Memphis; he grew up in Montgomery, Alabama.",
+  "breakthrough": "On February 4, 1980, at Johns Hopkins, he performed the first implantation of an automatic implantable defibrillator in a human patient.",
+  "legacy": "Built Hopkins' national recruiting program for medical students of color and became a vice dean; his sister Annie Marie Garraway endowed scholarships in his name.",
+  "breakthroughDetail": [
+   {
+    "t": "First implantable defibrillator.",
+    "d": "Implanted the first automatic defibrillator in a patient at Johns Hopkins in 1980.",
+    "basis": "documented"
+   },
+   {
+    "t": "Vanderbilt first.",
+    "d": "First African American to graduate from Vanderbilt's medical school.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Pipeline.",
+    "d": "Founded Hopkins' recruiting program for medical students of color in 1979.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Levi Watkins",
+    "url": "https://en.wikipedia.org/wiki/Levi_Watkins"
+   },
+   {
+    "label": "TSU Newsroom — TSU mourns the death of medical pioneer alumnus Levi Watkins",
+    "url": "https://tnstatenewsroom.com/tsu-mourns-the-death-of-medical-pioneer-alumnus-levi-watkins-2/"
+   },
+   {
+    "label": "Vanderbilt News — Obituary: Dr. Levi Watkins Jr.",
+    "url": "https://news.vanderbilt.edu/2015/07/31/obituary-dr-levi-watkins-jr-md70-soldier-for-diversity"
+   }
+  ],
+  "connections": [
+   {
+    "id": "tennessee-state-university",
+    "type": "alumni",
+    "label": "B.S. biology, 1966"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "annie-marie-garraway",
+  "name": "Annie Marie Garraway",
+  "category": "Science & Medicine",
+  "lifespan": "b. 1940",
+  "base": "Ohio",
+  "industry": "Telecommunications Mathematics",
+  "originBadge": "Founder's Daughter",
+  "engineBadge": "Data-Transmission Algorithms",
+  "capitalBadge": "Salary & Philanthropy",
+  "hbcuStory": "Started college in 1957 at S. A. Owen Junior College in Memphis, which her father founded; math teacher Juanita R. Turner steered her from engineering to mathematics.",
+  "humbleBeginnings": "Born Annie Marie Watkins in Parsons, Kansas, eldest daughter of two high-school teachers.",
+  "breakthrough": "Earned a B.S. and M.S. at Northwestern and a Ph.D. in mathematics from Berkeley (1967), then worked on telecommunications and electronic data transmission at AT&T Bell Labs and Lucent Technologies.",
+  "legacy": "Endowed the Juanita R. Turner Memorial Scholarship for math majors at LeMoyne–Owen and scholarships at Vanderbilt and Johns Hopkins honoring her brother Levi Watkins Jr.",
+  "breakthroughDetail": [
+   {
+    "t": "Bell Labs mathematician.",
+    "d": "Career at AT&T Labs and its spinoff Lucent Technologies.",
+    "basis": "documented"
+   },
+   {
+    "t": "Berkeley Ph.D.",
+    "d": "Ph.D. in mathematics, 1967.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Hidden Figures gift.",
+    "d": "Inspired by Hidden Figures, she endowed a math scholarship at LeMoyne–Owen named for her Owen teacher.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Annie Marie Garraway",
+    "url": "https://en.wikipedia.org/wiki/Annie_Marie_Garraway"
+   },
+   {
+    "label": "Tri-State Defender — 'Hidden Figures' moves LOC alum to endow math scholarship",
+    "url": "https://tri-statedefender.com/hidden-figures-moves-loc-alum-to-endow-math-scholarship/07/02/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "owen-college",
+    "type": "alumni",
+    "label": "attended S. A. Owen Junior College, from 1957"
+   },
+   {
+    "id": "lemoyne-owen-college",
+    "type": "civic",
+    "label": "endowed Juanita R. Turner Memorial Scholarship"
+   },
+   {
+    "id": "att",
+    "type": "civic",
+    "label": "mathematician, AT&T Bell Labs"
+   },
+   {
+    "id": "levi-watkins-jr",
+    "type": "family",
+    "label": "sister"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "carl-rowan",
+  "name": "Carl Rowan",
+  "category": "Media & Entertainment",
+  "lifespan": "1925–2000",
+  "base": "Washington, DC",
+  "industry": "Journalism & Diplomacy",
+  "originBadge": "Depression-Era Tennessee",
+  "engineBadge": "Syndicated Column",
+  "capitalBadge": "Salary & Syndication",
+  "hbcuStory": "Worked at a tuberculosis hospital to pay his way into Tennessee A&I State College (now TSU) in 1942; as a freshman he passed the Navy officer exam and became one of its first Black officers, later finishing at Oberlin.",
+  "humbleBeginnings": "Born in Ravenscroft, Tennessee, to a lumber stacker and a cook, and raised in McMinnville during the Depression.",
+  "breakthrough": "Became a star reporter at the Minneapolis Tribune, then U.S. ambassador to Finland and director of the U.S. Information Agency—at one point the highest-ranking Black official in the federal government.",
+  "legacy": "Wrote a nationally syndicated column (1966–1998), was a longtime panelist on Inside Washington, and founded the Project Excellence scholarship program in 1987.",
+  "breakthroughDetail": [
+   {
+    "t": "USIA director.",
+    "d": "Led the U.S. Information Agency under President Johnson.",
+    "basis": "documented"
+   },
+   {
+    "t": "Syndicated voice.",
+    "d": "Chicago Sun-Times syndicated column, 1966–1998.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Project Excellence.",
+    "d": "Scholarship program for Black high-school seniors, founded 1987.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Carl Rowan",
+    "url": "https://en.wikipedia.org/wiki/Carl_Rowan"
+   },
+   {
+    "label": "MNopedia — Rowan, Carl Thomas (1925–2000)",
+    "url": "https://www.mnopedia.org/person/rowan-carl-thomas-1925-2000"
+   },
+   {
+    "label": "PBS American Experience — American Diplomat",
+    "url": "https://www.pbs.org/wgbh/americanexperience/features/american-diplomat-how-black-journalist-turned-ambassador-changed-game-both-media-and-diplomacy/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "tennessee-state-university",
+    "type": "alumni",
+    "label": "attended, from 1942"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "w-w-herenton",
+  "name": "W. W. Herenton",
+  "category": "Public Service",
+  "lifespan": "b. 1940",
+  "base": "Memphis, TN",
+  "industry": "Government & Education",
+  "originBadge": "Golden Gloves Boxer",
+  "engineBadge": "City Government",
+  "capitalBadge": "Public Office",
+  "hbcuStory": "Graduated from LeMoyne College in 1963 with a B.S. in elementary education, then taught in Memphis public schools.",
+  "humbleBeginnings": "Raised by a single mother in Memphis, he boxed in the Golden Gloves before turning to teaching.",
+  "breakthrough": "Became superintendent of Memphis City Schools and, in 1991, the first elected African American mayor of Memphis.",
+  "legacy": "Won five consecutive mayoral terms before resigning in 2009.",
+  "breakthroughDetail": [
+   {
+    "t": "First elected Black mayor.",
+    "d": "Mayor of Memphis, 1992–2009.",
+    "basis": "documented"
+   },
+   {
+    "t": "Schools chief.",
+    "d": "Superintendent of Memphis City Schools before running for mayor.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Five terms.",
+    "d": "Elected five straight times.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — W. W. Herenton",
+    "url": "https://en.wikipedia.org/wiki/W._W._Herenton"
+   },
+   {
+    "label": "City Mayors — Memphis Mayor Willie Herenton",
+    "url": "http://www.citymayors.com/mayors/memphis-mayor.html"
+   }
+  ],
+  "connections": [
+   {
+    "id": "lemoyne-college",
+    "type": "alumni",
+    "label": "B.S. elementary education, 1963"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "nathan-hare",
+  "name": "Nathan Hare",
+  "category": "Public Service",
+  "lifespan": "1933–2024",
+  "base": "San Francisco, CA",
+  "industry": "Education & Publishing",
+  "originBadge": "Sharecropper Family",
+  "engineBadge": "Black Studies & Publishing",
+  "capitalBadge": "Academic & Self-Published",
+  "hbcuStory": "Took a B.A. in sociology from Langston University in 1954, where poet Melvin B. Tolson was among his professors, then an M.A. and Ph.D. from the University of Chicago.",
+  "humbleBeginnings": "Grew up in Oklahoma; a ninth-grade win at Langston's statewide interscholastic meet set him on an academic path.",
+  "breakthrough": "In 1968 he became the first person hired to coordinate a Black studies program in the U.S., at San Francisco State.",
+  "legacy": "Co-founded The Black Scholar in 1969 and was its founding publisher until 1975; later founded the Black Think Tank with his wife, Julia Hare.",
+  "breakthroughDetail": [
+   {
+    "t": "Father of Black studies.",
+    "d": "Directed the first U.S. Black studies program, at San Francisco State.",
+    "basis": "documented"
+   },
+   {
+    "t": "Publisher.",
+    "d": "Founding publisher of The Black Scholar, 1969–1975.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Black Think Tank.",
+    "d": "Founded with Julia Hare; published Black Male/Female Relationships.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Nathan Hare",
+    "url": "https://en.wikipedia.org/wiki/Nathan_Hare"
+   },
+   {
+    "label": "Journal of Blacks in Higher Education — In Memoriam: Nathan Hare, 1933–2024",
+    "url": "https://jbhe.com/2024/06/in-memoriam-nathan-hare-1933-2024"
+   }
+  ],
+  "connections": [
+   {
+    "id": "langston-university",
+    "type": "alumni",
+    "label": "B.A. sociology, 1954"
+   },
+   {
+    "id": "the-black-scholar",
+    "type": "ownership",
+    "label": "co-founder & founding publisher, 1969–1975"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "charles-h-wright",
+  "name": "Charles H. Wright",
+  "category": "Science & Medicine",
+  "lifespan": "1918–2002",
+  "base": "Detroit, MI",
+  "industry": "Obstetrics & Museums",
+  "originBadge": "Dothan, Alabama",
+  "engineBadge": "Medical Practice & Museum",
+  "capitalBadge": "Practice Income & Donations",
+  "hbcuStory": "Graduated from Alabama State College in 1939 and from Meharry Medical College in 1943.",
+  "humbleBeginnings": "Born in Dothan, Alabama; in the 1940s Meharry and Howard were the only medical schools that accepted him.",
+  "breakthrough": "Practiced general medicine in Detroit from 1946, completed an obstetrics-gynecology residency at Harlem Hospital in 1953, and practiced in Detroit.",
+  "legacy": "Opened the International Afro-American Museum in Detroit in 1965; it grew into the Charles H. Wright Museum of African American History, which bears his name.",
+  "breakthroughDetail": [
+   {
+    "t": "Museum founder.",
+    "d": "Founded the museum now named for him in Detroit.",
+    "basis": "documented"
+   },
+   {
+    "t": "Meharry M.D.",
+    "d": "Meharry Medical College, 1943.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Institution builder.",
+    "d": "Moved the museum from a West Grand Boulevard house to a city-leased Midtown site and a larger building in the 1990s.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Wikipedia — Charles H. Wright",
+    "url": "https://en.wikipedia.org/wiki/Charles_H._Wright"
+   },
+   {
+    "label": "Charles H. Wright Museum — Dr. Charles H. Wright",
+    "url": "https://www.thewright.org/about/dr-charles-h-wright"
+   }
+  ],
+  "connections": [
+   {
+    "id": "meharry-medical-college",
+    "type": "alumni",
+    "label": "M.D. 1943"
+   },
+   {
+    "id": "alabama-state-university",
+    "type": "alumni",
+    "label": "graduated 1939"
+   },
+   {
+    "id": "charles-h-wright-museum-of-african-american-history",
+    "type": "ownership",
+    "label": "founder"
+   }
+  ]
+ },
+ {
+  "type": "alumni",
+  "netWorthTier": "Undisclosed",
+  "aliases": [],
+  "id": "clint-gray",
+  "name": "Clint Gray",
+  "category": "Founders & Owners",
+  "lifespan": "living",
+  "base": "Nashville, TN",
+  "industry": "Restaurants",
+  "originBadge": "TSU Football Player",
+  "engineBadge": "Fast-Casual Pizza",
+  "capitalBadge": "Reinvested Cashflow",
+  "hbcuStory": "Played football at Tennessee State University and graduated before co-founding Slim & Husky's with TSU teammates EJ Reed and Derrick Moore.",
+  "humbleBeginnings": "Started the business in North Nashville to serve the neighborhood and create local jobs.",
+  "breakthrough": "As chief marketing officer and partner, helped grow Slim & Husky's Pizza Beeria from North Nashville to locations in several states.",
+  "legacy": "Slim & Husky's opened the first Black-owned restaurant on Nashville's Broadway.",
+  "breakthroughDetail": [
+   {
+    "t": "Co-founder & CMO.",
+    "d": "One of three TSU-graduate founders of Slim & Husky's.",
+    "basis": "documented"
+   },
+   {
+    "t": "Ranked pizza.",
+    "d": "Slim & Husky's was ranked #5 in The Daily Meal's 101 Best Pizzas in America.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Community hiring.",
+    "d": "The founders built the chain to provide jobs in North Nashville.",
+    "basis": "documented"
+   }
+  ],
+  "sources": [
+   {
+    "label": "Black Enterprise — TSU graduates and football players create pizza empire",
+    "url": "https://blackenterprise.com/tennessee-state-university-graduates-and-football-players-create-pizza-empire-to-help-underserved-communities/"
+   },
+   {
+    "label": "Slim & Husky's — official site",
+    "url": "https://www.slimandhuskys.com/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "tennessee-state-university",
+    "type": "alumni",
+    "label": "graduate; football player"
+   },
+   {
+    "id": "slim-and-huskys",
+    "type": "ownership",
+    "label": "co-founder & chief marketing officer"
+   },
+   {
+    "id": "ej-reed",
+    "type": "deal",
+    "label": "co-founder / business partner"
+   },
+   {
+    "id": "derrick-moore",
+    "type": "deal",
+    "label": "co-founder / business partner"
+   }
+  ]
  }
 ]

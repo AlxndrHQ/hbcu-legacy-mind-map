@@ -1360,7 +1360,7 @@
   "netWorthTier": "$5M-$100M",
   "tierBasis": "estimated",
   "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation.",
-  "lifespan": "living",
+  "lifespan": "b. c. 1966",
   "base": "El Paso, TX (Helen of Troy HQ)",
   "industry": "Consumer Brands",
   "originBadge": "Business School Grad",
@@ -1407,6 +1407,10 @@
    {
     "label": "SEC 8-K exhibit — Helen of Troy press release",
     "url": "https://www.sec.gov/Archives/edgar/data/916789/000091678925000051/exhibit991_pressreleasei.htm"
+   },
+   {
+    "label": "Helen of Troy 8-K, Aug. 2025 — CEO appointment (age 59) (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/916789/000091678925000051/hele-20250812.htm"
    }
   ],
   "connections": [
@@ -1510,7 +1514,7 @@
   "netWorthTier": "$5M-$100M",
   "tierBasis": "estimated",
   "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation.",
-  "lifespan": "living",
+  "lifespan": "b. c. 1973",
   "base": "Chicago, IL",
   "industry": "Asset Management & Private Investment",
   "originBadge": "Accountant's Path",
@@ -1552,6 +1556,10 @@
    {
     "label": "Business Wire — Savoy honoree release (2020)",
     "url": "https://www.businesswire.com/news/home/20200414005024/en/Shundrawn-Thomas-Northern-Trust-Asset-Management-President-Named-One-of-the-Most-Influential-Black-Executives-in-Corporate-America-by-Savoy-Magazine"
+   },
+   {
+    "label": "Reinsurance Group of America 2026 proxy statement — director profile (age 52) (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/898174/000089817426000017/rga-20260408.htm"
    }
   ],
   "connections": [
@@ -1590,7 +1598,7 @@
   "netWorthTier": "$5M-$100M",
   "tierBasis": "estimated",
   "wealthNote": "Estimate only: no published net-worth figure found; based on years of senior public-company or large-enterprise executive compensation.",
-  "lifespan": "living",
+  "lifespan": "b. c. 1959",
   "base": "Chicago, IL",
   "industry": "Banking & Wealth Management",
   "originBadge": "Accountant's Path",
@@ -1632,6 +1640,10 @@
    {
     "label": "FAMU SBI Hall of Fame",
     "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   },
+   {
+    "label": "DeVry Inc. 2012 proxy statement — director bio (age 53) (SEC)",
+    "url": "https://www.sec.gov/Archives/edgar/data/730464/000119312512416700/d411351ddef14a.htm"
    }
   ],
   "connections": [
@@ -1855,6 +1867,10 @@
    {
     "label": "Wikipedia — List of FAMU alumni",
     "url": "https://en.wikipedia.org/wiki/List_of_Florida_Agricultural_and_Mechanical_University_alumni"
+   },
+   {
+    "label": "FAMU Alumni Rob Hardy and Anika Rose collaborate for BET’s new series ‘The Yard’ – The FAMUAN",
+    "url": "http://www.thefamuanonline.com/news/view.php/1020252/FAMU-Alumni-Rob-Hardy-and-Anika-Rose-col"
    }
   ],
   "connections": [
@@ -2272,6 +2288,10 @@
    {
     "label": "Wikipedia — Category: FAMU alumni",
     "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   },
+   {
+    "label": "CNBC — How 'Shark Tank' reject The Lip Bar made it to Target (2018)",
+    "url": "https://www.cnbc.com/2018/07/30/how-shark-tank-reject-the-lip-bar-got-to-be-sold-at-target.html"
    }
   ],
   "connections": [
@@ -2336,6 +2356,10 @@
    {
     "label": "Wikipedia — Florida A&M University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   },
+   {
+    "label": "Janelle Bynum Brought Family Leave to East Portland McDonald's Workers",
+    "url": "http://www.wweek.com/news/2016/10/19/janelle-bynum-brought-family-leave-to-east-portland-mcdonalds-workers/"
    }
   ],
   "connections": [
@@ -2400,6 +2424,10 @@
    {
     "label": "Wikipedia — Category: FAMU alumni",
     "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   },
+   {
+    "label": "Garth C. Reeves, Sr., Retired Miami Times Publisher, Dies",
+    "url": "https://chicagocrusader.com/garth-c-reeves-sr-retired-miami-time-publisher-dies/"
    }
   ],
   "connections": [
@@ -2523,6 +2551,10 @@
    {
     "label": "Wikipedia — Category: FAMU alumni",
     "url": "https://en.wikipedia.org/wiki/Category:Florida_A%26M_University_alumni"
+   },
+   {
+    "label": "City looks to rename street after Robert and Trudie Perkins, a Civil Rights ‘power couple’",
+    "url": "https://www.wctv.tv/2020/11/13/city-looks-to-rename-street-after-robert-and-trudie-perkins-a-civil-rights-power-couple/"
    }
   ],
   "connections": [
@@ -2641,6 +2673,10 @@
    {
     "label": "Wikipedia — Florida A&M University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   },
+   {
+    "label": "Winsome Sinclair Dead: Casting Director Was 58",
+    "url": "https://www.hollywoodreporter.com/movies/movie-news/winsome-sinclair-dead-casting-director-spike-lee-1235974947/"
    }
   ],
   "connections": [
@@ -2702,6 +2738,10 @@
    {
     "label": "Wikipedia — South Carolina State University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   },
+   {
+    "label": "2021-2022 Bill 3896: Armstrong Williams (Black History Month honoree) - South Carolina Legislature Online",
+    "url": "https://www.scstatehouse.gov/sess124_2021-2022/bills/3896.htm"
    }
   ],
   "connections": [
@@ -2830,6 +2870,10 @@
    {
     "label": "Wikipedia — Category: Benedict College alumni",
     "url": "https://en.wikipedia.org/wiki/Category:Benedict_College_alumni"
+   },
+   {
+    "label": "I.S. Leevy Johnson, Esq. - South Carolina African American History Calendar",
+    "url": "https://scafricanamerican.com/honorees/i-s-leevy-johnson-esq/"
    }
   ],
   "connections": [
@@ -2953,6 +2997,10 @@
    {
     "label": "Wikipedia — Benedict College (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Benedict_College"
+   },
+   {
+    "label": "Walt Simon Stats, Height, Weight, Position, Draft Status and more — Basketball-Reference.com",
+    "url": "https://www.basketball-reference.com/players/s/simonwa01.html"
    }
   ],
   "connections": [
@@ -3014,6 +3062,10 @@
    {
     "label": "Wikipedia — List of Bethune–Cookman University alumni",
     "url": "https://en.wikipedia.org/wiki/List_of_Bethune%E2%80%93Cookman_University_alumni"
+   },
+   {
+    "label": "Marjorie Joyner — Lemelson",
+    "url": "https://lemelson.mit.edu/resources/marjorie-joyner"
    }
   ],
   "connections": [
@@ -3078,6 +3130,10 @@
    {
     "label": "Wikipedia — Voorhees University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Voorhees_University"
+   },
+   {
+    "label": "Lester Bankhead, Architect born - African American Registry",
+    "url": "https://aaregistry.org/story/lester-bankhead-architect-born/"
    }
   ],
   "connections": [
@@ -3137,6 +3193,10 @@
    {
     "label": "Wikipedia — Bethune–Cookman University",
     "url": "https://en.wikipedia.org/wiki/Bethune%E2%80%93Cookman_University"
+   },
+   {
+    "label": "Who Was Mary Jane McLeod Bethune? — History Hit",
+    "url": "https://www.historyhit.com/who-was-mary-jane-mcleod-bethune/"
    }
   ],
   "connections": [
@@ -3265,6 +3325,10 @@
    {
     "label": "Wikipedia — Category: UVI alumni",
     "url": "https://en.wikipedia.org/wiki/Category:University_of_the_Virgin_Islands_alumni"
+   },
+   {
+    "label": "Governor Bryan - Government of the United States Virgin Islands",
+    "url": "https://www.vi.gov/governor-bryan/"
    }
   ],
   "connections": [
@@ -3314,6 +3378,10 @@
    {
     "label": "Wikipedia — Florida A&M University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   },
+   {
+    "label": "Althea Gibson - Tennis, Quotes & Facts",
+    "url": "https://www.biography.com/athlete/althea-gibson"
    }
   ],
   "connections": [
@@ -3363,6 +3431,10 @@
    {
     "label": "Wikipedia — Florida A&M University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   },
+   {
+    "label": "NFL.com — NFL players from historically black colleges",
+    "url": "http://www.nfl.com/photoessays/0ap2000000324888/NFL-players-from-historically-black-colleges"
    }
   ],
   "connections": [
@@ -3412,6 +3484,10 @@
    {
     "label": "Wikipedia — List of FAMU alumni",
     "url": "https://en.wikipedia.org/wiki/List_of_Florida_Agricultural_and_Mechanical_University_alumni"
+   },
+   {
+    "label": "Carrie Meek, pioneering Black former congresswoman, dies",
+    "url": "https://www.news4jax.com/news/florida/2021/11/28/former-florida-us-rep-carrie-meek-dies-at-95/"
    }
   ],
   "connections": [
@@ -3461,6 +3537,10 @@
    {
     "label": "Wikipedia — Florida A&M University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Florida_A%26M_University"
+   },
+   {
+    "label": "Who Is Keisha Lance Bottoms - Facts About the Atlanta Mayor",
+    "url": "https://www.oprahmag.com/entertainment/a32811539/keisha-lance-bottoms-atlanta-mayor-facts/"
    }
   ],
   "connections": [
@@ -3510,6 +3590,10 @@
    {
     "label": "Wikipedia — List of FAMU alumni",
     "url": "https://en.wikipedia.org/wiki/List_of_Florida_Agricultural_and_Mechanical_University_alumni"
+   },
+   {
+    "label": "Ibram Kendi, one of the nation’s leading scholars of racism, says education and love are not the answer - Ands",
+    "url": "https://andscape.com/features/ibram-kendi-leading-scholar-of-racism-says-education-and-love-are-not-the-answer/"
    }
   ],
   "connections": [
@@ -3561,6 +3645,10 @@
    {
     "label": "Wikipedia — South Carolina State University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   },
+   {
+    "label": "Clyburn announces future plans, steps away from Democratic Whip in Congress",
+    "url": "https://www.wistv.com/2022/11/18/clyburn-announces-future-plans-steps-away-democratic-whip-congress/"
    }
   ],
   "connections": [
@@ -3610,6 +3698,10 @@
    {
     "label": "Wikipedia — South Carolina State University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/South_Carolina_State_University"
+   },
+   {
+    "label": "Former S.C. Supreme Court Chief Justice Ernest Finney Jr. passes away",
+    "url": "https://www.postandcourier.com/news/former-s-c-supreme-court-chief-justice-ernest-finney-jr/article_9337d1cc-d8fc-11e7-9f78-273b2be25d28.html"
    }
   ],
   "connections": [
@@ -3715,6 +3807,10 @@
    {
     "label": "Wikipedia — Avery Normal Institute",
     "url": "https://en.wikipedia.org/wiki/Avery_Normal_Institute"
+   },
+   {
+    "label": "Septima Poinsette Clark — Who Speaks for the Negro?",
+    "url": "http://whospeaks.library.vanderbilt.edu/interview/septima-poinsette-clark"
    }
   ],
   "connections": [
@@ -3823,6 +3919,10 @@
    {
     "label": "Wikipedia — Allen University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Allen_University"
+   },
+   {
+    "label": "South Carolina Legislature Online - Member Biography",
+    "url": "http://www.scstatehouse.gov/member.php?code=1479545277"
    }
   ],
   "connections": [
@@ -3926,6 +4026,10 @@
    {
     "label": "Wikipedia — Florida Memorial University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Florida_Memorial_University"
+   },
+   {
+    "label": "PBS - Freedom Never Dies: The Story of Harry T. Moore - Harry T. Moore - Moore's Bio",
+    "url": "http://www.pbs.org/harrymoore/harry/mbio.html"
    }
   ],
   "connections": [
@@ -3980,6 +4084,10 @@
    {
     "label": "Wikipedia — Edward Waters University (notable people)",
     "url": "https://en.wikipedia.org/wiki/Edward_Waters_University"
+   },
+   {
+    "label": "O'Neil, Buck — Baseball Hall of Fame",
+    "url": "https://baseballhall.org/hall-of-famers/oneil-buck"
    }
   ],
   "connections": [
@@ -4029,6 +4137,10 @@
    {
     "label": "Wikipedia — Florida Memorial University (notable alumni)",
     "url": "https://en.wikipedia.org/wiki/Florida_Memorial_University"
+   },
+   {
+    "label": "Young Pilot Ends Round-The-World Solo Trip - CBS News",
+    "url": "https://www.cbsnews.com/news/young-pilot-ends-round-the-world-solo-trip/"
    }
   ],
   "connections": [
@@ -4186,6 +4298,10 @@
    {
     "label": "Wikipedia — Friendship College",
     "url": "https://en.wikipedia.org/wiki/Friendship_College"
+   },
+   {
+    "label": "HARTHORNE NATHANIEL WINGO Obituary in Rutherfordton at Ulysses D. Miller Funeral Service, Inc. — Obit",
+    "url": "https://www.articobits.com/obituaries/ulysses-d-miller-funeral-service-inc/harthorne-nathaniel-wingo-obituary"
    }
   ],
   "connections": [
@@ -4235,6 +4351,10 @@
    {
     "label": "Wikipedia — Morris College",
     "url": "https://en.wikipedia.org/wiki/Morris_College"
+   },
+   {
+    "label": "Literary Landmark: Arthenia J. Bates Millican Home — United for Libraries",
+    "url": "http://www.ala.org/united/products_services/literarylandmarks/landmarksbyyear/2019/millican"
    }
   ],
   "connections": [
@@ -5015,6 +5135,548 @@
   "type": "entity",
   "kind": "Arena Football Team (defunct)",
   "description": "Arena Football League franchise co-owned by former Giants Harry Carson, Carl Banks and Joe Morris.",
+  "gics": {
+   "sub": "Movies & Entertainment",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "richard-a-dent-iii",
+  "name": "Richard A. Dent III",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "United States",
+  "industry": "Apparel retail",
+  "originBadge": "FAMU SBI Graduate",
+  "engineBadge": "Specialty Apparel Brands",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned undergraduate and MBA degrees at Florida A&M University's School of Business and Industry; later served on FAMU's board of trustees and was inducted into the SBI Hall of Fame (2010).",
+  "humbleBeginnings": "Began his career in the auto and trucking industries before joining Limited Brands.",
+  "breakthrough": "Joined the leadership of Victoria's Secret PINK in 2005 and served as its SVP, chief operating officer and co-leader; in 2008–09 he expanded PINK's collegiate line to include HBCUs.",
+  "legacy": "Later became CEO and president of Astor & Black Custom Clothiers.",
+  "breakthroughDetail": [
+   {
+    "t": "PINK COO.",
+    "d": "SVP, COO and co-leader of Victoria's Secret PINK.",
+    "basis": "documented"
+   },
+   {
+    "t": "HBCU collegiate line.",
+    "d": "Brought HBCU apparel into PINK's college collection.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "FAMU trustee.",
+    "d": "Vice chair of FAMU's board of trustees before resigning to lead a new venture.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Black Enterprise — Victoria's Secret PINK adds HBCU flair (2008)",
+    "url": "https://www.blackenterprise.com/victorias-secret-pink-adds-hbcu-flair/"
+   },
+   {
+    "label": "Diverse Education — Prominent FAMU trustee resigns from university board",
+    "url": "https://www.diverseeducation.com/demographics/african-american/article/15091164/prominent-famu-trustee-resigns-from-university-board"
+   },
+   {
+    "label": "FAMU SBI — Alumni Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "undergraduate and MBA (SBI); trustee"
+   },
+   {
+    "id": "victorias-secret",
+    "type": "executive",
+    "label": "SVP, COO & co-leader, PINK"
+   },
+   {
+    "id": "astor-and-black",
+    "type": "executive",
+    "label": "CEO and president"
+   }
+  ]
+ },
+ {
+  "id": "oscar-joyner",
+  "name": "Oscar Joyner",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "United States",
+  "industry": "Radio / Media",
+  "originBadge": "Media Family Heir",
+  "engineBadge": "Syndicated Radio & Events",
+  "capitalBadge": "Family Enterprise",
+  "hbcuStory": "Graduated from Florida A&M University in business (class of 1998); inducted into the FAMU SBI Hall of Fame (2010) and honored by the FAMU National Alumni Association (2015).",
+  "humbleBeginnings": "Younger son of radio host Tom Joyner, he joined the family's media business.",
+  "breakthrough": "Became president and CEO of Reach Media, the company behind the syndicated Tom Joyner Morning Show, and ran its Fantastic Voyage cruise and Family Reunion events.",
+  "legacy": "Helped steer the Tom Joyner Foundation's HBCU fundraising events.",
+  "breakthroughDetail": [
+   {
+    "t": "Reach Media chief.",
+    "d": "President and CEO of Reach Media, Inc.",
+    "basis": "documented"
+   },
+   {
+    "t": "Live events.",
+    "d": "Managed the Fantastic Voyage cruise and Tom Joyner Family Reunion.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Family foundation.",
+    "d": "The Tom Joyner Foundation's events raise money for HBCU students.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "FAMU SBI — Alumni Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   },
+   {
+    "label": "EURweb — Oscar Joyner, Cheryl Harris among FAMU NAA distinguished alumni (2015)",
+    "url": "https://eurweb.com/oscar-joyner-cheryl-harris-among-famus-national-alumni-association-of-distinguished-alumni-honorees/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "business, 1998"
+   },
+   {
+    "id": "reach-media",
+    "type": "executive",
+    "label": "president & CEO"
+   },
+   {
+    "id": "tom-joyner-foundation",
+    "type": "civic",
+    "label": "foundation events"
+   },
+   {
+    "id": "tom-joyner",
+    "type": "family",
+    "label": "son"
+   }
+  ]
+ },
+ {
+  "id": "cheryl-a-harris",
+  "name": "Cheryl A. Harris",
+  "type": "alumni",
+  "category": "Corporate Executives",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "living",
+  "base": "United States",
+  "industry": "Insurance / Procurement",
+  "originBadge": "FAMU SBI Graduate",
+  "engineBadge": "Corporate Procurement",
+  "capitalBadge": "Salary & Equity",
+  "hbcuStory": "Earned a business administration degree from Florida A&M University in 1989; inducted into the FAMU SBI Hall of Fame (2014).",
+  "humbleBeginnings": "Came up through corporate sourcing and procurement.",
+  "breakthrough": "Became Allstate Insurance Company's senior vice president of sourcing and procurement solutions, overseeing a roughly $14 billion spending portfolio.",
+  "legacy": "Honored by the FAMU National Alumni Association as a distinguished alumna (2015).",
+  "breakthroughDetail": [
+   {
+    "t": "Allstate SVP.",
+    "d": "Senior vice president, sourcing and procurement solutions.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Alumni recognition.",
+    "d": "FAMU SBI Hall of Fame and NAA distinguished alumni honors.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "FAMU SBI — Alumni Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   },
+   {
+    "label": "EURweb — Oscar Joyner, Cheryl Harris among FAMU NAA distinguished alumni (2015)",
+    "url": "https://eurweb.com/oscar-joyner-cheryl-harris-among-famus-national-alumni-association-of-distinguished-alumni-honorees/"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "B.S. business administration 1989"
+   },
+   {
+    "id": "allstate",
+    "type": "executive",
+    "label": "SVP sourcing & procurement"
+   }
+  ]
+ },
+ {
+  "id": "keith-clinkscales",
+  "name": "Keith Clinkscales",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "b. c. 1965",
+  "base": "United States",
+  "industry": "Magazine publishing / Sports media",
+  "originBadge": "FAMU SBI Graduate",
+  "engineBadge": "Urban Media Brands",
+  "capitalBadge": "Venture-Backed",
+  "hbcuStory": "Graduated magna cum laude from Florida A&M University, where he was the first student speaker in the School of Business and Industry Forum series; inducted into the SBI Hall of Fame (2009).",
+  "humbleBeginnings": "Came up through magazine publishing in New York.",
+  "breakthrough": "Was founding president and CEO of VIBE Ventures from its 1993 launch, then chairman and CEO of Vanguard Media.",
+  "legacy": "Later became a senior vice president of content development at ESPN.",
+  "breakthroughDetail": [
+   {
+    "t": "VIBE.",
+    "d": "President and CEO of VIBE Ventures from its 1993 inception.",
+    "basis": "documented"
+   },
+   {
+    "t": "Vanguard Media.",
+    "d": "Chairman and CEO of Vanguard Media.",
+    "basis": "documented"
+   },
+   {
+    "t": "ESPN.",
+    "d": "SVP, Content Development Enterprises (as of 2009).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Public-company board.",
+    "d": "Director of Soulfood Concepts Inc. from 1997.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Soulfood Concepts Inc. annual report, 2002 (SEC) — director biography",
+    "url": "https://www.sec.gov/Archives/edgar/data/873086/000095013602001112/file001.txt"
+   },
+   {
+    "label": "FAMU SBI — Alumni Hall of Fame",
+    "url": "https://sbi.famu.edu/alumni-sbi/sbi-hall-off-fame.php"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "magna cum laude graduate (SBI)"
+   },
+   {
+    "id": "vibe",
+    "type": "executive",
+    "label": "president & CEO, VIBE Ventures, 1993–"
+   },
+   {
+    "id": "vanguard-media",
+    "type": "ownership",
+    "label": "chairman & CEO"
+   },
+   {
+    "id": "espn",
+    "type": "executive",
+    "label": "SVP, content development"
+   }
+  ]
+ },
+ {
+  "id": "arthur-j-hill",
+  "name": "Arthur J. Hill",
+  "type": "alumni",
+  "category": "Finance & Investors",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1948–1995",
+  "base": "Miami, FL",
+  "industry": "Banking / Mortgage finance",
+  "originBadge": "Beautician's Son",
+  "engineBadge": "Bank Turnaround",
+  "capitalBadge": "Recapitalization",
+  "hbcuStory": "Earned a B.S. from Florida Memorial College in 1971, then an M.A. in agricultural economics from the University of Florida (1973).",
+  "humbleBeginnings": "Born in Jacksonville, one of four children of a single mother who worked as a beautician.",
+  "breakthrough": "After a decade in corporate lending at Southeast Bank and AmeriFirst, became chairman, president and CEO of Miami's Peoples National Bank of Commerce (1984–1989), recapitalizing the distressed institution.",
+  "legacy": "Named president of Ginnie Mae in 1989–90 and then HUD assistant secretary for housing under George H. W. Bush.",
+  "breakthroughDetail": [
+   {
+    "t": "Peoples National Bank of Commerce.",
+    "d": "Chairman, president and CEO, 1984–1989.",
+    "basis": "documented"
+   },
+   {
+    "t": "Ginnie Mae president.",
+    "d": "Confirmed by the Senate in 1990.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Federal housing finance.",
+    "d": "HUD assistant secretary for housing through the end of the Bush administration.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "American Presidency Project — Nomination of Arthur J. Hill (1991)",
+    "url": "https://www.presidency.ucsb.edu/documents/nomination-arthur-j-hill-be-assistant-secretary-housing-and-urban-development"
+   },
+   {
+    "label": "NYT — Arthur Hill, finance executive and ex-Ginnie Mae chief, 46 (1995)",
+    "url": "https://www.nytimes.com/1995/05/13/obituaries/arthur-hill-finance-executive-and-ex-ginnie-mae-chief-46.html"
+   },
+   {
+    "label": "Wikipedia — Arthur J. Hill",
+    "url": "https://en.wikipedia.org/wiki/Arthur_J._Hill"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-memorial-university",
+    "type": "alumni",
+    "label": "B.S. 1971 (Florida Memorial College)"
+   },
+   {
+    "id": "peoples-national-bank-of-commerce",
+    "type": "executive",
+    "label": "chairman, president & CEO 1984–1989"
+   },
+   {
+    "id": "ginnie-mae",
+    "type": "executive",
+    "label": "president 1990"
+   }
+  ]
+ },
+ {
+  "id": "amy-surginer-northrop",
+  "name": "Amy Surginer Northrop",
+  "type": "alumni",
+  "category": "Founders & Owners",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1905–2010",
+  "base": "Columbia, SC",
+  "industry": "Cosmetology",
+  "originBadge": "Dixiana, South Carolina",
+  "engineBadge": "Beauty Shop",
+  "capitalBadge": "Bootstrapped",
+  "hbcuStory": "Earned a bachelor's degree in business at Allen University, then studied at the Manhattan Trade School.",
+  "humbleBeginnings": "Born in Dixiana, South Carolina; worked in beauty shops in Pennsylvania, New Jersey and New York.",
+  "breakthrough": "Returned to Columbia in 1935 to open Amy's Beauty Shop and built the state's Black cosmetology associations.",
+  "legacy": "Became South Carolina's first African American state inspector of beauty shops and a civic leader in Columbia.",
+  "breakthroughDetail": [
+   {
+    "t": "Amy's Beauty Shop.",
+    "d": "Opened in Columbia in 1935.",
+    "basis": "documented"
+   },
+   {
+    "t": "Industry organizer.",
+    "d": "Hosted the first S.C. State Cosmetology Association clinic (1936); charter member of the Columbia Citywide Cosmetology Association (1938).",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "State inspector.",
+    "d": "First African American state inspector of beauty shops in South Carolina.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "South Carolina African American History Calendar — Amy Surginer Northrop",
+    "url": "https://scafricanamerican.com/amy-surginer-northrop/"
+   },
+   {
+    "label": "Wikipedia — Amy Surginer Northrop",
+    "url": "https://en.wikipedia.org/wiki/Amy_Surginer_Northrop"
+   }
+  ],
+  "connections": [
+   {
+    "id": "allen-university",
+    "type": "alumni",
+    "label": "B.S. business"
+   },
+   {
+    "id": "amys-beauty-shop",
+    "type": "ownership",
+    "label": "founder, 1935"
+   }
+  ]
+ },
+ {
+  "id": "bill-lucas",
+  "name": "Bill Lucas",
+  "type": "alumni",
+  "category": "Media & Entertainment",
+  "netWorthTier": "Undisclosed",
+  "lifespan": "1936–1979",
+  "base": "Atlanta, GA",
+  "industry": "Professional baseball",
+  "originBadge": "Jacksonville Native",
+  "engineBadge": "Baseball Front Office",
+  "capitalBadge": "Salary",
+  "hbcuStory": "A graduate of Florida A&M University.",
+  "humbleBeginnings": "Born in Jacksonville, Florida; signed with the Milwaukee Braves as an infielder in 1957 and played six minor-league seasons.",
+  "breakthrough": "Joined the Braves front office in 1965, became farm director, and in September 1976 was named the first African American general manager in Major League Baseball.",
+  "legacy": "Hired Bobby Cox as manager in 1978; died in 1979 at 43 and is in the Braves Hall of Fame (2006).",
+  "breakthroughDetail": [
+   {
+    "t": "First Black MLB GM.",
+    "d": "Named Braves general manager in September 1976.",
+    "basis": "documented"
+   }
+  ],
+  "legacyDetail": [
+   {
+    "t": "Braves Hall of Fame.",
+    "d": "Inducted in 2006.",
+    "basis": "documented"
+   }
+  ],
+  "aliases": [],
+  "sources": [
+   {
+    "label": "Atlanta Magazine — Bill Lucas",
+    "url": "http://www.atlantamagazine.com/great-reads/bill-lucas/"
+   },
+   {
+    "label": "Wikipedia — Bill Lucas (baseball)",
+    "url": "https://en.wikipedia.org/wiki/Bill_Lucas_(baseball)"
+   }
+  ],
+  "connections": [
+   {
+    "id": "florida-a-and-m-university",
+    "type": "alumni",
+    "label": "graduate"
+   },
+   {
+    "id": "atlanta-braves",
+    "type": "executive",
+    "label": "general manager 1976–1979"
+   }
+  ]
+ },
+ {
+  "id": "victorias-secret",
+  "name": "Victoria's Secret",
+  "type": "entity",
+  "kind": "Lingerie & Apparel Retailer",
+  "description": "Lingerie and apparel retailer whose PINK line targets college-age women; formerly part of L Brands.",
+  "gics": {
+   "sub": "Other Specialty Retail",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "astor-and-black",
+  "name": "Astor & Black Custom Clothiers",
+  "type": "entity",
+  "kind": "Custom Apparel Company",
+  "description": "Custom menswear clothier.",
+  "gics": {
+   "sub": "Apparel, Accessories & Luxury Goods",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "vibe",
+  "name": "VIBE",
+  "type": "entity",
+  "kind": "Music Magazine",
+  "description": "Urban music and culture magazine launched in 1993.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "vanguard-media",
+  "name": "Vanguard Media",
+  "type": "entity",
+  "kind": "Magazine Publisher",
+  "description": "Publisher of Black-interest magazines led by Keith Clinkscales.",
+  "gics": {
+   "sub": "Publishing",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "peoples-national-bank-of-commerce",
+  "name": "Peoples National Bank of Commerce",
+  "type": "entity",
+  "kind": "Bank",
+  "description": "Miami bank led by Arthur J. Hill in the 1980s.",
+  "gics": {
+   "sub": "Regional Banks",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "ginnie-mae",
+  "name": "Ginnie Mae",
+  "type": "entity",
+  "kind": "Government Corporation",
+  "description": "Government National Mortgage Association, a HUD agency guaranteeing mortgage-backed securities.",
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "amys-beauty-shop",
+  "name": "Amy's Beauty Shop",
+  "type": "entity",
+  "kind": "Beauty Salon",
+  "description": "Columbia, S.C., beauty shop opened by Amy Surginer Northrop in 1935.",
+  "gics": {
+   "sub": "Specialized Consumer Services",
+   "basis": "inferred"
+  },
+  "connections": []
+ },
+ {
+  "id": "atlanta-braves",
+  "name": "Atlanta Braves",
+  "type": "entity",
+  "kind": "MLB Team",
+  "description": "Major League Baseball franchise in Atlanta since 1966.",
   "gics": {
    "sub": "Movies & Entertainment",
    "basis": "inferred"

@@ -271,5 +271,46 @@
    "basis": "inferred"
   },
   "connections": []
+ },
+ {
+  "id": "freedmans-savings-bank",
+  "name": "Freedman's Savings Bank",
+  "type": "entity",
+  "network": true,
+  "kind": "Federally chartered savings bank · 1865–1874",
+  "description": "The Freedman's Savings and Trust Company, chartered by Congress on March 3, 1865, to hold the savings of formerly enslaved people and Black soldiers. It grew to 37 branches and more than 70,000 depositors, but white trustees made risky, speculative loans. Frederick Douglass became its president in 1874, months before it failed and depositors lost most of their savings.",
+  "facts": [
+   {
+    "t": "Chartered the same day as the Freedmen's Bureau.",
+    "d": "Lincoln signed both acts on March 3, 1865, and many depositors assumed the government guaranteed the bank, which it did not.",
+    "basis": "documented"
+   },
+   {
+    "t": "Collapse in 1874.",
+    "d": "About $3 million in deposits were frozen. Depositors later got back roughly 60% at most, and many got nothing.",
+    "basis": "documented"
+   }
+  ],
+  "gics": {
+   "sub": "Non-market",
+   "basis": "inferred"
+  },
+  "connections": [
+   {
+    "id": "freedmens-bureau",
+    "type": "parallel",
+    "label": "chartered the same day, 1865"
+   }
+  ],
+  "sources": [
+   {
+    "label": "U.S. Treasury (OCC) — Freedman's Savings Bank",
+    "url": "https://www.occ.treas.gov/about/who-we-are/history/1863-1865/1863-1865-freedmans-savings-bank.html"
+   },
+   {
+    "label": "National Archives — Freedman's Bank records",
+    "url": "https://www.archives.gov/research/african-americans/freedmens-bureau/freedmans-bank"
+   }
+  ]
  }
 ]

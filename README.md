@@ -8,10 +8,10 @@ It's built in the same style as [Algos & Capital](https://alxndrhq.github.io/his
 
 ## Views
 
-- **Map**: force-directed network of schools, alumni, companies and founding bodies (AMA, AME Church, UNCF, the 1890 land-grant act…). The layouts are Organic (school regions), Clusters (by archetype), By State, By Tier and By Sector (GICS / sector ETF).
+- **Map**: force-directed network of schools, alumni, companies, founding bodies (Freedmen's Bureau, AMA, AME Church, UNCF, the 1890 land-grant act…) and the Divine Nine fraternities and sororities, with documented memberships. The layouts are Organic (school regions placed roughly by geography), Clusters (by archetype), By State, By Tier and By Sector (GICS / sector ETF).
 - **Schools**: every HBCU grouped by state, with founding year, status, affiliation and how many alumni are mapped.
 - **Alumni**: directory of alumni cards grouped by the stock-market sector of their primary business.
-- **Overlaps**: companies, deals and schools that two or more alumni share, plus direct person-to-person ties.
+- **Overlaps**: companies, deals, Divine Nine organizations and schools that two or more alumni share, plus direct person-to-person ties.
 - **Dossiers**: click any node. Alumni get their roots, HBCU years, breakthrough, wealth & legacy strategy, connections and sources. Schools get their history, fate, business alumni, other alumni and lineage.
 
 ## Data
